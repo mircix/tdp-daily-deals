@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-30T21:36:26Z",
+ "generatedAt": "2026-09-30T21:38:01Z",
  "sources": [
   {
    "id": "olt",
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "errors": []
   }
  ],
@@ -413,31 +413,6 @@
    "score": 83
   },
   {
-   "id": "todaytix-20561",
-   "source": "todaytix",
-   "title": "Hamilton",
-   "subtitle": "Victoria Palace Theatre",
-   "category": "theatre",
-   "kind": "lottery",
-   "badges": [
-    "£10 Lottery tickets",
-    "Exclusive Prices"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/20561-hamilton",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6wcqH6tfE8yT2c5c0TZaXc/629cc2e8872e435d5aa71464c188e6c9/HAM_Affiliates_1080x1080__1_.jpg?w=400&h=400&fit=fill",
-   "price": 10.0,
-   "priceText": "from £10",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": 4.84,
-   "published": null,
-   "expires": null,
-   "venue": "Victoria Palace Theatre, London",
-   "score": 83
-  },
-  {
    "id": "olt-hamilton-tickets-366811",
    "source": "olt",
    "title": "Hamilton",
@@ -460,6 +435,31 @@
    "published": null,
    "expires": "2026-10-06T23:59:00Z",
    "venue": "London",
+   "score": 83
+  },
+  {
+   "id": "todaytix-20561",
+   "source": "todaytix",
+   "title": "Hamilton",
+   "subtitle": "Victoria Palace Theatre",
+   "category": "theatre",
+   "kind": "lottery",
+   "badges": [
+    "£10 Lottery tickets",
+    "Exclusive Prices"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/20561-hamilton",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6wcqH6tfE8yT2c5c0TZaXc/629cc2e8872e435d5aa71464c188e6c9/HAM_Affiliates_1080x1080__1_.jpg?w=400&h=400&fit=fill",
+   "price": 10.0,
+   "priceText": "from £10",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": 4.84,
+   "published": null,
+   "expires": null,
+   "venue": "Victoria Palace Theatre, London",
    "score": 83
   },
   {
@@ -2523,30 +2523,6 @@
    "heat": null,
    "rating": null,
    "published": "2026-09-22T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-free-24-hour-party-people-screenings-to-take-place-in-uk-cinemas-next-month",
-   "source": "news",
-   "title": "Free ‘24 Hour Party People’ screenings to take place in UK cinemas next month",
-   "subtitle": "NME",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "NME"
-   ],
-   "merchant": "NME",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWhRQU9SbGdtMW9oeEEyRWJ3dHQ0MkhCbWtxUDNRelNsb2hHeVZfVHFsTlJKN2pCV2ZnWG1Ga0ZndWpGMVgtYUVFUGZFN3ZmY2JxaGotQVlIQi1MMVFxUmdXZm1xUTZKWWdYOS1wWk9pcjh4eFpHdEZWRmd2Zk95VVRzbER5allpckliSi1uR05jWmhiZjJBVF9CbkcwVHBB?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-09-17T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
