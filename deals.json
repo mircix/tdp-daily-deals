@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-30T21:38:01Z",
+ "generatedAt": "2026-09-30T21:50:12Z",
  "sources": [
   {
    "id": "olt",
@@ -470,7 +470,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2362°"
+    "2368°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -479,7 +479,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2362.0,
+   "heat": 2368.4,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,

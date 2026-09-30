@@ -111,7 +111,7 @@
     if (/°$/.test(b)) return "badge hot";
     if (b === "FREE") return "badge free";
     if (/^Code /.test(b)) return "badge code";
-    if (/save|off|%/i.test(b)) return "badge save";
+    if (/%|^save|\boff\b/i.test(b)) return "badge save";
     return "badge";
   }
 

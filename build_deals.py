@@ -426,16 +426,16 @@ def finish(deals):
 # ---------------------------------------------------------------- main
 
 def run_jobs(jobs):
-    """jobs: list of (source id, callable). Returns (deals, per-source status)."""
+    """jobs: list of (source id, label, callable). Runs them in parallel; results are combined in JOB order
+    (not completion order) so that when the same deal turns up on two pages, the first page in the list always wins.
+    Returns (deals, per-source status)."""
     deals, status = [], {}
     with cf.ThreadPoolExecutor(max_workers=6) as ex:
-        futs = {ex.submit(fn): (sid, label) for sid, label, fn in jobs}
-        for f in cf.as_completed(futs):
-            sid, label = futs[f]
+        futs = [(ex.submit(fn), sid, label) for sid, label, fn in jobs]
+        for f, sid, label in futs:
             st = status.setdefault(sid, {"ok": 0, "failed": 0, "errors": []})
             try:
-                got = f.result()
-                deals += got
+                deals += f.result()
                 st["ok"] += 1
             except Exception as e:  # one broken page must not stop the rest
                 st["failed"] += 1
