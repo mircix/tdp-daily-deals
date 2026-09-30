@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TDP Daily Deals</title>
+  <meta name="description" content="The best UK deals and vouchers for gigs, cinema, theatre, musicals and shows — from trusted sources, updated every few hours. With an I'm Feeling Lucky button.">
+  <meta name="theme-color" content="#0E0B14">
+  <link rel="icon" type="image/png" sizes="64x64" href="assets/icon/png/icon-64.png">
+  <link rel="apple-touch-icon" href="assets/icon/png/icon-256.png">
+  <meta property="og:title" content="TDP Daily Deals">
+  <meta property="og:description" content="The best UK deals on gigs, cinema, theatre & shows — and an I'm Feeling Lucky button.">
+  <meta property="og:image" content="assets/icon/png/icon-512.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="glow" aria-hidden="true"></div>
+
+  <header class="top wrap">
+    <a class="brand" href="./" aria-label="TDP Daily Deals home">
+      <img src="assets/icon/png/icon-128.png" alt="" width="52" height="52">
+      <span>
+        <strong>TDP Daily Deals</strong>
+        <small>The best UK deals on gigs, cinema, theatre &amp; shows</small>
+      </span>
+    </a>
+    <div class="top-actions">
+      <span id="updated" class="muted" title=""></span>
+      <button id="sourcesBtn" class="btn ghost" type="button">Sources</button>
+      <button id="themeBtn" class="btn ghost icon-only" type="button" aria-label="Switch light or dark theme" title="Theme">◐</button>
+    </div>
+  </header>
+
+  <section class="hero wrap">
+    <h1>Tonight's best seats, for less.</h1>
+    <p class="muted lead">Discounts, vouchers, rush &amp; lottery tickets from trusted UK sources — ranked by a deal score.</p>
+    <form id="searchForm" class="search" role="search">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input id="q" type="search" autocomplete="off" spellcheck="false"
+             placeholder="Search a band, film, show, cinema or venue…" aria-label="Search deals">
+    </form>
+    <div class="hero-buttons">
+      <button class="btn primary" type="submit" form="searchForm">Search deals</button>
+      <button id="luckyBtn" class="btn lucky" type="button">I'm Feeling Lucky <span aria-hidden="true">🍀</span></button>
+    </div>
+  </section>
+
+  <nav id="cats" class="chips wrap" aria-label="Categories"></nav>
+
+  <section class="toolbar wrap" aria-label="Filters">
+    <label class="select">
+      <span class="muted">Sort</span>
+      <select id="sort">
+        <option value="score">Best deals</option>
+        <option value="discount">Biggest discount</option>
+        <option value="price">Lowest price</option>
+        <option value="new">Newest</option>
+        <option value="hot">Hottest °</option>
+      </select>
+    </label>
+    <label class="toggle"><input type="checkbox" id="freeOnly"><span>Free only</span></label>
+    <label class="toggle"><input type="checkbox" id="codesOnly"><span>Vouchers &amp; codes</span></label>
+    <div id="srcChips" class="src-chips" aria-label="Sources"></div>
+  </section>
+
+  <div class="wrap">
+    <p id="info" class="muted info" aria-live="polite"></p>
+    <p id="more" class="more" hidden></p>
+  </div>
+
+  <main id="grid" class="grid wrap" aria-live="polite">
+    <div class="loading">Finding today's deals…</div>
+  </main>
+
+  <footer class="wrap foot">
+    <p>Prices and availability change fast — always check the final price on the seller's site.
+      TDP Daily Deals isn't affiliated with any of these sites.</p>
+    <p class="muted">Deals are gathered every few hours from Official London Theatre, TodayTix, HotUKDeals and UK news sites.</p>
+  </footer>
+
+  <dialog id="sourcesDlg" class="dlg">
+    <form method="dialog" class="dlg-head">
+      <h2>Where the deals come from</h2>
+      <button class="btn ghost icon-only" aria-label="Close">✕</button>
+    </form>
+    <div id="sourcesList"></div>
+    <p class="muted small">Each deal gets a score out of 100 from how trusted its source is, how big the saving is, how
+      popular it is (HotUKDeals votes °, TodayTix ratings) and how fresh it is.</p>
+  </dialog>
+
+  <div id="lucky" class="lucky-overlay" hidden>
+    <div class="lucky-panel" role="dialog" aria-modal="true" aria-labelledby="luckyTitle">
+      <button id="luckyClose" class="btn ghost icon-only lucky-x" aria-label="Close">✕</button>
+      <p id="luckyTitle" class="lucky-kicker">🍀 Feeling lucky…</p>
+      <div id="reel" class="reel"></div>
+      <div id="luckyActions" class="lucky-actions" hidden>
+        <a id="luckyGo" class="btn primary" target="_blank" rel="noopener">Take me there ↗</a>
+        <button id="luckyAgain" class="btn lucky" type="button">Spin again 🍀</button>
+      </div>
+      <div id="confetti" class="confetti" aria-hidden="true"></div>
+    </div>
+  </div>
+
+  <div id="toast" class="toast" role="status" hidden></div>
+  <script src="app.js"></script>
+</body>
+</html>
