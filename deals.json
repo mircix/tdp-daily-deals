@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-30T21:50:12Z",
+ "generatedAt": "2026-09-30T21:50:36Z",
  "sources": [
   {
    "id": "olt",
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "errors": []
   }
  ],
@@ -2523,6 +2523,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-09-22T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-free-24-hour-party-people-screenings-to-take-place-in-uk-cinemas-next-month",
+   "source": "news",
+   "title": "Free ‘24 Hour Party People’ screenings to take place in UK cinemas next month",
+   "subtitle": "NME",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "NME"
+   ],
+   "merchant": "NME",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWWhRQU9SbGdtMW9oeEEyRWJ3dHQ0MkhCbWtxUDNRelNsb2hHeVZfVHFsTlJKN2pCV2ZnWG1Ga0ZndWpGMVgtYUVFUGZFN3ZmY2JxaGotQVlIQi1MMVFxUmdXZm1xUTZKWWdYOS1wWk9pcjh4eFpHdEZWRmd2Zk95VVRzbER5allpckliSi1uR05jWmhiZjJBVF9CbkcwVHBB?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-09-17T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
