@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-09-30T21:50:36Z",
+ "generatedAt": "2026-10-01T06:07:59Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 25,
+   "count": 28,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 23,
+   "count": 21,
    "errors": []
   },
   {
@@ -70,7 +70,7 @@
    "category": "comedy",
    "kind": "free",
    "badges": [
-    "2262°",
+    "2264°",
     "FREE"
    ],
    "merchant": "Racing TV",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 2261.9,
+   "heat": 2263.7,
    "rating": null,
    "published": "2026-09-20T23:22:56Z",
    "expires": null,
@@ -113,6 +113,31 @@
    "score": 90
   },
   {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 65%",
+    "From £21.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 21.5,
+   "priceText": "from £21.50",
+   "discount": 65,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-04T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "olt-the-hunger-games-on-stage-111466358",
    "source": "olt",
    "title": "The Hunger Games: On Stage",
@@ -136,6 +161,31 @@
    "expires": "2026-10-04T23:59:00Z",
    "venue": "London",
    "score": 89
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
+   "venue": "London",
+   "score": 88
   },
   {
    "id": "todaytix-45407",
@@ -261,7 +311,7 @@
    "published": "2026-09-17T04:44:18Z",
    "expires": "2026-10-06T22:59:00Z",
    "venue": "",
-   "score": 86
+   "score": 85
   },
   {
    "id": "olt-beetlejuice-the-musical-111465049",
@@ -470,7 +520,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2368°"
+    "2426°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -479,7 +529,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2368.4,
+   "heat": 2426.1,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -659,6 +709,31 @@
    "rating": null,
    "published": "2026-09-07T06:26:46Z",
    "expires": "2026-11-02T23:59:00Z",
+   "venue": "",
+   "score": 81
+  },
+  {
+   "id": "hukd-4892734",
+   "source": "hukd",
+   "title": "Kids FREE Entry to 200+ UK Attractions (Stonehenge / Eden Project / Edinburgh Zoo + More) via Blue Peter Badge",
+   "subtitle": "BBC",
+   "category": "comedy",
+   "kind": "free",
+   "badges": [
+    "702°",
+    "FREE"
+   ],
+   "merchant": "BBC",
+   "url": "https://www.hotukdeals.com/deals/kids-free-entry-to-200-uk-attractions-stonehenge-eden-project-edinburgh-zoo-loads-more-via-blue-peter-badge-4892734",
+   "image": "https://images.hotukdeals.com/threads/raw/mbJAd/4892734_1/re/768x768/qt/60/4892734_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 702.2,
+   "rating": null,
+   "published": "2026-05-19T00:02:46Z",
+   "expires": null,
    "venue": "",
    "score": 81
   },
@@ -865,7 +940,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "536°"
+    "564°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-4991100",
@@ -874,7 +949,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 535.9,
+   "heat": 564.4,
    "rating": null,
    "published": "2026-09-29T04:39:20Z",
    "expires": "2026-10-07T22:59:00Z",
@@ -1186,8 +1261,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "The Daily Dozen",
-    "Special Prices"
+    "The Daily Dozen"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/313-wicked",
@@ -1693,31 +1767,6 @@
    "score": 74
   },
   {
-   "id": "hukd-4933967",
-   "source": "hukd",
-   "title": "My RAC App Offers - FREE entry to any Gulliver's World Theme Park, Rosa's Thai Classic Curry £5 W/Code & Discounted Dashcam Offer",
-   "subtitle": "RAC",
-   "category": "comedy",
-   "kind": "free",
-   "badges": [
-    "107°",
-    "FREE"
-   ],
-   "merchant": "RAC",
-   "url": "https://www.hotukdeals.com/deals/my-rac-app-offers-free-entry-to-any-gullivers-world-theme-park-rosas-thai-classic-curry-ps5-wcode-discounted-dashcam-offer-4933967",
-   "image": "https://images.hotukdeals.com/threads/raw/awNdX/4933967_1/re/768x768/qt/60/4933967_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 107.3,
-   "rating": null,
-   "published": "2026-07-11T22:24:28Z",
-   "expires": "2026-09-30T22:59:00Z",
-   "venue": "",
-   "score": 74
-  },
-  {
    "id": "olt-flamenc-oh-111475042",
    "source": "olt",
    "title": "Flamenc-Oh!!",
@@ -1939,6 +1988,31 @@
    "published": "2026-09-05T14:23:19Z",
    "expires": null,
    "venue": "",
+   "score": 72
+  },
+  {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-11T23:59:00Z",
+   "venue": "London",
    "score": 72
   },
   {
@@ -2358,31 +2432,6 @@
    "score": 62
   },
   {
-   "id": "hukd-4973296",
-   "source": "hukd",
-   "title": "Wicked theatre tickets - weekdays Sep / Oct / Nov / Dec 2026 - Apollo Victoria Theatre London (discount at checkout)",
-   "subtitle": "ATG Tickets",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "409°",
-    "20% off"
-   ],
-   "merchant": "ATG Tickets",
-   "url": "https://www.hotukdeals.com/deals/wicked-theatre-tickets-weekdays-sep-oct-nov-dec-2026-apollo-victoria-theatre-london-discount-at-checkout-4973296",
-   "image": "https://images.hotukdeals.com/threads/raw/fN5sA/4973296_1/re/768x768/qt/60/4973296_1.jpg",
-   "price": 20,
-   "priceText": "£20",
-   "discount": 20,
-   "code": "",
-   "heat": 408.9,
-   "rating": null,
-   "published": "2026-09-03T12:22:16Z",
-   "expires": "2026-09-30T22:59:00Z",
-   "venue": "",
-   "score": 61
-  },
-  {
    "id": "hukd-4987358",
    "source": "hukd",
    "title": "Mousetrap Theatre tickets offer from £26 - St Martin's theatre London",
@@ -2454,30 +2503,6 @@
    "expires": "2026-11-10T14:59:00Z",
    "venue": "",
    "score": 56
-  },
-  {
-   "id": "hukd-4948080",
-   "source": "hukd",
-   "title": "London theatre shows UNDER £20 eg Mama Mia £19 - Sept dates",
-   "subtitle": "Holiday Pirates",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "44°"
-   ],
-   "merchant": "Holiday Pirates",
-   "url": "https://www.hotukdeals.com/deals/london-theatre-shows-under-ps20-eg-mama-mia-ps19-30-sept-4948080",
-   "image": "https://images.hotukdeals.com/threads/raw/WwPZT/4948080_1/re/768x768/qt/60/4948080_1.jpg",
-   "price": 19,
-   "priceText": "£19",
-   "discount": null,
-   "code": "",
-   "heat": 44.3,
-   "rating": null,
-   "published": "2026-08-01T07:02:51Z",
-   "expires": null,
-   "venue": "",
-   "score": 50
   },
   {
    "id": "news-parents-can-slash-october-break-costs-with-this-family-cinema-deal",
