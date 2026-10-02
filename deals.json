@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-02T17:54:55Z",
+ "generatedAt": "2026-10-02T22:20:34Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 27,
+   "count": 25,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 1,
+   "count": 3,
    "errors": []
   }
  ],
@@ -113,31 +113,6 @@
    "score": 90
   },
   {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 65%",
-    "From £21.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 21.5,
-   "priceText": "from £21.50",
-   "discount": 65,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-04T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
    "id": "olt-the-hunger-games-on-stage-111466358",
    "source": "olt",
    "title": "The Hunger Games: On Stage",
@@ -161,31 +136,6 @@
    "expires": "2026-10-08T23:59:00Z",
    "venue": "London",
    "score": 89
-  },
-  {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
-   "venue": "London",
-   "score": 88
   },
   {
    "id": "todaytix-45407",
@@ -1899,13 +1849,13 @@
    "kind": "offer",
    "badges": [
     "Special offer",
-    "From £68"
+    "From £78"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-last-ship-111473521/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/TLS_OLT_Assets_1200x600px_500kbMax-768x384.jpg",
-   "price": 68.0,
-   "priceText": "from £68",
+   "price": 78.0,
+   "priceText": "from £78",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2405,6 +2355,30 @@
    "score": 62
   },
   {
+   "id": "hukd-4994242",
+   "source": "hukd",
+   "title": "Cineworld Big Screen Bundle for 2 via Three+ ( 2 cinema tickets and a snack bundle)",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "50°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/cineworld-three-ps25-big-screen-bundle-for-2-4994242",
+   "image": "https://images.hotukdeals.com/threads/raw/yHWAA/4994242_1/re/768x768/qt/60/4994242_1.jpg",
+   "price": 25,
+   "priceText": "£25",
+   "discount": null,
+   "code": "",
+   "heat": 49.7,
+   "rating": null,
+   "published": "2026-10-02T13:11:14Z",
+   "expires": "2026-10-15T22:59:00Z",
+   "venue": "",
+   "score": 61
+  },
+  {
    "id": "hukd-4973296",
    "source": "hukd",
    "title": "Wicked theatre tickets - weekdays Sep / Oct / Nov / Dec 2026 - Apollo Victoria Theatre London (discount at checkout)",
@@ -2428,30 +2402,6 @@
    "expires": null,
    "venue": "",
    "score": 61
-  },
-  {
-   "id": "hukd-4994242",
-   "source": "hukd",
-   "title": "Cineworld Big Screen Bundle for 2 via Three+ ( 2 cinema tickets and a snack bundle)",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "35°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/cineworld-three-ps25-big-screen-bundle-for-2-4994242",
-   "image": "https://images.hotukdeals.com/threads/raw/yHWAA/4994242_1/re/768x768/qt/60/4994242_1.jpg",
-   "price": 25,
-   "priceText": "£25",
-   "discount": null,
-   "code": "",
-   "heat": 35.3,
-   "rating": null,
-   "published": "2026-10-02T13:11:14Z",
-   "expires": "2026-10-15T22:59:00Z",
-   "venue": "",
-   "score": 60
   },
   {
    "id": "hukd-4987358",
@@ -2527,6 +2477,30 @@
    "score": 56
   },
   {
+   "id": "news-parents-can-slash-october-break-costs-with-this-family-cinema-deal",
+   "source": "news",
+   "title": "Parents can slash October break costs with this family cinema deal",
+   "subtitle": "Glasgow Times",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Glasgow Times"
+   ],
+   "merchant": "Glasgow Times",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT203bzlGYmtMNldDeTJ4Vy1GdExjRW5kamxrTE1BMWN1ZzJfdWt2aF9aemRJXzJmWWxfbS1XM2xhNGRvdTN4eklrd2hDZkI1OU9HRWdPMlJ0ME00QzBJTzNGQmZlc1ZPTFU2dTIyTzRva1ZGamEyQTl0XzU4MU9TY1p3SzRvWjRTS3Q3eVVkMXVNODR5N2dDUWJQYkVNV0k0Z0cyQXZhMlYydw?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-09-30T14:43:08Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
    "id": "news-cult-classic-24-hour-party-people-returning-to-lancashire-cinemas-for-free",
    "source": "news",
    "title": "Cult classic 24 Hour Party People returning to Lancashire cinemas for free",
@@ -2546,6 +2520,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-09-22T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-seven-freebies-and-discounts-that-apply-to-uk-residents-as-soon-as-they-turn-60",
+   "source": "news",
+   "title": "Seven freebies and discounts that apply to UK residents as soon as they turn 60",
+   "subtitle": "Liverpool Echo",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Liverpool Echo"
+   ],
+   "merchant": "Liverpool Echo",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSEVnTktHOUp5bS1YX1Y3dUhjNVU3dHpyTExtUU12WHRuejhCWlpJWkoxejF2UDU1ZEt2UlI3NllyWDBoUU9Ka3g1Mi1hSEh2RlVIUHZXcmJ0ejhMTmUzWThueklLWUFzNzZIQ1dLaXFld0lSNkZ6ZWNSZEFnQXRocTBGT3N5MTlVaDdQWUIzTUtOb2dONk9YMjNR0gGfAUFVX3lxTE5MV3JsQ1QyZlhKT1RoNjlVa3JPZkIwZm14TnhEOVhwNEJPbEtjVE1kcUJSNGJyLVdhRE5EZER6WHc1SEhoN20tMUVpVHF0WW9JdVlBazEyM2hYaFgwTUFhMU9lLWVScUN2ZFJINW5QVF9JX3JmQlBlbmdibms1QUc0RVloT2h4VTFSVndUTnNZNDNDTkxWYlVNYkh6b3dDdw?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-09-20T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
