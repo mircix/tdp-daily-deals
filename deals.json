@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-02T09:54:20Z",
+ "generatedAt": "2026-10-02T17:54:55Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 49,
+   "count": 50,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 3,
+   "count": 1,
    "errors": []
   }
  ],
@@ -158,7 +158,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-04T23:59:00Z",
+   "expires": "2026-10-08T23:59:00Z",
    "venue": "London",
    "score": 89
   },
@@ -284,7 +284,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-04T23:59:00Z",
+   "expires": "2026-12-02T23:59:00Z",
    "venue": "London",
    "score": 87
   },
@@ -334,7 +334,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-08T23:59:00Z",
+   "expires": "2026-10-09T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -409,7 +409,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-08T23:59:00Z",
+   "expires": "2026-10-09T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -489,6 +489,31 @@
    "score": 83
   },
   {
+   "id": "olt-hamilton-tickets-366811",
+   "source": "olt",
+   "title": "Hamilton",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 47%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
+   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 47,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-10T23:59:00Z",
+   "venue": "London",
+   "score": 83
+  },
+  {
    "id": "todaytix-20561",
    "source": "todaytix",
    "title": "Hamilton",
@@ -521,7 +546,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2488°"
+    "2494°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -530,7 +555,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2488.4,
+   "heat": 2494.4,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -612,6 +637,31 @@
    "score": 82
   },
   {
+   "id": "olt-into-the-woods-111473840",
+   "source": "olt",
+   "title": "Into The Woods",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 46%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/into-the-woods-111473840/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 46,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-03T23:59:00Z",
+   "venue": "London",
+   "score": 82
+  },
+  {
    "id": "hukd-4892734",
    "source": "hukd",
    "title": "Kids FREE Entry to 200+ UK Attractions (Stonehenge / Eden Project / Edinburgh Zoo + More) via Blue Peter Badge",
@@ -682,7 +732,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-07T23:59:00Z",
+   "expires": "2026-10-09T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -757,6 +807,31 @@
    "published": null,
    "expires": "2026-10-24T23:59:00Z",
    "venue": "Globe Theatre, London",
+   "score": 80
+  },
+  {
+   "id": "olt-devil-wears-prada-111442287",
+   "source": "olt",
+   "title": "The Devil Wears Prada",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 43%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/devil-wears-prada-111442287/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-SOLT-1200x600-1-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 43,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-15T23:59:00Z",
+   "venue": "London",
    "score": 80
   },
   {
@@ -881,31 +956,6 @@
    "score": 79
   },
   {
-   "id": "olt-hamilton-tickets-366811",
-   "source": "olt",
-   "title": "Hamilton",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 40%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
-   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 40,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-08T23:59:00Z",
-   "venue": "London",
-   "score": 79
-  },
-  {
    "id": "hukd-4951563",
    "source": "hukd",
    "title": "Meerkat movies 2 for 1 cinema tickets every Tuesday or Wednesday without any purchase using app",
@@ -1002,7 +1052,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-04T23:59:00Z",
+   "expires": "2026-10-07T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1226,31 +1276,6 @@
    "expires": null,
    "venue": "London County Hall, London",
    "score": 77
-  },
-  {
-   "id": "olt-devil-wears-prada-111442287",
-   "source": "olt",
-   "title": "The Devil Wears Prada",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 36%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/devil-wears-prada-111442287/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-SOLT-1200x600-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 36,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-08T23:59:00Z",
-   "venue": "London",
-   "score": 76
   },
   {
    "id": "olt-titanique-111446286",
@@ -1503,7 +1528,8 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets"
+    "£30 Rush tickets",
+    "Special Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46142-sinatra-the-musical",
@@ -1640,6 +1666,30 @@
    "published": null,
    "expires": null,
    "venue": "Criterion Theatre, London",
+   "score": 75
+  },
+  {
+   "id": "todaytix-47454",
+   "source": "todaytix",
+   "title": "Tru",
+   "subtitle": "Menier Chocolate Factory",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47454-tru",
+   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Menier Chocolate Factory, London",
    "score": 75
   },
   {
@@ -1849,13 +1899,13 @@
    "kind": "offer",
    "badges": [
     "Special offer",
-    "From £78"
+    "From £68"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-last-ship-111473521/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/TLS_OLT_Assets_1200x600px_500kbMax-768x384.jpg",
-   "price": 78.0,
-   "priceText": "from £78",
+   "price": 68.0,
+   "priceText": "from £68",
    "discount": null,
    "code": "",
    "heat": null,
@@ -1937,31 +1987,6 @@
    "published": "2026-09-05T14:23:19Z",
    "expires": null,
    "venue": "",
-   "score": 72
-  },
-  {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-11T23:59:00Z",
-   "venue": "London",
    "score": 72
   },
   {
@@ -2099,8 +2124,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/333-mousetrap",
    "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 26.0,
+   "priceText": "from £26",
    "discount": 28,
    "code": "",
    "heat": null,
@@ -2133,6 +2158,30 @@
    "published": "2026-09-27T11:31:09Z",
    "expires": "2027-03-30T22:59:00Z",
    "venue": "",
+   "score": 70
+  },
+  {
+   "id": "todaytix-47269",
+   "source": "todaytix",
+   "title": "Wild About You",
+   "subtitle": "Charing Cross Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Pay No Fees"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47269-wild-about-you",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5xa9CEoyepdyKWjTip3Kas/3bdd7e01ab5f9885889df9712dbd5e58/WAY2026-Agents_TTix1_1080_x_1080px.jpg?w=400&h=400&fit=fill",
+   "price": 20.5,
+   "priceText": "from £20.50",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
+   "venue": "Charing Cross Theatre, London",
    "score": 70
   },
   {
@@ -2258,31 +2307,6 @@
    "score": 67
   },
   {
-   "id": "todaytix-47454",
-   "source": "todaytix",
-   "title": "Tru",
-   "subtitle": "Menier Chocolate Factory",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 25%",
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47454-tru",
-   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 36.0,
-   "priceText": "from £36",
-   "discount": 25,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Menier Chocolate Factory, London",
-   "score": 67
-  },
-  {
    "id": "hukd-4934653",
    "source": "hukd",
    "title": "2 Cineworld Adult Standard Tickets via Three+ (fees apply)",
@@ -2327,7 +2351,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-12T23:59:00Z",
+   "expires": "2026-10-08T23:59:00Z",
    "venue": "London",
    "score": 66
   },
@@ -2406,6 +2430,30 @@
    "score": 61
   },
   {
+   "id": "hukd-4994242",
+   "source": "hukd",
+   "title": "Cineworld Big Screen Bundle for 2 via Three+ ( 2 cinema tickets and a snack bundle)",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "35°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/cineworld-three-ps25-big-screen-bundle-for-2-4994242",
+   "image": "https://images.hotukdeals.com/threads/raw/yHWAA/4994242_1/re/768x768/qt/60/4994242_1.jpg",
+   "price": 25,
+   "priceText": "£25",
+   "discount": null,
+   "code": "",
+   "heat": 35.3,
+   "rating": null,
+   "published": "2026-10-02T13:11:14Z",
+   "expires": "2026-10-15T22:59:00Z",
+   "venue": "",
+   "score": 60
+  },
+  {
    "id": "hukd-4987358",
    "source": "hukd",
    "title": "Mousetrap Theatre tickets offer from £26 - St Martin's theatre London",
@@ -2479,30 +2527,6 @@
    "score": 56
   },
   {
-   "id": "news-parents-can-slash-october-break-costs-with-this-family-cinema-deal",
-   "source": "news",
-   "title": "Parents can slash October break costs with this family cinema deal",
-   "subtitle": "Glasgow Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Glasgow Times"
-   ],
-   "merchant": "Glasgow Times",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT203bzlGYmtMNldDeTJ4Vy1GdExjRW5kamxrTE1BMWN1ZzJfdWt2aF9aemRJXzJmWWxfbS1XM2xhNGRvdTN4eklrd2hDZkI1OU9HRWdPMlJ0ME00QzBJTzNGQmZlc1ZPTFU2dTIyTzRva1ZGamEyQTl0XzU4MU9TY1p3SzRvWjRTS3Q3eVVkMXVNODR5N2dDUWJQYkVNV0k0Z0cyQXZhMlYydw?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-09-30T14:43:08Z",
-   "expires": null,
-   "venue": "",
-   "score": 49
-  },
-  {
    "id": "news-cult-classic-24-hour-party-people-returning-to-lancashire-cinemas-for-free",
    "source": "news",
    "title": "Cult classic 24 Hour Party People returning to Lancashire cinemas for free",
@@ -2522,30 +2546,6 @@
    "heat": null,
    "rating": null,
    "published": "2026-09-22T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-seven-freebies-and-discounts-that-apply-to-uk-residents-as-soon-as-they-turn-60",
-   "source": "news",
-   "title": "Seven freebies and discounts that apply to UK residents as soon as they turn 60",
-   "subtitle": "Liverpool Echo",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Liverpool Echo"
-   ],
-   "merchant": "Liverpool Echo",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSEVnTktHOUp5bS1YX1Y3dUhjNVU3dHpyTExtUU12WHRuejhCWlpJWkoxejF2UDU1ZEt2UlI3NllyWDBoUU9Ka3g1Mi1hSEh2RlVIUHZXcmJ0ejhMTmUzWThueklLWUFzNzZIQ1dLaXFld0lSNkZ6ZWNSZEFnQXRocTBGT3N5MTlVaDdQWUIzTUtOb2dONk9YMjNR0gGfAUFVX3lxTE5MV3JsQ1QyZlhKT1RoNjlVa3JPZkIwZm14TnhEOVhwNEJPbEtjVE1kcUJSNGJyLVdhRE5EZER6WHc1SEhoN20tMUVpVHF0WW9JdVlBazEyM2hYaFgwTUFhMU9lLWVScUN2ZFJINW5QVF9JX3JmQlBlbmdibms1QUc0RVloT2h4VTFSVndUTnNZNDNDTkxWYlVNYkh6b3dDdw?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-09-20T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
