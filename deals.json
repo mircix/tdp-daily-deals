@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-02T00:53:01Z",
+ "generatedAt": "2026-10-02T09:54:20Z",
  "sources": [
   {
    "id": "olt",
@@ -414,6 +414,32 @@
    "score": 84
   },
   {
+   "id": "hukd-4992071",
+   "source": "hukd",
+   "title": "120+ theatre shows free for seven days + 20% off first 2 months",
+   "subtitle": "National Theatre",
+   "category": "theatre",
+   "kind": "free",
+   "badges": [
+    "68°",
+    "20% off",
+    "FREE"
+   ],
+   "merchant": "National Theatre",
+   "url": "https://www.hotukdeals.com/vouchers/120-theatre-shows-free-for-seven-days-20-off-first-2-months-4992071",
+   "image": "https://images.hotukdeals.com/threads/raw/HDYlb/4992071_1/re/768x768/qt/60/4992071_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": 20,
+   "code": "",
+   "heat": 68.2,
+   "rating": null,
+   "published": "2026-09-30T08:50:34Z",
+   "expires": "2026-10-05T22:59:00Z",
+   "venue": "",
+   "score": 83
+  },
+  {
    "id": "todaytix-25118",
    "source": "todaytix",
    "title": "ABBA Voyage",
@@ -495,7 +521,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2483°"
+    "2488°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -504,38 +530,12 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2482.7,
+   "heat": 2488.4,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
    "venue": "",
    "score": 83
-  },
-  {
-   "id": "hukd-4992071",
-   "source": "hukd",
-   "title": "120+ theatre shows free for seven days + 20% off first 2 months",
-   "subtitle": "National Theatre",
-   "category": "theatre",
-   "kind": "free",
-   "badges": [
-    "57°",
-    "20% off",
-    "FREE"
-   ],
-   "merchant": "National Theatre",
-   "url": "https://www.hotukdeals.com/vouchers/120-theatre-shows-free-for-seven-days-20-off-first-2-months-4992071",
-   "image": "https://images.hotukdeals.com/threads/raw/HDYlb/4992071_1/re/768x768/qt/60/4992071_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": 20,
-   "code": "",
-   "heat": 57.3,
-   "rating": null,
-   "published": "2026-09-30T08:50:34Z",
-   "expires": "2026-10-05T22:59:00Z",
-   "venue": "",
-   "score": 82
   },
   {
    "id": "todaytix-47447",
@@ -612,31 +612,6 @@
    "score": 82
   },
   {
-   "id": "hukd-4975792",
-   "source": "hukd",
-   "title": "50% off your next cinema trip - Via McDonald's Rewards (Points Spend) and ODEON - £1 Booking Fee Applies",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "voucher",
-   "badges": [
-    "659°",
-    "50% off"
-   ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/vouchers/50-off-your-next-cinema-trip-via-mcdonalds-rewards-and-odeon-4975792",
-   "image": "https://images.hotukdeals.com/threads/raw/qV2zO/4975792_1/re/768x768/qt/60/4975792_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 50,
-   "code": "",
-   "heat": 659.4,
-   "rating": null,
-   "published": "2026-09-07T06:26:46Z",
-   "expires": "2026-11-02T23:59:00Z",
-   "venue": "",
-   "score": 81
-  },
-  {
    "id": "hukd-4892734",
    "source": "hukd",
    "title": "Kids FREE Entry to 200+ UK Attractions (Stonehenge / Eden Project / Edinburgh Zoo + More) via Blue Peter Badge",
@@ -660,6 +635,31 @@
    "expires": null,
    "venue": "",
    "score": 81
+  },
+  {
+   "id": "hukd-4975792",
+   "source": "hukd",
+   "title": "50% off your next cinema trip - Via McDonald's Rewards (Points Spend) and ODEON - £1 Booking Fee Applies",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "voucher",
+   "badges": [
+    "659°",
+    "50% off"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/vouchers/50-off-your-next-cinema-trip-via-mcdonalds-rewards-and-odeon-4975792",
+   "image": "https://images.hotukdeals.com/threads/raw/qV2zO/4975792_1/re/768x768/qt/60/4975792_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 50,
+   "code": "",
+   "heat": 659.4,
+   "rating": null,
+   "published": "2026-09-07T06:26:46Z",
+   "expires": "2026-11-02T23:59:00Z",
+   "venue": "",
+   "score": 80
   },
   {
    "id": "olt-avenue-q-111466206",
@@ -1849,13 +1849,13 @@
    "kind": "offer",
    "badges": [
     "Special offer",
-    "From £52.50"
+    "From £78"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-last-ship-111473521/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/TLS_OLT_Assets_1200x600px_500kbMax-768x384.jpg",
-   "price": 52.5,
-   "priceText": "from £52.50",
+   "price": 78.0,
+   "priceText": "from £78",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2527,17 +2527,17 @@
    "score": 47
   },
   {
-   "id": "news-rent-announces-20-preview-tickets-and-front-row-day-seats-for-west-end-run",
+   "id": "news-seven-freebies-and-discounts-that-apply-to-uk-residents-as-soon-as-they-turn-60",
    "source": "news",
-   "title": "RENT Announces £20 Preview Tickets and Front Row Day Seats for West End Run",
-   "subtitle": "Theatre Weekly",
-   "category": "theatre",
+   "title": "Seven freebies and discounts that apply to UK residents as soon as they turn 60",
+   "subtitle": "Liverpool Echo",
+   "category": "cinema",
    "kind": "news",
    "badges": [
-    "Theatre Weekly"
+    "Liverpool Echo"
    ],
-   "merchant": "Theatre Weekly",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlp1TU0xU1I4MGhfc3VrdW5MNU1tYnQ3UDhfemZsVXNNQWxDNmtoRjFXcFJNVVNjMWJrMnpZRUxBRTdhRFpRTkVWNTVsZFRTQldfNmFrblcxZjNZRzZOZ0RHR2tfTTJyS2lHT2drUllKMkV3dlZrSm5YSkY2eUFXVUVNN3QwT2lFV1F4RVVpZFVnOHFHODNWYnpHY0tMVU5QUElB?oc=5",
+   "merchant": "Liverpool Echo",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSEVnTktHOUp5bS1YX1Y3dUhjNVU3dHpyTExtUU12WHRuejhCWlpJWkoxejF2UDU1ZEt2UlI3NllyWDBoUU9Ka3g1Mi1hSEh2RlVIUHZXcmJ0ejhMTmUzWThueklLWUFzNzZIQ1dLaXFld0lSNkZ6ZWNSZEFnQXRocTBGT3N5MTlVaDdQWUIzTUtOb2dONk9YMjNR0gGfAUFVX3lxTE5MV3JsQ1QyZlhKT1RoNjlVa3JPZkIwZm14TnhEOVhwNEJPbEtjVE1kcUJSNGJyLVdhRE5EZER6WHc1SEhoN20tMUVpVHF0WW9JdVlBazEyM2hYaFgwTUFhMU9lLWVScUN2ZFJINW5QVF9JX3JmQlBlbmdibms1QUc0RVloT2h4VTFSVndUTnNZNDNDTkxWYlVNYkh6b3dDdw?oc=5",
    "image": "",
    "price": null,
    "priceText": "",
@@ -2545,7 +2545,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-09-18T07:00:00Z",
+   "published": "2026-09-20T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
