@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-03T11:48:54Z",
+ "generatedAt": "2026-10-03T16:30:07Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 28,
+   "count": 26,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "errors": []
   }
  ],
@@ -95,7 +95,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save up to 66%",
+    "Save up to 63%",
     "From £23"
    ],
    "merchant": "Official London Theatre",
@@ -103,37 +103,12 @@
    "image": "https://officiallondontheatre.com/app/uploads/2026/07/FranzM-_CX2_1200-x-600px-768x384.jpg",
    "price": 23.0,
    "priceText": "from £23",
-   "discount": 66,
+   "discount": 63,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
    "expires": "2026-10-03T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 65%",
-    "From £48"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 48.0,
-   "priceText": "from £48",
-   "discount": 65,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-04T23:59:00Z",
    "venue": "London",
    "score": 90
   },
@@ -364,31 +339,6 @@
    "score": 84
   },
   {
-   "id": "olt-the-mousetrap-92715",
-   "source": "olt",
-   "title": "The Mousetrap",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 49%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
-   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 49,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-09T23:59:00Z",
-   "venue": "London",
-   "score": 84
-  },
-  {
    "id": "todaytix-25118",
    "source": "todaytix",
    "title": "ABBA Voyage",
@@ -495,7 +445,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2501°"
+    "2508°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -504,7 +454,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2500.9,
+   "heat": 2507.7,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -587,27 +537,27 @@
    "score": 82
   },
   {
-   "id": "olt-into-the-woods-111473840",
+   "id": "olt-the-mousetrap-92715",
    "source": "olt",
-   "title": "Into The Woods",
-   "subtitle": "Musical",
+   "title": "The Mousetrap",
+   "subtitle": "Drama, Plays",
    "category": "theatre",
    "kind": "offer",
    "badges": [
     "Save up to 46%",
-    "From £18"
+    "From £28"
    ],
    "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/into-the-woods-111473840/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
+   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
+   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 46,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-03T23:59:00Z",
+   "expires": "2026-10-09T23:59:00Z",
    "venue": "London",
    "score": 82
   },
@@ -644,7 +594,7 @@
    "category": "cinema",
    "kind": "voucher",
    "badges": [
-    "664°",
+    "662°",
     "50% off"
    ],
    "merchant": "ODEON",
@@ -654,7 +604,7 @@
    "priceText": "",
    "discount": 50,
    "code": "",
-   "heat": 664.3,
+   "heat": 662.4,
    "rating": null,
    "published": "2026-09-07T06:26:46Z",
    "expires": "2026-11-02T23:59:00Z",
@@ -889,7 +839,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "583°"
+    "589°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-4991100",
@@ -898,7 +848,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 582.6,
+   "heat": 589.3,
    "rating": null,
    "published": "2026-09-29T04:39:20Z",
    "expires": "2026-10-07T22:59:00Z",
@@ -1056,31 +1006,6 @@
    "score": 77
   },
   {
-   "id": "todaytix-47549",
-   "source": "todaytix",
-   "title": "Musicals By Candlelight",
-   "subtitle": "The Actors' Church",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save 43%",
-    "£20 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 43,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "The Actors' Church, London",
-   "score": 77
-  },
-  {
    "id": "todaytix-25389",
    "source": "todaytix",
    "title": "My Neighbour Totoro",
@@ -1226,31 +1151,6 @@
    "expires": null,
    "venue": "London County Hall, London",
    "score": 77
-  },
-  {
-   "id": "olt-titanique-111446286",
-   "source": "olt",
-   "title": "Titaníque",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 36%",
-    "From £27"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/titanique-111446286/",
-   "image": "https://officiallondontheatre.com/app/uploads/2024/09/TQE516-AgentClosingAsset-1200x600-1-768x384.jpg",
-   "price": 27.0,
-   "priceText": "from £27",
-   "discount": 36,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-11T23:59:00Z",
-   "venue": "London",
-   "score": 76
   },
   {
    "id": "todaytix-47279",
@@ -1469,6 +1369,31 @@
    "published": null,
    "expires": "2026-10-24T23:59:00Z",
    "venue": "Royal Court, London",
+   "score": 75
+  },
+  {
+   "id": "todaytix-47549",
+   "source": "todaytix",
+   "title": "Musicals By Candlelight",
+   "subtitle": "The Actors' Church",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 40%",
+    "£20 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 40,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "The Actors' Church, London",
    "score": 75
   },
   {
@@ -1913,6 +1838,31 @@
    "rating": null,
    "published": null,
    "expires": null,
+   "venue": "London",
+   "score": 73
+  },
+  {
+   "id": "olt-titanique-111446286",
+   "source": "olt",
+   "title": "Titaníque",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 31%",
+    "From £27"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/titanique-111446286/",
+   "image": "https://officiallondontheatre.com/app/uploads/2024/09/TQE516-AgentClosingAsset-1200x600-1-768x384.jpg",
+   "price": 27.0,
+   "priceText": "from £27",
+   "discount": 31,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-04T23:59:00Z",
    "venue": "London",
    "score": 73
   },
@@ -2438,7 +2388,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "50°"
+    "55°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/cineworld-three-ps25-big-screen-bundle-for-2-4994242",
@@ -2447,7 +2397,7 @@
    "priceText": "£25",
    "discount": null,
    "code": "",
-   "heat": 49.7,
+   "heat": 55.1,
    "rating": null,
    "published": "2026-10-02T13:11:14Z",
    "expires": "2026-10-15T22:59:00Z",
@@ -2477,7 +2427,7 @@
    "published": "2026-09-03T12:22:16Z",
    "expires": null,
    "venue": "",
-   "score": 61
+   "score": 60
   },
   {
    "id": "hukd-4987358",
@@ -2572,30 +2522,6 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-03T10:06:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 49
-  },
-  {
-   "id": "news-national-theatre-deals",
-   "source": "news",
-   "title": "National Theatre deals",
-   "subtitle": "Money Saving Expert",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Money Saving Expert"
-   ],
-   "merchant": "Money Saving Expert",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44YmtOZHRXaF8yWWRJLUkzbGdEWTcyTjRoT3dJVjAxZTZfdVJwS3g4aG1vTXRTeGFHLXdUX0dUbWtXek8zS1otczdjdGFKSGJ5UTN6c2d3bzcyZUVhcjNCV2xRYzJ5d0NO?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-02T22:46:12Z",
    "expires": null,
    "venue": "",
    "score": 49
