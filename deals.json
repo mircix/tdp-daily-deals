@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-03T05:27:09Z",
+ "generatedAt": "2026-10-03T11:48:54Z",
  "sources": [
   {
    "id": "olt",
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 3,
+   "count": 5,
    "errors": []
   }
  ],
@@ -121,13 +121,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 65%",
-    "From £21.50"
+    "From £48"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
    "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 21.5,
-   "priceText": "from £21.50",
+   "price": 48.0,
+   "priceText": "from £48",
    "discount": 65,
    "code": "",
    "heat": null,
@@ -389,32 +389,6 @@
    "score": 84
   },
   {
-   "id": "hukd-4992071",
-   "source": "hukd",
-   "title": "120+ theatre shows free for seven days + 20% off first 2 months",
-   "subtitle": "National Theatre",
-   "category": "theatre",
-   "kind": "free",
-   "badges": [
-    "70°",
-    "20% off",
-    "FREE"
-   ],
-   "merchant": "National Theatre",
-   "url": "https://www.hotukdeals.com/vouchers/120-theatre-shows-free-for-seven-days-20-off-first-2-months-4992071",
-   "image": "https://images.hotukdeals.com/threads/raw/HDYlb/4992071_1/re/768x768/qt/60/4992071_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": 20,
-   "code": "",
-   "heat": 70.0,
-   "rating": null,
-   "published": "2026-09-30T08:50:34Z",
-   "expires": "2026-10-05T22:59:00Z",
-   "venue": "",
-   "score": 83
-  },
-  {
    "id": "todaytix-25118",
    "source": "todaytix",
    "title": "ABBA Voyage",
@@ -521,7 +495,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2496°"
+    "2501°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -530,7 +504,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2496.2,
+   "heat": 2500.9,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -538,28 +512,29 @@
    "score": 83
   },
   {
-   "id": "todaytix-47447",
-   "source": "todaytix",
-   "title": "English National Ballet – Rhythm Riot",
-   "subtitle": "Sadler's Wells",
+   "id": "hukd-4992071",
+   "source": "hukd",
+   "title": "120+ theatre shows free for seven days + 20% off first 2 months",
+   "subtitle": "National Theatre",
    "category": "theatre",
-   "kind": "offer",
+   "kind": "free",
    "badges": [
-    "Save 52%",
-    "Special Offer"
+    "70°",
+    "20% off",
+    "FREE"
    ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47447-rhythm-riot",
-   "image": "https://images.ctfassets.net/6pezt69ih962/1MHpYgcayxyJytSJQ1DFwQ/eec68263bafb6abf87ba331b9879c929/ENB_Rhythm_Riot_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 52,
+   "merchant": "National Theatre",
+   "url": "https://www.hotukdeals.com/vouchers/120-theatre-shows-free-for-seven-days-20-off-first-2-months-4992071",
+   "image": "https://images.hotukdeals.com/threads/raw/HDYlb/4992071_1/re/768x768/qt/60/4992071_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": 20,
    "code": "",
-   "heat": null,
+   "heat": 70.0,
    "rating": null,
-   "published": null,
-   "expires": "2026-10-03T23:59:00Z",
-   "venue": "Sadler's Wells, London",
+   "published": "2026-09-30T08:50:34Z",
+   "expires": "2026-10-05T22:59:00Z",
+   "venue": "",
    "score": 82
   },
   {
@@ -669,7 +644,7 @@
    "category": "cinema",
    "kind": "voucher",
    "badges": [
-    "659°",
+    "664°",
     "50% off"
    ],
    "merchant": "ODEON",
@@ -679,7 +654,7 @@
    "priceText": "",
    "discount": 50,
    "code": "",
-   "heat": 659.4,
+   "heat": 664.3,
    "rating": null,
    "published": "2026-09-07T06:26:46Z",
    "expires": "2026-11-02T23:59:00Z",
@@ -931,31 +906,6 @@
    "score": 79
   },
   {
-   "id": "hukd-4951563",
-   "source": "hukd",
-   "title": "Meerkat movies 2 for 1 cinema tickets every Tuesday or Wednesday without any purchase using app",
-   "subtitle": "Compare The Market",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "3438°",
-    "50% off"
-   ],
-   "merchant": "Compare The Market",
-   "url": "https://www.hotukdeals.com/deals/meerkat-movies-2-for-1-without-any-purchase-using-app-4951563",
-   "image": "https://images.hotukdeals.com/threads/raw/fBxsg/4951563_1/re/768x768/qt/60/4951563_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 50,
-   "code": "",
-   "heat": 3438.2,
-   "rating": null,
-   "published": "2026-08-06T05:29:20Z",
-   "expires": null,
-   "venue": "",
-   "score": 79
-  },
-  {
    "id": "olt-neighbour-totoro-tickets-111433417",
    "source": "olt",
    "title": "My Neighbour Totoro",
@@ -976,7 +926,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-15T23:59:00Z",
+   "expires": "2026-10-10T23:59:00Z",
    "venue": "London",
    "score": 79
   },
@@ -1005,6 +955,31 @@
    "expires": null,
    "venue": "Trafalgar Theatre, London",
    "score": 79
+  },
+  {
+   "id": "hukd-4951563",
+   "source": "hukd",
+   "title": "Meerkat movies 2 for 1 cinema tickets every Tuesday or Wednesday without any purchase using app",
+   "subtitle": "Compare The Market",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "3438°",
+    "50% off"
+   ],
+   "merchant": "Compare The Market",
+   "url": "https://www.hotukdeals.com/deals/meerkat-movies-2-for-1-without-any-purchase-using-app-4951563",
+   "image": "https://images.hotukdeals.com/threads/raw/fBxsg/4951563_1/re/768x768/qt/60/4951563_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 50,
+   "code": "",
+   "heat": 3438.2,
+   "rating": null,
+   "published": "2026-08-06T05:29:20Z",
+   "expires": null,
+   "venue": "",
+   "score": 78
   },
   {
    "id": "olt-the-play-that-goes-wrong-228430",
@@ -1273,7 +1248,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-04T23:59:00Z",
+   "expires": "2026-10-11T23:59:00Z",
    "venue": "London",
    "score": 76
   },
@@ -1373,6 +1348,31 @@
    "published": null,
    "expires": null,
    "venue": "Empress Museum, London",
+   "score": 75
+  },
+  {
+   "id": "todaytix-47447",
+   "source": "todaytix",
+   "title": "English National Ballet – Rhythm Riot",
+   "subtitle": "Sadler's Wells",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 40%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47447-rhythm-riot",
+   "image": "https://images.ctfassets.net/6pezt69ih962/1MHpYgcayxyJytSJQ1DFwQ/eec68263bafb6abf87ba331b9879c929/ENB_Rhythm_Riot_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 40,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-03T23:59:00Z",
+   "venue": "Sadler's Wells, London",
    "score": 75
   },
   {
@@ -1717,30 +1717,6 @@
    "score": 74
   },
   {
-   "id": "hukd-4962031",
-   "source": "hukd",
-   "title": "Hyde Park Winter Wonderland Tickets - November-January Dates",
-   "subtitle": "See Tickets",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "878°"
-   ],
-   "merchant": "See Tickets",
-   "url": "https://www.hotukdeals.com/deals/ps1-winter-wonderland-tickets-peak-time-available-4962031",
-   "image": "https://images.hotukdeals.com/threads/raw/40ewu/4962031_1/re/768x768/qt/60/4962031_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 877.8,
-   "rating": null,
-   "published": "2026-08-20T09:10:22Z",
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "",
-   "score": 74
-  },
-  {
    "id": "todaytix-47555",
    "source": "todaytix",
    "title": "Million Dollar Quartet",
@@ -1789,6 +1765,30 @@
    "published": null,
    "expires": "2026-10-10T23:59:00Z",
    "venue": "London",
+   "score": 73
+  },
+  {
+   "id": "hukd-4962031",
+   "source": "hukd",
+   "title": "Hyde Park Winter Wonderland Tickets - November-January Dates",
+   "subtitle": "See Tickets",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "878°"
+   ],
+   "merchant": "See Tickets",
+   "url": "https://www.hotukdeals.com/deals/ps1-winter-wonderland-tickets-peak-time-available-4962031",
+   "image": "https://images.hotukdeals.com/threads/raw/40ewu/4962031_1/re/768x768/qt/60/4962031_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 877.8,
+   "rating": null,
+   "published": "2026-08-20T09:10:22Z",
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "",
    "score": 73
   },
   {
@@ -1900,13 +1900,13 @@
    "kind": "offer",
    "badges": [
     "Special offer",
-    "From £78"
+    "From £68"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-last-ship-111473521/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/TLS_OLT_Assets_1200x600px_500kbMax-768x384.jpg",
-   "price": 78.0,
-   "priceText": "from £78",
+   "price": 68.0,
+   "priceText": "from £68",
    "discount": null,
    "code": "",
    "heat": null,
@@ -1983,7 +1983,7 @@
    "priceText": "£9",
    "discount": null,
    "code": "",
-   "heat": 227.0,
+   "heat": 226.8,
    "rating": null,
    "published": "2026-09-05T14:23:19Z",
    "expires": null,
@@ -2414,7 +2414,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "292°"
+    "303°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/5-tickets-for-ps25-luxe-cinema-included-4972065",
@@ -2423,7 +2423,7 @@
    "priceText": "£25",
    "discount": null,
    "code": "",
-   "heat": 292.0,
+   "heat": 303.2,
    "rating": null,
    "published": "2026-09-02T08:08:20Z",
    "expires": null,
@@ -2553,6 +2553,30 @@
    "score": 56
   },
   {
+   "id": "news-how-to-watch-practical-magic-2-with-friends-for-just-5-each-in-new-dudley-cinema",
+   "source": "news",
+   "title": "How to watch Practical Magic 2 with friends for just £5 each in new Dudley cinema deal",
+   "subtitle": "Birmingham Live",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Birmingham Live"
+   ],
+   "merchant": "Birmingham Live",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPak9ESjc0TDQ2YVVUZllWdWY2cXpzX29fb1lVbklYaER4RktUeFlicUxmMzRDUURPMzJzMjdkck1CNE83aGhmMXVwM29ZRWNNVERoTzE3WjljT0Z3U25YcDhHTUtaV01DOWZ4Y2VrbHg2clRfVF94S19tZUlycmFXbTU2YkdXWDFyZUpJRS1aTm8xUFJzTEdZZjNtUdIBoAFBVV95cUxQQmIyTE9lWHZSWmNqMGJ3YmlaNGFQR09GenhMaUF4aFZhaXNJSXJ0QWg5aUZlNGFDaVJjRWpTYlJuNE90ZTh6VWhqSkp6NmZ3ZUpTeDhsQ1o0aEdZa1ZUdWEyTW9LYXE0WUtNd3NwZUhxdFB2dkt4UW15a0kyVUxsNjdIOUJQRXRxNVZkenBRNUhCdm1SY0VWSDhLN096V0xz?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-03T10:06:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 49
+  },
+  {
    "id": "news-national-theatre-deals",
    "source": "news",
    "title": "National Theatre deals",
@@ -2599,6 +2623,30 @@
    "expires": null,
    "venue": "",
    "score": 48
+  },
+  {
+   "id": "news-cult-classic-24-hour-party-people-returning-to-lancashire-cinemas-for-free",
+   "source": "news",
+   "title": "Cult classic 24 Hour Party People returning to Lancashire cinemas for free",
+   "subtitle": "Lancashire Telegraph",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Lancashire Telegraph"
+   ],
+   "merchant": "Lancashire Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkptUTVHbFBrWTdRVUFlM1YyRjZGOXFvX05uU1cxSy1uMERBWWJJb01reVFMdnRvSmZ3V1ZESm9DQUpLQVI3MlBQOTlvRi1MdXVpbnlyWDZlaEdsZ3BHYjZoRXd6Q3hsTnpVQU1Vc0ZOcld0bDhXS0JDeS03VWJuQ2NiOTAteXJEblVvTUh3ZHdvOGFTbzdJRXlsOWpCWWJHekRXcC1LM3ZadTg?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-09-22T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
   },
   {
    "id": "news-seven-freebies-and-discounts-that-apply-to-uk-residents-as-soon-as-they-turn-60",
