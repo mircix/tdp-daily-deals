@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-02T22:20:34Z",
+ "generatedAt": "2026-10-03T05:27:09Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 25,
+   "count": 28,
    "errors": []
   },
   {
@@ -113,6 +113,31 @@
    "score": 90
   },
   {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 65%",
+    "From £21.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 21.5,
+   "priceText": "from £21.50",
+   "discount": 65,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-04T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "olt-the-hunger-games-on-stage-111466358",
    "source": "olt",
    "title": "The Hunger Games: On Stage",
@@ -136,6 +161,31 @@
    "expires": "2026-10-08T23:59:00Z",
    "venue": "London",
    "score": 89
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
+   "venue": "London",
+   "score": 88
   },
   {
    "id": "todaytix-45407",
@@ -186,31 +236,6 @@
    "published": null,
    "expires": "2026-10-24T23:59:00Z",
    "venue": "Bush Theatre, London",
-   "score": 87
-  },
-  {
-   "id": "todaytix-47555",
-   "source": "todaytix",
-   "title": "Million Dollar Quartet",
-   "subtitle": "The Arts at Marble Arch Powered by TodayTix",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 74%",
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47555-million-dollar-quartet",
-   "image": "https://images.ctfassets.net/6pezt69ih962/TaKNVnyj20df4edOaFM73/0fef5f9aef76994b327d54e0afaac150/260805_MDQ_TTG_1080_x_1080.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 74,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-12-06T23:59:00Z",
-   "venue": "The Arts at Marble Arch Powered by TodayTix, London",
    "score": 87
   },
   {
@@ -371,7 +396,7 @@
    "category": "theatre",
    "kind": "free",
    "badges": [
-    "68°",
+    "70°",
     "20% off",
     "FREE"
    ],
@@ -382,7 +407,7 @@
    "priceText": "FREE",
    "discount": 20,
    "code": "",
-   "heat": 68.2,
+   "heat": 70.0,
    "rating": null,
    "published": "2026-09-30T08:50:34Z",
    "expires": "2026-10-05T22:59:00Z",
@@ -496,7 +521,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2494°"
+    "2496°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -505,7 +530,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2494.4,
+   "heat": 2496.2,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -889,7 +914,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "581°"
+    "583°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-4991100",
@@ -898,7 +923,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 580.8,
+   "heat": 582.6,
    "rating": null,
    "published": "2026-09-29T04:39:20Z",
    "expires": "2026-10-07T22:59:00Z",
@@ -1650,7 +1675,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "416°"
+    "418°"
    ],
    "merchant": "Groupon",
    "url": "https://www.hotukdeals.com/deals/vue-2d-cinema-tickets-2-x-tickets-ps950-5-x-tickets-ps22-10-x-tickets-ps40-possibly-cheaper-via-app-4978597",
@@ -1659,7 +1684,7 @@
    "priceText": "£9.50",
    "discount": null,
    "code": "",
-   "heat": 416,
+   "heat": 417.8,
    "rating": null,
    "published": "2026-09-10T14:02:43Z",
    "expires": null,
@@ -1713,6 +1738,32 @@
    "published": "2026-08-20T09:10:22Z",
    "expires": "2027-01-03T23:59:00Z",
    "venue": "",
+   "score": 74
+  },
+  {
+   "id": "todaytix-47555",
+   "source": "todaytix",
+   "title": "Million Dollar Quartet",
+   "subtitle": "The Arts at Marble Arch Powered by TodayTix",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 37%",
+    "£25 Rush tickets",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47555-million-dollar-quartet",
+   "image": "https://images.ctfassets.net/6pezt69ih962/TaKNVnyj20df4edOaFM73/0fef5f9aef76994b327d54e0afaac150/260805_MDQ_TTG_1080_x_1080.jpg?w=400&h=400&fit=fill",
+   "price": 21.0,
+   "priceText": "from £21",
+   "discount": 37,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-12-06T23:59:00Z",
+   "venue": "The Arts at Marble Arch Powered by TodayTix, London",
    "score": 74
   },
   {
@@ -1937,6 +1988,31 @@
    "published": "2026-09-05T14:23:19Z",
    "expires": null,
    "venue": "",
+   "score": 72
+  },
+  {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-11T23:59:00Z",
+   "venue": "London",
    "score": 72
   },
   {
@@ -2357,7 +2433,7 @@
   {
    "id": "hukd-4994242",
    "source": "hukd",
-   "title": "Cineworld Big Screen Bundle for 2 via Three+ ( 2 cinema tickets and a snack bundle)",
+   "title": "Cineworld Big Screen Bundle for 2 via Three+ ( 2 Cinema Tickets , 1 Large Popcorn, 2 Large Drinks & A Bag of Confectionery)",
    "subtitle": "Three",
    "category": "cinema",
    "kind": "deal",
@@ -2477,6 +2553,30 @@
    "score": 56
   },
   {
+   "id": "news-national-theatre-deals",
+   "source": "news",
+   "title": "National Theatre deals",
+   "subtitle": "Money Saving Expert",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Money Saving Expert"
+   ],
+   "merchant": "Money Saving Expert",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44YmtOZHRXaF8yWWRJLUkzbGdEWTcyTjRoT3dJVjAxZTZfdVJwS3g4aG1vTXRTeGFHLXdUX0dUbWtXek8zS1otczdjdGFKSGJ5UTN6c2d3bzcyZUVhcjNCV2xRYzJ5d0NO?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-02T22:46:12Z",
+   "expires": null,
+   "venue": "",
+   "score": 49
+  },
+  {
    "id": "news-parents-can-slash-october-break-costs-with-this-family-cinema-deal",
    "source": "news",
    "title": "Parents can slash October break costs with this family cinema deal",
@@ -2499,30 +2599,6 @@
    "expires": null,
    "venue": "",
    "score": 48
-  },
-  {
-   "id": "news-cult-classic-24-hour-party-people-returning-to-lancashire-cinemas-for-free",
-   "source": "news",
-   "title": "Cult classic 24 Hour Party People returning to Lancashire cinemas for free",
-   "subtitle": "Lancashire Telegraph",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Lancashire Telegraph"
-   ],
-   "merchant": "Lancashire Telegraph",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkptUTVHbFBrWTdRVUFlM1YyRjZGOXFvX05uU1cxSy1uMERBWWJJb01reVFMdnRvSmZ3V1ZESm9DQUpLQVI3MlBQOTlvRi1MdXVpbnlyWDZlaEdsZ3BHYjZoRXd6Q3hsTnpVQU1Vc0ZOcld0bDhXS0JDeS03VWJuQ2NiOTAteXJEblVvTUh3ZHdvOGFTbzdJRXlsOWpCWWJHekRXcC1LM3ZadTg?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-09-22T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
   },
   {
    "id": "news-seven-freebies-and-discounts-that-apply-to-uk-residents-as-soon-as-they-turn-60",
