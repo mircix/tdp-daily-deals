@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-03T21:26:39Z",
+ "generatedAt": "2026-10-04T06:02:39Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 22,
+   "count": 24,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 48,
+   "count": 47,
    "errors": []
   },
   {
@@ -86,6 +86,31 @@
    "expires": null,
    "venue": "",
    "score": 92
+  },
+  {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 59%",
+    "From £42.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 42.5,
+   "priceText": "from £42.50",
+   "discount": 59,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-04T23:59:00Z",
+   "venue": "London",
+   "score": 90
   },
   {
    "id": "olt-the-hunger-games-on-stage-111466358",
@@ -957,30 +982,6 @@
    "score": 77
   },
   {
-   "id": "todaytix-26064",
-   "source": "todaytix",
-   "title": "My Son’s A Queer (But What Can You Do?)",
-   "subtitle": "Apollo Theatre",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/26064-my-sons-a-queer-but-what-can-you-do",
-   "image": "https://images.ctfassets.net/6pezt69ih962/1ArcF1q8mcAdRdZLh7JSz4/6d09a5a05f6b9da8ad789768a569816f/1080x1080_MSAQ_TTG_V1.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": 4.75,
-   "published": null,
-   "expires": "2026-10-03T23:59:00Z",
-   "venue": "Apollo Theatre, London",
-   "score": 77
-  },
-  {
    "id": "todaytix-12201",
    "source": "todaytix",
    "title": "SIX the Musical",
@@ -1789,6 +1790,31 @@
    "published": "2026-09-05T14:23:19Z",
    "expires": null,
    "venue": "",
+   "score": 72
+  },
+  {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-11T23:59:00Z",
+   "venue": "London",
    "score": 72
   },
   {
