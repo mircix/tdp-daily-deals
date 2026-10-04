@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-04T18:40:06Z",
+ "generatedAt": "2026-10-04T23:59:19Z",
  "sources": [
   {
    "id": "olt",
@@ -86,6 +86,31 @@
    "expires": null,
    "venue": "",
    "score": 92
+  },
+  {
+   "id": "olt-million-dollar-quartet-111475900",
+   "source": "olt",
+   "title": "Million Dollar Quartet",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 57%",
+    "From £20.10"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/million-dollar-quartet-111475900/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/08/260805-MDQ-OLT_1200-x-600-768x384.jpg",
+   "price": 20.1,
+   "priceText": "from £20.10",
+   "discount": 57,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-10T23:59:00Z",
+   "venue": "London",
+   "score": 88
   },
   {
    "id": "todaytix-45407",
@@ -964,8 +989,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Spirit Seats",
-    "Exclusive Offer"
+    "£30 Spirit Seats"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/25389-my-neighbour-totoro",
@@ -1112,8 +1136,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets",
-    "Exclusive Prices"
+    "£30 Rush tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47279-affluenza",
@@ -1471,30 +1494,6 @@
    "score": 75
   },
   {
-   "id": "todaytix-47454",
-   "source": "todaytix",
-   "title": "Tru",
-   "subtitle": "Menier Chocolate Factory",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47454-tru",
-   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Menier Chocolate Factory, London",
-   "score": 75
-  },
-  {
    "id": "olt-cabaret-111429752",
    "source": "olt",
    "title": "Cabaret",
@@ -1659,31 +1658,6 @@
    "image": "https://officiallondontheatre.com/app/uploads/2011/05/1200-x-600-1-768x384.png",
    "price": 23.0,
    "priceText": "from £23",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "London",
-   "score": 73
-  },
-  {
-   "id": "olt-oh-mary-111465023",
-   "source": "olt",
-   "title": "Oh, Mary!",
-   "subtitle": "Comedy, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Special offer",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/oh-mary-111465023/",
-   "image": "https://officiallondontheatre.com/app/uploads/2025/10/Oh-Mary-Lolly-1200x600-1-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
    "discount": null,
    "code": "",
    "heat": null,
@@ -1902,8 +1876,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/333-mousetrap",
    "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
-   "price": 26.0,
-   "priceText": "from £26",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 28,
    "code": "",
    "heat": null,
@@ -2035,6 +2009,31 @@
    "score": 69
   },
   {
+   "id": "olt-moulin-rouge-the-musical-tickets-111421793",
+   "source": "olt",
+   "title": "Moulin Rouge! The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 21%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/moulin-rouge-the-musical-tickets-111421793/",
+   "image": "https://officiallondontheatre.com/app/uploads/2020/02/MRTM-202606-PartyC-BBs-SOLT-1200x600-1-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 21,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-08T23:59:00Z",
+   "venue": "London",
+   "score": 68
+  },
+  {
    "id": "todaytix-44284",
    "source": "todaytix",
    "title": "The Story",
@@ -2085,6 +2084,31 @@
    "score": 67
   },
   {
+   "id": "todaytix-47454",
+   "source": "todaytix",
+   "title": "Tru",
+   "subtitle": "Menier Chocolate Factory",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 25%",
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47454-tru",
+   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 36.0,
+   "priceText": "from £36",
+   "discount": 25,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Menier Chocolate Factory, London",
+   "score": 67
+  },
+  {
    "id": "hukd-4934653",
    "source": "hukd",
    "title": "2 Cineworld Adult Standard Tickets via Three+ (fees apply)",
@@ -2106,31 +2130,6 @@
    "published": "2026-07-13T07:59:33Z",
    "expires": null,
    "venue": "",
-   "score": 66
-  },
-  {
-   "id": "olt-moulin-rouge-the-musical-tickets-111421793",
-   "source": "olt",
-   "title": "Moulin Rouge! The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 18%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/moulin-rouge-the-musical-tickets-111421793/",
-   "image": "https://officiallondontheatre.com/app/uploads/2020/02/MRTM-202606-PartyC-BBs-SOLT-1200x600-1-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 18,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-08T23:59:00Z",
-   "venue": "London",
    "score": 66
   },
   {
