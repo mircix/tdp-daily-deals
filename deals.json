@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-04T23:59:19Z",
+ "generatedAt": "2026-10-05T05:52:37Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 47,
+   "count": 49,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "errors": []
   }
  ],
@@ -783,30 +783,6 @@
    "score": 80
   },
   {
-   "id": "hukd-4991100",
-   "source": "hukd",
-   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
-   "subtitle": "Amazon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "589°"
-   ],
-   "merchant": "Amazon",
-   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-4991100",
-   "image": "https://images.hotukdeals.com/threads/raw/LeVQk/4991100_1/re/768x768/qt/60/4991100_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 589.3,
-   "rating": null,
-   "published": "2026-09-29T04:39:20Z",
-   "expires": "2026-10-07T22:59:00Z",
-   "venue": "",
-   "score": 79
-  },
-  {
    "id": "olt-neighbour-totoro-tickets-111433417",
    "source": "olt",
    "title": "My Neighbour Totoro",
@@ -881,6 +857,30 @@
    "expires": null,
    "venue": "",
    "score": 79
+  },
+  {
+   "id": "hukd-4991100",
+   "source": "hukd",
+   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
+   "subtitle": "Amazon",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "589°"
+   ],
+   "merchant": "Amazon",
+   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-4991100",
+   "image": "https://images.hotukdeals.com/threads/raw/LeVQk/4991100_1/re/768x768/qt/60/4991100_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 589.3,
+   "rating": null,
+   "published": "2026-09-29T04:39:20Z",
+   "expires": "2026-10-07T22:59:00Z",
+   "venue": "",
+   "score": 78
   },
   {
    "id": "hukd-4951563",
@@ -1766,6 +1766,54 @@
    "score": 71
   },
   {
+   "id": "todaytix-46909",
+   "source": "todaytix",
+   "title": "High School Musical",
+   "subtitle": "Troubadour Wembley Park Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2QMX0EgBEM8weY28iAxXbi/c09f6c1359b68deb1efcffe5a5bd4cd0/HSM_1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 31.0,
+   "priceText": "from £31",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Troubadour Wembley Park Theatre, London",
+   "score": 70
+  },
+  {
+   "id": "todaytix-47502",
+   "source": "todaytix",
+   "title": "Jane Eyre",
+   "subtitle": "Southwark Playhouse Elephant",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Pay No Fees"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47502-jane-eyre",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5PHMnPTzcvJni5MqnN0Cms/b768891af37471ce6017d581f3fc31a7/JaneEyreCast-TT_1080_x_1080px.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-24T23:59:00Z",
+   "venue": "Southwark Playhouse Elephant, London",
+   "score": 70
+  },
+  {
    "id": "todaytix-46996",
    "source": "todaytix",
    "title": "Jesus Christ Superstar",
@@ -1778,8 +1826,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46996-jesus-christ-superstar-theatre-royal-drury-lane",
    "image": "https://images.ctfassets.net/6pezt69ih962/4rjcswgFYRBConJwj8GN8A/30fbed3c0997582fad5a5726f492a717/8490_56_JCS_TTG_1080x1080_TRDL.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
+   "price": 31.0,
+   "priceText": "from £31",
    "discount": null,
    "code": "",
    "heat": null,
@@ -1821,7 +1869,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Exclusive Prices"
+    "Exclusive Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
@@ -2326,30 +2374,6 @@
    "expires": null,
    "venue": "",
    "score": 49
-  },
-  {
-   "id": "news-parents-can-slash-october-break-costs-with-this-family-cinema-deal",
-   "source": "news",
-   "title": "Parents can slash October break costs with this family cinema deal",
-   "subtitle": "Glasgow Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Glasgow Times"
-   ],
-   "merchant": "Glasgow Times",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT203bzlGYmtMNldDeTJ4Vy1GdExjRW5kamxrTE1BMWN1ZzJfdWt2aF9aemRJXzJmWWxfbS1XM2xhNGRvdTN4eklrd2hDZkI1OU9HRWdPMlJ0ME00QzBJTzNGQmZlc1ZPTFU2dTIyTzRva1ZGamEyQTl0XzU4MU9TY1p3SzRvWjRTS3Q3eVVkMXVNODR5N2dDUWJQYkVNV0k0Z0cyQXZhMlYydw?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-09-30T14:43:08Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
   },
   {
    "id": "news-cult-classic-24-hour-party-people-returning-to-lancashire-cinemas-for-free",
