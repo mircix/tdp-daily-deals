@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-05T14:56:23Z",
+ "generatedAt": "2026-10-05T22:03:59Z",
  "sources": [
   {
    "id": "olt",
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 22,
+   "count": 24,
    "errors": []
   },
   {
@@ -34,11 +34,9 @@
    "name": "News",
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
-   "ok": false,
-   "count": 0,
-   "errors": [
-    "headlines: HTTP Error 503: Service Unavailable"
-   ]
+   "ok": true,
+   "count": 3,
+   "errors": []
   }
  ],
  "categories": [
@@ -90,6 +88,31 @@
    "score": 92
   },
   {
+   "id": "hukd-4996629",
+   "source": "hukd",
+   "title": "Free Special Preview Screening Tickets: \"Forgotten Island\" At Selected Cinemas - 7th October",
+   "subtitle": "Show Film First",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "394°",
+    "FREE"
+   ],
+   "merchant": "Show Film First",
+   "url": "https://www.hotukdeals.com/deals/free-film-forgotten-island-at-selected-cinemas-courtesy-of-weticketitcom-4996629",
+   "image": "https://images.hotukdeals.com/threads/raw/3ZTyK/4996629_1/re/768x768/qt/60/4996629_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 394.4,
+   "rating": null,
+   "published": "2026-10-05T15:15:32Z",
+   "expires": "2026-10-07T22:59:00Z",
+   "venue": "",
+   "score": 89
+  },
+  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -98,13 +121,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 57%",
-    "From £25"
+    "From £15"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/million-dollar-quartet-111475900/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/08/260805-MDQ-OLT_1200-x-600-768x384.jpg",
-   "price": 25.0,
-   "priceText": "from £25",
+   "price": 15.0,
+   "priceText": "from £15",
    "discount": 57,
    "code": "",
    "heat": null,
@@ -311,7 +334,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-09T23:59:00Z",
+   "expires": "2026-10-16T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -385,7 +408,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-10T23:59:00Z",
+   "expires": "2026-10-12T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -563,6 +586,30 @@
    "published": null,
    "expires": "2026-10-09T23:59:00Z",
    "venue": "London",
+   "score": 82
+  },
+  {
+   "id": "hukd-4991179",
+   "source": "hukd",
+   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "2556°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
+   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 2555.7,
+   "rating": null,
+   "published": "2026-09-29T06:52:16Z",
+   "expires": null,
+   "venue": "",
    "score": 82
   },
   {
@@ -811,6 +858,30 @@
    "score": 80
   },
   {
+   "id": "hukd-4991100",
+   "source": "hukd",
+   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
+   "subtitle": "Amazon",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "594°"
+   ],
+   "merchant": "Amazon",
+   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-4991100",
+   "image": "https://images.hotukdeals.com/threads/raw/LeVQk/4991100_1/re/768x768/qt/60/4991100_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 593.6,
+   "rating": null,
+   "published": "2026-09-29T04:39:20Z",
+   "expires": "2026-10-07T22:59:00Z",
+   "venue": "",
+   "score": 79
+  },
+  {
    "id": "olt-into-the-woods-111473840",
    "source": "olt",
    "title": "Into The Woods",
@@ -848,7 +919,7 @@
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
-   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-2025-09-BBs-LTD-1200x600-1-768x384.jpg",
+   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
    "price": 18.0,
    "priceText": "from £18",
    "discount": 41,
@@ -910,30 +981,6 @@
    "expires": null,
    "venue": "",
    "score": 79
-  },
-  {
-   "id": "hukd-4991100",
-   "source": "hukd",
-   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
-   "subtitle": "Amazon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "589°"
-   ],
-   "merchant": "Amazon",
-   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-4991100",
-   "image": "https://images.hotukdeals.com/threads/raw/LeVQk/4991100_1/re/768x768/qt/60/4991100_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 589.3,
-   "rating": null,
-   "published": "2026-09-29T04:39:20Z",
-   "expires": "2026-10-07T22:59:00Z",
-   "venue": "",
-   "score": 78
   },
   {
    "id": "hukd-4951563",
@@ -1372,31 +1419,6 @@
    "published": null,
    "expires": "2026-10-24T23:59:00Z",
    "venue": "Royal Court, London",
-   "score": 75
-  },
-  {
-   "id": "todaytix-47549",
-   "source": "todaytix",
-   "title": "Musicals By Candlelight",
-   "subtitle": "The Actors' Church",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save 40%",
-    "£20 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 40,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "The Actors' Church, London",
    "score": 75
   },
   {
@@ -1903,8 +1925,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46996-jesus-christ-superstar-theatre-royal-drury-lane",
    "image": "https://images.ctfassets.net/6pezt69ih962/4rjcswgFYRBConJwj8GN8A/30fbed3c0997582fad5a5726f492a717/8490_56_JCS_TTG_1080x1080_TRDL.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
+   "price": 31.0,
+   "priceText": "from £31",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2107,6 +2129,32 @@
    "published": null,
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Round Chapel, Hackney, London",
+   "score": 69
+  },
+  {
+   "id": "todaytix-47549",
+   "source": "todaytix",
+   "title": "Musicals By Candlelight",
+   "subtitle": "The Actors' Church",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 29%",
+    "£20 Rush tickets",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "The Actors' Church, London",
    "score": 69
   },
   {
@@ -2427,6 +2475,78 @@
    "expires": "2026-11-10T14:59:00Z",
    "venue": "",
    "score": 56
+  },
+  {
+   "id": "news-how-to-watch-practical-magic-2-with-friends-for-just-5-each-in-new-dudley-cinema",
+   "source": "news",
+   "title": "How to watch Practical Magic 2 with friends for just £5 each in new Dudley cinema deal",
+   "subtitle": "Birmingham Live",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Birmingham Live"
+   ],
+   "merchant": "Birmingham Live",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPak9ESjc0TDQ2YVVUZllWdWY2cXpzX29fb1lVbklYaER4RktUeFlicUxmMzRDUURPMzJzMjdkck1CNE83aGhmMXVwM29ZRWNNVERoTzE3WjljT0Z3U25YcDhHTUtaV01DOWZ4Y2VrbHg2clRfVF94S19tZUlycmFXbTU2YkdXWDFyZUpJRS1aTm8xUFJzTEdZZjNtUdIBoAFBVV95cUxQQmIyTE9lWHZSWmNqMGJ3YmlaNGFQR09GenhMaUF4aFZhaXNJSXJ0QWg5aUZlNGFDaVJjRWpTYlJuNE90ZTh6VWhqSkp6NmZ3ZUpTeDhsQ1o0aEdZa1ZUdWEyTW9LYXE0WUtNd3NwZUhxdFB2dkt4UW15a0kyVUxsNjdIOUJQRXRxNVZkenBRNUhCdm1SY0VWSDhLN096V0xz?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-03T10:06:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
+   "id": "news-parents-can-slash-october-break-costs-with-this-family-cinema-deal",
+   "source": "news",
+   "title": "Parents can slash October break costs with this family cinema deal",
+   "subtitle": "Glasgow Times",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Glasgow Times"
+   ],
+   "merchant": "Glasgow Times",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT203bzlGYmtMNldDeTJ4Vy1GdExjRW5kamxrTE1BMWN1ZzJfdWt2aF9aemRJXzJmWWxfbS1XM2xhNGRvdTN4eklrd2hDZkI1OU9HRWdPMlJ0ME00QzBJTzNGQmZlc1ZPTFU2dTIyTzRva1ZGamEyQTl0XzU4MU9TY1p3SzRvWjRTS3Q3eVVkMXVNODR5N2dDUWJQYkVNV0k0Z0cyQXZhMlYydw?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-09-30T14:43:08Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
+   "id": "news-cult-classic-24-hour-party-people-returning-to-lancashire-cinemas-for-free",
+   "source": "news",
+   "title": "Cult classic 24 Hour Party People returning to Lancashire cinemas for free",
+   "subtitle": "Lancashire Telegraph",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Lancashire Telegraph"
+   ],
+   "merchant": "Lancashire Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkptUTVHbFBrWTdRVUFlM1YyRjZGOXFvX05uU1cxSy1uMERBWWJJb01reVFMdnRvSmZ3V1ZESm9DQUpLQVI3MlBQOTlvRi1MdXVpbnlyWDZlaEdsZ3BHYjZoRXd6Q3hsTnpVQU1Vc0ZOcld0bDhXS0JDeS03VWJuQ2NiOTAteXJEblVvTUh3ZHdvOGFTbzdJRXlsOWpCWWJHekRXcC1LM3ZadTg?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-09-22T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
   }
  ]
 }
