@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-05T22:03:59Z",
+ "generatedAt": "2026-10-06T06:31:20Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 23,
+   "count": 26,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 24,
+   "count": 22,
    "errors": []
   },
   {
@@ -95,7 +95,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "394°",
+    "511°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -105,12 +105,37 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 394.4,
+   "heat": 511.2,
    "rating": null,
    "published": "2026-10-05T15:15:32Z",
    "expires": "2026-10-07T22:59:00Z",
    "venue": "",
-   "score": 89
+   "score": 90
+  },
+  {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 63%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 63,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
   },
   {
    "id": "olt-million-dollar-quartet-111475900",
@@ -134,6 +159,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-11T23:59:00Z",
+   "venue": "London",
+   "score": 88
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -339,6 +389,31 @@
    "score": 84
   },
   {
+   "id": "todaytix-36456",
+   "source": "todaytix",
+   "title": "The Hunger Games: On Stage",
+   "subtitle": "Troubadour Canary Wharf Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 55%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 26.0,
+   "priceText": "from £26",
+   "discount": 55,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Troubadour Canary Wharf Theatre, London",
+   "score": 84
+  },
+  {
    "id": "todaytix-25118",
    "source": "todaytix",
    "title": "ABBA Voyage",
@@ -489,32 +564,6 @@
    "score": 83
   },
   {
-   "id": "hukd-4992071",
-   "source": "hukd",
-   "title": "120+ theatre shows free for seven days + 20% off first 2 months",
-   "subtitle": "National Theatre",
-   "category": "theatre",
-   "kind": "free",
-   "badges": [
-    "70°",
-    "20% off",
-    "FREE"
-   ],
-   "merchant": "National Theatre",
-   "url": "https://www.hotukdeals.com/vouchers/120-theatre-shows-free-for-seven-days-20-off-first-2-months-4992071",
-   "image": "https://images.hotukdeals.com/threads/raw/HDYlb/4992071_1/re/768x768/qt/60/4992071_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": 20,
-   "code": "",
-   "heat": 70.0,
-   "rating": null,
-   "published": "2026-09-30T08:50:34Z",
-   "expires": "2026-10-05T22:59:00Z",
-   "venue": "",
-   "score": 82
-  },
-  {
    "id": "todaytix-47450",
    "source": "todaytix",
    "title": "Flamenc Oh!!",
@@ -596,7 +645,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2556°"
+    "2562°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -605,7 +654,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2555.7,
+   "heat": 2561.5,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -858,30 +907,6 @@
    "score": 80
   },
   {
-   "id": "hukd-4991100",
-   "source": "hukd",
-   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
-   "subtitle": "Amazon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "594°"
-   ],
-   "merchant": "Amazon",
-   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-4991100",
-   "image": "https://images.hotukdeals.com/threads/raw/LeVQk/4991100_1/re/768x768/qt/60/4991100_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 593.6,
-   "rating": null,
-   "published": "2026-09-29T04:39:20Z",
-   "expires": "2026-10-07T22:59:00Z",
-   "venue": "",
-   "score": 79
-  },
-  {
    "id": "olt-into-the-woods-111473840",
    "source": "olt",
    "title": "Into The Woods",
@@ -983,27 +1008,26 @@
    "score": 79
   },
   {
-   "id": "hukd-4951563",
+   "id": "hukd-4991100",
    "source": "hukd",
-   "title": "Meerkat movies 2 for 1 cinema tickets every Tuesday or Wednesday without any purchase using app",
-   "subtitle": "Compare The Market",
+   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
+   "subtitle": "Amazon",
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "3440°",
-    "50% off"
+    "594°"
    ],
-   "merchant": "Compare The Market",
-   "url": "https://www.hotukdeals.com/deals/meerkat-movies-2-for-1-without-any-purchase-using-app-4951563",
-   "image": "https://images.hotukdeals.com/threads/raw/fBxsg/4951563_1/re/768x768/qt/60/4951563_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 50,
+   "merchant": "Amazon",
+   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-4991100",
+   "image": "https://images.hotukdeals.com/threads/raw/LeVQk/4991100_1/re/768x768/qt/60/4991100_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
    "code": "",
-   "heat": 3440.3,
+   "heat": 593.6,
    "rating": null,
-   "published": "2026-08-06T05:29:20Z",
-   "expires": null,
+   "published": "2026-09-29T04:39:20Z",
+   "expires": "2026-10-07T22:59:00Z",
    "venue": "",
    "score": 78
   },
@@ -1817,6 +1841,31 @@
    "score": 72
   },
   {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-11T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
    "id": "hukd-4772103",
    "source": "hukd",
    "title": "4 x £5 2D tickets or £10 4DX - Clubcard Price",
@@ -1982,30 +2031,6 @@
    "published": null,
    "expires": null,
    "venue": "Dominion Theatre, London",
-   "score": 70
-  },
-  {
-   "id": "todaytix-36456",
-   "source": "todaytix",
-   "title": "The Hunger Games: On Stage",
-   "subtitle": "Troubadour Canary Wharf Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "Troubadour Canary Wharf Theatre, London",
    "score": 70
   },
   {
@@ -2501,30 +2526,6 @@
    "score": 48
   },
   {
-   "id": "news-parents-can-slash-october-break-costs-with-this-family-cinema-deal",
-   "source": "news",
-   "title": "Parents can slash October break costs with this family cinema deal",
-   "subtitle": "Glasgow Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Glasgow Times"
-   ],
-   "merchant": "Glasgow Times",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT203bzlGYmtMNldDeTJ4Vy1GdExjRW5kamxrTE1BMWN1ZzJfdWt2aF9aemRJXzJmWWxfbS1XM2xhNGRvdTN4eklrd2hDZkI1OU9HRWdPMlJ0ME00QzBJTzNGQmZlc1ZPTFU2dTIyTzRva1ZGamEyQTl0XzU4MU9TY1p3SzRvWjRTS3Q3eVVkMXVNODR5N2dDUWJQYkVNV0k0Z0cyQXZhMlYydw?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-09-30T14:43:08Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-cult-classic-24-hour-party-people-returning-to-lancashire-cinemas-for-free",
    "source": "news",
    "title": "Cult classic 24 Hour Party People returning to Lancashire cinemas for free",
@@ -2547,6 +2548,30 @@
    "expires": null,
    "venue": "",
    "score": 47
+  },
+  {
+   "id": "news-mango-discount-codes-for-october-2026-10-off",
+   "source": "news",
+   "title": "Mango discount codes for October 2026 – 10% off",
+   "subtitle": "The Independent",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "The Independent"
+   ],
+   "merchant": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2ZfVmZQY1Y2N2lwUjJ0TzdiVHlPWFdDeXE2Y0hBTXJwc2ZqM1lQV2VLVlBXUElYSVI0dl9xcUM5dXFNWk4yamk1QUNhWnJuTVVTZVBTeEgwSXNQMzVLOHlqczRSWnlrNkJsa25jZHJxSEZhWGhYVmYwMWZjR0FRRjhtNVE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": 10,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-02T15:46:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 42
   }
  ]
 }
