@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-06T06:31:20Z",
+ "generatedAt": "2026-10-06T16:01:13Z",
  "sources": [
   {
    "id": "olt",
@@ -95,7 +95,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "511°",
+    "651°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -105,7 +105,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 511.2,
+   "heat": 651.1,
    "rating": null,
    "published": "2026-10-05T15:15:32Z",
    "expires": "2026-10-07T22:59:00Z",
@@ -284,7 +284,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-10T23:59:00Z",
+   "expires": "2026-10-13T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -311,6 +311,31 @@
    "published": "2026-09-17T04:44:18Z",
    "expires": "2026-10-06T22:59:00Z",
    "venue": "",
+   "score": 85
+  },
+  {
+   "id": "todaytix-36456",
+   "source": "todaytix",
+   "title": "The Hunger Games: On Stage",
+   "subtitle": "Troubadour Canary Wharf Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 56%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 26.0,
+   "priceText": "from £26",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Troubadour Canary Wharf Theatre, London",
    "score": 85
   },
   {
@@ -389,31 +414,6 @@
    "score": 84
   },
   {
-   "id": "todaytix-36456",
-   "source": "todaytix",
-   "title": "The Hunger Games: On Stage",
-   "subtitle": "Troubadour Canary Wharf Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 55%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 26.0,
-   "priceText": "from £26",
-   "discount": 55,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "Troubadour Canary Wharf Theatre, London",
-   "score": 84
-  },
-  {
    "id": "todaytix-25118",
    "source": "todaytix",
    "title": "ABBA Voyage",
@@ -483,7 +483,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-12T23:59:00Z",
+   "expires": "2026-10-13T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -830,7 +830,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-08T23:59:00Z",
+   "expires": "2026-10-13T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -914,7 +914,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save up to 41%",
+    "Save up to 40%",
     "From £18"
    ],
    "merchant": "Official London Theatre",
@@ -922,7 +922,7 @@
    "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
    "price": 18.0,
    "priceText": "from £18",
-   "discount": 41,
+   "discount": 40,
    "code": "",
    "heat": null,
    "rating": null,
@@ -952,7 +952,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-11T23:59:00Z",
+   "expires": "2026-10-13T23:59:00Z",
    "venue": "London",
    "score": 79
   },
@@ -1527,13 +1527,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 34%",
-    "From £40"
+    "From £33"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-book-of-mormon-157833/",
    "image": "https://officiallondontheatre.com/app/uploads/2012/10/679593575-bom_nov24_solt_socialassets_saleslisting_1200x600-2-1-768x384.jpg",
-   "price": 40.0,
-   "priceText": "from £40",
+   "price": 33.0,
+   "priceText": "from £33",
    "discount": 34,
    "code": "",
    "heat": null,
@@ -1637,7 +1637,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-12T23:59:00Z",
+   "expires": "2026-10-13T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -1836,7 +1836,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-08T23:59:00Z",
+   "expires": "2026-10-14T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -1873,7 +1873,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "948°"
+    "960°"
    ],
    "merchant": "Cineworld",
    "url": "https://www.hotukdeals.com/deals/cineworld-with-tesco-clubcard-4-x-ps5-2d-tickets-or-ps10-4dx-4772103",
@@ -1882,7 +1882,7 @@
    "priceText": "£5",
    "discount": null,
    "code": "",
-   "heat": 948.3,
+   "heat": 959.5,
    "rating": null,
    "published": "2025-12-19T19:35:56Z",
    "expires": null,
@@ -1974,8 +1974,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46996-jesus-christ-superstar-theatre-royal-drury-lane",
    "image": "https://images.ctfassets.net/6pezt69ih962/4rjcswgFYRBConJwj8GN8A/30fbed3c0997582fad5a5726f492a717/8490_56_JCS_TTG_1080x1080_TRDL.jpg?w=400&h=400&fit=fill",
-   "price": 31.0,
-   "priceText": "from £31",
+   "price": 25.0,
+   "priceText": "from £25",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2108,30 +2108,6 @@
    "score": 69
   },
   {
-   "id": "hukd-4982531",
-   "source": "hukd",
-   "title": "College and university students tickets (Limited number - first come, first served basis)",
-   "subtitle": "Octagon Theatre Bolton",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "56°"
-   ],
-   "merchant": "Octagon Theatre Bolton",
-   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
-   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 55.8,
-   "rating": null,
-   "published": "2026-09-16T09:14:36Z",
-   "expires": null,
-   "venue": "",
-   "score": 69
-  },
-  {
    "id": "todaytix-47552",
    "source": "todaytix",
    "title": "Gospel by Candlelight",
@@ -2232,6 +2208,30 @@
    "score": 69
   },
   {
+   "id": "hukd-4982531",
+   "source": "hukd",
+   "title": "College and university students tickets (Limited number - first come, first served basis)",
+   "subtitle": "Octagon Theatre Bolton",
+   "category": "theatre",
+   "kind": "deal",
+   "badges": [
+    "56°"
+   ],
+   "merchant": "Octagon Theatre Bolton",
+   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
+   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 55.8,
+   "rating": null,
+   "published": "2026-09-16T09:14:36Z",
+   "expires": null,
+   "venue": "",
+   "score": 68
+  },
+  {
    "id": "olt-moulin-rouge-the-musical-tickets-111421793",
    "source": "olt",
    "title": "Moulin Rouge! The Musical",
@@ -2252,7 +2252,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-08T23:59:00Z",
+   "expires": "2026-10-14T23:59:00Z",
    "venue": "London",
    "score": 68
   },
@@ -2526,17 +2526,17 @@
    "score": 48
   },
   {
-   "id": "news-cult-classic-24-hour-party-people-returning-to-lancashire-cinemas-for-free",
+   "id": "news-parents-can-slash-october-break-costs-with-this-family-cinema-deal",
    "source": "news",
-   "title": "Cult classic 24 Hour Party People returning to Lancashire cinemas for free",
-   "subtitle": "Lancashire Telegraph",
+   "title": "Parents can slash October break costs with this family cinema deal",
+   "subtitle": "Glasgow Times",
    "category": "cinema",
    "kind": "news",
    "badges": [
-    "Lancashire Telegraph"
+    "Glasgow Times"
    ],
-   "merchant": "Lancashire Telegraph",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRkptUTVHbFBrWTdRVUFlM1YyRjZGOXFvX05uU1cxSy1uMERBWWJJb01reVFMdnRvSmZ3V1ZESm9DQUpLQVI3MlBQOTlvRi1MdXVpbnlyWDZlaEdsZ3BHYjZoRXd6Q3hsTnpVQU1Vc0ZOcld0bDhXS0JDeS03VWJuQ2NiOTAteXJEblVvTUh3ZHdvOGFTbzdJRXlsOWpCWWJHekRXcC1LM3ZadTg?oc=5",
+   "merchant": "Glasgow Times",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT203bzlGYmtMNldDeTJ4Vy1GdExjRW5kamxrTE1BMWN1ZzJfdWt2aF9aemRJXzJmWWxfbS1XM2xhNGRvdTN4eklrd2hDZkI1OU9HRWdPMlJ0ME00QzBJTzNGQmZlc1ZPTFU2dTIyTzRva1ZGamEyQTl0XzU4MU9TY1p3SzRvWjRTS3Q3eVVkMXVNODR5N2dDUWJQYkVNV0k0Z0cyQXZhMlYydw?oc=5",
    "image": "",
    "price": null,
    "priceText": "",
@@ -2544,10 +2544,10 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-09-22T07:00:00Z",
+   "published": "2026-09-30T14:43:08Z",
    "expires": null,
    "venue": "",
-   "score": 47
+   "score": 48
   },
   {
    "id": "news-mango-discount-codes-for-october-2026-10-off",
