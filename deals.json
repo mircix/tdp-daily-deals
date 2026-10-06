@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-06T16:01:13Z",
+ "generatedAt": "2026-10-06T22:41:51Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 26,
+   "count": 23,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 51,
+   "count": 52,
    "errors": []
   },
   {
@@ -95,7 +95,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "651°",
+    "686°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -105,36 +105,11 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 651.1,
+   "heat": 685.8,
    "rating": null,
    "published": "2026-10-05T15:15:32Z",
    "expires": "2026-10-07T22:59:00Z",
    "venue": "",
-   "score": 90
-  },
-  {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 63%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 63,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
    "score": 90
   },
   {
@@ -161,57 +136,6 @@
    "expires": "2026-10-11T23:59:00Z",
    "venue": "London",
    "score": 88
-  },
-  {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
-   "id": "todaytix-45407",
-   "source": "todaytix",
-   "title": "Beetlejuice",
-   "subtitle": "Prince Edward Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 60%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 60,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-02T23:59:00Z",
-   "venue": "Prince Edward Theatre, London",
-   "score": 87
   },
   {
    "id": "todaytix-47138",
@@ -337,6 +261,32 @@
    "expires": null,
    "venue": "Troubadour Canary Wharf Theatre, London",
    "score": 85
+  },
+  {
+   "id": "todaytix-45407",
+   "source": "todaytix",
+   "title": "Beetlejuice",
+   "subtitle": "Prince Edward Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 55%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 55,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-02T23:59:00Z",
+   "venue": "Prince Edward Theatre, London",
+   "score": 84
   },
   {
    "id": "olt-franz-marie-111475208",
@@ -990,7 +940,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "67°",
+    "68°",
     "FREE"
    ],
    "merchant": "Uber",
@@ -1000,7 +950,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 66.7,
+   "heat": 68.5,
    "rating": null,
    "published": "2026-09-14T17:38:33Z",
    "expires": null,
@@ -1015,7 +965,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "594°"
+    "595°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-4991100",
@@ -1024,7 +974,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 593.6,
+   "heat": 595.4,
    "rating": null,
    "published": "2026-09-29T04:39:20Z",
    "expires": "2026-10-07T22:59:00Z",
@@ -1274,6 +1224,30 @@
    "published": null,
    "expires": "2026-11-28T23:59:00Z",
    "venue": "Riverside Studios, London",
+   "score": 75
+  },
+  {
+   "id": "todaytix-47410",
+   "source": "todaytix",
+   "title": "An Oak Tree",
+   "subtitle": "The Other Palace - Main Theatre",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47410-an-oak-tree",
+   "image": "https://images.ctfassets.net/6pezt69ih962/EqTr6TQLPtG9NGYA5WmPS/295b9642b33a2994c9fea578acbe244c/AOT26_FMP26_TOP_ATG_1x1.png?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-15T23:59:00Z",
+   "venue": "The Other Palace - Main Theatre, London",
    "score": 75
   },
   {
@@ -1527,13 +1501,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 34%",
-    "From £33"
+    "From £40"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-book-of-mormon-157833/",
    "image": "https://officiallondontheatre.com/app/uploads/2012/10/679593575-bom_nov24_solt_socialassets_saleslisting_1200x600-2-1-768x384.jpg",
-   "price": 33.0,
-   "priceText": "from £33",
+   "price": 40.0,
+   "priceText": "from £40",
    "discount": 34,
    "code": "",
    "heat": null,
@@ -1837,31 +1811,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-14T23:59:00Z",
-   "venue": "London",
-   "score": 72
-  },
-  {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-11T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2474,7 +2423,7 @@
    "published": "2026-09-08T19:01:38Z",
    "expires": "2026-10-30T23:59:00Z",
    "venue": "",
-   "score": 58
+   "score": 57
   },
   {
    "id": "hukd-4930804",
