@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-07T06:10:15Z",
+ "generatedAt": "2026-10-07T13:36:02Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 26,
+   "count": 27,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "errors": []
   },
   {
@@ -95,7 +95,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "686°",
+    "687°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -105,7 +105,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 685.8,
+   "heat": 687.3,
    "rating": null,
    "published": "2026-10-05T15:15:32Z",
    "expires": "2026-10-07T22:59:00Z",
@@ -414,6 +414,31 @@
    "score": 84
   },
   {
+   "id": "olt-the-mousetrap-92715",
+   "source": "olt",
+   "title": "The Mousetrap",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 49%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
+   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 49,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-10T23:59:00Z",
+   "venue": "London",
+   "score": 84
+  },
+  {
    "id": "todaytix-25118",
    "source": "todaytix",
    "title": "ABBA Voyage",
@@ -483,7 +508,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-13T23:59:00Z",
+   "expires": "2026-10-14T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -613,21 +638,21 @@
    "score": 82
   },
   {
-   "id": "olt-the-mousetrap-92715",
+   "id": "olt-into-the-woods-111473840",
    "source": "olt",
-   "title": "The Mousetrap",
-   "subtitle": "Drama, Plays",
+   "title": "Into The Woods",
+   "subtitle": "Musical",
    "category": "theatre",
    "kind": "offer",
    "badges": [
     "Save up to 46%",
-    "From £28"
+    "From £18"
    ],
    "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
-   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "url": "https://officiallondontheatre.com/show/into-the-woods-111473840/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
    "discount": 46,
    "code": "",
    "heat": null,
@@ -732,7 +757,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-12T23:59:00Z",
+   "expires": "2026-10-14T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -830,7 +855,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-13T23:59:00Z",
+   "expires": "2026-10-14T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -905,31 +930,6 @@
    "expires": null,
    "venue": "Duchess Theatre, London",
    "score": 80
-  },
-  {
-   "id": "olt-into-the-woods-111473840",
-   "source": "olt",
-   "title": "Into The Woods",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 40%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/into-the-woods-111473840/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 40,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-08T23:59:00Z",
-   "venue": "London",
-   "score": 79
   },
   {
    "id": "olt-neighbour-totoro-tickets-111433417",
@@ -1637,7 +1637,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-13T23:59:00Z",
+   "expires": "2026-10-14T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -1687,31 +1687,6 @@
    "heat": 417.8,
    "rating": null,
    "published": "2026-09-10T14:02:43Z",
-   "expires": null,
-   "venue": "",
-   "score": 74
-  },
-  {
-   "id": "hukd-4988790",
-   "source": "hukd",
-   "title": "Yorkshire's Winter Wonderland – Half Price Ice Skating & Funfair - Family of 4 ticket",
-   "subtitle": "Planet Offers",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "54°",
-    "50% off"
-   ],
-   "merchant": "Planet Offers",
-   "url": "https://www.hotukdeals.com/deals/yorkshires-winter-wonderland-half-price-ice-skating-funfair-4988790",
-   "image": "https://images.hotukdeals.com/threads/raw/mQLf5/4988790_1/re/768x768/qt/60/4988790_1.jpg",
-   "price": 33.9,
-   "priceText": "£33.90",
-   "discount": 50,
-   "code": "",
-   "heat": 54.1,
-   "rating": null,
-   "published": "2026-09-25T11:46:54Z",
    "expires": null,
    "venue": "",
    "score": 74
@@ -1886,7 +1861,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-11T23:59:00Z",
+   "expires": "2026-10-18T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -1951,8 +1926,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
    "image": "https://images.ctfassets.net/6pezt69ih962/2QMX0EgBEM8weY28iAxXbi/c09f6c1359b68deb1efcffe5a5bd4cd0/HSM_1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 31.0,
-   "priceText": "from £31",
+   "price": 27.0,
+   "priceText": "from £27",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2378,6 +2353,31 @@
    "published": null,
    "expires": null,
    "venue": "Cambridge Theatre, London",
+   "score": 65
+  },
+  {
+   "id": "olt-six-vaudeville-theatre-111428236",
+   "source": "olt",
+   "title": "Six",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 16%",
+    "From £37.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
+   "price": 37.5,
+   "priceText": "from £37.50",
+   "discount": 16,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-07T23:59:00Z",
+   "venue": "London",
    "score": 65
   },
   {
