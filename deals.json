@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-07T13:36:02Z",
+ "generatedAt": "2026-10-07T20:39:54Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 27,
+   "count": 23,
    "errors": []
   },
   {
@@ -113,31 +113,6 @@
    "score": 90
   },
   {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 63%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 63,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -159,31 +134,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-11T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -288,6 +238,32 @@
    "score": 86
   },
   {
+   "id": "todaytix-45407",
+   "source": "todaytix",
+   "title": "Beetlejuice",
+   "subtitle": "Prince Edward Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 57%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 57,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-02T23:59:00Z",
+   "venue": "Prince Edward Theatre, London",
+   "score": 85
+  },
+  {
    "id": "todaytix-36456",
    "source": "todaytix",
    "title": "The Hunger Games: On Stage",
@@ -311,32 +287,6 @@
    "expires": null,
    "venue": "Troubadour Canary Wharf Theatre, London",
    "score": 85
-  },
-  {
-   "id": "todaytix-45407",
-   "source": "todaytix",
-   "title": "Beetlejuice",
-   "subtitle": "Prince Edward Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 55%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 55,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-02T23:59:00Z",
-   "venue": "Prince Edward Theatre, London",
-   "score": 84
   },
   {
    "id": "olt-franz-marie-111475208",
@@ -670,7 +620,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2568°"
+    "2565°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -679,7 +629,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2568.3,
+   "heat": 2565.2,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -1675,7 +1625,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "418°"
+    "420°"
    ],
    "merchant": "Groupon",
    "url": "https://www.hotukdeals.com/deals/vue-2d-cinema-tickets-2-x-tickets-ps950-5-x-tickets-ps22-10-x-tickets-ps40-possibly-cheaper-via-app-4978597",
@@ -1684,7 +1634,7 @@
    "priceText": "£9.50",
    "discount": null,
    "code": "",
-   "heat": 417.8,
+   "heat": 419.6,
    "rating": null,
    "published": "2026-09-10T14:02:43Z",
    "expires": null,
@@ -1841,31 +1791,6 @@
    "score": 72
   },
   {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-18T23:59:00Z",
-   "venue": "London",
-   "score": 72
-  },
-  {
    "id": "hukd-4772103",
    "source": "hukd",
    "title": "4 x £5 2D tickets or £10 4DX - Clubcard Price",
@@ -1897,7 +1822,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "227°"
+    "229°"
    ],
    "merchant": "Sky Digital",
    "url": "https://www.hotukdeals.com/deals/sky-cinema-incudes-2-vue-tickets-every-month-and-paramount-no-extra-cost-4974929",
@@ -1906,7 +1831,7 @@
    "priceText": "£9",
    "discount": null,
    "code": "",
-   "heat": 226.8,
+   "heat": 228.6,
    "rating": null,
    "published": "2026-09-05T14:23:19Z",
    "expires": null,
@@ -2022,7 +1947,7 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
    "image": "https://images.ctfassets.net/6pezt69ih962/1TZLaXarDBZLi6LduNnb2H/16c652820cf8cee3cd29107fbfae8137/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
+   "price": 28,
    "priceText": "from £28",
    "discount": null,
    "code": "",
@@ -2252,7 +2177,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-14T23:59:00Z",
+   "expires": "2026-10-21T23:59:00Z",
    "venue": "London",
    "score": 68
   },
@@ -2356,31 +2281,6 @@
    "score": 65
   },
   {
-   "id": "olt-six-vaudeville-theatre-111428236",
-   "source": "olt",
-   "title": "Six",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 16%",
-    "From £37.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
-   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
-   "price": 37.5,
-   "priceText": "from £37.50",
-   "discount": 16,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-07T23:59:00Z",
-   "venue": "London",
-   "score": 65
-  },
-  {
    "id": "hukd-4972065",
    "source": "hukd",
    "title": "Super Saver Ticket Bundle - 5 Tickets - Luxe Cinema Included",
@@ -2475,7 +2375,7 @@
    "published": "2026-09-23T14:29:02Z",
    "expires": null,
    "venue": "",
-   "score": 59
+   "score": 58
   },
   {
    "id": "hukd-4977128",
