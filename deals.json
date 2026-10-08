@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-08T10:44:20Z",
+ "generatedAt": "2026-10-08T18:54:09Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 28,
+   "count": 24,
    "errors": []
   },
   {
@@ -88,56 +88,6 @@
    "score": 91
   },
   {
-   "id": "olt-from-the-heart-111474947",
-   "source": "olt",
-   "title": "From The Heart",
-   "subtitle": "Concert, Entertainment",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save up to 60%",
-    "From £15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/from-the-heart-111474947/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/07/1200x600-2-768x384.jpg",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 60,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-11T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 63%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 63,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -161,82 +111,6 @@
    "expires": "2026-10-15T23:59:00Z",
    "venue": "London",
    "score": 88
-  },
-  {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
-   "id": "todaytix-47138",
-   "source": "todaytix",
-   "title": "Darkling",
-   "subtitle": "Bush Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 74%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47138-darkling",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5pVoTRpxhOq3jhW5NmFmPR/9ef38f4631b40314ec3f2690d4367801/BushTheatre_Darkling_TicketAgent_TTG_1080x1080px.jpg?w=400&h=400&fit=fill",
-   "price": 10.0,
-   "priceText": "from £10",
-   "discount": 74,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-24T23:59:00Z",
-   "venue": "Bush Theatre, London",
-   "score": 87
-  },
-  {
-   "id": "todaytix-47363",
-   "source": "todaytix",
-   "title": "From The Heart",
-   "subtitle": "Garrick Theatre",
-   "category": "comedy",
-   "kind": "offer",
-   "badges": [
-    "Save 67%",
-    "£25 Rush tickets",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47363-from-the-heart",
-   "image": "https://images.ctfassets.net/6pezt69ih962/67q8jgu4nO7ZV6CzTKfcTw/dac6cb15f77ca5d4fd0b1991c3075431/1080x1080_TTG_FTH.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 67,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-18T23:59:00Z",
-   "venue": "Garrick Theatre, London",
-   "score": 87
   },
   {
    "id": "olt-oliver-111446304",
@@ -315,6 +189,32 @@
    "score": 85
   },
   {
+   "id": "todaytix-47363",
+   "source": "todaytix",
+   "title": "From The Heart",
+   "subtitle": "Garrick Theatre",
+   "category": "comedy",
+   "kind": "offer",
+   "badges": [
+    "Save 56%",
+    "£25 Rush tickets",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47363-from-the-heart",
+   "image": "https://images.ctfassets.net/6pezt69ih962/67q8jgu4nO7ZV6CzTKfcTw/dac6cb15f77ca5d4fd0b1991c3075431/1080x1080_TTG_FTH.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-18T23:59:00Z",
+   "venue": "Garrick Theatre, London",
+   "score": 85
+  },
+  {
    "id": "todaytix-36456",
    "source": "todaytix",
    "title": "The Hunger Games: On Stage",
@@ -328,8 +228,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
    "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 26.0,
-   "priceText": "from £26",
+   "price": 29.0,
+   "priceText": "from £29",
    "discount": 56,
    "code": "",
    "heat": null,
@@ -360,7 +260,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-09T23:59:00Z",
+   "expires": "2026-10-10T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -410,7 +310,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-12T23:59:00Z",
+   "expires": "2026-10-13T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -448,13 +348,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 49%",
-    "From £25.50"
+    "From £28"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 25.5,
-   "priceText": "from £25.50",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 49,
    "code": "",
    "heat": null,
@@ -590,31 +490,6 @@
    "score": 83
   },
   {
-   "id": "olt-table-111473744",
-   "source": "olt",
-   "title": "Table 17",
-   "subtitle": "Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 48%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/table-111473744/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 48,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-23T23:59:00Z",
-   "venue": "London",
-   "score": 83
-  },
-  {
    "id": "olt-the-hunger-games-on-stage-111466358",
    "source": "olt",
    "title": "The Hunger Games: On Stage",
@@ -635,7 +510,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-08T23:59:00Z",
+   "expires": null,
    "venue": "London",
    "score": 83
   },
@@ -696,7 +571,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2565°"
+    "2567°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -705,7 +580,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2565.2,
+   "heat": 2567.1,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -758,7 +633,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-14T23:59:00Z",
+   "expires": "2026-10-15T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -856,7 +731,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-14T23:59:00Z",
+   "expires": "2026-10-15T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -897,7 +772,7 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47679-the-urmetazoan",
    "image": "https://images.ctfassets.net/6pezt69ih962/5tDZVKqidsHMy50a1T9YA4/cf578edbbcd2b2bac13cc1d93fb0f432/The_Urmetazoan_TodayTix_1080x1080px.jpg?w=400&h=400&fit=fill",
-   "price": 16,
+   "price": 16.0,
    "priceText": "from £16",
    "discount": 48,
    "code": "",
@@ -1054,7 +929,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-13T23:59:00Z",
+   "expires": "2026-10-14T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1472,6 +1347,30 @@
    "score": 75
   },
   {
+   "id": "todaytix-46910",
+   "source": "todaytix",
+   "title": "RENT",
+   "subtitle": "Tom Stoppard Theatre",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£30 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46910-rent",
+   "image": "https://images.ctfassets.net/6pezt69ih962/57BuH0Cg9UAdQC7piEF4Og/6e800fabf8d85c26734cccb71ff4920b/RENT_TOM-STOPPARD_1x1__1_.png?w=400&h=400&fit=fill",
+   "price": 30.0,
+   "priceText": "from £30",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Tom Stoppard Theatre, London",
+   "score": 75
+  },
+  {
    "id": "todaytix-46142",
    "source": "todaytix",
    "title": "Sinatra The Musical",
@@ -1793,6 +1692,31 @@
    "score": 73
   },
   {
+   "id": "olt-showstopper-111424735",
+   "source": "olt",
+   "title": "Showstopper! The Improvised Musical",
+   "subtitle": "Entertainment, Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Special offer",
+    "From £21.60"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/showstopper-111424735/",
+   "image": "https://officiallondontheatre.com/app/uploads/2020/10/1200x600_osh9mo-1-1-768x384.jpg",
+   "price": 21.6,
+   "priceText": "from £21.60",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "London",
+   "score": 73
+  },
+  {
    "id": "olt-wicked-73606",
    "source": "olt",
    "title": "Wicked",
@@ -1825,7 +1749,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "57°"
+    "69°"
    ],
    "merchant": "German Doner Kebab",
    "url": "https://www.hotukdeals.com/deals/gdk-x-vue-4999927",
@@ -1834,7 +1758,7 @@
    "priceText": "£5",
    "discount": null,
    "code": "",
-   "heat": 56.7,
+   "heat": 68.6,
    "rating": null,
    "published": "2026-10-07T21:14:20Z",
    "expires": null,
@@ -1863,31 +1787,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-14T23:59:00Z",
-   "venue": "London",
-   "score": 72
-  },
-  {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-18T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2024,7 +1923,7 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
    "image": "https://images.ctfassets.net/6pezt69ih962/1TZLaXarDBZLi6LduNnb2H/16c652820cf8cee3cd29107fbfae8137/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 28,
+   "price": 28.0,
    "priceText": "from £28",
    "discount": null,
    "code": "",
@@ -2050,8 +1949,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/333-mousetrap",
    "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
-   "price": 26.0,
-   "priceText": "from £26",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 28,
    "code": "",
    "heat": null,
@@ -2389,7 +2288,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "52°"
+    "49°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/cineworld-three-ps25-big-screen-bundle-for-2-4994242",
@@ -2398,7 +2297,7 @@
    "priceText": "£25",
    "discount": null,
    "code": "",
-   "heat": 51.7,
+   "heat": 48.9,
    "rating": null,
    "published": "2026-10-02T13:11:14Z",
    "expires": "2026-10-15T22:59:00Z",
@@ -2549,7 +2448,7 @@
    "published": "2026-09-30T14:43:08Z",
    "expires": null,
    "venue": "",
-   "score": 48
+   "score": 47
   },
   {
    "id": "news-mango-discount-codes-for-october-2026-10-off",
@@ -2573,7 +2472,7 @@
    "published": "2026-10-02T15:46:00Z",
    "expires": null,
    "venue": "",
-   "score": 42
+   "score": 41
   }
  ]
 }
