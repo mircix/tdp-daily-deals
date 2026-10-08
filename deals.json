@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-07T20:39:54Z",
+ "generatedAt": "2026-10-08T01:04:29Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 23,
+   "count": 28,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 52,
+   "count": 51,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "errors": []
   },
   {
@@ -88,28 +88,53 @@
    "score": 91
   },
   {
-   "id": "hukd-4996629",
-   "source": "hukd",
-   "title": "Free Special Preview Screening Tickets: \"Forgotten Island\" At Selected Cinemas - 7th October",
-   "subtitle": "Show Film First",
-   "category": "cinema",
-   "kind": "free",
+   "id": "olt-from-the-heart-111474947",
+   "source": "olt",
+   "title": "From The Heart",
+   "subtitle": "Concert, Entertainment",
+   "category": "music",
+   "kind": "offer",
    "badges": [
-    "687°",
-    "FREE"
+    "Save up to 60%",
+    "From £15"
    ],
-   "merchant": "Show Film First",
-   "url": "https://www.hotukdeals.com/deals/free-film-forgotten-island-at-selected-cinemas-courtesy-of-weticketitcom-4996629",
-   "image": "https://images.hotukdeals.com/threads/raw/3ZTyK/4996629_1/re/768x768/qt/60/4996629_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/from-the-heart-111474947/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/07/1200x600-2-768x384.jpg",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 60,
    "code": "",
-   "heat": 687.3,
+   "heat": null,
    "rating": null,
-   "published": "2026-10-05T15:15:32Z",
-   "expires": "2026-10-07T22:59:00Z",
-   "venue": "",
+   "published": null,
+   "expires": "2026-10-11T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 63%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 63,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
    "score": 90
   },
   {
@@ -134,6 +159,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-11T23:59:00Z",
+   "venue": "London",
+   "score": 88
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -511,6 +561,31 @@
    "published": null,
    "expires": "2026-11-07T23:59:00Z",
    "venue": "Hampstead Theatre, London",
+   "score": 83
+  },
+  {
+   "id": "olt-table-111473744",
+   "source": "olt",
+   "title": "Table 17",
+   "subtitle": "Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 48%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/table-111473744/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 48,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-23T23:59:00Z",
+   "venue": "London",
    "score": 83
   },
   {
@@ -956,30 +1031,6 @@
    "expires": null,
    "venue": "",
    "score": 79
-  },
-  {
-   "id": "hukd-4991100",
-   "source": "hukd",
-   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
-   "subtitle": "Amazon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "595°"
-   ],
-   "merchant": "Amazon",
-   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-4991100",
-   "image": "https://images.hotukdeals.com/threads/raw/LeVQk/4991100_1/re/768x768/qt/60/4991100_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 595.4,
-   "rating": null,
-   "published": "2026-09-29T04:39:20Z",
-   "expires": "2026-10-07T22:59:00Z",
-   "venue": "",
-   "score": 78
   },
   {
    "id": "olt-the-play-that-goes-wrong-228430",
@@ -1791,6 +1842,31 @@
    "score": 72
   },
   {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-18T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
    "id": "hukd-4772103",
    "source": "hukd",
    "title": "4 x £5 2D tickets or £10 4DX - Clubcard Price",
@@ -1810,6 +1886,30 @@
    "heat": 959.5,
    "rating": null,
    "published": "2025-12-19T19:35:56Z",
+   "expires": null,
+   "venue": "",
+   "score": 71
+  },
+  {
+   "id": "hukd-4999927",
+   "source": "hukd",
+   "title": "GDK x VUE - Exclusive to the FivEr menu, dine in and takeaway only. Cinema Ticket Mon - Wed only",
+   "subtitle": "German Doner Kebab",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "48°"
+   ],
+   "merchant": "German Doner Kebab",
+   "url": "https://www.hotukdeals.com/deals/gdk-x-vue-4999927",
+   "image": "https://images.hotukdeals.com/threads/raw/GQxBH/4999927_1/re/768x768/qt/60/4999927_1.jpg",
+   "price": 5,
+   "priceText": "£5",
+   "discount": null,
+   "code": "",
+   "heat": 47.5,
+   "rating": null,
+   "published": "2026-10-07T21:14:20Z",
    "expires": null,
    "venue": "",
    "score": 71
@@ -1887,30 +1987,6 @@
    "score": 70
   },
   {
-   "id": "todaytix-46996",
-   "source": "todaytix",
-   "title": "Jesus Christ Superstar",
-   "subtitle": "Theatre Royal Drury Lane",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Exclusive Prices"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/46996-jesus-christ-superstar-theatre-royal-drury-lane",
-   "image": "https://images.ctfassets.net/6pezt69ih962/4rjcswgFYRBConJwj8GN8A/30fbed3c0997582fad5a5726f492a717/8490_56_JCS_TTG_1080x1080_TRDL.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-09T23:59:00Z",
-   "venue": "Theatre Royal Drury Lane, London",
-   "score": 70
-  },
-  {
    "id": "todaytix-47170",
    "source": "todaytix",
    "title": "Scrooge: Cirque Extravaganza",
@@ -1947,7 +2023,7 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
    "image": "https://images.ctfassets.net/6pezt69ih962/1TZLaXarDBZLi6LduNnb2H/16c652820cf8cee3cd29107fbfae8137/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 28,
+   "price": 28.0,
    "priceText": "from £28",
    "discount": null,
    "code": "",
