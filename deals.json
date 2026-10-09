@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-09T10:43:19Z",
+ "generatedAt": "2026-10-09T18:24:53Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 50,
+   "count": 51,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "errors": []
   },
   {
@@ -108,7 +108,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-11T23:59:00Z",
+   "expires": "2026-10-18T23:59:00Z",
    "venue": "London",
    "score": 90
   },
@@ -120,7 +120,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save up to 63%",
+    "Save up to 64%",
     "From £20"
    ],
    "merchant": "Official London Theatre",
@@ -128,7 +128,7 @@
    "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
    "price": 20.0,
    "priceText": "from £20",
-   "discount": 63,
+   "discount": 64,
    "code": "",
    "heat": null,
    "rating": null,
@@ -233,8 +233,33 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-15T23:59:00Z",
+   "expires": "2026-10-17T23:59:00Z",
    "venue": "London",
+   "score": 86
+  },
+  {
+   "id": "hukd-5001156",
+   "source": "hukd",
+   "title": "Free tickets to Festive fun with Peppa Pig - e.g Llandudno 14th Nov",
+   "subtitle": "Cineworld",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "203°",
+    "FREE"
+   ],
+   "merchant": "Cineworld",
+   "url": "https://www.hotukdeals.com/deals/free-peppa-pig-cinema-experience-5001156",
+   "image": "https://images.hotukdeals.com/threads/raw/gxdc3/5001156_1/re/768x768/qt/60/5001156_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 202.7,
+   "rating": null,
+   "published": "2026-10-09T11:27:22Z",
+   "expires": "2026-10-09T22:59:00Z",
+   "venue": "",
    "score": 86
   },
   {
@@ -261,6 +286,31 @@
    "published": null,
    "expires": "2026-10-18T23:59:00Z",
    "venue": "Garrick Theatre, London",
+   "score": 85
+  },
+  {
+   "id": "olt-the-hunger-games-on-stage-111466358",
+   "source": "olt",
+   "title": "The Hunger Games: On Stage",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 51%",
+    "From £25"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-hunger-games-on-stage-111466358/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/11/THG_OLT-DIGI-ASSETS_NOV25_1200x600-1-768x384.jpg",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 51,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-15T23:59:00Z",
+   "venue": "London",
    "score": 85
   },
   {
@@ -384,7 +434,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-13T23:59:00Z",
+   "expires": "2026-10-16T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -434,7 +484,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-15T23:59:00Z",
+   "expires": "2026-10-16T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -508,7 +558,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-14T23:59:00Z",
+   "expires": "2026-10-16T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -760,6 +810,31 @@
    "score": 80
   },
   {
+   "id": "todaytix-24622",
+   "source": "todaytix",
+   "title": "Much Ado About Nothing - Globe",
+   "subtitle": "Globe Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 43%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/24622-much-ado-about-nothing-or-globe",
+   "image": "https://images.ctfassets.net/6pezt69ih962/55N0h4N49VnRSCFMWE7mGQ/641d32c8feb6c0165d75de4a49014fd9/TodayTix_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 8.0,
+   "priceText": "from £8",
+   "discount": 43,
+   "code": "",
+   "heat": null,
+   "rating": 4.77,
+   "published": null,
+   "expires": "2026-10-24T23:59:00Z",
+   "venue": "Globe Theatre, London",
+   "score": 80
+  },
+  {
    "id": "olt-devil-wears-prada-111442287",
    "source": "olt",
    "title": "The Devil Wears Prada",
@@ -882,56 +957,6 @@
    "score": 79
   },
   {
-   "id": "todaytix-24622",
-   "source": "todaytix",
-   "title": "Much Ado About Nothing - Globe",
-   "subtitle": "Globe Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 42%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/24622-much-ado-about-nothing-or-globe",
-   "image": "https://images.ctfassets.net/6pezt69ih962/55N0h4N49VnRSCFMWE7mGQ/641d32c8feb6c0165d75de4a49014fd9/TodayTix_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 8.0,
-   "priceText": "from £8",
-   "discount": 42,
-   "code": "",
-   "heat": null,
-   "rating": 4.77,
-   "published": null,
-   "expires": "2026-10-24T23:59:00Z",
-   "venue": "Globe Theatre, London",
-   "score": 79
-  },
-  {
-   "id": "olt-neighbour-totoro-tickets-111433417",
-   "source": "olt",
-   "title": "My Neighbour Totoro",
-   "subtitle": "Drama, Family, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 41%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
-   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 41,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-15T23:59:00Z",
-   "venue": "London",
-   "score": 79
-  },
-  {
    "id": "todaytix-45447",
    "source": "todaytix",
    "title": "Oh, Mary!",
@@ -1015,7 +1040,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 42%",
+    "Save 43%",
     "Exclusive Offer"
    ],
    "merchant": "TodayTix",
@@ -1023,7 +1048,7 @@
    "image": "https://images.ctfassets.net/6pezt69ih962/3fSkIdMveCZ7sXbBfOJtq7/2049331717f90d827c7b73e7ca4022de/TodayTix_1080x1080_Globe_AsYouLikeIt.jpg?w=400&h=400&fit=fill",
    "price": 8.0,
    "priceText": "from £8",
-   "discount": 42,
+   "discount": 43,
    "code": "",
    "heat": null,
    "rating": null,
@@ -1199,7 +1224,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-11T23:59:00Z",
+   "expires": "2026-10-18T23:59:00Z",
    "venue": "London",
    "score": 76
   },
@@ -1211,7 +1236,8 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets"
+    "£30 Rush tickets",
+    "Special Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47279-affluenza",
@@ -1528,19 +1554,19 @@
    "kind": "offer",
    "badges": [
     "Save up to 34%",
-    "From £33"
+    "From £40"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-book-of-mormon-157833/",
    "image": "https://officiallondontheatre.com/app/uploads/2012/10/679593575-bom_nov24_solt_socialassets_saleslisting_1200x600-2-1-768x384.jpg",
-   "price": 33.0,
-   "priceText": "from £33",
+   "price": 40.0,
+   "priceText": "from £40",
    "discount": 34,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-14T23:59:00Z",
+   "expires": "2026-10-17T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -1594,6 +1620,30 @@
    "score": 75
   },
   {
+   "id": "todaytix-47454",
+   "source": "todaytix",
+   "title": "Tru",
+   "subtitle": "Menier Chocolate Factory",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47454-tru",
+   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Menier Chocolate Factory, London",
+   "score": 75
+  },
+  {
    "id": "olt-cabaret-111429752",
    "source": "olt",
    "title": "Cabaret",
@@ -1614,7 +1664,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-14T23:59:00Z",
+   "expires": "2026-10-17T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -1768,6 +1818,31 @@
    "score": 73
   },
   {
+   "id": "olt-neighbour-totoro-tickets-111433417",
+   "source": "olt",
+   "title": "My Neighbour Totoro",
+   "subtitle": "Drama, Family, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 31%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
+   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 31,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-15T23:59:00Z",
+   "venue": "London",
+   "score": 73
+  },
+  {
    "id": "olt-showstopper-111424735",
    "source": "olt",
    "title": "Showstopper! The Improvised Musical",
@@ -1838,7 +1913,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-14T23:59:00Z",
+   "expires": "2026-10-15T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -1864,6 +1939,31 @@
    "published": "2026-08-20T09:10:22Z",
    "expires": "2027-01-03T23:59:00Z",
    "venue": "",
+   "score": 72
+  },
+  {
+   "id": "olt-moulin-rouge-the-musical-tickets-111421793",
+   "source": "olt",
+   "title": "Moulin Rouge! The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/moulin-rouge-the-musical-tickets-111421793/",
+   "image": "https://officiallondontheatre.com/app/uploads/2020/02/MRTM-202606-PartyC-BBs-SOLT-1200x600-1-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-21T23:59:00Z",
+   "venue": "London",
    "score": 72
   },
   {
@@ -1938,6 +2038,30 @@
    "expires": null,
    "venue": "",
    "score": 71
+  },
+  {
+   "id": "todaytix-46827",
+   "source": "todaytix",
+   "title": "Girls",
+   "subtitle": "The Maria Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 31%"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46827-girls",
+   "image": "https://images.ctfassets.net/6pezt69ih962/41bYPk2W7baTZgDrVjVOwK/ac7b45bb3bddae438e8b027bfc742e04/EC_YoungVic_Girls_Facebook_1080x1080px.jpg?w=400&h=400&fit=fill",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 31,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-21T23:59:00Z",
+   "venue": "The Maria Theatre, London",
+   "score": 70
   },
   {
    "id": "todaytix-47502",
@@ -2026,8 +2150,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/333-mousetrap",
    "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 26.0,
+   "priceText": "from £26",
    "discount": 28,
    "code": "",
    "heat": null,
@@ -2186,31 +2310,6 @@
    "score": 68
   },
   {
-   "id": "olt-moulin-rouge-the-musical-tickets-111421793",
-   "source": "olt",
-   "title": "Moulin Rouge! The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 21%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/moulin-rouge-the-musical-tickets-111421793/",
-   "image": "https://officiallondontheatre.com/app/uploads/2020/02/MRTM-202606-PartyC-BBs-SOLT-1200x600-1-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 21,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-21T23:59:00Z",
-   "venue": "London",
-   "score": 68
-  },
-  {
    "id": "todaytix-44284",
    "source": "todaytix",
    "title": "The Story",
@@ -2258,31 +2357,6 @@
    "published": null,
    "expires": null,
    "venue": "Gielgud Theatre, London",
-   "score": 67
-  },
-  {
-   "id": "todaytix-47454",
-   "source": "todaytix",
-   "title": "Tru",
-   "subtitle": "Menier Chocolate Factory",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 25%",
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47454-tru",
-   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 36.0,
-   "priceText": "from £36",
-   "discount": 25,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Menier Chocolate Factory, London",
    "score": 67
   },
   {
@@ -2405,7 +2479,7 @@
    "published": "2026-09-03T12:22:16Z",
    "expires": null,
    "venue": "",
-   "score": 60
+   "score": 59
   },
   {
    "id": "hukd-4987358",
