@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-10T00:58:48Z",
+ "generatedAt": "2026-10-10T09:58:48Z",
  "sources": [
   {
    "id": "olt",
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 3,
+   "count": 4,
    "errors": []
   }
  ],
@@ -296,7 +296,8 @@
    "kind": "offer",
    "badges": [
     "Save 55%",
-    "£30 Rush tickets"
+    "£30 Rush tickets",
+    "Exclusive Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
@@ -359,6 +360,31 @@
    "rating": null,
    "published": "2026-04-15T21:46:58Z",
    "expires": null,
+   "venue": "",
+   "score": 84
+  },
+  {
+   "id": "hukd-5001484",
+   "source": "hukd",
+   "title": "Free Tonys Littl’ Bits Chocolate Mix Balls 100g / Sea Salt And Biscuit Mix 100g - If Your Name Is Tony (& Variations Of Tony) - ID Required",
+   "subtitle": "Showcase Cinemas",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "102°",
+    "FREE"
+   ],
+   "merchant": "Showcase Cinemas",
+   "url": "https://www.hotukdeals.com/deals/free-tonys-chocolate-5001484",
+   "image": "https://images.hotukdeals.com/threads/raw/iDNBP/5001484_1/re/768x768/qt/60/5001484_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 102.2,
+   "rating": null,
+   "published": "2026-10-09T23:10:01Z",
+   "expires": "2026-10-11T22:59:00Z",
    "venue": "",
    "score": 84
   },
@@ -588,6 +614,31 @@
    "score": 82
   },
   {
+   "id": "olt-hamilton-tickets-366811",
+   "source": "olt",
+   "title": "Hamilton",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 45%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
+   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 45,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-16T23:59:00Z",
+   "venue": "London",
+   "score": 82
+  },
+  {
    "id": "todaytix-21176",
    "source": "todaytix",
    "title": "Harry Potter And The Cursed Child: Both Parts",
@@ -636,31 +687,6 @@
    "score": 82
   },
   {
-   "id": "hukd-5001484",
-   "source": "hukd",
-   "title": "Free Tonys Littl’ Bits Chocolate Mix Balls 100g / Sea Salt And Biscuit Mix 100g - If Your Name Is Tony (& Variations Of Tony) - ID Required",
-   "subtitle": "Showcase Cinemas",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "43°",
-    "FREE"
-   ],
-   "merchant": "Showcase Cinemas",
-   "url": "https://www.hotukdeals.com/deals/free-tonys-chocolate-5001484",
-   "image": "https://images.hotukdeals.com/threads/raw/iDNBP/5001484_1/re/768x768/qt/60/5001484_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 42.5,
-   "rating": null,
-   "published": "2026-10-09T23:10:01Z",
-   "expires": "2026-10-11T22:59:00Z",
-   "venue": "",
-   "score": 81
-  },
-  {
    "id": "hukd-4892734",
    "source": "hukd",
    "title": "Kids FREE Entry to 200+ UK Attractions (Stonehenge / Eden Project / Edinburgh Zoo + More) via Blue Peter Badge",
@@ -706,7 +732,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-16T23:59:00Z",
+   "expires": "2026-10-17T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -903,31 +929,6 @@
    "published": "2026-09-07T06:26:46Z",
    "expires": "2026-11-02T23:59:00Z",
    "venue": "",
-   "score": 79
-  },
-  {
-   "id": "olt-hamilton-tickets-366811",
-   "source": "olt",
-   "title": "Hamilton",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 40%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
-   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 40,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-16T23:59:00Z",
-   "venue": "London",
    "score": 79
   },
   {
@@ -1576,13 +1577,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 34%",
-    "From £40"
+    "From £38"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-book-of-mormon-157833/",
    "image": "https://officiallondontheatre.com/app/uploads/2012/10/679593575-bom_nov24_solt_socialassets_saleslisting_1200x600-2-1-768x384.jpg",
-   "price": 40.0,
-   "priceText": "from £40",
+   "price": 38.0,
+   "priceText": "from £38",
    "discount": 34,
    "code": "",
    "heat": null,
@@ -1639,6 +1640,30 @@
    "published": null,
    "expires": null,
    "venue": "Criterion Theatre, London",
+   "score": 75
+  },
+  {
+   "id": "todaytix-47454",
+   "source": "todaytix",
+   "title": "Tru",
+   "subtitle": "Menier Chocolate Factory",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47454-tru",
+   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Menier Chocolate Factory, London",
    "score": 75
   },
   {
@@ -2332,31 +2357,6 @@
    "score": 67
   },
   {
-   "id": "todaytix-47454",
-   "source": "todaytix",
-   "title": "Tru",
-   "subtitle": "Menier Chocolate Factory",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 25%",
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47454-tru",
-   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 36.0,
-   "priceText": "from £36",
-   "discount": 25,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Menier Chocolate Factory, London",
-   "score": 67
-  },
-  {
    "id": "hukd-4934653",
    "source": "hukd",
    "title": "2 Cineworld Adult Standard Tickets via Three+ (fees apply)",
@@ -2406,30 +2406,6 @@
    "score": 65
   },
   {
-   "id": "hukd-4972065",
-   "source": "hukd",
-   "title": "Super Saver Ticket Bundle - 5 Tickets - Luxe Cinema Included",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "303°"
-   ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/deals/5-tickets-for-ps25-luxe-cinema-included-4972065",
-   "image": "https://images.hotukdeals.com/threads/raw/WLXjz/4972065_1/re/768x768/qt/60/4972065_1.jpg",
-   "price": 25,
-   "priceText": "£25",
-   "discount": null,
-   "code": "",
-   "heat": 303.2,
-   "rating": null,
-   "published": "2026-09-02T08:08:20Z",
-   "expires": null,
-   "venue": "",
-   "score": 61
-  },
-  {
    "id": "hukd-4994242",
    "source": "hukd",
    "title": "Cineworld Big Screen Bundle for 2 via Three+ ( 2 Cinema Tickets , 1 Large Popcorn, 2 Large Drinks & A Bag of Confectionery)",
@@ -2450,6 +2426,30 @@
    "rating": null,
    "published": "2026-10-02T13:11:14Z",
    "expires": "2026-10-15T22:59:00Z",
+   "venue": "",
+   "score": 60
+  },
+  {
+   "id": "hukd-4972065",
+   "source": "hukd",
+   "title": "Super Saver Ticket Bundle - 5 Tickets - Luxe Cinema Included",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "303°"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/deals/5-tickets-for-ps25-luxe-cinema-included-4972065",
+   "image": "https://images.hotukdeals.com/threads/raw/WLXjz/4972065_1/re/768x768/qt/60/4972065_1.jpg",
+   "price": 25,
+   "priceText": "£25",
+   "discount": null,
+   "code": "",
+   "heat": 303.2,
+   "rating": null,
+   "published": "2026-09-02T08:08:20Z",
+   "expires": null,
    "venue": "",
    "score": 60
   },
@@ -2595,6 +2595,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-03T10:06:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
+   "id": "news-national-theatre-deals",
+   "source": "news",
+   "title": "National Theatre deals",
+   "subtitle": "Money Saving Expert",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Money Saving Expert"
+   ],
+   "merchant": "Money Saving Expert",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44YmtOZHRXaF8yWWRJLUkzbGdEWTcyTjRoT3dJVjAxZTZfdVJwS3g4aG1vTXRTeGFHLXdUX0dUbWtXek8zS1otczdjdGFKSGJ5UTN6c2d3bzcyZUVhcjNCV2xRYzJ5d0NO?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-05T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 48
