@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-10T09:58:48Z",
+ "generatedAt": "2026-10-10T17:23:10Z",
  "sources": [
   {
    "id": "olt",
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "errors": []
   },
   {
@@ -110,6 +110,31 @@
    "published": null,
    "expires": "2026-10-18T23:59:00Z",
    "venue": "London",
+   "score": 90
+  },
+  {
+   "id": "hukd-5001365",
+   "source": "hukd",
+   "title": "Paul Smith - AO Arena Manchester - Up To 4 Free Tickets Via Blue Light Card",
+   "subtitle": "Blue Light Card",
+   "category": "music",
+   "kind": "free",
+   "badges": [
+    "627°",
+    "FREE"
+   ],
+   "merchant": "Blue Light Card",
+   "url": "https://www.hotukdeals.com/deals/paul-smith-manchester-free-tickets-blue-light-card-5001365",
+   "image": "https://images.hotukdeals.com/threads/raw/Dd5x2/5001365_1/re/768x768/qt/60/5001365_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 627.3,
+   "rating": null,
+   "published": "2026-10-09T16:14:07Z",
+   "expires": "2026-10-22T22:59:00Z",
+   "venue": "",
    "score": 90
   },
   {
@@ -238,28 +263,28 @@
    "score": 86
   },
   {
-   "id": "olt-the-hunger-games-on-stage-111466358",
-   "source": "olt",
-   "title": "The Hunger Games: On Stage",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
+   "id": "hukd-5001484",
+   "source": "hukd",
+   "title": "Free Tonys Littl’ Bits Chocolate Mix Balls 100g / Sea Salt And Biscuit Mix 100g - If Your Name Is Tony (& Variations Of Tony) - ID Required",
+   "subtitle": "Showcase Cinemas",
+   "category": "cinema",
+   "kind": "free",
    "badges": [
-    "Save up to 51%",
-    "From £25"
+    "138°",
+    "FREE"
    ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-hunger-games-on-stage-111466358/",
-   "image": "https://officiallondontheatre.com/app/uploads/2025/11/THG_OLT-DIGI-ASSETS_NOV25_1200x600-1-768x384.jpg",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 51,
+   "merchant": "Showcase Cinemas",
+   "url": "https://www.hotukdeals.com/deals/free-tonys-chocolate-5001484",
+   "image": "https://images.hotukdeals.com/threads/raw/iDNBP/5001484_1/re/768x768/qt/60/5001484_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
    "code": "",
-   "heat": null,
+   "heat": 138.4,
    "rating": null,
-   "published": null,
-   "expires": "2026-10-15T23:59:00Z",
-   "venue": "London",
+   "published": "2026-10-09T23:10:01Z",
+   "expires": "2026-10-11T22:59:00Z",
+   "venue": "",
    "score": 85
   },
   {
@@ -334,7 +359,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-11T23:59:00Z",
+   "expires": "2026-10-13T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -364,56 +389,6 @@
    "score": 84
   },
   {
-   "id": "hukd-5001484",
-   "source": "hukd",
-   "title": "Free Tonys Littl’ Bits Chocolate Mix Balls 100g / Sea Salt And Biscuit Mix 100g - If Your Name Is Tony (& Variations Of Tony) - ID Required",
-   "subtitle": "Showcase Cinemas",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "102°",
-    "FREE"
-   ],
-   "merchant": "Showcase Cinemas",
-   "url": "https://www.hotukdeals.com/deals/free-tonys-chocolate-5001484",
-   "image": "https://images.hotukdeals.com/threads/raw/iDNBP/5001484_1/re/768x768/qt/60/5001484_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 102.2,
-   "rating": null,
-   "published": "2026-10-09T23:10:01Z",
-   "expires": "2026-10-11T22:59:00Z",
-   "venue": "",
-   "score": 84
-  },
-  {
-   "id": "olt-into-the-woods-111473840",
-   "source": "olt",
-   "title": "Into The Woods",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 49%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/into-the-woods-111473840/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 49,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-16T23:59:00Z",
-   "venue": "London",
-   "score": 84
-  },
-  {
    "id": "olt-les-miserables-76782",
    "source": "olt",
    "title": "Les Misérables",
@@ -430,31 +405,6 @@
    "price": 28.0,
    "priceText": "from £28",
    "discount": 50,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-16T23:59:00Z",
-   "venue": "London",
-   "score": 84
-  },
-  {
-   "id": "olt-the-mousetrap-92715",
-   "source": "olt",
-   "title": "The Mousetrap",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 49%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
-   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 49,
    "code": "",
    "heat": null,
    "rating": null,
@@ -538,6 +488,31 @@
    "score": 83
   },
   {
+   "id": "olt-into-the-woods-111473840",
+   "source": "olt",
+   "title": "Into The Woods",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 47%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/into-the-woods-111473840/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 47,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-16T23:59:00Z",
+   "venue": "London",
+   "score": 83
+  },
+  {
    "id": "todaytix-45917",
    "source": "todaytix",
    "title": "Kimberly Akimbo",
@@ -589,6 +564,31 @@
    "score": 83
   },
   {
+   "id": "olt-the-hunger-games-on-stage-111466358",
+   "source": "olt",
+   "title": "The Hunger Games: On Stage",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 47%",
+    "From £25"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-hunger-games-on-stage-111466358/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/11/THG_OLT-DIGI-ASSETS_NOV25_1200x600-1-768x384.jpg",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 47,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-15T23:59:00Z",
+   "venue": "London",
+   "score": 83
+  },
+  {
    "id": "todaytix-47450",
    "source": "todaytix",
    "title": "Flamenc Oh!!",
@@ -614,31 +614,6 @@
    "score": 82
   },
   {
-   "id": "olt-hamilton-tickets-366811",
-   "source": "olt",
-   "title": "Hamilton",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 45%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
-   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 45,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-16T23:59:00Z",
-   "venue": "London",
-   "score": 82
-  },
-  {
    "id": "todaytix-21176",
    "source": "todaytix",
    "title": "Harry Potter And The Cursed Child: Both Parts",
@@ -660,6 +635,31 @@
    "published": null,
    "expires": null,
    "venue": "Palace Theatre, London",
+   "score": 82
+  },
+  {
+   "id": "olt-the-mousetrap-92715",
+   "source": "olt",
+   "title": "The Mousetrap",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 46%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
+   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 46,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-16T23:59:00Z",
+   "venue": "London",
    "score": 82
   },
   {
@@ -830,7 +830,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-16T23:59:00Z",
+   "expires": "2026-10-17T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -914,7 +914,7 @@
    "category": "cinema",
    "kind": "voucher",
    "badges": [
-    "662°",
+    "667°",
     "50% off"
    ],
    "merchant": "ODEON",
@@ -924,11 +924,36 @@
    "priceText": "",
    "discount": 50,
    "code": "",
-   "heat": 662.4,
+   "heat": 667.2,
    "rating": null,
    "published": "2026-09-07T06:26:46Z",
    "expires": "2026-11-02T23:59:00Z",
    "venue": "",
+   "score": 79
+  },
+  {
+   "id": "olt-hamilton-tickets-366811",
+   "source": "olt",
+   "title": "Hamilton",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 40%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
+   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 40,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-16T23:59:00Z",
+   "venue": "London",
    "score": 79
   },
   {
@@ -1692,30 +1717,6 @@
    "score": 74
   },
   {
-   "id": "hukd-4978597",
-   "source": "hukd",
-   "title": "Vue 2d cinema tickets - 2 x tickets £9.50 / 5 x tickets = £22 / 10 x tickets = £40 (possibly cheaper via app)",
-   "subtitle": "Groupon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "420°"
-   ],
-   "merchant": "Groupon",
-   "url": "https://www.hotukdeals.com/deals/vue-2d-cinema-tickets-2-x-tickets-ps950-5-x-tickets-ps22-10-x-tickets-ps40-possibly-cheaper-via-app-4978597",
-   "image": "https://images.hotukdeals.com/threads/raw/FSVPK/4978597_1/re/768x768/qt/60/4978597_1.jpg",
-   "price": 9.5,
-   "priceText": "£9.50",
-   "discount": null,
-   "code": "",
-   "heat": 419.6,
-   "rating": null,
-   "published": "2026-09-10T14:02:43Z",
-   "expires": null,
-   "venue": "",
-   "score": 74
-  },
-  {
    "id": "olt-flamenc-oh-111475042",
    "source": "olt",
    "title": "Flamenc-Oh!!",
@@ -1838,6 +1839,30 @@
    "published": null,
    "expires": null,
    "venue": "London",
+   "score": 73
+  },
+  {
+   "id": "hukd-4978597",
+   "source": "hukd",
+   "title": "Vue 2d cinema tickets - 2 x tickets £9.50 / 5 x tickets = £22 / 10 x tickets = £40 (possibly cheaper via app)",
+   "subtitle": "Groupon",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "420°"
+   ],
+   "merchant": "Groupon",
+   "url": "https://www.hotukdeals.com/deals/vue-2d-cinema-tickets-2-x-tickets-ps950-5-x-tickets-ps22-10-x-tickets-ps40-possibly-cheaper-via-app-4978597",
+   "image": "https://images.hotukdeals.com/threads/raw/FSVPK/4978597_1/re/768x768/qt/60/4978597_1.jpg",
+   "price": 9.5,
+   "priceText": "£9.50",
+   "discount": null,
+   "code": "",
+   "heat": 419.6,
+   "rating": null,
+   "published": "2026-09-10T14:02:43Z",
+   "expires": null,
+   "venue": "",
    "score": 73
   },
   {
@@ -2258,31 +2283,6 @@
    "score": 69
   },
   {
-   "id": "hukd-4989981",
-   "source": "hukd",
-   "title": "Up to 40% Off The Cinema Society Cinema Tickets Using Code via Lidl Plus App (Partners Section) - Selected Accounts",
-   "subtitle": "Lidl",
-   "category": "cinema",
-   "kind": "voucher",
-   "badges": [
-    "55°",
-    "40% off"
-   ],
-   "merchant": "Lidl",
-   "url": "https://www.hotukdeals.com/vouchers/save-up-to-40-on-cinema-tickets-via-the-lidl-app-tcs-apply-4989981",
-   "image": "https://images.hotukdeals.com/threads/raw/enU1C/4989981_1/re/768x768/qt/60/4989981_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 40,
-   "code": "",
-   "heat": 54.8,
-   "rating": null,
-   "published": "2026-09-27T11:31:09Z",
-   "expires": "2027-03-30T22:59:00Z",
-   "venue": "",
-   "score": 69
-  },
-  {
    "id": "hukd-4982531",
    "source": "hukd",
    "title": "College and university students tickets (Limited number - first come, first served basis)",
@@ -2329,6 +2329,31 @@
    "published": null,
    "expires": "2026-10-24T23:59:00Z",
    "venue": "Olivier Theatre, London",
+   "score": 68
+  },
+  {
+   "id": "hukd-4989981",
+   "source": "hukd",
+   "title": "Up to 40% Off The Cinema Society Cinema Tickets Using Code via Lidl Plus App (Partners Section) - Selected Accounts",
+   "subtitle": "Lidl",
+   "category": "cinema",
+   "kind": "voucher",
+   "badges": [
+    "55°",
+    "40% off"
+   ],
+   "merchant": "Lidl",
+   "url": "https://www.hotukdeals.com/vouchers/save-up-to-40-on-cinema-tickets-via-the-lidl-app-tcs-apply-4989981",
+   "image": "https://images.hotukdeals.com/threads/raw/enU1C/4989981_1/re/768x768/qt/60/4989981_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 40,
+   "code": "",
+   "heat": 54.8,
+   "rating": null,
+   "published": "2026-09-27T11:31:09Z",
+   "expires": "2027-03-30T22:59:00Z",
+   "venue": "",
    "score": 68
   },
   {
@@ -2406,30 +2431,6 @@
    "score": 65
   },
   {
-   "id": "hukd-4994242",
-   "source": "hukd",
-   "title": "Cineworld Big Screen Bundle for 2 via Three+ ( 2 Cinema Tickets , 1 Large Popcorn, 2 Large Drinks & A Bag of Confectionery)",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "49°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/cineworld-three-ps25-big-screen-bundle-for-2-4994242",
-   "image": "https://images.hotukdeals.com/threads/raw/yHWAA/4994242_1/re/768x768/qt/60/4994242_1.jpg",
-   "price": 25,
-   "priceText": "£25",
-   "discount": null,
-   "code": "",
-   "heat": 48.9,
-   "rating": null,
-   "published": "2026-10-02T13:11:14Z",
-   "expires": "2026-10-15T22:59:00Z",
-   "venue": "",
-   "score": 60
-  },
-  {
    "id": "hukd-4972065",
    "source": "hukd",
    "title": "Super Saver Ticket Bundle - 5 Tickets - Luxe Cinema Included",
@@ -2452,6 +2453,30 @@
    "expires": null,
    "venue": "",
    "score": 60
+  },
+  {
+   "id": "hukd-4994242",
+   "source": "hukd",
+   "title": "Cineworld Big Screen Bundle for 2 via Three+ ( 2 Cinema Tickets , 1 Large Popcorn, 2 Large Drinks & A Bag of Confectionery)",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "49°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/cineworld-three-ps25-big-screen-bundle-for-2-4994242",
+   "image": "https://images.hotukdeals.com/threads/raw/yHWAA/4994242_1/re/768x768/qt/60/4994242_1.jpg",
+   "price": 25,
+   "priceText": "£25",
+   "discount": null,
+   "code": "",
+   "heat": 48.9,
+   "rating": null,
+   "published": "2026-10-02T13:11:14Z",
+   "expires": "2026-10-15T22:59:00Z",
+   "venue": "",
+   "score": 59
   },
   {
    "id": "hukd-4973296",
