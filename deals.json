@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-09T18:24:53Z",
+ "generatedAt": "2026-10-10T00:58:48Z",
  "sources": [
   {
    "id": "olt",
@@ -236,57 +236,6 @@
    "expires": "2026-10-17T23:59:00Z",
    "venue": "London",
    "score": 86
-  },
-  {
-   "id": "hukd-5001156",
-   "source": "hukd",
-   "title": "Free tickets to Festive fun with Peppa Pig - e.g Llandudno 14th Nov",
-   "subtitle": "Cineworld",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "203°",
-    "FREE"
-   ],
-   "merchant": "Cineworld",
-   "url": "https://www.hotukdeals.com/deals/free-peppa-pig-cinema-experience-5001156",
-   "image": "https://images.hotukdeals.com/threads/raw/gxdc3/5001156_1/re/768x768/qt/60/5001156_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 202.7,
-   "rating": null,
-   "published": "2026-10-09T11:27:22Z",
-   "expires": "2026-10-09T22:59:00Z",
-   "venue": "",
-   "score": 86
-  },
-  {
-   "id": "todaytix-47363",
-   "source": "todaytix",
-   "title": "From The Heart",
-   "subtitle": "Garrick Theatre",
-   "category": "comedy",
-   "kind": "offer",
-   "badges": [
-    "Save 56%",
-    "£25 Rush tickets",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47363-from-the-heart",
-   "image": "https://images.ctfassets.net/6pezt69ih962/67q8jgu4nO7ZV6CzTKfcTw/dac6cb15f77ca5d4fd0b1991c3075431/1080x1080_TTG_FTH.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-18T23:59:00Z",
-   "venue": "Garrick Theatre, London",
-   "score": 85
   },
   {
    "id": "olt-the-hunger-games-on-stage-111466358",
@@ -538,31 +487,6 @@
    "score": 83
   },
   {
-   "id": "olt-hamilton-tickets-366811",
-   "source": "olt",
-   "title": "Hamilton",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 47%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
-   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 47,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-16T23:59:00Z",
-   "venue": "London",
-   "score": 83
-  },
-  {
    "id": "todaytix-20561",
    "source": "todaytix",
    "title": "Hamilton",
@@ -710,6 +634,31 @@
    "expires": null,
    "venue": "",
    "score": 82
+  },
+  {
+   "id": "hukd-5001484",
+   "source": "hukd",
+   "title": "Free Tonys Littl’ Bits Chocolate Mix Balls 100g / Sea Salt And Biscuit Mix 100g - If Your Name Is Tony (& Variations Of Tony) - ID Required",
+   "subtitle": "Showcase Cinemas",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "43°",
+    "FREE"
+   ],
+   "merchant": "Showcase Cinemas",
+   "url": "https://www.hotukdeals.com/deals/free-tonys-chocolate-5001484",
+   "image": "https://images.hotukdeals.com/threads/raw/iDNBP/5001484_1/re/768x768/qt/60/5001484_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 42.5,
+   "rating": null,
+   "published": "2026-10-09T23:10:01Z",
+   "expires": "2026-10-11T22:59:00Z",
+   "venue": "",
+   "score": 81
   },
   {
    "id": "hukd-4892734",
@@ -954,6 +903,31 @@
    "published": "2026-09-07T06:26:46Z",
    "expires": "2026-11-02T23:59:00Z",
    "venue": "",
+   "score": 79
+  },
+  {
+   "id": "olt-hamilton-tickets-366811",
+   "source": "olt",
+   "title": "Hamilton",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 40%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
+   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 40,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-16T23:59:00Z",
+   "venue": "London",
    "score": 79
   },
   {
@@ -1351,6 +1325,30 @@
    "score": 75
   },
   {
+   "id": "todaytix-47363",
+   "source": "todaytix",
+   "title": "From The Heart",
+   "subtitle": "Garrick Theatre",
+   "category": "comedy",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47363-from-the-heart",
+   "image": "https://images.ctfassets.net/6pezt69ih962/67q8jgu4nO7ZV6CzTKfcTw/dac6cb15f77ca5d4fd0b1991c3075431/1080x1080_TTG_FTH.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-18T23:59:00Z",
+   "venue": "Garrick Theatre, London",
+   "score": 75
+  },
+  {
    "id": "todaytix-24465",
    "source": "todaytix",
    "title": "Hadestown",
@@ -1446,6 +1444,30 @@
    "published": null,
    "expires": "2026-10-24T23:59:00Z",
    "venue": "Royal Court, London",
+   "score": 75
+  },
+  {
+   "id": "todaytix-47555",
+   "source": "todaytix",
+   "title": "Million Dollar Quartet",
+   "subtitle": "The Arts at Marble Arch Powered by TodayTix",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47555-million-dollar-quartet",
+   "image": "https://images.ctfassets.net/6pezt69ih962/TaKNVnyj20df4edOaFM73/0fef5f9aef76994b327d54e0afaac150/260805_MDQ_TTG_1080_x_1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-12-06T23:59:00Z",
+   "venue": "The Arts at Marble Arch Powered by TodayTix, London",
    "score": 75
   },
   {
@@ -1620,30 +1642,6 @@
    "score": 75
   },
   {
-   "id": "todaytix-47454",
-   "source": "todaytix",
-   "title": "Tru",
-   "subtitle": "Menier Chocolate Factory",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47454-tru",
-   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Menier Chocolate Factory, London",
-   "score": 75
-  },
-  {
    "id": "olt-cabaret-111429752",
    "source": "olt",
    "title": "Cabaret",
@@ -1666,32 +1664,6 @@
    "published": null,
    "expires": "2026-10-17T23:59:00Z",
    "venue": "London",
-   "score": 74
-  },
-  {
-   "id": "todaytix-47555",
-   "source": "todaytix",
-   "title": "Million Dollar Quartet",
-   "subtitle": "The Arts at Marble Arch Powered by TodayTix",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 37%",
-    "£25 Rush tickets",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47555-million-dollar-quartet",
-   "image": "https://images.ctfassets.net/6pezt69ih962/TaKNVnyj20df4edOaFM73/0fef5f9aef76994b327d54e0afaac150/260805_MDQ_TTG_1080_x_1080.jpg?w=400&h=400&fit=fill",
-   "price": 21.0,
-   "priceText": "from £21",
-   "discount": 37,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-12-06T23:59:00Z",
-   "venue": "The Arts at Marble Arch Powered by TodayTix, London",
    "score": 74
   },
   {
@@ -1741,30 +1713,6 @@
    "published": null,
    "expires": "2026-10-10T23:59:00Z",
    "venue": "London",
-   "score": 73
-  },
-  {
-   "id": "hukd-4999927",
-   "source": "hukd",
-   "title": "GDK x VUE - Exclusive to the FivEr menu, dine in and takeaway only. Cinema Ticket Mon - Wed only",
-   "subtitle": "German Doner Kebab",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "75°"
-   ],
-   "merchant": "German Doner Kebab",
-   "url": "https://www.hotukdeals.com/deals/gdk-x-vue-4999927",
-   "image": "https://images.hotukdeals.com/threads/raw/GQxBH/4999927_1/re/768x768/qt/60/4999927_1.jpg",
-   "price": 5,
-   "priceText": "£5",
-   "discount": null,
-   "code": "",
-   "heat": 75.1,
-   "rating": null,
-   "published": "2026-10-07T21:14:20Z",
-   "expires": null,
-   "venue": "",
    "score": 73
   },
   {
@@ -1891,6 +1839,30 @@
    "expires": null,
    "venue": "London",
    "score": 73
+  },
+  {
+   "id": "hukd-4999927",
+   "source": "hukd",
+   "title": "GDK x VUE - Exclusive to the FivEr menu, dine in and takeaway only. Cinema Ticket Mon - Wed only",
+   "subtitle": "German Doner Kebab",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "75°"
+   ],
+   "merchant": "German Doner Kebab",
+   "url": "https://www.hotukdeals.com/deals/gdk-x-vue-4999927",
+   "image": "https://images.hotukdeals.com/threads/raw/GQxBH/4999927_1/re/768x768/qt/60/4999927_1.jpg",
+   "price": 5,
+   "priceText": "£5",
+   "discount": null,
+   "code": "",
+   "heat": 75.1,
+   "rating": null,
+   "published": "2026-10-07T21:14:20Z",
+   "expires": null,
+   "venue": "",
+   "score": 72
   },
   {
    "id": "olt-hadestown-111440588",
@@ -2150,8 +2122,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/333-mousetrap",
    "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
-   "price": 26.0,
-   "priceText": "from £26",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 28,
    "code": "",
    "heat": null,
@@ -2360,6 +2332,31 @@
    "score": 67
   },
   {
+   "id": "todaytix-47454",
+   "source": "todaytix",
+   "title": "Tru",
+   "subtitle": "Menier Chocolate Factory",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 25%",
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47454-tru",
+   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 36.0,
+   "priceText": "from £36",
+   "discount": 25,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Menier Chocolate Factory, London",
+   "score": 67
+  },
+  {
    "id": "hukd-4934653",
    "source": "hukd",
    "title": "2 Cineworld Adult Standard Tickets via Three+ (fees apply)",
@@ -2555,6 +2552,30 @@
    "score": 56
   },
   {
+   "id": "news-nickelback-announces-the-everything-under-the-sun-tour",
+   "source": "news",
+   "title": "NICKELBACK ANNOUNCES THE EVERYTHING UNDER THE SUN TOUR!",
+   "subtitle": "Ticketmaster",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Ticketmaster"
+   ],
+   "merchant": "Ticketmaster",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmxWT0dJUmZjQXpOYlR2VGluZ3BPUENUVUdSMml2NUQtS2dmR3RPX1ZZaHZ5emxTdGh6NlVOSzBoU1hMdUdEajJuZDlEV3FkWlAzSldQRzFqbmMtdnNmMjNfNXpneHUxTnZ4MDhYX3Y1VGR4ckUtQmxleW1WdE1vYWJQTHFaN3NLX2ozNlZwS0hHT0NIZ196MV9qV0VRNlhCWDJzeW5R?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-09T22:29:11Z",
+   "expires": null,
+   "venue": "",
+   "score": 49
+  },
+  {
    "id": "news-how-to-watch-practical-magic-2-with-friends-for-just-5-each-in-new-dudley-cinema",
    "source": "news",
    "title": "How to watch Practical Magic 2 with friends for just £5 each in new Dudley cinema deal",
@@ -2601,30 +2622,6 @@
    "expires": null,
    "venue": "",
    "score": 47
-  },
-  {
-   "id": "news-mango-discount-codes-for-october-2026-10-off",
-   "source": "news",
-   "title": "Mango discount codes for October 2026 – 10% off",
-   "subtitle": "The Independent",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "The Independent"
-   ],
-   "merchant": "The Independent",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2ZfVmZQY1Y2N2lwUjJ0TzdiVHlPWFdDeXE2Y0hBTXJwc2ZqM1lQV2VLVlBXUElYSVI0dl9xcUM5dXFNWk4yamk1QUNhWnJuTVVTZVBTeEgwSXNQMzVLOHlqczRSWnlrNkJsa25jZHJxSEZhWGhYVmYwMWZjR0FRRjhtNVE?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": 10,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-02T15:46:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 41
   }
  ]
 }
