@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-10T17:23:10Z",
+ "generatedAt": "2026-10-10T21:51:38Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 29,
+   "count": 23,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 51,
+   "count": 49,
    "errors": []
   },
   {
@@ -88,31 +88,6 @@
    "score": 91
   },
   {
-   "id": "olt-from-the-heart-111474947",
-   "source": "olt",
-   "title": "From The Heart",
-   "subtitle": "Concert, Entertainment",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save up to 60%",
-    "From £15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/from-the-heart-111474947/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/07/1200x600-2-768x384.jpg",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 60,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-18T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
    "id": "hukd-5001365",
    "source": "hukd",
    "title": "Paul Smith - AO Arena Manchester - Up To 4 Free Tickets Via Blue Light Card",
@@ -120,7 +95,7 @@
    "category": "music",
    "kind": "free",
    "badges": [
-    "627°",
+    "662°",
     "FREE"
    ],
    "merchant": "Blue Light Card",
@@ -130,36 +105,11 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 627.3,
+   "heat": 662.4,
    "rating": null,
    "published": "2026-10-09T16:14:07Z",
    "expires": "2026-10-22T22:59:00Z",
    "venue": "",
-   "score": 90
-  },
-  {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 64%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 64,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
    "score": 90
   },
   {
@@ -184,31 +134,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-15T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -270,7 +195,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "138°",
+    "169°",
     "FREE"
    ],
    "merchant": "Showcase Cinemas",
@@ -280,12 +205,12 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 138.4,
+   "heat": 168.8,
    "rating": null,
    "published": "2026-10-09T23:10:01Z",
    "expires": "2026-10-11T22:59:00Z",
    "venue": "",
-   "score": 85
+   "score": 86
   },
   {
    "id": "todaytix-36456",
@@ -539,31 +464,6 @@
    "score": 83
   },
   {
-   "id": "olt-table-111473744",
-   "source": "olt",
-   "title": "Table 17",
-   "subtitle": "Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 48%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/table-111473744/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 48,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-23T23:59:00Z",
-   "venue": "London",
-   "score": 83
-  },
-  {
    "id": "olt-the-hunger-games-on-stage-111466358",
    "source": "olt",
    "title": "The Hunger Games: On Stage",
@@ -587,31 +487,6 @@
    "expires": "2026-10-15T23:59:00Z",
    "venue": "London",
    "score": 83
-  },
-  {
-   "id": "todaytix-47450",
-   "source": "todaytix",
-   "title": "Flamenc Oh!!",
-   "subtitle": "Peacock Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 51%",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47450-flamenc-oh",
-   "image": "https://images.ctfassets.net/6pezt69ih962/7nxH0izUxaFJLoSDrl5pqV/e69ec4c2f0d714103a6a5b794a49c6a4/flamencoh-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 51,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-10T23:59:00Z",
-   "venue": "Peacock Theatre, London",
-   "score": 82
   },
   {
    "id": "todaytix-21176",
@@ -1717,31 +1592,6 @@
    "score": 74
   },
   {
-   "id": "olt-flamenc-oh-111475042",
-   "source": "olt",
-   "title": "Flamenc-Oh!!",
-   "subtitle": "Comedy, Dance",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 31%",
-    "From £14.40"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/flamenc-oh-111475042/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/07/flamencoh-1200x600-1-768x384.jpg",
-   "price": 14.4,
-   "priceText": "from £14.40",
-   "discount": 31,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-10T23:59:00Z",
-   "venue": "London",
-   "score": 73
-  },
-  {
    "id": "olt-mamma-mia-148257",
    "source": "olt",
    "title": "Mamma Mia!",
@@ -1989,31 +1839,6 @@
    "score": 72
   },
   {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-18T23:59:00Z",
-   "venue": "London",
-   "score": 72
-  },
-  {
    "id": "hukd-4772103",
    "source": "hukd",
    "title": "4 x £5 2D tickets or £10 4DX - Clubcard Price",
@@ -2060,30 +1885,6 @@
    "expires": null,
    "venue": "",
    "score": 71
-  },
-  {
-   "id": "todaytix-46827",
-   "source": "todaytix",
-   "title": "Girls",
-   "subtitle": "The Maria Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 31%"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/46827-girls",
-   "image": "https://images.ctfassets.net/6pezt69ih962/41bYPk2W7baTZgDrVjVOwK/ac7b45bb3bddae438e8b027bfc742e04/EC_YoungVic_Girls_Facebook_1080x1080px.jpg?w=400&h=400&fit=fill",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 31,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-21T23:59:00Z",
-   "venue": "The Maria Theatre, London",
-   "score": 70
   },
   {
    "id": "todaytix-47502",
