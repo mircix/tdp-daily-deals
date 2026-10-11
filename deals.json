@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-10T21:51:38Z",
+ "generatedAt": "2026-10-11T05:59:18Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 23,
+   "count": 26,
    "errors": []
   },
   {
@@ -88,6 +88,31 @@
    "score": 91
   },
   {
+   "id": "olt-from-the-heart-111474947",
+   "source": "olt",
+   "title": "From The Heart",
+   "subtitle": "Concert, Entertainment",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save up to 60%",
+    "From £15"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/from-the-heart-111474947/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/07/1200x600-2-768x384.jpg",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 60,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-18T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "hukd-5001365",
    "source": "hukd",
    "title": "Paul Smith - AO Arena Manchester - Up To 4 Free Tickets Via Blue Light Card",
@@ -95,7 +120,7 @@
    "category": "music",
    "kind": "free",
    "badges": [
-    "662°",
+    "689°",
     "FREE"
    ],
    "merchant": "Blue Light Card",
@@ -105,11 +130,36 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 662.4,
+   "heat": 688.6,
    "rating": null,
    "published": "2026-10-09T16:14:07Z",
    "expires": "2026-10-22T22:59:00Z",
    "venue": "",
+   "score": 90
+  },
+  {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 64%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 64,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
    "score": 90
   },
   {
@@ -195,7 +245,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "169°",
+    "172°",
     "FREE"
    ],
    "merchant": "Showcase Cinemas",
@@ -205,7 +255,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 168.8,
+   "heat": 172.3,
    "rating": null,
    "published": "2026-10-09T23:10:01Z",
    "expires": "2026-10-11T22:59:00Z",
@@ -1835,6 +1885,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-21T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-18T23:59:00Z",
    "venue": "London",
    "score": 72
   },
