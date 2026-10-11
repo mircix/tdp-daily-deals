@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-11T05:59:18Z",
+ "generatedAt": "2026-10-11T13:04:50Z",
  "sources": [
   {
    "id": "olt",
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "errors": []
   }
  ],
@@ -120,7 +120,7 @@
    "category": "music",
    "kind": "free",
    "badges": [
-    "689°",
+    "707°",
     "FREE"
    ],
    "merchant": "Blue Light Card",
@@ -130,7 +130,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 688.6,
+   "heat": 706.8,
    "rating": null,
    "published": "2026-10-09T16:14:07Z",
    "expires": "2026-10-22T22:59:00Z",
@@ -145,7 +145,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save up to 64%",
+    "Save up to 65%",
     "From £20"
    ],
    "merchant": "Official London Theatre",
@@ -153,7 +153,7 @@
    "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
    "price": 20.0,
    "priceText": "from £20",
-   "discount": 64,
+   "discount": 65,
    "code": "",
    "heat": null,
    "rating": null,
@@ -245,7 +245,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "172°",
+    "185°",
     "FREE"
    ],
    "merchant": "Showcase Cinemas",
@@ -255,7 +255,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 172.3,
+   "heat": 184.8,
    "rating": null,
    "published": "2026-10-09T23:10:01Z",
    "expires": "2026-10-11T22:59:00Z",
@@ -334,7 +334,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-13T23:59:00Z",
+   "expires": "2026-10-14T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -1835,7 +1835,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-15T23:59:00Z",
+   "expires": "2026-10-21T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2355,31 +2355,6 @@
    "score": 59
   },
   {
-   "id": "hukd-4973296",
-   "source": "hukd",
-   "title": "Wicked theatre tickets - weekdays Sep / Oct / Nov / Dec 2026 - Apollo Victoria Theatre London (discount at checkout)",
-   "subtitle": "ATG Tickets",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "414°",
-    "20% off"
-   ],
-   "merchant": "ATG Tickets",
-   "url": "https://www.hotukdeals.com/deals/wicked-theatre-tickets-weekdays-sep-oct-nov-dec-2026-apollo-victoria-theatre-london-discount-at-checkout-4973296",
-   "image": "https://images.hotukdeals.com/threads/raw/fN5sA/4973296_1/re/768x768/qt/60/4973296_1.jpg",
-   "price": 20,
-   "priceText": "£20",
-   "discount": 20,
-   "code": "",
-   "heat": 413.6,
-   "rating": null,
-   "published": "2026-09-03T12:22:16Z",
-   "expires": null,
-   "venue": "",
-   "score": 59
-  },
-  {
    "id": "hukd-4987358",
    "source": "hukd",
    "title": "Mousetrap Theatre tickets offer from £26 - St Martin's theatre London",
@@ -2477,30 +2452,6 @@
    "score": 49
   },
   {
-   "id": "news-how-to-watch-practical-magic-2-with-friends-for-just-5-each-in-new-dudley-cinema",
-   "source": "news",
-   "title": "How to watch Practical Magic 2 with friends for just £5 each in new Dudley cinema deal",
-   "subtitle": "Birmingham Live",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Birmingham Live"
-   ],
-   "merchant": "Birmingham Live",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPak9ESjc0TDQ2YVVUZllWdWY2cXpzX29fb1lVbklYaER4RktUeFlicUxmMzRDUURPMzJzMjdkck1CNE83aGhmMXVwM29ZRWNNVERoTzE3WjljT0Z3U25YcDhHTUtaV01DOWZ4Y2VrbHg2clRfVF94S19tZUlycmFXbTU2YkdXWDFyZUpJRS1aTm8xUFJzTEdZZjNtUdIBoAFBVV95cUxQQmIyTE9lWHZSWmNqMGJ3YmlaNGFQR09GenhMaUF4aFZhaXNJSXJ0QWg5aUZlNGFDaVJjRWpTYlJuNE90ZTh6VWhqSkp6NmZ3ZUpTeDhsQ1o0aEdZa1ZUdWEyTW9LYXE0WUtNd3NwZUhxdFB2dkt4UW15a0kyVUxsNjdIOUJQRXRxNVZkenBRNUhCdm1SY0VWSDhLN096V0xz?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-03T10:06:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-national-theatre-deals",
    "source": "news",
    "title": "National Theatre deals",
@@ -2525,17 +2476,17 @@
    "score": 48
   },
   {
-   "id": "news-parents-can-slash-october-break-costs-with-this-family-cinema-deal",
+   "id": "news-how-to-watch-practical-magic-2-with-friends-for-just-5-each-in-new-dudley-cinema",
    "source": "news",
-   "title": "Parents can slash October break costs with this family cinema deal",
-   "subtitle": "Glasgow Times",
+   "title": "How to watch Practical Magic 2 with friends for just £5 each in new Dudley cinema deal",
+   "subtitle": "Birmingham Live",
    "category": "cinema",
    "kind": "news",
    "badges": [
-    "Glasgow Times"
+    "Birmingham Live"
    ],
-   "merchant": "Glasgow Times",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT203bzlGYmtMNldDeTJ4Vy1GdExjRW5kamxrTE1BMWN1ZzJfdWt2aF9aemRJXzJmWWxfbS1XM2xhNGRvdTN4eklrd2hDZkI1OU9HRWdPMlJ0ME00QzBJTzNGQmZlc1ZPTFU2dTIyTzRva1ZGamEyQTl0XzU4MU9TY1p3SzRvWjRTS3Q3eVVkMXVNODR5N2dDUWJQYkVNV0k0Z0cyQXZhMlYydw?oc=5",
+   "merchant": "Birmingham Live",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPak9ESjc0TDQ2YVVUZllWdWY2cXpzX29fb1lVbklYaER4RktUeFlicUxmMzRDUURPMzJzMjdkck1CNE83aGhmMXVwM29ZRWNNVERoTzE3WjljT0Z3U25YcDhHTUtaV01DOWZ4Y2VrbHg2clRfVF94S19tZUlycmFXbTU2YkdXWDFyZUpJRS1aTm8xUFJzTEdZZjNtUdIBoAFBVV95cUxQQmIyTE9lWHZSWmNqMGJ3YmlaNGFQR09GenhMaUF4aFZhaXNJSXJ0QWg5aUZlNGFDaVJjRWpTYlJuNE90ZTh6VWhqSkp6NmZ3ZUpTeDhsQ1o0aEdZa1ZUdWEyTW9LYXE0WUtNd3NwZUhxdFB2dkt4UW15a0kyVUxsNjdIOUJQRXRxNVZkenBRNUhCdm1SY0VWSDhLN096V0xz?oc=5",
    "image": "",
    "price": null,
    "priceText": "",
@@ -2543,7 +2494,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-09-30T14:43:08Z",
+   "published": "2026-10-03T10:06:00Z",
    "expires": null,
    "venue": "",
    "score": 47
