@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-12T00:37:39Z",
+ "generatedAt": "2026-10-12T11:04:02Z",
  "sources": [
   {
    "id": "olt",
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "errors": []
   },
   {
@@ -95,7 +95,7 @@
    "category": "music",
    "kind": "free",
    "badges": [
-    "727°",
+    "731°",
     "FREE"
    ],
    "merchant": "Blue Light Card",
@@ -105,7 +105,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 727.0,
+   "heat": 731.2,
    "rating": null,
    "published": "2026-10-09T16:14:07Z",
    "expires": "2026-10-22T22:59:00Z",
@@ -487,30 +487,6 @@
    "score": 82
   },
   {
-   "id": "hukd-4991179",
-   "source": "hukd",
-   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "2570°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
-   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 2570.2,
-   "rating": null,
-   "published": "2026-09-29T06:52:16Z",
-   "expires": null,
-   "venue": "",
-   "score": 82
-  },
-  {
    "id": "hukd-4892734",
    "source": "hukd",
    "title": "Kids FREE Entry to 200+ UK Attractions (Stonehenge / Eden Project / Edinburgh Zoo + More) via Blue Peter Badge",
@@ -536,6 +512,30 @@
    "score": 81
   },
   {
+   "id": "hukd-4991179",
+   "source": "hukd",
+   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "2580°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
+   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 2579.6,
+   "rating": null,
+   "published": "2026-09-29T06:52:16Z",
+   "expires": null,
+   "venue": "",
+   "score": 81
+  },
+  {
    "id": "olt-avenue-q-111466206",
    "source": "olt",
    "title": "Avenue Q",
@@ -556,7 +556,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-17T23:59:00Z",
+   "expires": "2026-10-19T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -680,6 +680,32 @@
    "published": null,
    "expires": "2027-01-09T23:59:00Z",
    "venue": "Adelphi Theatre, London",
+   "score": 80
+  },
+  {
+   "id": "todaytix-333",
+   "source": "todaytix",
+   "title": "The Mousetrap",
+   "subtitle": "St. Martin's Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 46%",
+    "£29.50 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/333-mousetrap",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 46,
+   "code": "",
+   "heat": null,
+   "rating": 4.3,
+   "published": null,
+   "expires": null,
+   "venue": "St. Martin's Theatre, London",
    "score": 80
   },
   {
@@ -1424,7 +1450,8 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£25 Rush tickets"
+    "£25 Rush tickets",
+    "Exclusive Prices"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/29263-stranger-things-the-first-shadow",
@@ -1449,13 +1476,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 34%",
-    "From £38"
+    "From £33"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-book-of-mormon-157833/",
    "image": "https://officiallondontheatre.com/app/uploads/2012/10/679593575-bom_nov24_solt_socialassets_saleslisting_1200x600-2-1-768x384.jpg",
-   "price": 38.0,
-   "priceText": "from £38",
+   "price": 33.0,
+   "priceText": "from £33",
    "discount": 34,
    "code": "",
    "heat": null,
@@ -1559,7 +1586,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-17T23:59:00Z",
+   "expires": "2026-10-19T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -1831,7 +1858,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-21T23:59:00Z",
+   "expires": "2026-10-15T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -1856,6 +1883,30 @@
    "rating": null,
    "published": "2025-12-19T19:35:56Z",
    "expires": null,
+   "venue": "",
+   "score": 71
+  },
+  {
+   "id": "hukd-5003348",
+   "source": "hukd",
+   "title": "The Cat in the Hat Odeon Tickets Via Vodafone VeryMe Rewards App - 2,068 Seats Available / 15 Locations",
+   "subtitle": "Vodafone",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "43°"
+   ],
+   "merchant": "Vodafone",
+   "url": "https://www.hotukdeals.com/deals/exclusive-tickets-to-see-the-cat-in-the-hat-via-vodafone-very-me-rewards-app-5003348",
+   "image": "https://images.hotukdeals.com/threads/raw/d7Kkv/5003348_1/re/768x768/qt/60/5003348_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 43.0,
+   "rating": null,
+   "published": "2026-10-12T10:40:23Z",
+   "expires": "2026-10-18T22:59:00Z",
    "venue": "",
    "score": 71
   },
@@ -1953,32 +2004,6 @@
    "published": null,
    "expires": null,
    "venue": "Dominion Theatre, London",
-   "score": 70
-  },
-  {
-   "id": "todaytix-333",
-   "source": "todaytix",
-   "title": "The Mousetrap",
-   "subtitle": "St. Martin's Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 28%",
-    "£29.50 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/333-mousetrap",
-   "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 28,
-   "code": "",
-   "heat": null,
-   "rating": 4.3,
-   "published": null,
-   "expires": null,
-   "venue": "St. Martin's Theatre, London",
    "score": 70
   },
   {
@@ -2081,30 +2106,6 @@
    "score": 69
   },
   {
-   "id": "hukd-4982531",
-   "source": "hukd",
-   "title": "College and university students tickets (Limited number - first come, first served basis)",
-   "subtitle": "Octagon Theatre Bolton",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "56°"
-   ],
-   "merchant": "Octagon Theatre Bolton",
-   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
-   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 55.8,
-   "rating": null,
-   "published": "2026-09-16T09:14:36Z",
-   "expires": null,
-   "venue": "",
-   "score": 68
-  },
-  {
    "id": "todaytix-44284",
    "source": "todaytix",
    "title": "The Story",
@@ -2153,6 +2154,30 @@
    "expires": "2027-03-30T22:59:00Z",
    "venue": "",
    "score": 68
+  },
+  {
+   "id": "hukd-4982531",
+   "source": "hukd",
+   "title": "College and university students tickets (Limited number - first come, first served basis)",
+   "subtitle": "Octagon Theatre Bolton",
+   "category": "theatre",
+   "kind": "deal",
+   "badges": [
+    "56°"
+   ],
+   "merchant": "Octagon Theatre Bolton",
+   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
+   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 55.8,
+   "rating": null,
+   "published": "2026-09-16T09:14:36Z",
+   "expires": null,
+   "venue": "",
+   "score": 67
   },
   {
    "id": "todaytix-40713",
@@ -2374,30 +2399,6 @@
    "score": 49
   },
   {
-   "id": "news-nickelback-announces-the-everything-under-the-sun-tour",
-   "source": "news",
-   "title": "NICKELBACK ANNOUNCES THE EVERYTHING UNDER THE SUN TOUR!",
-   "subtitle": "Ticketmaster",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Ticketmaster"
-   ],
-   "merchant": "Ticketmaster",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmxWT0dJUmZjQXpOYlR2VGluZ3BPUENUVUdSMml2NUQtS2dmR3RPX1ZZaHZ5emxTdGh6NlVOSzBoU1hMdUdEajJuZDlEV3FkWlAzSldQRzFqbmMtdnNmMjNfNXpneHUxTnZ4MDhYX3Y1VGR4ckUtQmxleW1WdE1vYWJQTHFaN3NLX2ozNlZwS0hHT0NIZ196MV9qV0VRNlhCWDJzeW5R?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-09T22:29:11Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-national-theatre-deals",
    "source": "news",
    "title": "National Theatre deals",
@@ -2441,6 +2442,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-03T10:06:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-parents-can-slash-october-break-costs-with-this-family-cinema-deal",
+   "source": "news",
+   "title": "Parents can slash October break costs with this family cinema deal",
+   "subtitle": "Glasgow Times",
+   "category": "theatre",
+   "kind": "news",
+   "badges": [
+    "Glasgow Times"
+   ],
+   "merchant": "Glasgow Times",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT203bzlGYmtMNldDeTJ4Vy1GdExjRW5kamxrTE1BMWN1ZzJfdWt2aF9aemRJXzJmWWxfbS1XM2xhNGRvdTN4eklrd2hDZkI1OU9HRWdPMlJ0ME00QzBJTzNGQmZlc1ZPTFU2dTIyTzRva1ZGamEyQTl0XzU4MU9TY1p3SzRvWjRTS3Q3eVVkMXVNODR5N2dDUWJQYkVNV0k0Z0cyQXZhMlYydw?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-09-30T14:43:08Z",
    "expires": null,
    "venue": "",
    "score": 47
