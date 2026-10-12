@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-11T19:35:48Z",
+ "generatedAt": "2026-10-12T00:37:39Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "errors": []
   },
   {
@@ -85,7 +85,7 @@
    "published": "2026-09-20T23:22:56Z",
    "expires": null,
    "venue": "",
-   "score": 91
+   "score": 90
   },
   {
    "id": "hukd-5001365",
@@ -105,7 +105,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 727.1,
+   "heat": 727.0,
    "rating": null,
    "published": "2026-10-09T16:14:07Z",
    "expires": "2026-10-22T22:59:00Z",
@@ -136,56 +136,6 @@
    "expires": "2026-12-02T23:59:00Z",
    "venue": "London",
    "score": 87
-  },
-  {
-   "id": "olt-beetlejuice-the-musical-111465049",
-   "source": "olt",
-   "title": "Beetlejuice The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 52%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/beetlejuice-the-musical-111465049/",
-   "image": "https://officiallondontheatre.com/app/uploads/2025/09/BJ-2026-09-bb-NewCreative-62401SGA-SOLT-1200x600-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 52,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-17T23:59:00Z",
-   "venue": "London",
-   "score": 86
-  },
-  {
-   "id": "hukd-5001484",
-   "source": "hukd",
-   "title": "Free Tonys Littl’ Bits Chocolate Mix Balls 100g / Sea Salt And Biscuit Mix 100g - If Your Name Is Tony (& Variations Of Tony) - ID Required",
-   "subtitle": "Showcase Cinemas",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "199°",
-    "FREE"
-   ],
-   "merchant": "Showcase Cinemas",
-   "url": "https://www.hotukdeals.com/deals/free-tonys-chocolate-5001484",
-   "image": "https://images.hotukdeals.com/threads/raw/iDNBP/5001484_1/re/768x768/qt/60/5001484_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 199.3,
-   "rating": null,
-   "published": "2026-10-09T23:10:01Z",
-   "expires": "2026-10-11T22:59:00Z",
-   "venue": "",
-   "score": 86
   },
   {
    "id": "todaytix-36456",
@@ -438,29 +388,28 @@
    "score": 83
   },
   {
-   "id": "todaytix-45917",
-   "source": "todaytix",
-   "title": "Kimberly Akimbo",
-   "subtitle": "Hampstead Theatre",
+   "id": "olt-table-111473744",
+   "source": "olt",
+   "title": "Table 17",
+   "subtitle": "Plays",
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 53%",
-    "£25 Rush tickets",
-    "Special Offer"
+    "Save up to 48%",
+    "From £18"
    ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45917-kimberly-akimbo",
-   "image": "https://images.ctfassets.net/6pezt69ih962/1uLppQ4gIoFiqXJr7CMHFl/d223d6d29f4c6a88ff84b46139faacac/Kimberly_Akimbo_TodayTix_1080x1080px__Reviews_.jpg?w=400&h=400&fit=fill",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 53,
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/table-111473744/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 48,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-07T23:59:00Z",
-   "venue": "Hampstead Theatre, London",
+   "expires": "2026-10-23T23:59:00Z",
+   "venue": "London",
    "score": 83
   },
   {
@@ -1281,8 +1230,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets",
-    "Special Offer"
+    "£30 Rush tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
@@ -1321,6 +1269,30 @@
    "published": null,
    "expires": null,
    "venue": "Noël Coward Theatre, London",
+   "score": 75
+  },
+  {
+   "id": "todaytix-45917",
+   "source": "todaytix",
+   "title": "Kimberly Akimbo",
+   "subtitle": "Hampstead Theatre",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45917-kimberly-akimbo",
+   "image": "https://images.ctfassets.net/6pezt69ih962/1uLppQ4gIoFiqXJr7CMHFl/d223d6d29f4c6a88ff84b46139faacac/Kimberly_Akimbo_TodayTix_1080x1080px__Reviews_.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-07T23:59:00Z",
+   "venue": "Hampstead Theatre, London",
    "score": 75
   },
   {
@@ -1667,6 +1639,31 @@
    "score": 73
   },
   {
+   "id": "olt-oh-mary-111465023",
+   "source": "olt",
+   "title": "Oh, Mary!",
+   "subtitle": "Comedy, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Special offer",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/oh-mary-111465023/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/10/Oh-Mary-Lolly-1200x600-1-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "London",
+   "score": 73
+  },
+  {
    "id": "olt-showstopper-111424735",
    "source": "olt",
    "title": "Showstopper! The Improvised Musical",
@@ -1724,13 +1721,13 @@
    "kind": "offer",
    "badges": [
     "Special offer",
-    "From £29.50"
+    "From £28"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/wicked-73606/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/Wicked-2025-10-TKTSBanner-600x1200-56210SA-Vis2-1-1-1-768x384.jpg",
-   "price": 29.5,
-   "priceText": "from £29.50",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2121,8 +2118,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/44284-the-story",
    "image": "https://images.ctfassets.net/6pezt69ih962/7qig8Ss6sMaVrtd9oioGYr/6fb1385613d16cdf3ea14066fbcc1d80/NTGDS_NC_The_Story_TodayTix_OnSale_Rollout_10.jpg?w=400&h=400&fit=fill",
-   "price": 33.0,
-   "priceText": "from £33",
+   "price": 35.0,
+   "priceText": "from £35",
    "discount": 27,
    "code": "",
    "heat": null,
@@ -2353,6 +2350,30 @@
    "score": 56
   },
   {
+   "id": "news-sam-barber-announces-his-return-down-under",
+   "source": "news",
+   "title": "Sam Barber Announces His Return Down Under",
+   "subtitle": "Ticketmaster",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Ticketmaster"
+   ],
+   "merchant": "Ticketmaster",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN3ZyZzlEZ2xhYldFbW1DQkFJUjBRS1NuM2stWnFmTmc3dVpmSDlvRzh5bl8xdWhzUURpVU1QZW84T2ZFOVFfbk1pdmw4NnhLNjdxYjh1dGczX0c1TjZ1YV91aHllRmFlWVE1Tlp5T1ZnOWlmYnFtQlRsdjNCZkp2c1ZGMXhsQVlhZ3ZhLWR0MjNnUUxKdUE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-11T21:06:58Z",
+   "expires": null,
+   "venue": "",
+   "score": 49
+  },
+  {
    "id": "news-nickelback-announces-the-everything-under-the-sun-tour",
    "source": "news",
    "title": "NICKELBACK ANNOUNCES THE EVERYTHING UNDER THE SUN TOUR!",
@@ -2374,7 +2395,7 @@
    "published": "2026-10-09T22:29:11Z",
    "expires": null,
    "venue": "",
-   "score": 49
+   "score": 48
   },
   {
    "id": "news-national-theatre-deals",
@@ -2420,30 +2441,6 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-03T10:06:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-parents-can-slash-october-break-costs-with-this-family-cinema-deal",
-   "source": "news",
-   "title": "Parents can slash October break costs with this family cinema deal",
-   "subtitle": "Glasgow Times",
-   "category": "theatre",
-   "kind": "news",
-   "badges": [
-    "Glasgow Times"
-   ],
-   "merchant": "Glasgow Times",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT203bzlGYmtMNldDeTJ4Vy1GdExjRW5kamxrTE1BMWN1ZzJfdWt2aF9aemRJXzJmWWxfbS1XM2xhNGRvdTN4eklrd2hDZkI1OU9HRWdPMlJ0ME00QzBJTzNGQmZlc1ZPTFU2dTIyTzRva1ZGamEyQTl0XzU4MU9TY1p3SzRvWjRTS3Q3eVVkMXVNODR5N2dDUWJQYkVNV0k0Z0cyQXZhMlYydw?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-09-30T14:43:08Z",
    "expires": null,
    "venue": "",
    "score": 47
