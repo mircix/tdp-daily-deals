@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-13T02:37:19Z",
+ "generatedAt": "2026-10-13T10:46:53Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 48,
+   "count": 50,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "errors": []
   }
  ],
@@ -62,6 +62,31 @@
   }
  ],
  "deals": [
+  {
+   "id": "hukd-5003590",
+   "source": "hukd",
+   "title": "Free Cinema Preview Tickets - Forgotten Island - This Thursday - at selected Vue Cinemas",
+   "subtitle": "Show Film First",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "629°",
+    "FREE"
+   ],
+   "merchant": "Show Film First",
+   "url": "https://www.hotukdeals.com/deals/free-cinema-preview-tickets-forgotten-island-this-thursday-at-selected-vue-cinemas-5003590",
+   "image": "https://images.hotukdeals.com/threads/raw/uf0Qr/5003590_1/re/768x768/qt/60/5003590_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 628.7,
+   "rating": null,
+   "published": "2026-10-12T16:04:41Z",
+   "expires": null,
+   "venue": "",
+   "score": 90
+  },
   {
    "id": "hukd-4985426",
    "source": "hukd",
@@ -138,29 +163,29 @@
    "score": 90
   },
   {
-   "id": "hukd-5003590",
-   "source": "hukd",
-   "title": "Free Cinema Preview Tickets - Forgotten Island - This Thursday - at selected Vue Cinemas",
-   "subtitle": "Show Film First",
-   "category": "cinema",
-   "kind": "free",
+   "id": "olt-million-dollar-quartet-111475900",
+   "source": "olt",
+   "title": "Million Dollar Quartet",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
    "badges": [
-    "452°",
-    "FREE"
+    "Save up to 57%",
+    "From £15"
    ],
-   "merchant": "Show Film First",
-   "url": "https://www.hotukdeals.com/deals/free-cinema-preview-tickets-forgotten-island-this-thursday-at-selected-vue-cinemas-5003590",
-   "image": "https://images.hotukdeals.com/threads/raw/uf0Qr/5003590_1/re/768x768/qt/60/5003590_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/million-dollar-quartet-111475900/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/08/260805-MDQ-OLT_1200-x-600-768x384.jpg",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 57,
    "code": "",
-   "heat": 452.4,
+   "heat": null,
    "rating": null,
-   "published": "2026-10-12T16:04:41Z",
-   "expires": null,
-   "venue": "",
-   "score": 89
+   "published": null,
+   "expires": "2026-10-20T23:59:00Z",
+   "venue": "London",
+   "score": 88
   },
   {
    "id": "olt-sinatra-the-musical-111469026",
@@ -214,6 +239,30 @@
    "score": 87
   },
   {
+   "id": "todaytix-47347",
+   "source": "todaytix",
+   "title": "Ceilidh The Musical",
+   "subtitle": "Shoreditch Town Hall",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 78%"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47347-ceilidh",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6uzECfgiM5OH4ANulMaoT6/c81fa7787af24e66bde5c98f4d2f4877/Ceilidh_TTG_Buttons_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 78,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-13T23:59:00Z",
+   "venue": "Shoreditch Town Hall, London",
+   "score": 87
+  },
+  {
    "id": "olt-oliver-111446304",
    "source": "olt",
    "title": "Oliver!",
@@ -234,7 +283,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-18T23:59:00Z",
+   "expires": "2026-10-21T23:59:00Z",
    "venue": "London",
    "score": 87
   },
@@ -284,7 +333,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-14T23:59:00Z",
+   "expires": "2026-10-15T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -314,6 +363,31 @@
    "score": 84
   },
   {
+   "id": "olt-into-the-woods-111473840",
+   "source": "olt",
+   "title": "Into The Woods",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 49%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/into-the-woods-111473840/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 49,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-17T23:59:00Z",
+   "venue": "London",
+   "score": 84
+  },
+  {
    "id": "olt-les-miserables-76782",
    "source": "olt",
    "title": "Les Misérables",
@@ -335,31 +409,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-23T23:59:00Z",
-   "venue": "London",
-   "score": 84
-  },
-  {
-   "id": "olt-million-dollar-quartet-111475900",
-   "source": "olt",
-   "title": "Million Dollar Quartet",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 49%",
-    "From £15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/million-dollar-quartet-111475900/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/08/260805-MDQ-OLT_1200-x-600-768x384.jpg",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 49,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-15T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -435,31 +484,6 @@
    "published": null,
    "expires": null,
    "venue": "Victoria Palace Theatre, London",
-   "score": 83
-  },
-  {
-   "id": "olt-into-the-woods-111473840",
-   "source": "olt",
-   "title": "Into The Woods",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 47%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/into-the-woods-111473840/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 47,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-17T23:59:00Z",
-   "venue": "London",
    "score": 83
   },
   {
@@ -1136,7 +1160,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "183°"
+    "211°"
    ],
    "merchant": "Vodafone",
    "url": "https://www.hotukdeals.com/deals/exclusive-tickets-to-see-the-cat-in-the-hat-via-vodafone-very-me-rewards-app-5003348",
@@ -1145,7 +1169,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 182.8,
+   "heat": 210.6,
    "rating": null,
    "published": "2026-10-12T10:40:23Z",
    "expires": "2026-10-18T22:59:00Z",
@@ -1369,30 +1393,6 @@
    "published": null,
    "expires": null,
    "venue": "Noël Coward Theatre, London",
-   "score": 75
-  },
-  {
-   "id": "todaytix-45917",
-   "source": "todaytix",
-   "title": "Kimberly Akimbo",
-   "subtitle": "Hampstead Theatre",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45917-kimberly-akimbo",
-   "image": "https://images.ctfassets.net/6pezt69ih962/1uLppQ4gIoFiqXJr7CMHFl/d223d6d29f4c6a88ff84b46139faacac/Kimberly_Akimbo_TodayTix_1080x1080px__Reviews_.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Hampstead Theatre, London",
    "score": 75
   },
   {
@@ -1660,7 +1660,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-19T23:59:00Z",
+   "expires": "2026-10-20T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -1907,7 +1907,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-15T23:59:00Z",
+   "expires": "2026-10-20T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -1986,6 +1986,32 @@
    "score": 71
   },
   {
+   "id": "todaytix-45917",
+   "source": "todaytix",
+   "title": "Kimberly Akimbo",
+   "subtitle": "Hampstead Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 33%",
+    "£25 Rush tickets",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45917-kimberly-akimbo",
+   "image": "https://images.ctfassets.net/6pezt69ih962/1uLppQ4gIoFiqXJr7CMHFl/d223d6d29f4c6a88ff84b46139faacac/Kimberly_Akimbo_TodayTix_1080x1080px__Reviews_.jpg?w=400&h=400&fit=fill",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 33,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Hampstead Theatre, London",
+   "score": 71
+  },
+  {
    "id": "todaytix-47502",
    "source": "todaytix",
    "title": "Jane Eyre",
@@ -2055,6 +2081,30 @@
    "published": "2026-09-05T14:23:19Z",
    "expires": null,
    "venue": "",
+   "score": 70
+  },
+  {
+   "id": "todaytix-34706",
+   "source": "todaytix",
+   "title": "The Devil Wears Prada",
+   "subtitle": "Dominion Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
+   "image": "https://images.ctfassets.net/6pezt69ih962/1TZLaXarDBZLi6LduNnb2H/16c652820cf8cee3cd29107fbfae8137/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 23,
+   "priceText": "from £23",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Dominion Theatre, London",
    "score": 70
   },
   {
@@ -2353,6 +2403,31 @@
    "score": 59
   },
   {
+   "id": "hukd-4973296",
+   "source": "hukd",
+   "title": "Wicked theatre tickets - weekdays Sep / Oct / Nov / Dec 2026 - Apollo Victoria Theatre London (discount at checkout)",
+   "subtitle": "ATG Tickets",
+   "category": "theatre",
+   "kind": "deal",
+   "badges": [
+    "414°",
+    "20% off"
+   ],
+   "merchant": "ATG Tickets",
+   "url": "https://www.hotukdeals.com/deals/wicked-theatre-tickets-weekdays-sep-oct-nov-dec-2026-apollo-victoria-theatre-london-discount-at-checkout-4973296",
+   "image": "https://images.hotukdeals.com/threads/raw/fN5sA/4973296_1/re/768x768/qt/60/4973296_1.jpg",
+   "price": 20,
+   "priceText": "£20",
+   "discount": 20,
+   "code": "",
+   "heat": 413.6,
+   "rating": null,
+   "published": "2026-09-03T12:22:16Z",
+   "expires": null,
+   "venue": "",
+   "score": 59
+  },
+  {
    "id": "hukd-4987358",
    "source": "hukd",
    "title": "Mousetrap Theatre tickets offer from £26 - St Martin's theatre London",
@@ -2474,30 +2549,6 @@
    "score": 48
   },
   {
-   "id": "news-national-theatre-deals",
-   "source": "news",
-   "title": "National Theatre deals",
-   "subtitle": "Money Saving Expert",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Money Saving Expert"
-   ],
-   "merchant": "Money Saving Expert",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44YmtOZHRXaF8yWWRJLUkzbGdEWTcyTjRoT3dJVjAxZTZfdVJwS3g4aG1vTXRTeGFHLXdUX0dUbWtXek8zS1otczdjdGFKSGJ5UTN6c2d3bzcyZUVhcjNCV2xRYzJ5d0NO?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-05T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-how-to-watch-practical-magic-2-with-friends-for-just-5-each-in-new-dudley-cinema",
    "source": "news",
    "title": "How to watch Practical Magic 2 with friends for just £5 each in new Dudley cinema deal",
@@ -2520,6 +2571,54 @@
    "expires": null,
    "venue": "",
    "score": 47
+  },
+  {
+   "id": "news-national-theatre-deals",
+   "source": "news",
+   "title": "National Theatre deals",
+   "subtitle": "Money Saving Expert",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Money Saving Expert"
+   ],
+   "merchant": "Money Saving Expert",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44YmtOZHRXaF8yWWRJLUkzbGdEWTcyTjRoT3dJVjAxZTZfdVJwS3g4aG1vTXRTeGFHLXdUX0dUbWtXek8zS1otczdjdGFKSGJ5UTN6c2d3bzcyZUVhcjNCV2xRYzJ5d0NO?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-05T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-mango-discount-codes-for-october-2026-10-off",
+   "source": "news",
+   "title": "Mango discount codes for October 2026 – 10% off",
+   "subtitle": "The Independent",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "The Independent"
+   ],
+   "merchant": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2ZfVmZQY1Y2N2lwUjJ0TzdiVHlPWFdDeXE2Y0hBTXJwc2ZqM1lQV2VLVlBXUElYSVI0dl9xcUM5dXFNWk4yamk1QUNhWnJuTVVTZVBTeEgwSXNQMzVLOHlqczRSWnlrNkJsa25jZHJxSEZhWGhYVmYwMWZjR0FRRjhtNVE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": 10,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-02T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 40
   }
  ]
 }
