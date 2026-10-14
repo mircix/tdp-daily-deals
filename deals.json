@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-14T12:05:12Z",
+ "generatedAt": "2026-10-14T17:20:17Z",
  "sources": [
   {
    "id": "olt",
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "870°",
+    "879°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 869.9,
+   "heat": 879.1,
    "rating": null,
    "published": "2026-10-12T16:04:41Z",
    "expires": null,
@@ -309,7 +309,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-25T23:59:00Z",
+   "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
    "score": 87
   },
@@ -409,7 +409,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-17T23:59:00Z",
+   "expires": "2026-10-21T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -706,7 +706,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-20T23:59:00Z",
+   "expires": "2026-10-21T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -1078,7 +1078,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-14T23:59:00Z",
+   "expires": "2026-10-15T23:59:00Z",
    "venue": "London",
    "score": 77
   },
@@ -1688,7 +1688,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-17T23:59:00Z",
+   "expires": "2026-10-19T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -2008,7 +2008,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-18T23:59:00Z",
+   "expires": "2026-10-25T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2196,8 +2196,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
    "image": "https://images.ctfassets.net/6pezt69ih962/1TZLaXarDBZLi6LduNnb2H/16c652820cf8cee3cd29107fbfae8137/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 23.0,
-   "priceText": "from £23",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2484,7 +2484,7 @@
    "category": "theatre",
    "kind": "deal",
    "badges": [
-    "414°",
+    "417°",
     "20% off"
    ],
    "merchant": "ATG Tickets",
@@ -2494,7 +2494,7 @@
    "priceText": "£20",
    "discount": 20,
    "code": "",
-   "heat": 413.6,
+   "heat": 417.0,
    "rating": null,
    "published": "2026-09-03T12:22:16Z",
    "expires": null,
