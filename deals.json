@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-13T19:21:46Z",
+ "generatedAt": "2026-10-14T00:21:36Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 22,
+   "count": 28,
    "errors": []
   },
   {
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "803°",
+    "853°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 802.6,
+   "heat": 853.4,
    "rating": null,
    "published": "2026-10-12T16:04:41Z",
    "expires": null,
@@ -138,6 +138,31 @@
    "score": 90
   },
   {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 65%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 65,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -159,6 +184,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-20T23:59:00Z",
+   "venue": "London",
+   "score": 88
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -210,6 +260,31 @@
    "published": null,
    "expires": "2026-11-13T23:59:00Z",
    "venue": "Shoreditch Town Hall, London",
+   "score": 87
+  },
+  {
+   "id": "olt-from-the-heart-111474947",
+   "source": "olt",
+   "title": "From The Heart",
+   "subtitle": "Concert, Entertainment",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save up to 55%",
+    "From £15"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/from-the-heart-111474947/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/07/1200x600-2-768x384.jpg",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 55,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-18T23:59:00Z",
+   "venue": "London",
    "score": 87
   },
   {
@@ -462,6 +537,31 @@
    "score": 83
   },
   {
+   "id": "olt-table-111473744",
+   "source": "olt",
+   "title": "Table 17",
+   "subtitle": "Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 48%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/table-111473744/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 48,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-23T23:59:00Z",
+   "venue": "London",
+   "score": 83
+  },
+  {
    "id": "olt-the-hunger-games-on-stage-111466358",
    "source": "olt",
    "title": "The Hunger Games: On Stage",
@@ -568,7 +668,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2607°"
+    "2614°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -577,7 +677,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2606.5,
+   "heat": 2613.7,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -954,6 +1054,31 @@
    "published": null,
    "expires": "2026-10-25T23:59:00Z",
    "venue": "Globe Theatre, London",
+   "score": 77
+  },
+  {
+   "id": "olt-high-school-musical-111473306",
+   "source": "olt",
+   "title": "High School Musical",
+   "subtitle": "Family, Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 37%",
+    "From £19.40"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
+   "price": 19.4,
+   "priceText": "from £19.40",
+   "discount": 37,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-14T23:59:00Z",
+   "venue": "London",
    "score": 77
   },
   {
@@ -1837,6 +1962,31 @@
    "score": 72
   },
   {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-18T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
    "id": "olt-top-gunchained-111476290",
    "source": "olt",
    "title": "Top Gunchained",
@@ -2425,30 +2575,6 @@
    "score": 49
   },
   {
-   "id": "news-sam-barber-announces-his-return-down-under",
-   "source": "news",
-   "title": "Sam Barber Announces His Return Down Under",
-   "subtitle": "Ticketmaster",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Ticketmaster"
-   ],
-   "merchant": "Ticketmaster",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN3ZyZzlEZ2xhYldFbW1DQkFJUjBRS1NuM2stWnFmTmc3dVpmSDlvRzh5bl8xdWhzUURpVU1QZW84T2ZFOVFfbk1pdmw4NnhLNjdxYjh1dGczX0c1TjZ1YV91aHllRmFlWVE1Tlp5T1ZnOWlmYnFtQlRsdjNCZkp2c1ZGMXhsQVlhZ3ZhLWR0MjNnUUxKdUE?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-11T21:06:58Z",
-   "expires": null,
-   "venue": "",
-   "score": 49
-  },
-  {
    "id": "news-nickelback-announces-the-everything-under-the-sun-tour",
    "source": "news",
    "title": "NICKELBACK ANNOUNCES THE EVERYTHING UNDER THE SUN TOUR!",
@@ -2468,6 +2594,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-09T22:29:11Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
+   "id": "news-sam-barber-announces-his-return-down-under",
+   "source": "news",
+   "title": "Sam Barber Announces His Return Down Under",
+   "subtitle": "Ticketmaster",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Ticketmaster"
+   ],
+   "merchant": "Ticketmaster",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN3ZyZzlEZ2xhYldFbW1DQkFJUjBRS1NuM2stWnFmTmc3dVpmSDlvRzh5bl8xdWhzUURpVU1QZW84T2ZFOVFfbk1pdmw4NnhLNjdxYjh1dGczX0c1TjZ1YV91aHllRmFlWVE1Tlp5T1ZnOWlmYnFtQlRsdjNCZkp2c1ZGMXhsQVlhZ3ZhLWR0MjNnUUxKdUE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-11T21:06:58Z",
    "expires": null,
    "venue": "",
    "score": 48
