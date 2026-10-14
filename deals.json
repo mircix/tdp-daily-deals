@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-14T00:21:36Z",
+ "generatedAt": "2026-10-14T05:04:33Z",
  "sources": [
   {
    "id": "olt",
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "853°",
+    "855°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 853.4,
+   "heat": 855.2,
    "rating": null,
    "published": "2026-10-12T16:04:41Z",
    "expires": null,
@@ -2623,6 +2623,30 @@
    "score": 48
   },
   {
+   "id": "news-the-independent-and-ica-london-announce-free-thinking-film-festival-to-mark-pape",
+   "source": "news",
+   "title": "The Independent and ICA London announce free thinking film festival to mark paper’s 40th anniversary",
+   "subtitle": "The Independent",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "The Independent"
+   ],
+   "merchant": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ3k1SENwbjhIbVppRTNXUXZLampOZ1lRTi05NmJnRWc2R25JNjRhSVlaeTh5YjB5YTlaM2dMeTI3VmVaeXlfcHBwMTg0aGstME5IakRXdEY3YkxyMEwzVENTX19EcjdJZmRxSC1tN21vdjBkeVd4cFk1OUhMc3hBN1RTbVF5Y2lKMWdsMzMyTTJ1dFFZTUtoUm1mUzBqNTJWdmYtRGhfMnZvV3IyRVF4VQ?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-06T11:25:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
    "id": "news-national-theatre-deals",
    "source": "news",
    "title": "National Theatre deals",
@@ -2645,30 +2669,6 @@
    "expires": null,
    "venue": "",
    "score": 47
-  },
-  {
-   "id": "news-mango-discount-codes-for-october-2026-10-off",
-   "source": "news",
-   "title": "Mango discount codes for October 2026 – 10% off",
-   "subtitle": "The Independent",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "The Independent"
-   ],
-   "merchant": "The Independent",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNX2ZfVmZQY1Y2N2lwUjJ0TzdiVHlPWFdDeXE2Y0hBTXJwc2ZqM1lQV2VLVlBXUElYSVI0dl9xcUM5dXFNWk4yamk1QUNhWnJuTVVTZVBTeEgwSXNQMzVLOHlqczRSWnlrNkJsa25jZHJxSEZhWGhYVmYwMWZjR0FRRjhtNVE?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": 10,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-02T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 40
   }
  ]
 }
