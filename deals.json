@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-14T17:20:17Z",
+ "generatedAt": "2026-10-14T21:48:04Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 28,
+   "count": 23,
    "errors": []
   },
   {
@@ -138,31 +138,6 @@
    "score": 90
   },
   {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 65%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 65,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -184,31 +159,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-20T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -246,7 +196,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 78%",
+    "Save 83%",
     "Special Offer"
    ],
    "merchant": "TodayTix",
@@ -254,38 +204,13 @@
    "image": "https://images.ctfassets.net/6pezt69ih962/6uzECfgiM5OH4ANulMaoT6/c81fa7787af24e66bde5c98f4d2f4877/Ceilidh_TTG_Buttons_1080x1080.jpg?w=400&h=400&fit=fill",
    "price": 15.0,
    "priceText": "from £15",
-   "discount": 78,
+   "discount": 83,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
    "expires": "2026-11-13T23:59:00Z",
    "venue": "Shoreditch Town Hall, London",
-   "score": 87
-  },
-  {
-   "id": "olt-from-the-heart-111474947",
-   "source": "olt",
-   "title": "From The Heart",
-   "subtitle": "Concert, Entertainment",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save up to 55%",
-    "From £15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/from-the-heart-111474947/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/07/1200x600-2-768x384.jpg",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 55,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-18T23:59:00Z",
-   "venue": "London",
    "score": 87
   },
   {
@@ -560,31 +485,6 @@
    "published": null,
    "expires": null,
    "venue": "Victoria Palace Theatre, London",
-   "score": 83
-  },
-  {
-   "id": "olt-table-111473744",
-   "source": "olt",
-   "title": "Table 17",
-   "subtitle": "Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 48%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/table-111473744/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 48,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-23T23:59:00Z",
-   "venue": "London",
    "score": 83
   },
   {
@@ -1848,7 +1748,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "420°"
+    "421°"
    ],
    "merchant": "Groupon",
    "url": "https://www.hotukdeals.com/deals/vue-2d-cinema-tickets-2-x-tickets-ps950-5-x-tickets-ps22-10-x-tickets-ps40-possibly-cheaper-via-app-4978597",
@@ -1857,7 +1757,7 @@
    "priceText": "£9.50",
    "discount": null,
    "code": "",
-   "heat": 419.6,
+   "heat": 421.4,
    "rating": null,
    "published": "2026-09-10T14:02:43Z",
    "expires": null,
@@ -1984,31 +1884,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-20T23:59:00Z",
-   "venue": "London",
-   "score": 72
-  },
-  {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-25T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2313,7 +2188,7 @@
    "category": "cinema",
    "kind": "voucher",
    "badges": [
-    "55°",
+    "57°",
     "40% off"
    ],
    "merchant": "Lidl",
@@ -2323,7 +2198,7 @@
    "priceText": "",
    "discount": 40,
    "code": "",
-   "heat": 54.8,
+   "heat": 56.6,
    "rating": null,
    "published": "2026-09-27T11:31:09Z",
    "expires": "2027-03-30T22:59:00Z",
