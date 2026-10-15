@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-15T11:42:21Z",
+ "generatedAt": "2026-10-15T17:09:54Z",
  "sources": [
   {
    "id": "olt",
@@ -130,7 +130,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 733,
+   "heat": 733.0,
    "rating": null,
    "published": "2026-10-09T16:14:07Z",
    "expires": "2026-10-22T22:59:00Z",
@@ -384,7 +384,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-21T23:59:00Z",
+   "expires": "2026-10-22T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -770,7 +770,7 @@
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/devil-wears-prada-111442287/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-SOLT-1200x600-1-768x384.jpg",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-10-TeriHatcher-BBs-SOLT-1200x600-1-768x384.jpg",
    "price": 28.0,
    "priceText": "from £28",
    "discount": 43,
@@ -881,31 +881,6 @@
    "score": 80
   },
   {
-   "id": "olt-hamilton-tickets-366811",
-   "source": "olt",
-   "title": "Hamilton",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 40%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
-   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 40,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-23T23:59:00Z",
-   "venue": "London",
-   "score": 79
-  },
-  {
    "id": "olt-neighbour-totoro-tickets-111433417",
    "source": "olt",
    "title": "My Neighbour Totoro",
@@ -928,32 +903,6 @@
    "published": null,
    "expires": "2026-10-18T23:59:00Z",
    "venue": "London",
-   "score": 79
-  },
-  {
-   "id": "todaytix-45447",
-   "source": "todaytix",
-   "title": "Oh, Mary!",
-   "subtitle": "Trafalgar Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 46%",
-    "£30 Rush tickets",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45447-oh-mary",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6awwHL3N70d3fX9Q8W9a3W/63c3b3f6c31bd2521c4d7aa1977875d9/8447_127_OHM_Lolly_TTG_1080x1080_v1.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 46,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "Trafalgar Theatre, London",
    "score": 79
   },
   {
@@ -1094,8 +1043,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/23350-moulin-rouge-the-musical",
    "image": "https://images.ctfassets.net/6pezt69ih962/7lZLNDtS1rdbJGKxrQeqCa/c0e097d2301395793018dc768cf10cc0/MR-2026-09-5thAnn-NewsletterBanner-1080x1080-62731SGA.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 23.0,
+   "priceText": "from £23",
    "discount": null,
    "code": "",
    "heat": null,
@@ -1153,6 +1102,32 @@
    "published": null,
    "expires": "2027-01-03T23:59:00Z",
    "venue": "Gillian Lynne Theatre, London",
+   "score": 77
+  },
+  {
+   "id": "todaytix-45447",
+   "source": "todaytix",
+   "title": "Oh, Mary!",
+   "subtitle": "Trafalgar Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 42%",
+    "£30 Rush tickets",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45447-oh-mary",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6awwHL3N70d3fX9Q8W9a3W/63c3b3f6c31bd2521c4d7aa1977875d9/8447_127_OHM_Lolly_TTG_1080x1080_v1.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 42,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Trafalgar Theatre, London",
    "score": 77
   },
   {
@@ -1470,6 +1445,31 @@
    "published": null,
    "expires": null,
    "venue": "Lyric Theatre, London",
+   "score": 75
+  },
+  {
+   "id": "olt-hamilton-tickets-366811",
+   "source": "olt",
+   "title": "Hamilton",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 33%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
+   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 33,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-23T23:59:00Z",
+   "venue": "London",
    "score": 75
   },
   {
@@ -1959,7 +1959,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-20T23:59:00Z",
+   "expires": "2026-10-22T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2176,7 +2176,7 @@
    "priceText": "£9",
    "discount": null,
    "code": "",
-   "heat": 228.6,
+   "heat": 228.9,
    "rating": null,
    "published": "2026-09-05T14:23:19Z",
    "expires": null,
@@ -2195,7 +2195,7 @@
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
-   "image": "https://images.ctfassets.net/6pezt69ih962/1TZLaXarDBZLi6LduNnb2H/16c652820cf8cee3cd29107fbfae8137/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5jG7BK43fAunWigytWCJHo/e862e28283d7ae97d65042222cb6730a/DWP-2026-10-TeriHatcher-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
    "price": 28.0,
    "priceText": "from £28",
    "discount": null,
@@ -2600,30 +2600,6 @@
    "score": 56
   },
   {
-   "id": "news-blue-oyster-cult-announce-glasgow-anniversary-show-for-2027-here-s-how-to-get-ti",
-   "source": "news",
-   "title": "Blue Oyster Cult announce Glasgow anniversary show for 2027 - here's how to get tickets and presale",
-   "subtitle": "The Scotsman",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "The Scotsman"
-   ],
-   "merchant": "The Scotsman",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSGRPclFpRlhNbDEwbjl0YVNkeFdvYnhfWXVXXzlmdUhCSTN1OUUzdV9PekxKUzQ4djdqX1lPdjh0U0taUzE0aWN5VzJZem1XdWgzRlRVSjFmUGx4NWhkd1k5bmw3VU5JdkphLXEyV3lTTmdFRUtvektsNmlpenFpU2JoTmFwVHN4N21sMnpnVVJrbW1zVExPLURHc1VBM1VBellNSGZzUHYxUzVLT0ZKRHBzVGJmOWJUQjhSNkRvbWZxc3pjT1ZTZE5wYkJBb21LOC04QlNrZFQ?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-13T12:28:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 49
-  },
-  {
    "id": "news-the-invictus-games-2027-are-coming-how-to-get-presale-tickets-as-a-birmingham-re",
    "source": "news",
    "title": "The Invictus Games 2027 are coming - how to get presale tickets as a Birmingham resident",
@@ -2646,6 +2622,30 @@
    "expires": null,
    "venue": "",
    "score": 49
+  },
+  {
+   "id": "news-blue-oyster-cult-announce-glasgow-anniversary-show-for-2027-here-s-how-to-get-ti",
+   "source": "news",
+   "title": "Blue Oyster Cult announce Glasgow anniversary show for 2027 - here's how to get tickets and presale",
+   "subtitle": "The Scotsman",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "The Scotsman"
+   ],
+   "merchant": "The Scotsman",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSGRPclFpRlhNbDEwbjl0YVNkeFdvYnhfWXVXXzlmdUhCSTN1OUUzdV9PekxKUzQ4djdqX1lPdjh0U0taUzE0aWN5VzJZem1XdWgzRlRVSjFmUGx4NWhkd1k5bmw3VU5JdkphLXEyV3lTTmdFRUtvektsNmlpenFpU2JoTmFwVHN4N21sMnpnVVJrbW1zVExPLURHc1VBM1VBellNSGZzUHYxUzVLT0ZKRHBzVGJmOWJUQjhSNkRvbWZxc3pjT1ZTZE5wYkJBb21LOC04QlNrZFQ?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-13T12:28:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
   },
   {
    "id": "news-nickelback-announces-the-everything-under-the-sun-tour",
