@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-15T17:09:54Z",
+ "generatedAt": "2026-10-15T21:31:09Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 29,
+   "count": 21,
    "errors": []
   },
   {
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "879°",
+    "885°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 879.1,
+   "heat": 885.1,
    "rating": null,
    "published": "2026-10-12T16:04:41Z",
    "expires": null,
@@ -138,31 +138,6 @@
    "score": 90
   },
   {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 65%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 65,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -184,31 +159,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-20T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -261,31 +211,6 @@
    "published": null,
    "expires": "2026-11-13T23:59:00Z",
    "venue": "Shoreditch Town Hall, London",
-   "score": 87
-  },
-  {
-   "id": "olt-from-the-heart-111474947",
-   "source": "olt",
-   "title": "From The Heart",
-   "subtitle": "Concert, Entertainment",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save up to 55%",
-    "From £15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/from-the-heart-111474947/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/07/1200x600-2-768x384.jpg",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 55,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-18T23:59:00Z",
-   "venue": "London",
    "score": 87
   },
   {
@@ -537,56 +462,6 @@
    "score": 83
   },
   {
-   "id": "olt-table-111473744",
-   "source": "olt",
-   "title": "Table 17",
-   "subtitle": "Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 48%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/table-111473744/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 48,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-23T23:59:00Z",
-   "venue": "London",
-   "score": 83
-  },
-  {
-   "id": "olt-the-hunger-games-on-stage-111466358",
-   "source": "olt",
-   "title": "The Hunger Games: On Stage",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 47%",
-    "From £25"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-hunger-games-on-stage-111466358/",
-   "image": "https://officiallondontheatre.com/app/uploads/2025/11/THG_OLT-DIGI-ASSETS_NOV25_1200x600-1-768x384.jpg",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 47,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-15T23:59:00Z",
-   "venue": "London",
-   "score": 83
-  },
-  {
    "id": "todaytix-21176",
    "source": "todaytix",
    "title": "Harry Potter And The Cursed Child: Both Parts",
@@ -755,31 +630,6 @@
    "published": null,
    "expires": "2026-10-24T23:59:00Z",
    "venue": "Globe Theatre, London",
-   "score": 80
-  },
-  {
-   "id": "olt-devil-wears-prada-111442287",
-   "source": "olt",
-   "title": "The Devil Wears Prada",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 43%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/devil-wears-prada-111442287/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-10-TeriHatcher-BBs-SOLT-1200x600-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 43,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-17T23:59:00Z",
-   "venue": "London",
    "score": 80
   },
   {
@@ -1006,31 +856,6 @@
    "score": 77
   },
   {
-   "id": "olt-high-school-musical-111473306",
-   "source": "olt",
-   "title": "High School Musical",
-   "subtitle": "Family, Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 37%",
-    "From £19.40"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
-   "price": 19.4,
-   "priceText": "from £19.40",
-   "discount": 37,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-15T23:59:00Z",
-   "venue": "London",
-   "score": 77
-  },
-  {
    "id": "todaytix-23350",
    "source": "todaytix",
    "title": "Moulin Rouge! The Musical",
@@ -1043,8 +868,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/23350-moulin-rouge-the-musical",
    "image": "https://images.ctfassets.net/6pezt69ih962/7lZLNDtS1rdbJGKxrQeqCa/c0e097d2301395793018dc768cf10cc0/MR-2026-09-5thAnn-NewsletterBanner-1080x1080-62731SGA.jpg?w=400&h=400&fit=fill",
-   "price": 23.0,
-   "priceText": "from £23",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": null,
    "code": "",
    "heat": null,
@@ -1177,6 +1002,31 @@
    "published": null,
    "expires": null,
    "venue": "Prince of Wales Theatre, London",
+   "score": 77
+  },
+  {
+   "id": "olt-devil-wears-prada-111442287",
+   "source": "olt",
+   "title": "The Devil Wears Prada",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 37%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/devil-wears-prada-111442287/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-SOLT-1200x600-1-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 37,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-17T23:59:00Z",
+   "venue": "London",
    "score": 77
   },
   {
@@ -1371,7 +1221,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-21T23:59:00Z",
+   "expires": "2026-10-22T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -1890,30 +1740,6 @@
    "score": 73
   },
   {
-   "id": "hukd-4999927",
-   "source": "hukd",
-   "title": "GDK x VUE - Exclusive to the FivEr menu, dine in and takeaway only. Cinema Ticket Mon - Wed only",
-   "subtitle": "German Doner Kebab",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "75°"
-   ],
-   "merchant": "German Doner Kebab",
-   "url": "https://www.hotukdeals.com/deals/gdk-x-vue-4999927",
-   "image": "https://images.hotukdeals.com/threads/raw/GQxBH/4999927_1/re/768x768/qt/60/4999927_1.jpg",
-   "price": 5,
-   "priceText": "£5",
-   "discount": null,
-   "code": "",
-   "heat": 75.1,
-   "rating": null,
-   "published": "2026-10-07T21:14:20Z",
-   "expires": null,
-   "venue": "",
-   "score": 72
-  },
-  {
    "id": "olt-hadestown-111440588",
    "source": "olt",
    "title": "Hadestown",
@@ -1964,31 +1790,6 @@
    "score": 72
   },
   {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-25T23:59:00Z",
-   "venue": "London",
-   "score": 72
-  },
-  {
    "id": "olt-top-gunchained-111476290",
    "source": "olt",
    "title": "Top Gunchained",
@@ -2033,6 +1834,30 @@
    "heat": 959.5,
    "rating": null,
    "published": "2025-12-19T19:35:56Z",
+   "expires": null,
+   "venue": "",
+   "score": 71
+  },
+  {
+   "id": "hukd-4999927",
+   "source": "hukd",
+   "title": "GDK x VUE - Exclusive to the FivEr menu, dine in and takeaway only. Cinema Ticket Mon - Wed only",
+   "subtitle": "German Doner Kebab",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "75°"
+   ],
+   "merchant": "German Doner Kebab",
+   "url": "https://www.hotukdeals.com/deals/gdk-x-vue-4999927",
+   "image": "https://images.hotukdeals.com/threads/raw/GQxBH/4999927_1/re/768x768/qt/60/4999927_1.jpg",
+   "price": 5,
+   "priceText": "£5",
+   "discount": null,
+   "code": "",
+   "heat": 75.1,
+   "rating": null,
+   "published": "2026-10-07T21:14:20Z",
    "expires": null,
    "venue": "",
    "score": 71
@@ -2401,31 +2226,6 @@
    "published": "2026-07-13T07:59:33Z",
    "expires": null,
    "venue": "",
-   "score": 66
-  },
-  {
-   "id": "olt-six-vaudeville-theatre-111428236",
-   "source": "olt",
-   "title": "Six",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 18%",
-    "From £37.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
-   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
-   "price": 37.5,
-   "priceText": "from £37.50",
-   "discount": 18,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-15T23:59:00Z",
-   "venue": "London",
    "score": 66
   },
   {
