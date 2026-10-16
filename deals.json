@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-16T21:21:40Z",
+ "generatedAt": "2026-10-16T23:42:25Z",
  "sources": [
   {
    "id": "olt",
@@ -928,32 +928,6 @@
    "published": null,
    "expires": null,
    "venue": "Piccadilly Theatre, London",
-   "score": 77
-  },
-  {
-   "id": "todaytix-47549",
-   "source": "todaytix",
-   "title": "Musicals By Candlelight",
-   "subtitle": "The Actors' Church",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save 43%",
-    "£20 Rush tickets",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 43,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "The Actors' Church, London",
    "score": 77
   },
   {
@@ -2082,6 +2056,31 @@
    "score": 69
   },
   {
+   "id": "todaytix-47549",
+   "source": "todaytix",
+   "title": "Musicals By Candlelight",
+   "subtitle": "The Actors' Church",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 29%",
+    "£20 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "The Actors' Church, London",
+   "score": 69
+  },
+  {
    "id": "todaytix-44284",
    "source": "todaytix",
    "title": "The Story",
@@ -2188,7 +2187,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "176°"
+    "182°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/three-cineworld-2-tockets-for-10-4934653",
@@ -2197,7 +2196,7 @@
    "priceText": "£10",
    "discount": null,
    "code": "",
-   "heat": 175.7,
+   "heat": 181.9,
    "rating": null,
    "published": "2026-07-13T07:59:33Z",
    "expires": null,
