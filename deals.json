@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-15T21:31:09Z",
+ "generatedAt": "2026-10-16T04:42:13Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 21,
+   "count": 26,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "errors": []
   },
   {
@@ -120,7 +120,7 @@
    "category": "music",
    "kind": "free",
    "badges": [
-    "733°",
+    "738°",
     "FREE"
    ],
    "merchant": "Blue Light Card",
@@ -130,11 +130,36 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 733.0,
+   "heat": 738.5,
    "rating": null,
    "published": "2026-10-09T16:14:07Z",
    "expires": "2026-10-22T22:59:00Z",
    "venue": "",
+   "score": 90
+  },
+  {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 65%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 65,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
    "score": 90
   },
   {
@@ -159,6 +184,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-20T23:59:00Z",
+   "venue": "London",
+   "score": 88
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -196,8 +246,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 83%",
-    "Special Offer"
+    "Save 83%"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47347-ceilidh",
@@ -211,6 +260,31 @@
    "published": null,
    "expires": "2026-11-13T23:59:00Z",
    "venue": "Shoreditch Town Hall, London",
+   "score": 87
+  },
+  {
+   "id": "olt-from-the-heart-111474947",
+   "source": "olt",
+   "title": "From The Heart",
+   "subtitle": "Concert, Entertainment",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save up to 55%",
+    "From £15"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/from-the-heart-111474947/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/07/1200x600-2-768x384.jpg",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 55,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-18T23:59:00Z",
+   "venue": "London",
    "score": 87
   },
   {
@@ -459,6 +533,31 @@
    "published": null,
    "expires": null,
    "venue": "Victoria Palace Theatre, London",
+   "score": 83
+  },
+  {
+   "id": "olt-table-111473744",
+   "source": "olt",
+   "title": "Table 17",
+   "subtitle": "Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 48%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/table-111473744/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 48,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-23T23:59:00Z",
+   "venue": "London",
    "score": 83
   },
   {
@@ -1061,8 +1160,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£29.50 Rush tickets",
-    "Exclusive Offer"
+    "£29.50 Rush tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/25334-witness-for-the-prosecution",
@@ -1790,6 +1888,31 @@
    "score": 72
   },
   {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-25T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
    "id": "olt-top-gunchained-111476290",
    "source": "olt",
    "title": "Top Gunchained",
@@ -2276,30 +2399,6 @@
    "expires": null,
    "venue": "",
    "score": 60
-  },
-  {
-   "id": "hukd-4994242",
-   "source": "hukd",
-   "title": "Cineworld Big Screen Bundle for 2 via Three+ ( 2 Cinema Tickets , 1 Large Popcorn, 2 Large Drinks & A Bag of Confectionery)",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "49°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/cineworld-three-ps25-big-screen-bundle-for-2-4994242",
-   "image": "https://images.hotukdeals.com/threads/raw/yHWAA/4994242_1/re/768x768/qt/60/4994242_1.jpg",
-   "price": 25,
-   "priceText": "£25",
-   "discount": null,
-   "code": "",
-   "heat": 48.9,
-   "rating": null,
-   "published": "2026-10-02T13:11:14Z",
-   "expires": "2026-10-15T22:59:00Z",
-   "venue": "",
-   "score": 59
   },
   {
    "id": "hukd-4973296",
