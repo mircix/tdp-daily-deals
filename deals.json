@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-16T11:35:58Z",
+ "generatedAt": "2026-10-16T16:46:40Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 54,
+   "count": 53,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "errors": []
   }
  ],
@@ -587,30 +587,6 @@
    "score": 83
   },
   {
-   "id": "todaytix-21176",
-   "source": "todaytix",
-   "title": "Harry Potter And The Cursed Child: Both Parts",
-   "subtitle": "Palace Theatre",
-   "category": "theatre",
-   "kind": "lottery",
-   "badges": [
-    "The Friday Forty tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/21176-harry-potter-and-the-cursed-child-parts-one-and-two",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6Yf7HLZ3Dw650d4PkcDPm7/cf2176f74490d2f06fb4dca7762e5ea6/1080_x_1040.jpg?w=400&h=400&fit=fill",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": 4.63,
-   "published": null,
-   "expires": null,
-   "venue": "Palace Theatre, London",
-   "score": 82
-  },
-  {
    "id": "olt-the-mousetrap-92715",
    "source": "olt",
    "title": "The Mousetrap",
@@ -619,19 +595,19 @@
    "kind": "offer",
    "badges": [
     "Save up to 46%",
-    "From £28"
+    "From £25.50"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 25.5,
+   "priceText": "from £25.50",
    "discount": 46,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-21T23:59:00Z",
+   "expires": "2026-10-22T23:59:00Z",
    "venue": "London",
    "score": 82
   },
@@ -668,7 +644,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2614°"
+    "2615°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -677,7 +653,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2613.7,
+   "heat": 2615.5,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -783,6 +759,31 @@
    "score": 80
   },
   {
+   "id": "olt-devil-wears-prada-111442287",
+   "source": "olt",
+   "title": "The Devil Wears Prada",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 43%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/devil-wears-prada-111442287/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-SOLT-1200x600-1-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 43,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-23T23:59:00Z",
+   "venue": "London",
+   "score": 80
+  },
+  {
    "id": "todaytix-46914",
    "source": "todaytix",
    "title": "The Lives of Others",
@@ -821,8 +822,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/333-mousetrap",
    "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
+   "price": 18.0,
+   "priceText": "from £18",
    "discount": 46,
    "code": "",
    "heat": null,
@@ -1152,31 +1153,6 @@
    "published": null,
    "expires": null,
    "venue": "Prince of Wales Theatre, London",
-   "score": 77
-  },
-  {
-   "id": "olt-devil-wears-prada-111442287",
-   "source": "olt",
-   "title": "The Devil Wears Prada",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 37%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/devil-wears-prada-111442287/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-SOLT-1200x600-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 37,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-17T23:59:00Z",
-   "venue": "London",
    "score": 77
   },
   {
@@ -1663,7 +1639,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-19T23:59:00Z",
+   "expires": "2026-10-23T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -1816,30 +1792,6 @@
    "score": 73
   },
   {
-   "id": "hukd-4978597",
-   "source": "hukd",
-   "title": "Vue 2d cinema tickets - 2 x tickets £9.50 / 5 x tickets = £22 / 10 x tickets = £40 (possibly cheaper via app)",
-   "subtitle": "Groupon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "421°"
-   ],
-   "merchant": "Groupon",
-   "url": "https://www.hotukdeals.com/deals/vue-2d-cinema-tickets-2-x-tickets-ps950-5-x-tickets-ps22-10-x-tickets-ps40-possibly-cheaper-via-app-4978597",
-   "image": "https://images.hotukdeals.com/threads/raw/FSVPK/4978597_1/re/768x768/qt/60/4978597_1.jpg",
-   "price": 9.5,
-   "priceText": "£9.50",
-   "discount": null,
-   "code": "",
-   "heat": 421.4,
-   "rating": null,
-   "published": "2026-09-10T14:02:43Z",
-   "expires": null,
-   "venue": "",
-   "score": 73
-  },
-  {
    "id": "olt-wicked-73606",
    "source": "olt",
    "title": "Wicked",
@@ -1962,6 +1914,30 @@
    "published": null,
    "expires": "2026-11-21T23:59:00Z",
    "venue": "London",
+   "score": 72
+  },
+  {
+   "id": "hukd-4978597",
+   "source": "hukd",
+   "title": "Vue 2d cinema tickets - 2 x tickets £9.50 / 5 x tickets = £22 / 10 x tickets = £40 (possibly cheaper via app)",
+   "subtitle": "Groupon",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "421°"
+   ],
+   "merchant": "Groupon",
+   "url": "https://www.hotukdeals.com/deals/vue-2d-cinema-tickets-2-x-tickets-ps950-5-x-tickets-ps22-10-x-tickets-ps40-possibly-cheaper-via-app-4978597",
+   "image": "https://images.hotukdeals.com/threads/raw/FSVPK/4978597_1/re/768x768/qt/60/4978597_1.jpg",
+   "price": 9.5,
+   "priceText": "£9.50",
+   "discount": null,
+   "code": "",
+   "heat": 421.4,
+   "rating": null,
+   "published": "2026-09-10T14:02:43Z",
+   "expires": null,
+   "venue": "",
    "score": 72
   },
   {
@@ -2269,8 +2245,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/44284-the-story",
    "image": "https://images.ctfassets.net/6pezt69ih962/7qig8Ss6sMaVrtd9oioGYr/6fb1385613d16cdf3ea14066fbcc1d80/NTGDS_NC_The_Story_TodayTix_OnSale_Rollout_10.jpg?w=400&h=400&fit=fill",
-   "price": 33.0,
-   "priceText": "from £33",
+   "price": 35.0,
+   "priceText": "from £35",
    "discount": 27,
    "code": "",
    "heat": null,
@@ -2416,8 +2392,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/48378-4-48-psychosis",
    "image": "https://images.ctfassets.net/6pezt69ih962/5SQa6jt7LGpZTYOB9O5F2d/35f53ed85aefcd1a1ba2d5ac33432547/Today_Tix_x25_-_Comapny_Logo_-_JHS_-_Variation_03_-_1080_x_1080px.jpg?w=400&h=400&fit=fill",
-   "price": 81.0,
-   "priceText": "from £81",
+   "price": 62.0,
+   "priceText": "from £62",
    "discount": 17,
    "code": "",
    "heat": null,
@@ -2474,7 +2450,7 @@
    "published": "2026-09-03T12:22:16Z",
    "expires": null,
    "venue": "",
-   "score": 59
+   "score": 58
   },
   {
    "id": "hukd-4987358",
@@ -2548,6 +2524,30 @@
    "expires": "2026-10-30T23:59:00Z",
    "venue": "",
    "score": 56
+  },
+  {
+   "id": "news-claire-rushbrook-and-adam-pearson-join-the-independent-and-ica-london-s-free-thi",
+   "source": "news",
+   "title": "Claire Rushbrook and Adam Pearson join The Independent and ICA London’s Free Thinkers film festival",
+   "subtitle": "The Independent",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "The Independent"
+   ],
+   "merchant": "The Independent",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUUI0djhGdnc3d0dPUHFOYXdtdm0yLU9kV2J6NXlDVmNrWmVTTlM2Z25udDl6WG9TLWVsa3pxRTF5eGlOTlpyMHNYUkdQZ3FyZmE3R2EycUZZVlBMSW54WDZzWUxET2J5YTE4SVZZZFJCcUpPLUNwUTZOMl9UZ2NIcHVEMWgyZW9IQzg5LVVqME5FUGdqaGZLSkM1ZVFpNVVBdXh1NjN4VnBQcURvNTdwcHJLdVVpd2RnYUJoblZBZWNSYktyZURid213?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-16T12:15:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 49
   },
   {
    "id": "news-blue-oyster-cult-announce-glasgow-anniversary-show-for-2027-here-s-how-to-get-ti",
