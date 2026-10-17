@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-17T04:39:37Z",
+ "generatedAt": "2026-10-17T10:55:14Z",
  "sources": [
   {
    "id": "olt",
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 8,
+   "count": 7,
    "errors": []
   }
  ],
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "888°",
+    "892°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 888.0,
+   "heat": 892.1,
    "rating": null,
    "published": "2026-10-12T16:04:41Z",
    "expires": null,
@@ -105,7 +105,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 2263.7,
+   "heat": 2263.6,
    "rating": null,
    "published": "2026-09-20T23:22:56Z",
    "expires": null,
@@ -246,14 +246,14 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 83%"
+    "Save 78%"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47347-ceilidh",
    "image": "https://images.ctfassets.net/6pezt69ih962/6uzECfgiM5OH4ANulMaoT6/c81fa7787af24e66bde5c98f4d2f4877/Ceilidh_TTG_Buttons_1080x1080.jpg?w=400&h=400&fit=fill",
    "price": 15.0,
    "priceText": "from £15",
-   "discount": 83,
+   "discount": 78,
    "code": "",
    "heat": null,
    "rating": null,
@@ -382,7 +382,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-17T23:59:00Z",
+   "expires": "2026-10-18T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -537,6 +537,31 @@
    "score": 83
   },
   {
+   "id": "olt-hamilton-tickets-366811",
+   "source": "olt",
+   "title": "Hamilton",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 48%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
+   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 48,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-23T23:59:00Z",
+   "venue": "London",
+   "score": 83
+  },
+  {
    "id": "todaytix-20561",
    "source": "todaytix",
    "title": "Hamilton",
@@ -607,7 +632,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-22T23:59:00Z",
+   "expires": "2026-10-23T23:59:00Z",
    "venue": "London",
    "score": 82
   },
@@ -637,30 +662,6 @@
    "score": 81
   },
   {
-   "id": "hukd-4991179",
-   "source": "hukd",
-   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "2615°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
-   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 2615.5,
-   "rating": null,
-   "published": "2026-09-29T06:52:16Z",
-   "expires": null,
-   "venue": "",
-   "score": 81
-  },
-  {
    "id": "olt-avenue-q-111466206",
    "source": "olt",
    "title": "Avenue Q",
@@ -681,7 +682,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-23T23:59:00Z",
+   "expires": "2026-10-24T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -779,7 +780,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-23T23:59:00Z",
+   "expires": "2026-10-24T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -882,29 +883,28 @@
    "score": 80
   },
   {
-   "id": "olt-hamilton-tickets-366811",
-   "source": "olt",
-   "title": "Hamilton",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
+   "id": "hukd-4991179",
+   "source": "hukd",
+   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
    "badges": [
-    "Save up to 40%",
-    "From £23"
+    "2615°"
    ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
-   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 40,
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
+   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
    "code": "",
-   "heat": null,
+   "heat": 2615.5,
    "rating": null,
-   "published": null,
-   "expires": "2026-10-23T23:59:00Z",
-   "venue": "London",
-   "score": 79
+   "published": "2026-09-29T06:52:16Z",
+   "expires": null,
+   "venue": "",
+   "score": 80
   },
   {
    "id": "hukd-4975792",
@@ -2189,7 +2189,8 @@
    "kind": "offer",
    "badges": [
     "Save 29%",
-    "£20 Rush tickets"
+    "£20 Rush tickets",
+    "Special Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
@@ -2219,8 +2220,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/44284-the-story",
    "image": "https://images.ctfassets.net/6pezt69ih962/7qig8Ss6sMaVrtd9oioGYr/6fb1385613d16cdf3ea14066fbcc1d80/NTGDS_NC_The_Story_TodayTix_OnSale_Rollout_10.jpg?w=400&h=400&fit=fill",
-   "price": 35.0,
-   "priceText": "from £35",
+   "price": 33.0,
+   "priceText": "from £33",
    "discount": 27,
    "code": "",
    "heat": null,
@@ -2424,7 +2425,7 @@
    "published": "2026-09-02T08:08:20Z",
    "expires": null,
    "venue": "",
-   "score": 60
+   "score": 59
   },
   {
    "id": "hukd-4973296",
@@ -2573,6 +2574,30 @@
    "score": 49
   },
   {
+   "id": "news-13-cheap-and-free-things-to-do-with-kids-during-october-half-term",
+   "source": "news",
+   "title": "13 cheap and free things to do with kids during October half term",
+   "subtitle": "Which?",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Which?"
+   ],
+   "merchant": "Which?",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMG9EbnV4QUlqUHp3SXBNQmlYcW90aUhlN2VRZ1FmbjFGRGNqYVBaam9adDdldUNKaW9Tc1A3cWdoUGl1c0pkRjhVUkZ3eEpFYk5OVmJfbXZNS0QwZ1ZaaWlRR253Y20tWktuSTNkRlJtU2VTTUtNTklIVGVnZUdGRWo5dWtCNDZVWlpLUmJnX0d1dm83WXlaSWltM1FUc3ZrTHhUQ3dtLTBtTjNYR1lUQXVwam9WMXdMeVE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-13T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
    "id": "news-blue-oyster-cult-announce-glasgow-anniversary-show-for-2027-here-s-how-to-get-ti",
    "source": "news",
    "title": "Blue Oyster Cult announce Glasgow anniversary show for 2027 - here's how to get tickets and presale",
@@ -2667,54 +2692,6 @@
    "expires": null,
    "venue": "",
    "score": 48
-  },
-  {
-   "id": "news-how-to-watch-practical-magic-2-with-friends-for-just-5-each-in-new-dudley-cinema",
-   "source": "news",
-   "title": "How to watch Practical Magic 2 with friends for just £5 each in new Dudley cinema deal",
-   "subtitle": "Birmingham Live",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Birmingham Live"
-   ],
-   "merchant": "Birmingham Live",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPak9ESjc0TDQ2YVVUZllWdWY2cXpzX29fb1lVbklYaER4RktUeFlicUxmMzRDUURPMzJzMjdkck1CNE83aGhmMXVwM29ZRWNNVERoTzE3WjljT0Z3U25YcDhHTUtaV01DOWZ4Y2VrbHg2clRfVF94S19tZUlycmFXbTU2YkdXWDFyZUpJRS1aTm8xUFJzTEdZZjNtUdIBoAFBVV95cUxQQmIyTE9lWHZSWmNqMGJ3YmlaNGFQR09GenhMaUF4aFZhaXNJSXJ0QWg5aUZlNGFDaVJjRWpTYlJuNE90ZTh6VWhqSkp6NmZ3ZUpTeDhsQ1o0aEdZa1ZUdWEyTW9LYXE0WUtNd3NwZUhxdFB2dkt4UW15a0kyVUxsNjdIOUJQRXRxNVZkenBRNUhCdm1SY0VWSDhLN096V0xz?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-03T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-national-theatre-deals",
-   "source": "news",
-   "title": "National Theatre deals",
-   "subtitle": "Money Saving Expert",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Money Saving Expert"
-   ],
-   "merchant": "Money Saving Expert",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44YmtOZHRXaF8yWWRJLUkzbGdEWTcyTjRoT3dJVjAxZTZfdVJwS3g4aG1vTXRTeGFHLXdUX0dUbWtXek8zS1otczdjdGFKSGJ5UTN6c2d3bzcyZUVhcjNCV2xRYzJ5d0NO?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-05T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
   }
  ]
 }
