@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-18T15:58:32Z",
+ "generatedAt": "2026-10-18T20:53:23Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 22,
+   "count": 21,
    "errors": []
   },
   {
@@ -85,7 +85,7 @@
    "published": "2026-10-12T16:04:41Z",
    "expires": null,
    "venue": "",
-   "score": 91
+   "score": 90
   },
   {
    "id": "hukd-4985426",
@@ -136,31 +136,6 @@
    "expires": "2026-10-22T22:59:00Z",
    "venue": "",
    "score": 89
-  },
-  {
-   "id": "olt-from-the-heart-111474947",
-   "source": "olt",
-   "title": "From The Heart",
-   "subtitle": "Concert, Entertainment",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save up to 55%",
-    "From £15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/from-the-heart-111474947/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/07/1200x600-2-768x384.jpg",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 55,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-18T23:59:00Z",
-   "venue": "London",
-   "score": 87
   },
   {
    "id": "olt-oliver-111446304",
@@ -237,32 +212,6 @@
    "expires": null,
    "venue": "Troubadour Canary Wharf Theatre, London",
    "score": 85
-  },
-  {
-   "id": "todaytix-47363",
-   "source": "todaytix",
-   "title": "From The Heart",
-   "subtitle": "Garrick Theatre",
-   "category": "comedy",
-   "kind": "offer",
-   "badges": [
-    "Save 54%",
-    "£25 Rush tickets",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47363-from-the-heart",
-   "image": "https://images.ctfassets.net/6pezt69ih962/67q8jgu4nO7ZV6CzTKfcTw/dac6cb15f77ca5d4fd0b1991c3075431/1080x1080_TTG_FTH.jpg?w=400&h=400&fit=fill",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 54,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-18T23:59:00Z",
-   "venue": "Garrick Theatre, London",
-   "score": 84
   },
   {
    "id": "olt-into-the-woods-111473840",
@@ -1152,6 +1101,30 @@
    "score": 75
   },
   {
+   "id": "todaytix-47363",
+   "source": "todaytix",
+   "title": "From The Heart",
+   "subtitle": "Garrick Theatre",
+   "category": "comedy",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47363-from-the-heart",
+   "image": "https://images.ctfassets.net/6pezt69ih962/67q8jgu4nO7ZV6CzTKfcTw/dac6cb15f77ca5d4fd0b1991c3075431/1080x1080_TTG_FTH.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-18T23:59:00Z",
+   "venue": "Garrick Theatre, London",
+   "score": 75
+  },
+  {
    "id": "todaytix-24465",
    "source": "todaytix",
    "title": "Hadestown",
@@ -1949,8 +1922,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
    "image": "https://images.ctfassets.net/6pezt69ih962/5jG7BK43fAunWigytWCJHo/e862e28283d7ae97d65042222cb6730a/DWP-2026-10-TeriHatcher-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 23.0,
+   "priceText": "from £23",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2097,8 +2070,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/44284-the-story",
    "image": "https://images.ctfassets.net/6pezt69ih962/7qig8Ss6sMaVrtd9oioGYr/6fb1385613d16cdf3ea14066fbcc1d80/NTGDS_NC_The_Story_TodayTix_OnSale_Rollout_10.jpg?w=400&h=400&fit=fill",
-   "price": 55.0,
-   "priceText": "from £55",
+   "price": 33.0,
+   "priceText": "from £33",
    "discount": 27,
    "code": "",
    "heat": null,
@@ -2351,7 +2324,7 @@
    "published": "2026-09-08T19:01:38Z",
    "expires": "2026-10-30T23:59:00Z",
    "venue": "",
-   "score": 56
+   "score": 55
   },
   {
    "id": "news-13-cheap-and-free-things-to-do-with-kids-during-october-half-term",
@@ -2492,7 +2465,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-10-14T08:42:13Z",
+   "published": "2026-10-14T08:32:00Z",
    "expires": null,
    "venue": "",
    "score": 48
