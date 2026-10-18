@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-18T04:44:56Z",
+ "generatedAt": "2026-10-18T11:22:01Z",
  "sources": [
   {
    "id": "olt",
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "errors": []
   },
   {
@@ -84,6 +84,31 @@
    "rating": null,
    "published": "2026-10-12T16:04:41Z",
    "expires": null,
+   "venue": "",
+   "score": 91
+  },
+  {
+   "id": "hukd-5007496",
+   "source": "hukd",
+   "title": "Free entry to St Paul’s Cathedral Floor & Crypt & £13.50 tickets to Dome Galleries (usually £26) on Sat 14th Nov",
+   "subtitle": "St Paul's",
+   "category": "music",
+   "kind": "free",
+   "badges": [
+    "704°",
+    "FREE"
+   ],
+   "merchant": "St Paul's",
+   "url": "https://www.hotukdeals.com/deals/free-entry-to-st-pauls-cathedral-floor-crypt-ps1350-tickets-to-dome-galleries-usually-ps26-on-sat-14th-nov-5007496",
+   "image": "https://images.hotukdeals.com/threads/raw/3IwWA/5007496_1/re/768x768/qt/60/5007496_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 704.2,
+   "rating": null,
+   "published": "2026-10-17T12:24:01Z",
+   "expires": "2026-11-14T16:30:00Z",
    "venue": "",
    "score": 91
   },
@@ -767,7 +792,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2615°"
+    "2619°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -776,7 +801,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2615.5,
+   "heat": 2619.1,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -784,27 +809,27 @@
    "score": 80
   },
   {
-   "id": "olt-hamilton-tickets-366811",
+   "id": "olt-titanique-111446286",
    "source": "olt",
-   "title": "Hamilton",
+   "title": "Titaníque",
    "subtitle": "Musical",
    "category": "theatre",
    "kind": "offer",
    "badges": [
     "Save up to 40%",
-    "From £23"
+    "From £27"
    ],
    "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
-   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
+   "url": "https://officiallondontheatre.com/show/titanique-111446286/",
+   "image": "https://officiallondontheatre.com/app/uploads/2024/09/TQE516-AgentClosingAsset-1200x600-1-768x384.jpg",
+   "price": 27.0,
+   "priceText": "from £27",
    "discount": 40,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-23T23:59:00Z",
+   "expires": "2026-10-25T23:59:00Z",
    "venue": "London",
    "score": 79
   },
@@ -1080,55 +1105,6 @@
    "score": 77
   },
   {
-   "id": "hukd-5003348",
-   "source": "hukd",
-   "title": "The Cat in the Hat Odeon Tickets Via Vodafone VeryMe Rewards App - 2,068 Seats Available / 15 Locations",
-   "subtitle": "Vodafone",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "230°"
-   ],
-   "merchant": "Vodafone",
-   "url": "https://www.hotukdeals.com/deals/exclusive-tickets-to-see-the-cat-in-the-hat-via-vodafone-very-me-rewards-app-5003348",
-   "image": "https://images.hotukdeals.com/threads/raw/d7Kkv/5003348_1/re/768x768/qt/60/5003348_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 230.0,
-   "rating": null,
-   "published": "2026-10-12T10:40:23Z",
-   "expires": "2026-10-18T22:59:00Z",
-   "venue": "",
-   "score": 76
-  },
-  {
-   "id": "olt-titanique-111446286",
-   "source": "olt",
-   "title": "Titaníque",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 36%",
-    "From £27"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/titanique-111446286/",
-   "image": "https://officiallondontheatre.com/app/uploads/2024/09/TQE516-AgentClosingAsset-1200x600-1-768x384.jpg",
-   "price": 27.0,
-   "priceText": "from £27",
-   "discount": 36,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-25T23:59:00Z",
-   "venue": "London",
-   "score": 76
-  },
-  {
    "id": "todaytix-47279",
    "source": "todaytix",
    "title": "Affluenza",
@@ -1272,6 +1248,31 @@
    "published": null,
    "expires": null,
    "venue": "Lyric Theatre, London",
+   "score": 75
+  },
+  {
+   "id": "olt-hamilton-tickets-366811",
+   "source": "olt",
+   "title": "Hamilton",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 33%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
+   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 33,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-23T23:59:00Z",
+   "venue": "London",
    "score": 75
   },
   {
@@ -1492,6 +1493,30 @@
    "published": null,
    "expires": "2026-10-23T23:59:00Z",
    "venue": "London",
+   "score": 75
+  },
+  {
+   "id": "hukd-5003348",
+   "source": "hukd",
+   "title": "The Cat in the Hat Odeon Tickets Via Vodafone VeryMe Rewards App - 2,068 Seats Available / 15 Locations",
+   "subtitle": "Vodafone",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "230°"
+   ],
+   "merchant": "Vodafone",
+   "url": "https://www.hotukdeals.com/deals/exclusive-tickets-to-see-the-cat-in-the-hat-via-vodafone-very-me-rewards-app-5003348",
+   "image": "https://images.hotukdeals.com/threads/raw/d7Kkv/5003348_1/re/768x768/qt/60/5003348_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 230.0,
+   "rating": null,
+   "published": "2026-10-12T10:40:23Z",
+   "expires": "2026-10-18T22:59:00Z",
+   "venue": "",
    "score": 75
   },
   {
@@ -2122,8 +2147,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/44284-the-story",
    "image": "https://images.ctfassets.net/6pezt69ih962/7qig8Ss6sMaVrtd9oioGYr/6fb1385613d16cdf3ea14066fbcc1d80/NTGDS_NC_The_Story_TodayTix_OnSale_Rollout_10.jpg?w=400&h=400&fit=fill",
-   "price": 35.0,
-   "priceText": "from £35",
+   "price": 55.0,
+   "priceText": "from £55",
    "discount": 27,
    "code": "",
    "heat": null,
@@ -2132,30 +2157,6 @@
    "expires": "2026-10-24T23:59:00Z",
    "venue": "Olivier Theatre, London",
    "score": 68
-  },
-  {
-   "id": "hukd-4982531",
-   "source": "hukd",
-   "title": "College and university students tickets (Limited number - first come, first served basis)",
-   "subtitle": "Octagon Theatre Bolton",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "56°"
-   ],
-   "merchant": "Octagon Theatre Bolton",
-   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
-   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 55.8,
-   "rating": null,
-   "published": "2026-09-16T09:14:36Z",
-   "expires": null,
-   "venue": "",
-   "score": 67
   },
   {
    "id": "todaytix-40713",
@@ -2227,6 +2228,30 @@
    "heat": 181.9,
    "rating": null,
    "published": "2026-07-13T07:59:33Z",
+   "expires": null,
+   "venue": "",
+   "score": 66
+  },
+  {
+   "id": "hukd-4982531",
+   "source": "hukd",
+   "title": "College and university students tickets (Limited number - first come, first served basis)",
+   "subtitle": "Octagon Theatre Bolton",
+   "category": "theatre",
+   "kind": "deal",
+   "badges": [
+    "56°"
+   ],
+   "merchant": "Octagon Theatre Bolton",
+   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
+   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 55.8,
+   "rating": null,
+   "published": "2026-09-16T09:14:36Z",
    "expires": null,
    "venue": "",
    "score": 66
@@ -2542,7 +2567,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-10-14T08:32:00Z",
+   "published": "2026-10-14T08:42:13Z",
    "expires": null,
    "venue": "",
    "score": 48
