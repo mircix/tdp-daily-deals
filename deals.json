@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-17T23:12:19Z",
+ "generatedAt": "2026-10-18T04:44:56Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 21,
+   "count": 24,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 51,
+   "count": 50,
    "errors": []
   },
   {
@@ -113,6 +113,31 @@
    "score": 90
   },
   {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 63%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 63,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "hukd-5001365",
    "source": "hukd",
    "title": "Paul Smith - AO Arena Manchester - Up To 4 Free Tickets Via Blue Light Card",
@@ -189,27 +214,28 @@
    "score": 87
   },
   {
-   "id": "todaytix-47449",
-   "source": "todaytix",
-   "title": "Martin Guerre",
-   "subtitle": "The Old Vic",
-   "category": "theatre",
+   "id": "olt-from-the-heart-111474947",
+   "source": "olt",
+   "title": "From The Heart",
+   "subtitle": "Concert, Entertainment",
+   "category": "music",
    "kind": "offer",
    "badges": [
-    "Save 63%"
+    "Save up to 55%",
+    "From £15"
    ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47449-martin-guerre",
-   "image": "https://images.ctfassets.net/6pezt69ih962/fjmLoRmruj7c8dGzz8B7K/5b8b620d5c6d88ba359f6647dc440d82/TicketAgents_MG_TodayTix_1080x1080.jpg?w=400&h=400&fit=fill",
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/from-the-heart-111474947/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/07/1200x600-2-768x384.jpg",
    "price": 15.0,
    "priceText": "from £15",
-   "discount": 63,
+   "discount": 55,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-31T23:59:00Z",
-   "venue": "The Old Vic, London",
+   "expires": "2026-10-18T23:59:00Z",
+   "venue": "London",
    "score": 87
   },
   {
@@ -1688,6 +1714,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-22T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-25T23:59:00Z",
    "venue": "London",
    "score": 72
   },
