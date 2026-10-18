@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-18T20:53:23Z",
+ "generatedAt": "2026-10-18T23:21:26Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "errors": []
   },
   {
@@ -385,6 +385,31 @@
    "published": null,
    "expires": null,
    "venue": "Victoria Palace Theatre, London",
+   "score": 83
+  },
+  {
+   "id": "olt-table-111473744",
+   "source": "olt",
+   "title": "Table 17",
+   "subtitle": "Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 48%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/table-111473744/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 48,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-23T23:59:00Z",
+   "venue": "London",
    "score": 83
   },
   {
@@ -1351,8 +1376,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£25 Rush tickets",
-    "Exclusive Prices"
+    "£25 Rush tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/29263-stranger-things-the-first-shadow",
@@ -1391,30 +1415,6 @@
    "published": null,
    "expires": "2026-10-23T23:59:00Z",
    "venue": "London",
-   "score": 75
-  },
-  {
-   "id": "hukd-5003348",
-   "source": "hukd",
-   "title": "The Cat in the Hat Odeon Tickets Via Vodafone VeryMe Rewards App - 2,068 Seats Available / 15 Locations",
-   "subtitle": "Vodafone",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "230°"
-   ],
-   "merchant": "Vodafone",
-   "url": "https://www.hotukdeals.com/deals/exclusive-tickets-to-see-the-cat-in-the-hat-via-vodafone-very-me-rewards-app-5003348",
-   "image": "https://images.hotukdeals.com/threads/raw/d7Kkv/5003348_1/re/768x768/qt/60/5003348_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 230.0,
-   "rating": null,
-   "published": "2026-10-12T10:40:23Z",
-   "expires": "2026-10-18T22:59:00Z",
-   "venue": "",
    "score": 75
   },
   {
