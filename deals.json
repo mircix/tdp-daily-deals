@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-18T23:21:26Z",
+ "generatedAt": "2026-10-19T04:53:01Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 50,
+   "count": 48,
    "errors": []
   },
   {
@@ -110,7 +110,7 @@
    "published": "2026-09-20T23:22:56Z",
    "expires": null,
    "venue": "",
-   "score": 90
+   "score": 89
   },
   {
    "id": "hukd-5001365",
@@ -212,6 +212,31 @@
    "expires": null,
    "venue": "Troubadour Canary Wharf Theatre, London",
    "score": 85
+  },
+  {
+   "id": "olt-beetlejuice-the-musical-111465049",
+   "source": "olt",
+   "title": "Beetlejuice The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 50%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/beetlejuice-the-musical-111465049/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/09/BJ-2026-09-bb-NewCreative-62401SGA-SOLT-1200x600-1-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 50,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-24T23:59:00Z",
+   "venue": "London",
+   "score": 84
   },
   {
    "id": "olt-into-the-woods-111473840",
@@ -335,31 +360,6 @@
    "published": null,
    "expires": null,
    "venue": "Kit Kat Club at the Playhouse Theatre, London",
-   "score": 83
-  },
-  {
-   "id": "todaytix-23465",
-   "source": "todaytix",
-   "title": "Cirque Berserk!",
-   "subtitle": "Garrick Theatre",
-   "category": "comedy",
-   "kind": "offer",
-   "badges": [
-    "Save 51%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/23465-",
-   "image": "https://images.ctfassets.net/6pezt69ih962/3fY6xxZEVuRL3QMHa9eDC0/eb05cfd499a118db0178d4b36b092298/TTG1_1080x1080_CB.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 51,
-   "code": "",
-   "heat": null,
-   "rating": 4.11,
-   "published": null,
-   "expires": "2026-10-31T23:59:00Z",
-   "venue": "Garrick Theatre, London",
    "score": 83
   },
   {
@@ -1123,30 +1123,6 @@
    "published": null,
    "expires": null,
    "venue": "Empress Museum, London",
-   "score": 75
-  },
-  {
-   "id": "todaytix-47363",
-   "source": "todaytix",
-   "title": "From The Heart",
-   "subtitle": "Garrick Theatre",
-   "category": "comedy",
-   "kind": "rush",
-   "badges": [
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47363-from-the-heart",
-   "image": "https://images.ctfassets.net/6pezt69ih962/67q8jgu4nO7ZV6CzTKfcTw/dac6cb15f77ca5d4fd0b1991c3075431/1080x1080_TTG_FTH.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-18T23:59:00Z",
-   "venue": "Garrick Theatre, London",
    "score": 75
   },
   {
