@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-19T04:53:01Z",
+ "generatedAt": "2026-10-19T13:35:58Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 48,
+   "count": 50,
    "errors": []
   },
   {
@@ -63,6 +63,31 @@
  ],
  "deals": [
   {
+   "id": "olt-franz-marie-111475208",
+   "source": "olt",
+   "title": "Franz & Marie",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 66%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/franz-marie-111475208/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/07/FranzM-_CX2_1200-x-600px-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 66,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-20T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "hukd-5003590",
    "source": "hukd",
    "title": "Free Cinema Preview Tickets - Forgotten Island - This Thursday - at selected Vue Cinemas",
@@ -70,7 +95,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "892°",
+    "889°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -80,7 +105,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 892.1,
+   "heat": 889.2,
    "rating": null,
    "published": "2026-10-12T16:04:41Z",
    "expires": null,
@@ -138,6 +163,32 @@
    "score": 89
   },
   {
+   "id": "todaytix-45407",
+   "source": "todaytix",
+   "title": "Beetlejuice",
+   "subtitle": "Prince Edward Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 60%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 60,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-02T23:59:00Z",
+   "venue": "Prince Edward Theatre, London",
+   "score": 87
+  },
+  {
    "id": "olt-oliver-111446304",
    "source": "olt",
    "title": "Oliver!",
@@ -163,30 +214,29 @@
    "score": 87
   },
   {
-   "id": "todaytix-45407",
-   "source": "todaytix",
-   "title": "Beetlejuice",
-   "subtitle": "Prince Edward Theatre",
+   "id": "olt-beetlejuice-the-musical-111465049",
+   "source": "olt",
+   "title": "Beetlejuice The Musical",
+   "subtitle": "Musical",
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 57%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
+    "Save up to 52%",
+    "From £28"
    ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/beetlejuice-the-musical-111465049/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/09/BJ-2026-09-bb-NewCreative-62401SGA-SOLT-1200x600-1-768x384.jpg",
    "price": 28.0,
    "priceText": "from £28",
-   "discount": 57,
+   "discount": 52,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2027-01-02T23:59:00Z",
-   "venue": "Prince Edward Theatre, London",
-   "score": 85
+   "expires": "2026-10-24T23:59:00Z",
+   "venue": "London",
+   "score": 86
   },
   {
    "id": "todaytix-36456",
@@ -202,7 +252,7 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
    "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 29.0,
+   "price": 29,
    "priceText": "from £29",
    "discount": 56,
    "code": "",
@@ -212,31 +262,6 @@
    "expires": null,
    "venue": "Troubadour Canary Wharf Theatre, London",
    "score": 85
-  },
-  {
-   "id": "olt-beetlejuice-the-musical-111465049",
-   "source": "olt",
-   "title": "Beetlejuice The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 50%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/beetlejuice-the-musical-111465049/",
-   "image": "https://officiallondontheatre.com/app/uploads/2025/09/BJ-2026-09-bb-NewCreative-62401SGA-SOLT-1200x600-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 50,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-24T23:59:00Z",
-   "venue": "London",
-   "score": 84
   },
   {
    "id": "olt-into-the-woods-111473840",
@@ -259,7 +284,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-24T23:59:00Z",
+   "expires": "2026-10-26T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -483,7 +508,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-24T23:59:00Z",
+   "expires": "2026-10-26T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -549,8 +574,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/24622-much-ado-about-nothing-or-globe",
    "image": "https://images.ctfassets.net/6pezt69ih962/55N0h4N49VnRSCFMWE7mGQ/641d32c8feb6c0165d75de4a49014fd9/TodayTix_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 8.0,
-   "priceText": "from £8",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 43,
    "code": "",
    "heat": null,
@@ -573,7 +598,7 @@
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/devil-wears-prada-111442287/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-08-EvergreenCoreArt-62210SGA-BBs-SOLT-1200x600-1-768x384.jpg",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-10-TeriHatcher-BBs-SOLT-1200x600-1-768x384.jpg",
    "price": 28.0,
    "priceText": "from £28",
    "discount": 43,
@@ -581,7 +606,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-24T23:59:00Z",
+   "expires": "2026-10-26T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -708,27 +733,27 @@
    "score": 80
   },
   {
-   "id": "olt-titanique-111446286",
+   "id": "olt-hamilton-tickets-366811",
    "source": "olt",
-   "title": "Titaníque",
+   "title": "Hamilton",
    "subtitle": "Musical",
    "category": "theatre",
    "kind": "offer",
    "badges": [
     "Save up to 40%",
-    "From £27"
+    "From £23"
    ],
    "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/titanique-111446286/",
-   "image": "https://officiallondontheatre.com/app/uploads/2024/09/TQE516-AgentClosingAsset-1200x600-1-768x384.jpg",
-   "price": 27.0,
-   "priceText": "from £27",
+   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
+   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
    "discount": 40,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-25T23:59:00Z",
+   "expires": "2026-10-23T23:59:00Z",
    "venue": "London",
    "score": 79
   },
@@ -931,6 +956,32 @@
    "score": 77
   },
   {
+   "id": "todaytix-40903",
+   "source": "todaytix",
+   "title": "Titanique",
+   "subtitle": "Criterion Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 42%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/40903-titanique",
+   "image": "https://images.ctfassets.net/6pezt69ih962/4KqiYiRPKqrxr0vJQTPUCT/922a7e8a47d82a401b3a031e321fd690/TQE506-FullCast-TTGAsset-Sept26-1080x1080__1_.jpg?w=400&h=400&fit=fill",
+   "price": 27.0,
+   "priceText": "from £27",
+   "discount": 42,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Criterion Theatre, London",
+   "score": 77
+  },
+  {
    "id": "todaytix-313",
    "source": "todaytix",
    "title": "Wicked",
@@ -1004,6 +1055,31 @@
    "score": 77
   },
   {
+   "id": "olt-titanique-111446286",
+   "source": "olt",
+   "title": "Titaníque",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 36%",
+    "From £27"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/titanique-111446286/",
+   "image": "https://officiallondontheatre.com/app/uploads/2024/09/TQE516-AgentClosingAsset-1200x600-1-768x384.jpg",
+   "price": 27.0,
+   "priceText": "from £27",
+   "discount": 36,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-25T23:59:00Z",
+   "venue": "London",
+   "score": 76
+  },
+  {
    "id": "todaytix-47279",
    "source": "todaytix",
    "title": "Affluenza",
@@ -1011,8 +1087,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets",
-    "Special Offer"
+    "£30 Rush tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47279-affluenza",
@@ -1097,7 +1172,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-22T23:59:00Z",
+   "expires": "2026-10-26T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -1147,31 +1222,6 @@
    "published": null,
    "expires": null,
    "venue": "Lyric Theatre, London",
-   "score": 75
-  },
-  {
-   "id": "olt-hamilton-tickets-366811",
-   "source": "olt",
-   "title": "Hamilton",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 33%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
-   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 33,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-23T23:59:00Z",
-   "venue": "London",
    "score": 75
   },
   {
@@ -1418,31 +1468,6 @@
    "score": 75
   },
   {
-   "id": "todaytix-40903",
-   "source": "todaytix",
-   "title": "Titanique",
-   "subtitle": "Criterion Theatre",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£30 Rush tickets",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/40903-titanique",
-   "image": "https://images.ctfassets.net/6pezt69ih962/4KqiYiRPKqrxr0vJQTPUCT/922a7e8a47d82a401b3a031e321fd690/TQE506-FullCast-TTGAsset-Sept26-1080x1080__1_.jpg?w=400&h=400&fit=fill",
-   "price": 30.0,
-   "priceText": "from £30",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "Criterion Theatre, London",
-   "score": 75
-  },
-  {
    "id": "todaytix-47454",
    "source": "todaytix",
    "title": "Tru",
@@ -1465,31 +1490,6 @@
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Menier Chocolate Factory, London",
    "score": 75
-  },
-  {
-   "id": "olt-franz-marie-111475208",
-   "source": "olt",
-   "title": "Franz & Marie",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Special offer",
-    "From £23.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/franz-marie-111475208/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/07/FranzM-_CX2_1200-x-600px-768x384.jpg",
-   "price": 23.5,
-   "priceText": "from £23.50",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "London",
-   "score": 73
   },
   {
    "id": "olt-mamma-mia-148257",
@@ -1532,31 +1532,6 @@
    "image": "https://officiallondontheatre.com/app/uploads/2011/05/1200-x-600-1-768x384.png",
    "price": 23.0,
    "priceText": "from £23",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "London",
-   "score": 73
-  },
-  {
-   "id": "olt-neighbour-totoro-tickets-111433417",
-   "source": "olt",
-   "title": "My Neighbour Totoro",
-   "subtitle": "Drama, Family, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Special offer",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
-   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
    "discount": null,
    "code": "",
    "heat": null,
@@ -1814,6 +1789,30 @@
    "score": 71
   },
   {
+   "id": "todaytix-46365",
+   "source": "todaytix",
+   "title": "Death Note: The Musical",
+   "subtitle": "Barbican Centre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Pay No Fees"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46365-death-note-the-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2Bh8oEVq5SAlU4IBup2mOv/53f75990e080c3dd13b126c1840b0b00/DN_TODAYTIX_ASSETS_UPDATE_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 29.5,
+   "priceText": "from £29.50",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-05-15T23:59:00Z",
+   "venue": "Barbican Centre, London",
+   "score": 70
+  },
+  {
    "id": "todaytix-24429",
    "source": "todaytix",
    "title": "Faulty Towers The Dining Experience",
@@ -2033,6 +2032,30 @@
    "score": 69
   },
   {
+   "id": "todaytix-47152",
+   "source": "todaytix",
+   "title": "The Hungry Ghost",
+   "subtitle": "Bush Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 29%"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47152-the-hungry-ghost",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5GPdFQrqG0Ki9DETs0otyk/b4525793f87e13efea430f2fda11e0a5/BushTheatre_TheHungryGhost_TicketAgent_TTG_1080x1080px.jpg?w=400&h=400&fit=fill",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-31T23:59:00Z",
+   "venue": "Bush Theatre, London",
+   "score": 69
+  },
+  {
    "id": "todaytix-44284",
    "source": "todaytix",
    "title": "The Story",
@@ -2154,6 +2177,31 @@
    "expires": null,
    "venue": "",
    "score": 66
+  },
+  {
+   "id": "olt-neighbour-totoro-tickets-111433417",
+   "source": "olt",
+   "title": "My Neighbour Totoro",
+   "subtitle": "Drama, Family, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 17%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
+   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 17,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-31T23:59:00Z",
+   "venue": "London",
+   "score": 65
   },
   {
    "id": "todaytix-28218",
@@ -2465,7 +2513,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-10-09T22:29:11Z",
+   "published": "2026-10-10T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
