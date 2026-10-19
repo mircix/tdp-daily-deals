@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-19T13:35:58Z",
+ "generatedAt": "2026-10-19T20:37:55Z",
  "sources": [
   {
    "id": "olt",
@@ -239,6 +239,31 @@
    "score": 86
   },
   {
+   "id": "olt-the-hunger-games-on-stage-111466358",
+   "source": "olt",
+   "title": "The Hunger Games: On Stage",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 51%",
+    "From £25"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-hunger-games-on-stage-111466358/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/11/THG_OLT-DIGI-ASSETS_NOV25_1200x600-1-768x384.jpg",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 51,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-25T23:59:00Z",
+   "venue": "London",
+   "score": 85
+  },
+  {
    "id": "todaytix-36456",
    "source": "todaytix",
    "title": "The Hunger Games: On Stage",
@@ -252,7 +277,7 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
    "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 29,
+   "price": 29.0,
    "priceText": "from £29",
    "discount": 56,
    "code": "",
@@ -309,7 +334,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-23T23:59:00Z",
+   "expires": "2026-10-31T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -410,31 +435,6 @@
    "published": null,
    "expires": null,
    "venue": "Victoria Palace Theatre, London",
-   "score": 83
-  },
-  {
-   "id": "olt-table-111473744",
-   "source": "olt",
-   "title": "Table 17",
-   "subtitle": "Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 48%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/table-111473744/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 48,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-23T23:59:00Z",
-   "venue": "London",
    "score": 83
   },
   {
@@ -606,7 +606,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-26T23:59:00Z",
+   "expires": "2026-10-24T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -731,31 +731,6 @@
    "expires": null,
    "venue": "",
    "score": 80
-  },
-  {
-   "id": "olt-hamilton-tickets-366811",
-   "source": "olt",
-   "title": "Hamilton",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 40%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
-   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 40,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-23T23:59:00Z",
-   "venue": "London",
-   "score": 79
   },
   {
    "id": "hukd-4975792",
@@ -970,8 +945,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/40903-titanique",
    "image": "https://images.ctfassets.net/6pezt69ih962/4KqiYiRPKqrxr0vJQTPUCT/922a7e8a47d82a401b3a031e321fd690/TQE506-FullCast-TTGAsset-Sept26-1080x1080__1_.jpg?w=400&h=400&fit=fill",
-   "price": 27.0,
-   "priceText": "from £27",
+   "price": 22.0,
+   "priceText": "from £22",
    "discount": 42,
    "code": "",
    "heat": null,
@@ -1222,6 +1197,31 @@
    "published": null,
    "expires": null,
    "venue": "Lyric Theatre, London",
+   "score": 75
+  },
+  {
+   "id": "olt-hamilton-tickets-366811",
+   "source": "olt",
+   "title": "Hamilton",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 33%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
+   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 33,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-23T23:59:00Z",
+   "venue": "London",
    "score": 75
   },
   {
@@ -2179,31 +2179,6 @@
    "score": 66
   },
   {
-   "id": "olt-neighbour-totoro-tickets-111433417",
-   "source": "olt",
-   "title": "My Neighbour Totoro",
-   "subtitle": "Drama, Family, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 17%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
-   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 17,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-31T23:59:00Z",
-   "venue": "London",
-   "score": 65
-  },
-  {
    "id": "todaytix-28218",
    "source": "todaytix",
    "title": "Showstopper! The Improvised Musical",
@@ -2227,6 +2202,31 @@
    "expires": null,
    "venue": "Cambridge Theatre, London",
    "score": 65
+  },
+  {
+   "id": "olt-neighbour-totoro-tickets-111433417",
+   "source": "olt",
+   "title": "My Neighbour Totoro",
+   "subtitle": "Drama, Family, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 10%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
+   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 10,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-24T23:59:00Z",
+   "venue": "London",
+   "score": 61
   },
   {
    "id": "hukd-4972065",
@@ -2278,30 +2278,6 @@
    "score": 58
   },
   {
-   "id": "hukd-4987358",
-   "source": "hukd",
-   "title": "Mousetrap Theatre tickets offer from £26 - St Martin's theatre London",
-   "subtitle": "TodayTix",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "48°"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.hotukdeals.com/deals/mousetrap-theatre-tickets-offer-from-ps26-4987358",
-   "image": "https://images.hotukdeals.com/threads/raw/mffws/4987358_1/re/768x768/qt/60/4987358_1.jpg",
-   "price": 26,
-   "priceText": "£26",
-   "discount": null,
-   "code": "",
-   "heat": 47.7,
-   "rating": null,
-   "published": "2026-09-23T14:29:02Z",
-   "expires": null,
-   "venue": "",
-   "score": 57
-  },
-  {
    "id": "hukd-4930804",
    "source": "hukd",
    "title": "30% off tickets to Pokemon Night Out EDM concert at the O2",
@@ -2323,6 +2299,30 @@
    "rating": null,
    "published": "2026-07-07T14:41:11Z",
    "expires": "2026-11-10T14:59:00Z",
+   "venue": "",
+   "score": 56
+  },
+  {
+   "id": "hukd-4987358",
+   "source": "hukd",
+   "title": "Mousetrap Theatre tickets offer from £26 - St Martin's theatre London",
+   "subtitle": "TodayTix",
+   "category": "theatre",
+   "kind": "deal",
+   "badges": [
+    "48°"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.hotukdeals.com/deals/mousetrap-theatre-tickets-offer-from-ps26-4987358",
+   "image": "https://images.hotukdeals.com/threads/raw/mffws/4987358_1/re/768x768/qt/60/4987358_1.jpg",
+   "price": 26,
+   "priceText": "£26",
+   "discount": null,
+   "code": "",
+   "heat": 47.7,
+   "rating": null,
+   "published": "2026-09-23T14:29:02Z",
+   "expires": null,
    "venue": "",
    "score": 56
   },
