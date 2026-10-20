@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-20T00:26:19Z",
+ "generatedAt": "2026-10-20T08:41:36Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 50,
+   "count": 52,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 7,
+   "count": 5,
    "errors": []
   }
  ],
@@ -239,6 +239,30 @@
    "score": 87
   },
   {
+   "id": "todaytix-47347",
+   "source": "todaytix",
+   "title": "Ceilidh The Musical",
+   "subtitle": "Shoreditch Town Hall",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 78%"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47347-ceilidh",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6uzECfgiM5OH4ANulMaoT6/c81fa7787af24e66bde5c98f4d2f4877/Ceilidh_TTG_Buttons_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 78,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-13T23:59:00Z",
+   "venue": "Shoreditch Town Hall, London",
+   "score": 87
+  },
+  {
    "id": "olt-oliver-111446304",
    "source": "olt",
    "title": "Oliver!",
@@ -261,6 +285,31 @@
    "published": null,
    "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
+   "score": 87
+  },
+  {
+   "id": "todaytix-45811",
+   "source": "todaytix",
+   "title": "STORIES – The Tap Dance Sensation",
+   "subtitle": "Peacock Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 64%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45811-stories-the-tap-dance-sensation",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2yqmTsiH3TF8nt69eeueC8/7eefc2977ca12c7e9a428c17fe94eaf8/1_stories26_london_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 64,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-31T23:59:00Z",
+   "venue": "Peacock Theatre, London",
    "score": 87
   },
   {
@@ -649,8 +698,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/24622-much-ado-about-nothing-or-globe",
    "image": "https://images.ctfassets.net/6pezt69ih962/55N0h4N49VnRSCFMWE7mGQ/641d32c8feb6c0165d75de4a49014fd9/TodayTix_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 8.0,
-   "priceText": "from £8",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 43,
    "code": "",
    "heat": null,
@@ -808,31 +857,6 @@
    "score": 80
   },
   {
-   "id": "hukd-4975792",
-   "source": "hukd",
-   "title": "50% off your next cinema trip - Via McDonald's Rewards (Points Spend) and ODEON - £1 Booking Fee Applies",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "voucher",
-   "badges": [
-    "667°",
-    "50% off"
-   ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/vouchers/50-off-your-next-cinema-trip-via-mcdonalds-rewards-and-odeon-4975792",
-   "image": "https://images.hotukdeals.com/threads/raw/qV2zO/4975792_1/re/768x768/qt/60/4975792_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 50,
-   "code": "",
-   "heat": 667.2,
-   "rating": null,
-   "published": "2026-09-07T06:26:46Z",
-   "expires": "2026-11-02T23:59:00Z",
-   "venue": "",
-   "score": 78
-  },
-  {
    "id": "olt-the-play-that-goes-wrong-228430",
    "source": "olt",
    "title": "The Play That Goes Wrong",
@@ -858,6 +882,31 @@
    "score": 78
   },
   {
+   "id": "hukd-4975792",
+   "source": "hukd",
+   "title": "50% off your next cinema trip - Via McDonald's Rewards (Points Spend) and ODEON - £1 Booking Fee Applies",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "voucher",
+   "badges": [
+    "667°",
+    "50% off"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/vouchers/50-off-your-next-cinema-trip-via-mcdonalds-rewards-and-odeon-4975792",
+   "image": "https://images.hotukdeals.com/threads/raw/qV2zO/4975792_1/re/768x768/qt/60/4975792_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 50,
+   "code": "",
+   "heat": 667.2,
+   "rating": null,
+   "published": "2026-09-07T06:26:46Z",
+   "expires": "2026-11-02T23:59:00Z",
+   "venue": "",
+   "score": 77
+  },
+  {
    "id": "todaytix-27568",
    "source": "todaytix",
    "title": "As You Like It - Globe",
@@ -880,6 +929,30 @@
    "published": null,
    "expires": "2026-10-25T23:59:00Z",
    "venue": "Globe Theatre, London",
+   "score": 77
+  },
+  {
+   "id": "todaytix-47552",
+   "source": "todaytix",
+   "title": "Gospel by Candlelight",
+   "subtitle": "Round Chapel, Hackney",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 43%"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47552-gospel-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/CbXI70zQo6tuyU3AHYknn/1838950e01c92a0d7a8ece432e9fbb97/1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 43,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Round Chapel, Hackney, London",
    "score": 77
   },
   {
@@ -1137,7 +1210,8 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets"
+    "£30 Rush tickets",
+    "Special Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47279-affluenza",
@@ -1997,8 +2071,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
    "image": "https://images.ctfassets.net/6pezt69ih962/5jG7BK43fAunWigytWCJHo/e862e28283d7ae97d65042222cb6730a/DWP-2026-10-TeriHatcher-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 23.0,
-   "priceText": "from £23",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2006,6 +2080,30 @@
    "published": null,
    "expires": null,
    "venue": "Dominion Theatre, London",
+   "score": 70
+  },
+  {
+   "id": "todaytix-47131",
+   "source": "todaytix",
+   "title": "The Smartest Giant in Town",
+   "subtitle": "St. Martin's Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Pay No Fees"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47131-the-smartest-giant-in-town",
+   "image": "https://images.ctfassets.net/6pezt69ih962/4X4NvYRR2JrUZCfPvrrr3O/27957912c9b40333b913a7cbcc233bb6/TSGIT_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 13.0,
+   "priceText": "from £13",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "St. Martin's Theatre, London",
    "score": 70
   },
   {
@@ -2057,31 +2155,6 @@
    "score": 69
   },
   {
-   "id": "todaytix-47552",
-   "source": "todaytix",
-   "title": "Gospel by Candlelight",
-   "subtitle": "Round Chapel, Hackney",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save 29%",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47552-gospel-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/CbXI70zQo6tuyU3AHYknn/1838950e01c92a0d7a8ece432e9fbb97/1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Round Chapel, Hackney, London",
-   "score": 69
-  },
-  {
    "id": "todaytix-47549",
    "source": "todaytix",
    "title": "Musicals By Candlelight",
@@ -2129,30 +2202,6 @@
    "published": "2026-09-05T14:23:19Z",
    "expires": null,
    "venue": "",
-   "score": 69
-  },
-  {
-   "id": "todaytix-47152",
-   "source": "todaytix",
-   "title": "The Hungry Ghost",
-   "subtitle": "Bush Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 29%"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47152-the-hungry-ghost",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5GPdFQrqG0Ki9DETs0otyk/b4525793f87e13efea430f2fda11e0a5/BushTheatre_TheHungryGhost_TicketAgent_TTG_1080x1080px.jpg?w=400&h=400&fit=fill",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-31T23:59:00Z",
-   "venue": "Bush Theatre, London",
    "score": 69
   },
   {
@@ -2451,9 +2500,9 @@
    "score": 55
   },
   {
-   "id": "news-13-cheap-and-free-things-to-do-with-kids-during-october-half-term",
+   "id": "news-12-cheap-and-free-things-to-do-with-kids-during-october-half-term",
    "source": "news",
-   "title": "13 cheap and free things to do with kids during October half term",
+   "title": "12 cheap and free things to do with kids during October half term",
    "subtitle": "Which?",
    "category": "cinema",
    "kind": "news",
@@ -2469,7 +2518,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-10-13T07:00:00Z",
+   "published": "2026-10-16T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 48
@@ -2569,54 +2618,6 @@
    "expires": null,
    "venue": "",
    "score": 48
-  },
-  {
-   "id": "news-nickelback-announces-the-everything-under-the-sun-tour",
-   "source": "news",
-   "title": "NICKELBACK ANNOUNCES THE EVERYTHING UNDER THE SUN TOUR!",
-   "subtitle": "Ticketmaster",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Ticketmaster"
-   ],
-   "merchant": "Ticketmaster",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONmxWT0dJUmZjQXpOYlR2VGluZ3BPUENUVUdSMml2NUQtS2dmR3RPX1ZZaHZ5emxTdGh6NlVOSzBoU1hMdUdEajJuZDlEV3FkWlAzSldQRzFqbmMtdnNmMjNfNXpneHUxTnZ4MDhYX3Y1VGR4ckUtQmxleW1WdE1vYWJQTHFaN3NLX2ozNlZwS0hHT0NIZ196MV9qV0VRNlhCWDJzeW5R?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-10T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-sam-barber-announces-his-return-down-under",
-   "source": "news",
-   "title": "Sam Barber Announces His Return Down Under",
-   "subtitle": "Ticketmaster",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Ticketmaster"
-   ],
-   "merchant": "Ticketmaster",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN3ZyZzlEZ2xhYldFbW1DQkFJUjBRS1NuM2stWnFmTmc3dVpmSDlvRzh5bl8xdWhzUURpVU1QZW84T2ZFOVFfbk1pdmw4NnhLNjdxYjh1dGczX0c1TjZ1YV91aHllRmFlWVE1Tlp5T1ZnOWlmYnFtQlRsdjNCZkp2c1ZGMXhsQVlhZ3ZhLWR0MjNnUUxKdUE?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-11T21:06:58Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
   }
  ]
 }
