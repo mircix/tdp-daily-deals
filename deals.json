@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-19T20:37:55Z",
+ "generatedAt": "2026-10-20T00:26:19Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 23,
+   "count": 27,
    "errors": []
   },
   {
@@ -113,6 +113,31 @@
    "score": 90
   },
   {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 63%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 63,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "hukd-4985426",
    "source": "hukd",
    "title": "Free pair of Horse Racing tickets to one of 15 events Oct to Dec 2026 + kids go free (50,000 tickets available)",
@@ -161,6 +186,31 @@
    "expires": "2026-10-22T22:59:00Z",
    "venue": "",
    "score": 89
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
+   "venue": "London",
+   "score": 88
   },
   {
    "id": "todaytix-45407",
@@ -438,6 +488,31 @@
    "score": 83
   },
   {
+   "id": "olt-table-111473744",
+   "source": "olt",
+   "title": "Table 17",
+   "subtitle": "Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 48%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/table-111473744/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 48,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-23T23:59:00Z",
+   "venue": "London",
+   "score": 83
+  },
+  {
    "id": "olt-the-mousetrap-92715",
    "source": "olt",
    "title": "The Mousetrap",
@@ -574,8 +649,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/24622-much-ado-about-nothing-or-globe",
    "image": "https://images.ctfassets.net/6pezt69ih962/55N0h4N49VnRSCFMWE7mGQ/641d32c8feb6c0165d75de4a49014fd9/TodayTix_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 8.0,
+   "priceText": "from £8",
    "discount": 43,
    "code": "",
    "heat": null,
@@ -1642,6 +1717,31 @@
    "score": 72
   },
   {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-25T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
    "id": "olt-top-gunchained-111476290",
    "source": "olt",
    "title": "Top Gunchained",
@@ -2069,8 +2169,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/44284-the-story",
    "image": "https://images.ctfassets.net/6pezt69ih962/7qig8Ss6sMaVrtd9oioGYr/6fb1385613d16cdf3ea14066fbcc1d80/NTGDS_NC_The_Story_TodayTix_OnSale_Rollout_10.jpg?w=400&h=400&fit=fill",
-   "price": 33.0,
-   "priceText": "from £33",
+   "price": 55.0,
+   "priceText": "from £55",
    "discount": 27,
    "code": "",
    "heat": null,
@@ -2447,30 +2547,6 @@
    "score": 48
   },
   {
-   "id": "news-sam-barber-announces-his-return-down-under",
-   "source": "news",
-   "title": "Sam Barber Announces His Return Down Under",
-   "subtitle": "Ticketmaster",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Ticketmaster"
-   ],
-   "merchant": "Ticketmaster",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN3ZyZzlEZ2xhYldFbW1DQkFJUjBRS1NuM2stWnFmTmc3dVpmSDlvRzh5bl8xdWhzUURpVU1QZW84T2ZFOVFfbk1pdmw4NnhLNjdxYjh1dGczX0c1TjZ1YV91aHllRmFlWVE1Tlp5T1ZnOWlmYnFtQlRsdjNCZkp2c1ZGMXhsQVlhZ3ZhLWR0MjNnUUxKdUE?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-11T21:06:58Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-the-invictus-games-2027-are-coming-how-to-get-presale-tickets-as-a-birmingham-re",
    "source": "news",
    "title": "The Invictus Games 2027 are coming - how to get presale tickets as a Birmingham resident",
@@ -2514,6 +2590,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-10T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-sam-barber-announces-his-return-down-under",
+   "source": "news",
+   "title": "Sam Barber Announces His Return Down Under",
+   "subtitle": "Ticketmaster",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Ticketmaster"
+   ],
+   "merchant": "Ticketmaster",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN3ZyZzlEZ2xhYldFbW1DQkFJUjBRS1NuM2stWnFmTmc3dVpmSDlvRzh5bl8xdWhzUURpVU1QZW84T2ZFOVFfbk1pdmw4NnhLNjdxYjh1dGczX0c1TjZ1YV91aHllRmFlWVE1Tlp5T1ZnOWlmYnFtQlRsdjNCZkp2c1ZGMXhsQVlhZ3ZhLWR0MjNnUUxKdUE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-11T21:06:58Z",
    "expires": null,
    "venue": "",
    "score": 47
