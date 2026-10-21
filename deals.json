@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-20T23:57:18Z",
+ "generatedAt": "2026-10-21T04:59:42Z",
  "sources": [
   {
    "id": "olt",
@@ -421,13 +421,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 49%",
-    "From £18"
+    "From £23"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/into-the-woods-111473840/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
+   "price": 23.0,
+   "priceText": "from £23",
    "discount": 49,
    "code": "",
    "heat": null,
@@ -1673,7 +1673,7 @@
    "category": "music",
    "kind": "voucher",
    "badges": [
-    "1332°",
+    "1410°",
     "Code SLEIGH30"
    ],
    "merchant": "Warwick Castle",
@@ -1683,7 +1683,7 @@
    "priceText": "£50.10",
    "discount": null,
    "code": "SLEIGH30",
-   "heat": 1332.0,
+   "heat": 1410.0,
    "rating": null,
    "published": "2026-10-20T09:00:01Z",
    "expires": null,
