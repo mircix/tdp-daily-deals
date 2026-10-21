@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-21T12:01:34Z",
+ "generatedAt": "2026-10-21T17:21:32Z",
  "sources": [
   {
    "id": "olt",
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 19,
+   "count": 20,
    "errors": []
   },
   {
@@ -358,7 +358,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-27T23:59:00Z",
+   "expires": "2026-10-28T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -595,19 +595,19 @@
    "kind": "offer",
    "badges": [
     "Save up to 48%",
-    "From £18"
+    "From £20"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/table-111473744/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/06/TABLE-17_OLT_ASSETS_AW_1200x600-max-500kb-OLT_TKTS_Kids-Week_Sale-Listing-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
+   "price": 20.0,
+   "priceText": "from £20",
    "discount": 48,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-23T23:59:00Z",
+   "expires": "2026-10-22T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -707,31 +707,6 @@
    "published": null,
    "expires": "2026-12-12T23:59:00Z",
    "venue": "Wyndham's Theatre, London",
-   "score": 80
-  },
-  {
-   "id": "olt-high-school-musical-111473306",
-   "source": "olt",
-   "title": "High School Musical",
-   "subtitle": "Family, Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 42%",
-    "From £30"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
-   "price": 30.0,
-   "priceText": "from £30",
-   "discount": 42,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-22T23:59:00Z",
-   "venue": "London",
    "score": 80
   },
   {
@@ -883,6 +858,31 @@
    "score": 80
   },
   {
+   "id": "olt-high-school-musical-111473306",
+   "source": "olt",
+   "title": "High School Musical",
+   "subtitle": "Family, Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 39%",
+    "From £30"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
+   "price": 30.0,
+   "priceText": "from £30",
+   "discount": 39,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-24T23:59:00Z",
+   "venue": "London",
+   "score": 78
+  },
+  {
    "id": "olt-the-play-that-goes-wrong-228430",
    "source": "olt",
    "title": "The Play That Goes Wrong",
@@ -890,7 +890,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save up to 40%",
+    "Save up to 39%",
     "From £23"
    ],
    "merchant": "Official London Theatre",
@@ -898,14 +898,14 @@
    "image": "https://officiallondontheatre.com/app/uploads/2014/05/PT26078_OLT_1200x600pxls-768x384.jpg",
    "price": 23.0,
    "priceText": "from £23",
-   "discount": 40,
+   "discount": 39,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-25T23:59:00Z",
+   "expires": "2026-10-27T23:59:00Z",
    "venue": "London",
-   "score": 79
+   "score": 78
   },
   {
    "id": "hukd-4975792",
@@ -915,7 +915,7 @@
    "category": "cinema",
    "kind": "voucher",
    "badges": [
-    "680°",
+    "678°",
     "50% off"
    ],
    "merchant": "ODEON",
@@ -925,7 +925,7 @@
    "priceText": "",
    "discount": 50,
    "code": "",
-   "heat": 679.8,
+   "heat": 678.0,
    "rating": null,
    "published": "2026-09-07T06:26:46Z",
    "expires": "2026-11-02T23:59:00Z",
@@ -1347,7 +1347,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-27T23:59:00Z",
+   "expires": "2026-10-28T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -1837,7 +1837,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-28T23:59:00Z",
+   "expires": "2026-11-01T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -1889,6 +1889,30 @@
    "expires": null,
    "venue": "",
    "score": 72
+  },
+  {
+   "id": "hukd-5010364",
+   "source": "hukd",
+   "title": "2 x adult 2D screening standard seat tickets + Booking free extra with Three+ rewards",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "44°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/2-for-ps10-cineworld-booking-free-extra-with-three-5010364",
+   "image": "https://images.hotukdeals.com/threads/raw/FsmPZ/5010364_1/re/768x768/qt/60/5010364_1.jpg",
+   "price": 10,
+   "priceText": "£10",
+   "discount": null,
+   "code": "",
+   "heat": 44.4,
+   "rating": null,
+   "published": "2026-10-21T12:29:48Z",
+   "expires": "2026-10-25T23:59:00Z",
+   "venue": "",
+   "score": 71
   },
   {
    "id": "hukd-4772103",
@@ -2244,8 +2268,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/44284-the-story",
    "image": "https://images.ctfassets.net/6pezt69ih962/7qig8Ss6sMaVrtd9oioGYr/6fb1385613d16cdf3ea14066fbcc1d80/NTGDS_NC_The_Story_TodayTix_OnSale_Rollout_10.jpg?w=400&h=400&fit=fill",
-   "price": 35.0,
-   "priceText": "from £35",
+   "price": 33.0,
+   "priceText": "from £33",
    "discount": 27,
    "code": "",
    "heat": null,
@@ -2550,30 +2574,6 @@
    "score": 48
   },
   {
-   "id": "news-blue-oyster-cult-announce-glasgow-anniversary-show-for-2027-here-s-how-to-get-ti",
-   "source": "news",
-   "title": "Blue Oyster Cult announce Glasgow anniversary show for 2027 - here's how to get tickets and presale",
-   "subtitle": "The Scotsman",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "The Scotsman"
-   ],
-   "merchant": "The Scotsman",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSGRPclFpRlhNbDEwbjl0YVNkeFdvYnhfWXVXXzlmdUhCSTN1OUUzdV9PekxKUzQ4djdqX1lPdjh0U0taUzE0aWN5VzJZem1XdWgzRlRVSjFmUGx4NWhkd1k5bmw3VU5JdkphLXEyV3lTTmdFRUtvektsNmlpenFpU2JoTmFwVHN4N21sMnpnVVJrbW1zVExPLURHc1VBM1VBellNSGZzUHYxUzVLT0ZKRHBzVGJmOWJUQjhSNkRvbWZxc3pjT1ZTZE5wYkJBb21LOC04QlNrZFQ?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-13T12:28:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-claire-rushbrook-and-adam-pearson-join-the-independent-and-ica-london-s-free-thi",
    "source": "news",
    "title": "Claire Rushbrook and Adam Pearson join The Independent and ICA London’s Free Thinkers film festival",
@@ -2644,6 +2644,30 @@
    "expires": null,
    "venue": "",
    "score": 48
+  },
+  {
+   "id": "news-blue-oyster-cult-announce-glasgow-anniversary-show-for-2027-here-s-how-to-get-ti",
+   "source": "news",
+   "title": "Blue Oyster Cult announce Glasgow anniversary show for 2027 - here's how to get tickets and presale",
+   "subtitle": "The Scotsman",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "The Scotsman"
+   ],
+   "merchant": "The Scotsman",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSGRPclFpRlhNbDEwbjl0YVNkeFdvYnhfWXVXXzlmdUhCSTN1OUUzdV9PekxKUzQ4djdqX1lPdjh0U0taUzE0aWN5VzJZem1XdWgzRlRVSjFmUGx4NWhkd1k5bmw3VU5JdkphLXEyV3lTTmdFRUtvektsNmlpenFpU2JoTmFwVHN4N21sMnpnVVJrbW1zVExPLURHc1VBM1VBellNSGZzUHYxUzVLT0ZKRHBzVGJmOWJUQjhSNkRvbWZxc3pjT1ZTZE5wYkJBb21LOC04QlNrZFQ?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-13T12:28:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
   }
  ]
 }
