@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-22T12:04:36Z",
+ "generatedAt": "2026-10-22T17:19:05Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 28,
+   "count": 29,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 53,
+   "count": 51,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "errors": []
   }
  ],
@@ -88,31 +88,6 @@
    "score": 90
   },
   {
-   "id": "hukd-5003590",
-   "source": "hukd",
-   "title": "Free Cinema Preview Tickets - Forgotten Island - This Thursday - at selected Vue Cinemas",
-   "subtitle": "Show Film First",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "889°",
-    "FREE"
-   ],
-   "merchant": "Show Film First",
-   "url": "https://www.hotukdeals.com/deals/free-cinema-preview-tickets-forgotten-island-this-thursday-at-selected-vue-cinemas-5003590",
-   "image": "https://images.hotukdeals.com/threads/raw/uf0Qr/5003590_1/re/768x768/qt/60/5003590_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 889.2,
-   "rating": null,
-   "published": "2026-10-12T16:04:41Z",
-   "expires": null,
-   "venue": "",
-   "score": 90
-  },
-  {
    "id": "olt-witness-for-the-prosecution-397188",
    "source": "olt",
    "title": "Witness For The Prosecution",
@@ -145,7 +120,7 @@
    "category": "comedy",
    "kind": "free",
    "badges": [
-    "2264°",
+    "2267°",
     "FREE"
    ],
    "merchant": "Racing TV",
@@ -155,7 +130,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 2263.6,
+   "heat": 2267.0,
    "rating": null,
    "published": "2026-09-20T23:22:56Z",
    "expires": null,
@@ -170,7 +145,7 @@
    "category": "music",
    "kind": "free",
    "badges": [
-    "738°",
+    "742°",
     "FREE"
    ],
    "merchant": "Blue Light Card",
@@ -180,7 +155,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 738.5,
+   "heat": 741.8,
    "rating": null,
    "published": "2026-10-09T16:14:07Z",
    "expires": "2026-10-22T22:59:00Z",
@@ -358,7 +333,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-28T23:59:00Z",
+   "expires": "2026-10-29T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -496,13 +471,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 49%",
-    "From £28"
+    "From £18"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 18.0,
+   "priceText": "from £18",
    "discount": 49,
    "code": "",
    "heat": null,
@@ -582,7 +557,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-28T23:59:00Z",
+   "expires": "2026-10-29T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -710,31 +685,6 @@
    "score": 80
   },
   {
-   "id": "todaytix-24622",
-   "source": "todaytix",
-   "title": "Much Ado About Nothing - Globe",
-   "subtitle": "Globe Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 43%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/24622-much-ado-about-nothing-or-globe",
-   "image": "https://images.ctfassets.net/6pezt69ih962/55N0h4N49VnRSCFMWE7mGQ/641d32c8feb6c0165d75de4a49014fd9/TodayTix_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 43,
-   "code": "",
-   "heat": null,
-   "rating": 4.77,
-   "published": null,
-   "expires": "2026-10-24T23:59:00Z",
-   "venue": "Globe Theatre, London",
-   "score": 80
-  },
-  {
    "id": "olt-devil-wears-prada-111442287",
    "source": "olt",
    "title": "The Devil Wears Prada",
@@ -747,7 +697,7 @@
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/devil-wears-prada-111442287/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-10-TeriHatcher-BBs-SOLT-1200x600-1-768x384.jpg",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-10-TeriHatcherMiranda-BBs-SOLT-1200x600-1-768x384.jpg",
    "price": 28.0,
    "priceText": "from £28",
    "discount": 43,
@@ -903,7 +853,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-27T23:59:00Z",
+   "expires": "2026-10-28T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1352,31 +1302,6 @@
    "score": 75
   },
   {
-   "id": "olt-cabaret-111429752",
-   "source": "olt",
-   "title": "Cabaret",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 34%",
-    "From £37.15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/cabaret-111429752/",
-   "image": "https://officiallondontheatre.com/app/uploads/2021/11/1200x600-2-1-768x384.jpg",
-   "price": 37.15,
-   "priceText": "from £37.15",
-   "discount": 34,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-28T23:59:00Z",
-   "venue": "London",
-   "score": 75
-  },
-  {
    "id": "todaytix-37379",
    "source": "todaytix",
    "title": "Come Alive! The Greatest Showman Circus Spectacular",
@@ -1498,30 +1423,6 @@
    "score": 75
   },
   {
-   "id": "todaytix-47555",
-   "source": "todaytix",
-   "title": "Million Dollar Quartet",
-   "subtitle": "The Arts at Marble Arch Powered by TodayTix",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47555-million-dollar-quartet",
-   "image": "https://images.ctfassets.net/6pezt69ih962/TaKNVnyj20df4edOaFM73/0fef5f9aef76994b327d54e0afaac150/260805_MDQ_TTG_1080_x_1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-12-06T23:59:00Z",
-   "venue": "The Arts at Marble Arch Powered by TodayTix, London",
-   "score": 75
-  },
-  {
    "id": "todaytix-45604",
    "source": "todaytix",
    "title": "Paranormal Activity",
@@ -1639,7 +1540,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-31T23:59:00Z",
+   "expires": "2026-11-11T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -1690,6 +1591,57 @@
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Menier Chocolate Factory, London",
    "score": 75
+  },
+  {
+   "id": "olt-cabaret-111429752",
+   "source": "olt",
+   "title": "Cabaret",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 32%",
+    "From £37.15"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/cabaret-111429752/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/11/1200x600-2-1-768x384.jpg",
+   "price": 37.15,
+   "priceText": "from £37.15",
+   "discount": 32,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-28T23:59:00Z",
+   "venue": "London",
+   "score": 74
+  },
+  {
+   "id": "todaytix-47555",
+   "source": "todaytix",
+   "title": "Million Dollar Quartet",
+   "subtitle": "The Arts at Marble Arch Powered by TodayTix",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 37%",
+    "£25 Rush tickets",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47555-million-dollar-quartet",
+   "image": "https://images.ctfassets.net/6pezt69ih962/TaKNVnyj20df4edOaFM73/0fef5f9aef76994b327d54e0afaac150/260805_MDQ_TTG_1080_x_1080.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 37,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-12-06T23:59:00Z",
+   "venue": "The Arts at Marble Arch Powered by TodayTix, London",
+   "score": 74
   },
   {
    "id": "olt-mamma-mia-148257",
@@ -1765,30 +1717,6 @@
    "expires": null,
    "venue": "London",
    "score": 73
-  },
-  {
-   "id": "hukd-5010364",
-   "source": "hukd",
-   "title": "2 x adult 2D screening standard seat tickets + Booking free extra with Three+ rewards",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "52°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/2-for-ps10-cineworld-booking-free-extra-with-three-5010364",
-   "image": "https://images.hotukdeals.com/threads/raw/FsmPZ/5010364_1/re/768x768/qt/60/5010364_1.jpg",
-   "price": 10,
-   "priceText": "£10",
-   "discount": null,
-   "code": "",
-   "heat": 52.2,
-   "rating": null,
-   "published": "2026-10-21T12:29:48Z",
-   "expires": "2026-10-25T23:59:00Z",
-   "venue": "",
-   "score": 72
   },
   {
    "id": "olt-hadestown-111440588",
@@ -1891,28 +1819,28 @@
    "score": 72
   },
   {
-   "id": "hukd-4978597",
+   "id": "hukd-5010364",
    "source": "hukd",
-   "title": "Vue 2d cinema tickets - 2 x tickets £9.50 / 5 x tickets = £22 / 10 x tickets = £40 (possibly cheaper via app)",
-   "subtitle": "Groupon",
+   "title": "2 x adult 2D screening standard seat tickets + Booking free extra with Three+ rewards",
+   "subtitle": "Three",
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "421°"
+    "52°"
    ],
-   "merchant": "Groupon",
-   "url": "https://www.hotukdeals.com/deals/vue-2d-cinema-tickets-2-x-tickets-ps950-5-x-tickets-ps22-10-x-tickets-ps40-possibly-cheaper-via-app-4978597",
-   "image": "https://images.hotukdeals.com/threads/raw/FSVPK/4978597_1/re/768x768/qt/60/4978597_1.jpg",
-   "price": 9.5,
-   "priceText": "£9.50",
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/2-for-ps10-cineworld-booking-free-extra-with-three-5010364",
+   "image": "https://images.hotukdeals.com/threads/raw/FsmPZ/5010364_1/re/768x768/qt/60/5010364_1.jpg",
+   "price": 10,
+   "priceText": "£10",
    "discount": null,
    "code": "",
-   "heat": 421.4,
+   "heat": 52.2,
    "rating": null,
-   "published": "2026-09-10T14:02:43Z",
-   "expires": null,
+   "published": "2026-10-21T12:29:48Z",
+   "expires": "2026-10-25T23:59:00Z",
    "venue": "",
-   "score": 72
+   "score": 71
   },
   {
    "id": "hukd-4772103",
@@ -1986,6 +1914,30 @@
    "published": null,
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Hampstead Theatre, London",
+   "score": 71
+  },
+  {
+   "id": "hukd-4978597",
+   "source": "hukd",
+   "title": "Vue 2d cinema tickets - 2 x tickets £9.50 / 5 x tickets = £22 / 10 x tickets = £40 (possibly cheaper via app)",
+   "subtitle": "Groupon",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "421°"
+   ],
+   "merchant": "Groupon",
+   "url": "https://www.hotukdeals.com/deals/vue-2d-cinema-tickets-2-x-tickets-ps950-5-x-tickets-ps22-10-x-tickets-ps40-possibly-cheaper-via-app-4978597",
+   "image": "https://images.hotukdeals.com/threads/raw/FSVPK/4978597_1/re/768x768/qt/60/4978597_1.jpg",
+   "price": 9.5,
+   "priceText": "£9.50",
+   "discount": null,
+   "code": "",
+   "heat": 421.4,
+   "rating": null,
+   "published": "2026-09-10T14:02:43Z",
+   "expires": null,
+   "venue": "",
    "score": 71
   },
   {
@@ -2073,8 +2025,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47502-jane-eyre",
    "image": "https://images.ctfassets.net/6pezt69ih962/5PHMnPTzcvJni5MqnN0Cms/b768891af37471ce6017d581f3fc31a7/JaneEyreCast-TT_1080_x_1080px.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
+   "price": 25.0,
+   "priceText": "from £25",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2255,6 +2207,31 @@
    "score": 69
   },
   {
+   "id": "olt-the-smartest-giant-in-town-111473985",
+   "source": "olt",
+   "title": "The Smartest Giant In Town",
+   "subtitle": "Children's",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 24%",
+    "From £13"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-smartest-giant-in-town-111473985/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TSGIT-1200x600-1-768x384.jpg",
+   "price": 13.0,
+   "priceText": "from £13",
+   "discount": 24,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-12-18T23:59:00Z",
+   "venue": "London",
+   "score": 69
+  },
+  {
    "id": "todaytix-40713",
    "source": "todaytix",
    "title": "Oliver!",
@@ -2378,31 +2355,6 @@
    "score": 65
   },
   {
-   "id": "todaytix-44284",
-   "source": "todaytix",
-   "title": "The Story",
-   "subtitle": "Olivier Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 23%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/44284-the-story",
-   "image": "https://images.ctfassets.net/6pezt69ih962/7qig8Ss6sMaVrtd9oioGYr/6fb1385613d16cdf3ea14066fbcc1d80/NTGDS_NC_The_Story_TodayTix_OnSale_Rollout_10.jpg?w=400&h=400&fit=fill",
-   "price": 75.0,
-   "priceText": "from £75",
-   "discount": 23,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-24T23:59:00Z",
-   "venue": "Olivier Theatre, London",
-   "score": 65
-  },
-  {
    "id": "olt-neighbour-totoro-tickets-111433417",
    "source": "olt",
    "title": "My Neighbour Totoro",
@@ -2474,7 +2426,7 @@
    "published": "2026-09-03T12:22:16Z",
    "expires": null,
    "venue": "",
-   "score": 58
+   "score": 57
   },
   {
    "id": "hukd-4930804",
@@ -2572,30 +2524,6 @@
    "expires": null,
    "venue": "",
    "score": 49
-  },
-  {
-   "id": "news-12-cheap-and-free-things-to-do-with-kids-during-october-half-term",
-   "source": "news",
-   "title": "12 cheap and free things to do with kids during October half term",
-   "subtitle": "Which?",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Which?"
-   ],
-   "merchant": "Which?",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMG9EbnV4QUlqUHp3SXBNQmlYcW90aUhlN2VRZ1FmbjFGRGNqYVBaam9adDdldUNKaW9Tc1A3cWdoUGl1c0pkRjhVUkZ3eEpFYk5OVmJfbXZNS0QwZ1ZaaWlRR253Y20tWktuSTNkRlJtU2VTTUtNTklIVGVnZUdGRWo5dWtCNDZVWlpLUmJnX0d1dm83WXlaSWltM1FUc3ZrTHhUQ3dtLTBtTjNYR1lUQXVwam9WMXdMeVE?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-16T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
   },
   {
    "id": "news-free-christmas-show-tickets-up-for-grabs-through-new-theatre-initiative",
