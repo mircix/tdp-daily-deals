@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-22T05:01:42Z",
+ "generatedAt": "2026-10-22T12:04:36Z",
  "sources": [
   {
    "id": "olt",
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "errors": []
   }
  ],
@@ -120,7 +120,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save up to 63%",
+    "Save up to 65%",
     "From £20"
    ],
    "merchant": "Official London Theatre",
@@ -128,7 +128,7 @@
    "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
    "price": 20.0,
    "priceText": "from £20",
-   "discount": 63,
+   "discount": 65,
    "code": "",
    "heat": null,
    "rating": null,
@@ -363,6 +363,31 @@
    "score": 86
   },
   {
+   "id": "olt-cirque-berserk-111438194",
+   "source": "olt",
+   "title": "Cirque Berserk!",
+   "subtitle": "Entertainment",
+   "category": "comedy",
+   "kind": "offer",
+   "badges": [
+    "Save up to 53%",
+    "From £12.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/cirque-berserk-111438194/",
+   "image": "https://officiallondontheatre.com/app/uploads/2022/12/TTG-1200x600-CB-SOLT-768x384.jpg",
+   "price": 12.5,
+   "priceText": "from £12.50",
+   "discount": 53,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-25T23:59:00Z",
+   "venue": "London",
+   "score": 86
+  },
+  {
    "id": "olt-the-hunger-games-on-stage-111466358",
    "source": "olt",
    "title": "The Hunger Games: On Stage",
@@ -433,7 +458,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-28T23:59:00Z",
+   "expires": "2026-10-29T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -632,7 +657,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-27T23:59:00Z",
+   "expires": "2026-10-29T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -730,7 +755,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-28T23:59:00Z",
+   "expires": "2026-10-29T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -1614,7 +1639,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-23T23:59:00Z",
+   "expires": "2026-10-31T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -1665,31 +1690,6 @@
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Menier Chocolate Factory, London",
    "score": 75
-  },
-  {
-   "id": "olt-cirque-berserk-111438194",
-   "source": "olt",
-   "title": "Cirque Berserk!",
-   "subtitle": "Entertainment",
-   "category": "comedy",
-   "kind": "offer",
-   "badges": [
-    "Special offer",
-    "From £12.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/cirque-berserk-111438194/",
-   "image": "https://officiallondontheatre.com/app/uploads/2022/12/TTG-1200x600-CB-SOLT-768x384.jpg",
-   "price": 12.5,
-   "priceText": "from £12.50",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "London",
-   "score": 73
   },
   {
    "id": "olt-mamma-mia-148257",
@@ -1811,7 +1811,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-22T23:59:00Z",
+   "expires": "2026-11-05T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2280,31 +2280,6 @@
    "score": 67
   },
   {
-   "id": "hukd-4989981",
-   "source": "hukd",
-   "title": "Up to 40% Off The Cinema Society Cinema Tickets Using Code via Lidl Plus App (Partners Section) - Selected Accounts",
-   "subtitle": "Lidl",
-   "category": "cinema",
-   "kind": "voucher",
-   "badges": [
-    "57°",
-    "40% off"
-   ],
-   "merchant": "Lidl",
-   "url": "https://www.hotukdeals.com/vouchers/save-up-to-40-on-cinema-tickets-via-the-lidl-app-tcs-apply-4989981",
-   "image": "https://images.hotukdeals.com/threads/raw/enU1C/4989981_1/re/768x768/qt/60/4989981_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 40,
-   "code": "",
-   "heat": 56.6,
-   "rating": null,
-   "published": "2026-09-27T11:31:09Z",
-   "expires": "2027-03-30T22:59:00Z",
-   "venue": "",
-   "score": 67
-  },
-  {
    "id": "hukd-4934653",
    "source": "hukd",
    "title": "2 Cineworld Adult Standard Tickets via Three+ (fees apply)",
@@ -2349,6 +2324,31 @@
    "rating": null,
    "published": "2026-09-16T09:14:36Z",
    "expires": null,
+   "venue": "",
+   "score": 66
+  },
+  {
+   "id": "hukd-4989981",
+   "source": "hukd",
+   "title": "Up to 40% Off The Cinema Society Cinema Tickets Using Code via Lidl Plus App (Partners Section) - Selected Accounts",
+   "subtitle": "Lidl",
+   "category": "cinema",
+   "kind": "voucher",
+   "badges": [
+    "57°",
+    "40% off"
+   ],
+   "merchant": "Lidl",
+   "url": "https://www.hotukdeals.com/vouchers/save-up-to-40-on-cinema-tickets-via-the-lidl-app-tcs-apply-4989981",
+   "image": "https://images.hotukdeals.com/threads/raw/enU1C/4989981_1/re/768x768/qt/60/4989981_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 40,
+   "code": "",
+   "heat": 56.6,
+   "rating": null,
+   "published": "2026-09-27T11:31:09Z",
+   "expires": "2027-03-30T22:59:00Z",
    "venue": "",
    "score": 66
   },
@@ -2435,7 +2435,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "308°"
+    "310°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/5-tickets-for-ps25-luxe-cinema-included-4972065",
@@ -2444,7 +2444,7 @@
    "priceText": "£25",
    "discount": null,
    "code": "",
-   "heat": 307.6,
+   "heat": 309.8,
    "rating": null,
    "published": "2026-09-02T08:08:20Z",
    "expires": null,
@@ -2480,14 +2480,14 @@
    "id": "hukd-4930804",
    "source": "hukd",
    "title": "30% off tickets to Pokemon Night Out EDM concert at the O2",
-   "subtitle": "axs",
+   "subtitle": "AXS",
    "category": "music",
    "kind": "voucher",
    "badges": [
     "95°",
     "30% off"
    ],
-   "merchant": "axs",
+   "merchant": "AXS",
    "url": "https://www.hotukdeals.com/vouchers/30-of-tickets-to-pokemon-night-out-edm-concert-at-o2-4930804",
    "image": "https://images.hotukdeals.com/threads/raw/kpUQR/4930804_1/re/768x768/qt/60/4930804_1.jpg",
    "price": null,
@@ -2550,6 +2550,30 @@
    "score": 55
   },
   {
+   "id": "news-texas-presale-tickets-how-to-see-band-celebrate-30-years-of-white-on-blonde-in-a",
+   "source": "news",
+   "title": "Texas Presale Tickets: How to see band celebrate 30 years of 'White On Blonde' in Aberdeen & Glasgow",
+   "subtitle": "The Scotsman",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "The Scotsman"
+   ],
+   "merchant": "The Scotsman",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGp0cjRKeExoWGhJd2F2Q21HZFVXbTlvcGtWRER0YXdjMHZISFVIN0V0UVFWUllISU5JQk5hak1hMG9QSGM4TFNEU09JNVM2Y2hCQm9Tc1hnLXQ3TVVLdDlLZnRpSk5uWjE2ajJHbnhwekt6ZGlScy1zYVg4ZEEwbVN0VzF0aVBxTzNsUDZzWEhwTkZSSHZtU2pxaFZKdmQ0bG5ReWIyaG14SzczTDU5bkdNNA?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-22T10:24:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 49
+  },
+  {
    "id": "news-12-cheap-and-free-things-to-do-with-kids-during-october-half-term",
    "source": "news",
    "title": "12 cheap and free things to do with kids during October half term",
@@ -2598,30 +2622,6 @@
    "score": 48
   },
   {
-   "id": "news-the-invictus-games-2027-are-coming-how-to-get-presale-tickets-as-a-birmingham-re",
-   "source": "news",
-   "title": "The Invictus Games 2027 are coming - how to get presale tickets as a Birmingham resident",
-   "subtitle": "Birmingham Live",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Birmingham Live"
-   ],
-   "merchant": "Birmingham Live",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWldJTERuRGR5d2E5bEVjS3lBVzIwd0xuRk9WT1FmVmFMQVJZaUlpdzBXcnk5TXZCMjBGUWpaa3hNN3Z3RTU0NjREcWU1R09Gci14Y01VVXlma3JVUWV2a2VaTVc3ZjBkcDZpeHFBVmJHUnlDeGtySlFZbmFveVVyc3JPeTJZbG1kdmZudHJPZVpzLTYzUkUtRF95T1BvQnPSAaQBQVVfeXFMTzlKWlZQSndvMmdWczMtN2xsUjFnYzc2THFlQlZZeHYxZ1lnS0gzRVg2U1lwX0RVajJUN2NGbUhrU0w0bTk0bVpmakY1SzZHeWx4T21SaS1GMG1oTlpScGRtYUJHVTJMdklXUnNhaHUtcXRzeE1IalpDX2pCWERBY3d5STJEYks1QjdySTAycHpESVZHYVRrTkNhejRDYVdYZVFwR1g?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-14T08:42:13Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-blue-oyster-cult-announce-glasgow-anniversary-show-for-2027-here-s-how-to-get-ti",
    "source": "news",
    "title": "Blue Oyster Cult announce Glasgow anniversary show for 2027 - here's how to get tickets and presale",
@@ -2641,6 +2641,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-13T12:28:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-the-invictus-games-2027-are-coming-how-to-get-presale-tickets-as-a-birmingham-re",
+   "source": "news",
+   "title": "The Invictus Games 2027 are coming - how to get presale tickets as a Birmingham resident",
+   "subtitle": "Birmingham Live",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Birmingham Live"
+   ],
+   "merchant": "Birmingham Live",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWldJTERuRGR5d2E5bEVjS3lBVzIwd0xuRk9WT1FmVmFMQVJZaUlpdzBXcnk5TXZCMjBGUWpaa3hNN3Z3RTU0NjREcWU1R09Gci14Y01VVXlma3JVUWV2a2VaTVc3ZjBkcDZpeHFBVmJHUnlDeGtySlFZbmFveVVyc3JPeTJZbG1kdmZudHJPZVpzLTYzUkUtRF95T1BvQnPSAaQBQVVfeXFMTzlKWlZQSndvMmdWczMtN2xsUjFnYzc2THFlQlZZeHYxZ1lnS0gzRVg2U1lwX0RVajJUN2NGbUhrU0w0bTk0bVpmakY1SzZHeWx4T21SaS1GMG1oTlpScGRtYUJHVTJMdklXUnNhaHUtcXRzeE1IalpDX2pCWERBY3d5STJEYks1QjdySTAycHpESVZHYVRrTkNhejRDYVdYZVFwR1g?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-14T08:42:13Z",
    "expires": null,
    "venue": "",
    "score": 47
