@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-23T05:02:17Z",
+ "generatedAt": "2026-10-23T11:49:22Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 50,
+   "count": 52,
    "errors": []
   },
   {
@@ -83,7 +83,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-23T23:59:00Z",
+   "expires": "2026-10-24T23:59:00Z",
    "venue": "London",
    "score": 90
   },
@@ -408,7 +408,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-29T23:59:00Z",
+   "expires": "2026-10-31T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -446,19 +446,19 @@
    "kind": "offer",
    "badges": [
     "Save up to 49%",
-    "From £28"
+    "From £18"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 18.0,
+   "priceText": "from £18",
    "discount": 49,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-27T23:59:00Z",
+   "expires": "2026-10-30T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -607,7 +607,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-29T23:59:00Z",
+   "expires": "2026-10-30T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -680,7 +680,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-29T23:59:00Z",
+   "expires": "2026-10-30T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -1349,6 +1349,30 @@
    "score": 75
   },
   {
+   "id": "todaytix-46996",
+   "source": "todaytix",
+   "title": "Jesus Christ Superstar",
+   "subtitle": "Theatre Royal Drury Lane",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£30 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46996-jesus-christ-superstar-theatre-royal-drury-lane",
+   "image": "https://images.ctfassets.net/6pezt69ih962/4rjcswgFYRBConJwj8GN8A/30fbed3c0997582fad5a5726f492a717/8490_56_JCS_TTG_1080x1080_TRDL.jpg?w=400&h=400&fit=fill",
+   "price": 30.0,
+   "priceText": "from £30",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-09T23:59:00Z",
+   "venue": "Theatre Royal Drury Lane, London",
+   "score": 75
+  },
+  {
    "id": "todaytix-45676",
    "source": "todaytix",
    "title": "Man to Man",
@@ -1516,6 +1540,30 @@
    "published": null,
    "expires": null,
    "venue": "The Vaults Theatre, London",
+   "score": 75
+  },
+  {
+   "id": "todaytix-47454",
+   "source": "todaytix",
+   "title": "Tru",
+   "subtitle": "Menier Chocolate Factory",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47454-tru",
+   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Menier Chocolate Factory, London",
    "score": 75
   },
   {
@@ -1714,7 +1762,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-27T23:59:00Z",
+   "expires": "2026-10-28T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -1998,7 +2046,7 @@
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5jG7BK43fAunWigytWCJHo/e862e28283d7ae97d65042222cb6730a/DWP-2026-10-TeriHatcher-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5jG7BK43fAunWigytWCJHo/b942a936ab103b2a5d4c9f51d5225466/DWP-2026-10-TeriHatcherMiranda-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
    "price": 23.0,
    "priceText": "from £23",
    "discount": null,
@@ -2080,6 +2128,31 @@
    "published": null,
    "expires": "2026-12-23T23:59:00Z",
    "venue": "Bush Theatre, London",
+   "score": 69
+  },
+  {
+   "id": "todaytix-47552",
+   "source": "todaytix",
+   "title": "Gospel by Candlelight",
+   "subtitle": "Round Chapel, Hackney",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 29%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47552-gospel-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/CbXI70zQo6tuyU3AHYknn/1838950e01c92a0d7a8ece432e9fbb97/1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Round Chapel, Hackney, London",
    "score": 69
   },
   {
@@ -2180,31 +2253,6 @@
    "published": null,
    "expires": null,
    "venue": "Gielgud Theatre, London",
-   "score": 67
-  },
-  {
-   "id": "todaytix-47454",
-   "source": "todaytix",
-   "title": "Tru",
-   "subtitle": "Menier Chocolate Factory",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 25%",
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47454-tru",
-   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 36.0,
-   "priceText": "from £36",
-   "discount": 25,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Menier Chocolate Factory, London",
    "score": 67
   },
   {
@@ -2352,7 +2400,7 @@
    "published": "2026-09-02T08:08:20Z",
    "expires": null,
    "venue": "",
-   "score": 59
+   "score": 58
   },
   {
    "id": "hukd-4973296",
@@ -2453,6 +2501,30 @@
    "score": 55
   },
   {
+   "id": "news-free-christmas-show-tickets-up-for-grabs-through-new-theatre-initiative",
+   "source": "news",
+   "title": "Free Christmas show tickets up for grabs through new theatre initiative",
+   "subtitle": "Glasgow Times",
+   "category": "theatre",
+   "kind": "news",
+   "badges": [
+    "Glasgow Times"
+   ],
+   "merchant": "Glasgow Times",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXN1UE1NV05IOVBVN1hpSW1fN1hQaGs1XzJWbVYzclpYLTRJM05tVXdpTzlkNk9IdThWUDZ4WnhqRjJzbWdfSVE4RExGUmVOT3hjdkxWaTZDLTR5NF9ZWFo2a24ybnhiWEc3MFFrTlVaVEhSbzNJWHdldGNSXzlkSFBzS2dzRGNseUI3SUpGSXR4d2ZfOHlrcWxtSEVQWDJVN1lF?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-16T14:53:49Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
    "id": "news-how-to-get-sam-fender-presale-and-general-sale-tickets-for-principality-stadium",
    "source": "news",
    "title": "How to get Sam Fender presale and general sale tickets for Principality Stadium",
@@ -2472,30 +2544,6 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-21T10:14:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 49
-  },
-  {
-   "id": "news-free-christmas-show-tickets-up-for-grabs-through-new-theatre-initiative",
-   "source": "news",
-   "title": "Free Christmas show tickets up for grabs through new theatre initiative",
-   "subtitle": "Glasgow Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Glasgow Times"
-   ],
-   "merchant": "Glasgow Times",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXN1UE1NV05IOVBVN1hpSW1fN1hQaGs1XzJWbVYzclpYLTRJM05tVXdpTzlkNk9IdThWUDZ4WnhqRjJzbWdfSVE4RExGUmVOT3hjdkxWaTZDLTR5NF9ZWFo2a24ybnhiWEc3MFFrTlVaVEhSbzNJWHdldGNSXzlkSFBzS2dzRGNseUI3SUpGSXR4d2ZfOHlrcWxtSEVQWDJVN1lF?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-16T14:53:49Z",
    "expires": null,
    "venue": "",
    "score": 48
@@ -2519,7 +2567,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-10-13T12:28:00Z",
+   "published": "2026-10-13T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
@@ -2543,7 +2591,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-10-14T08:42:13Z",
+   "published": "2026-10-14T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
