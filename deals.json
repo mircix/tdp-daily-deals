@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-22T21:44:33Z",
+ "generatedAt": "2026-10-23T05:02:17Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 26,
+   "count": 29,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 51,
+   "count": 50,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 19,
+   "count": 18,
    "errors": []
   },
   {
@@ -88,6 +88,31 @@
    "score": 90
   },
   {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 65%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 65,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "hukd-4985426",
    "source": "hukd",
    "title": "Free pair of Horse Racing tickets to one of 15 events Oct to Dec 2026 + kids go free (50,000 tickets available)",
@@ -113,31 +138,6 @@
    "score": 89
   },
   {
-   "id": "hukd-5001365",
-   "source": "hukd",
-   "title": "Paul Smith - AO Arena Manchester - Up To 4 Free Tickets Via Blue Light Card",
-   "subtitle": "Blue Light Card",
-   "category": "music",
-   "kind": "free",
-   "badges": [
-    "742°",
-    "FREE"
-   ],
-   "merchant": "Blue Light Card",
-   "url": "https://www.hotukdeals.com/deals/paul-smith-manchester-free-tickets-blue-light-card-5001365",
-   "image": "https://images.hotukdeals.com/threads/raw/Dd5x2/5001365_1/re/768x768/qt/60/5001365_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 741.8,
-   "rating": null,
-   "published": "2026-10-09T16:14:07Z",
-   "expires": "2026-10-22T22:59:00Z",
-   "venue": "",
-   "score": 89
-  },
-  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -159,6 +159,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-27T23:59:00Z",
+   "venue": "London",
+   "score": 88
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -858,31 +883,6 @@
    "score": 77
   },
   {
-   "id": "todaytix-47552",
-   "source": "todaytix",
-   "title": "Gospel by Candlelight",
-   "subtitle": "Round Chapel, Hackney",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save 43%",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47552-gospel-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/CbXI70zQo6tuyU3AHYknn/1838950e01c92a0d7a8ece432e9fbb97/1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 43,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Round Chapel, Hackney, London",
-   "score": 77
-  },
-  {
    "id": "todaytix-23350",
    "source": "todaytix",
    "title": "Moulin Rouge! The Musical",
@@ -1519,30 +1519,6 @@
    "score": 75
   },
   {
-   "id": "todaytix-47454",
-   "source": "todaytix",
-   "title": "Tru",
-   "subtitle": "Menier Chocolate Factory",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47454-tru",
-   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Menier Chocolate Factory, London",
-   "score": 75
-  },
-  {
    "id": "olt-cabaret-111429752",
    "source": "olt",
    "title": "Cabaret",
@@ -1739,6 +1715,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-10-27T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-01T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2182,6 +2183,31 @@
    "score": 67
   },
   {
+   "id": "todaytix-47454",
+   "source": "todaytix",
+   "title": "Tru",
+   "subtitle": "Menier Chocolate Factory",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 25%",
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47454-tru",
+   "image": "https://images.ctfassets.net/6pezt69ih962/49iZtlW0fSOmLUogmr0jUZ/96ba008894feede59281eb1aa33e6cc6/TRU_FINAL-ART_MCF1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 36.0,
+   "priceText": "from £36",
+   "discount": 25,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Menier Chocolate Factory, London",
+   "score": 67
+  },
+  {
    "id": "hukd-4934653",
    "source": "hukd",
    "title": "2 Cineworld Adult Standard Tickets via Three+ (fees apply)",
@@ -2427,17 +2453,17 @@
    "score": 55
   },
   {
-   "id": "news-texas-presale-tickets-how-to-see-band-celebrate-30-years-of-white-on-blonde-in-a",
+   "id": "news-how-to-get-sam-fender-presale-and-general-sale-tickets-for-principality-stadium",
    "source": "news",
-   "title": "Texas Presale Tickets: How to see band celebrate 30 years of 'White On Blonde' in Aberdeen & Glasgow",
-   "subtitle": "The Scotsman",
+   "title": "How to get Sam Fender presale and general sale tickets for Principality Stadium",
+   "subtitle": "Wales Online",
    "category": "music",
    "kind": "news",
    "badges": [
-    "The Scotsman"
+    "Wales Online"
    ],
-   "merchant": "The Scotsman",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMGp0cjRKeExoWGhJd2F2Q21HZFVXbTlvcGtWRER0YXdjMHZISFVIN0V0UVFWUllISU5JQk5hak1hMG9QSGM4TFNEU09JNVM2Y2hCQm9Tc1hnLXQ3TVVLdDlLZnRpSk5uWjE2ajJHbnhwekt6ZGlScy1zYVg4ZEEwbVN0VzF0aVBxTzNsUDZzWEhwTkZSSHZtU2pxaFZKdmQ0bG5ReWIyaG14SzczTDU5bkdNNA?oc=5",
+   "merchant": "Wales Online",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckJjX2d2aVB2eS1EYmRmNzdweEhMYkh6N0RFSU1qTTU2V1NNUGNramU3UUhXd1BQakhGaS0tSU5PZGd6Ukd5ZWtiS1d3U0kwUF9pOVFzMjFmTFp2V0tjUUo5NER2R1FQNUNRcGh0MGlIVnZ1WVR1X1F0R3VTdEU5NTJWcEwwOXVWcmlac2hOU1dOd3llLWpWd3dfS3B1cnAw0gGmAUFVX3lxTE9NbFhWaXBQQTJYYUkxZ3FjdzdPSmJFcWNReUJwd1g4M251ZW8xYnRqN3EySmp0QmtycGdBbllTc05rNllTS1owWmlGWXNFRTl6UlBWSEVWODNNOXR3NU5VNkZMNzZsQmw3RGZCTHRPeEtidEtYRmI4dmlJb2RuYjJpcHdEeFZkR2xxVUJhcEpEeDRpN3h2Ym9jSURUWlVMREhfTVM0VUE?oc=5",
    "image": "",
    "price": null,
    "priceText": "",
@@ -2445,7 +2471,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-10-22T10:24:00Z",
+   "published": "2026-10-21T10:14:00Z",
    "expires": null,
    "venue": "",
    "score": 49
