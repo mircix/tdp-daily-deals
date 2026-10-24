@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-24T11:15:18Z",
+ "generatedAt": "2026-10-24T16:03:51Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 49,
+   "count": 48,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 19,
+   "count": 20,
    "errors": []
   },
   {
@@ -158,7 +158,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-27T23:59:00Z",
+   "expires": "2026-11-01T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -434,7 +434,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-30T23:59:00Z",
+   "expires": "2026-10-31T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -711,30 +711,6 @@
    "score": 80
   },
   {
-   "id": "todaytix-47679",
-   "source": "todaytix",
-   "title": "The Urmetazoan",
-   "subtitle": "Hampstead Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 48%"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47679-the-urmetazoan",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5tDZVKqidsHMy50a1T9YA4/cf578edbbcd2b2bac13cc1d93fb0f432/The_Urmetazoan_TodayTix_1080x1080px.jpg?w=400&h=400&fit=fill",
-   "price": 16.0,
-   "priceText": "from £16",
-   "discount": 48,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-24T23:59:00Z",
-   "venue": "Hampstead Theatre, London",
-   "score": 80
-  },
-  {
    "id": "todaytix-46808",
    "source": "todaytix",
    "title": "White Rabbit Red Rabbit",
@@ -804,7 +780,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-29T23:59:00Z",
+   "expires": "2026-10-30T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1100,7 +1076,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-25T23:59:00Z",
+   "expires": "2026-11-01T23:59:00Z",
    "venue": "London",
    "score": 76
   },
@@ -1644,30 +1620,6 @@
    "score": 73
   },
   {
-   "id": "hukd-5010364",
-   "source": "hukd",
-   "title": "2 x adult 2D screening standard seat tickets + Booking free extra with Three+ rewards",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "59°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/2-for-ps10-cineworld-booking-free-extra-with-three-5010364",
-   "image": "https://images.hotukdeals.com/threads/raw/FsmPZ/5010364_1/re/768x768/qt/60/5010364_1.jpg",
-   "price": 10,
-   "priceText": "£10",
-   "discount": null,
-   "code": "",
-   "heat": 59.5,
-   "rating": null,
-   "published": "2026-10-21T12:29:48Z",
-   "expires": "2026-10-25T23:59:00Z",
-   "venue": "",
-   "score": 72
-  },
-  {
    "id": "olt-hadestown-111440588",
    "source": "olt",
    "title": "Hadestown",
@@ -1766,6 +1718,30 @@
    "expires": "2026-11-21T23:59:00Z",
    "venue": "London",
    "score": 72
+  },
+  {
+   "id": "hukd-5010364",
+   "source": "hukd",
+   "title": "2 x adult 2D screening standard seat tickets + Booking free extra with Three+ rewards",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "59°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/2-for-ps10-cineworld-booking-free-extra-with-three-5010364",
+   "image": "https://images.hotukdeals.com/threads/raw/FsmPZ/5010364_1/re/768x768/qt/60/5010364_1.jpg",
+   "price": 10,
+   "priceText": "£10",
+   "discount": null,
+   "code": "",
+   "heat": 59.5,
+   "rating": null,
+   "published": "2026-10-21T12:29:48Z",
+   "expires": "2026-10-25T23:59:00Z",
+   "venue": "",
+   "score": 71
   },
   {
    "id": "hukd-4772103",
@@ -2158,6 +2134,30 @@
    "score": 68
   },
   {
+   "id": "hukd-5012273",
+   "source": "hukd",
+   "title": "Wicker Preview Screening Tickets - (26th October 2026)",
+   "subtitle": "Show Film First",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "473°"
+   ],
+   "merchant": "Show Film First",
+   "url": "https://www.hotukdeals.com/deals/wicker-preview-screening-tickets-5012273",
+   "image": "https://images.hotukdeals.com/threads/raw/xnLzT/5012273_1/re/768x768/qt/60/5012273_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": 472.7,
+   "rating": null,
+   "published": "2026-10-23T16:43:58Z",
+   "expires": null,
+   "venue": "",
+   "score": 68
+  },
+  {
    "id": "todaytix-40713",
    "source": "todaytix",
    "title": "Oliver!",
@@ -2288,7 +2288,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "236°",
+    "255°",
     "20% off"
    ],
    "merchant": "Amazon",
@@ -2298,7 +2298,7 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 235.9,
+   "heat": 254.7,
    "rating": null,
    "published": "2026-10-23T15:38:28Z",
    "expires": "2026-10-31T23:59:00Z",
@@ -2477,30 +2477,6 @@
    "score": 49
   },
   {
-   "id": "news-free-christmas-show-tickets-up-for-grabs-through-new-theatre-initiative",
-   "source": "news",
-   "title": "Free Christmas show tickets up for grabs through new theatre initiative",
-   "subtitle": "Glasgow Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Glasgow Times"
-   ],
-   "merchant": "Glasgow Times",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXN1UE1NV05IOVBVN1hpSW1fN1hQaGs1XzJWbVYzclpYLTRJM05tVXdpTzlkNk9IdThWUDZ4WnhqRjJzbWdfSVE4RExGUmVOT3hjdkxWaTZDLTR5NF9ZWFo2a24ybnhiWEc3MFFrTlVaVEhSbzNJWHdldGNSXzlkSFBzS2dzRGNseUI3SUpGSXR4d2ZfOHlrcWxtSEVQWDJVN1lF?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-16T14:53:49Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-how-to-get-sam-fender-presale-and-general-sale-tickets-for-principality-stadium",
    "source": "news",
    "title": "How to get Sam Fender presale and general sale tickets for Principality Stadium",
@@ -2544,6 +2520,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-13T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-free-christmas-show-tickets-up-for-grabs-through-new-theatre-initiative",
+   "source": "news",
+   "title": "Free Christmas show tickets up for grabs through new theatre initiative",
+   "subtitle": "Glasgow Times",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Glasgow Times"
+   ],
+   "merchant": "Glasgow Times",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXN1UE1NV05IOVBVN1hpSW1fN1hQaGs1XzJWbVYzclpYLTRJM05tVXdpTzlkNk9IdThWUDZ4WnhqRjJzbWdfSVE4RExGUmVOT3hjdkxWaTZDLTR5NF9ZWFo2a24ybnhiWEc3MFFrTlVaVEhSbzNJWHdldGNSXzlkSFBzS2dzRGNseUI3SUpGSXR4d2ZfOHlrcWxtSEVQWDJVN1lF?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-16T14:53:49Z",
    "expires": null,
    "venue": "",
    "score": 47
