@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-24T04:47:18Z",
+ "generatedAt": "2026-10-24T11:15:18Z",
  "sources": [
   {
    "id": "olt",
@@ -83,7 +83,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-24T23:59:00Z",
+   "expires": "2026-10-25T23:59:00Z",
    "venue": "London",
    "score": 90
   },
@@ -583,7 +583,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-30T23:59:00Z",
+   "expires": "2026-10-31T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -644,19 +644,19 @@
    "kind": "offer",
    "badges": [
     "Save up to 43%",
-    "From £28"
+    "From £20"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/devil-wears-prada-111442287/",
    "image": "https://officiallondontheatre.com/app/uploads/2023/09/DWP-2026-10-TeriHatcherMiranda-BBs-SOLT-1200x600-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 20.0,
+   "priceText": "from £20",
    "discount": 43,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-30T23:59:00Z",
+   "expires": "2026-10-31T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -804,7 +804,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-28T23:59:00Z",
+   "expires": "2026-10-29T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1538,7 +1538,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-28T23:59:00Z",
+   "expires": "2026-10-31T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -2207,30 +2207,6 @@
    "score": 66
   },
   {
-   "id": "hukd-4982531",
-   "source": "hukd",
-   "title": "College and university students tickets (Limited number - first come, first served basis)",
-   "subtitle": "Octagon Theatre Bolton",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "56°"
-   ],
-   "merchant": "Octagon Theatre Bolton",
-   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
-   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 55.8,
-   "rating": null,
-   "published": "2026-09-16T09:14:36Z",
-   "expires": null,
-   "venue": "",
-   "score": 66
-  },
-  {
    "id": "hukd-4989981",
    "source": "hukd",
    "title": "Up to 40% Off The Cinema Society Cinema Tickets Using Code via Lidl Plus App (Partners Section) - Selected Accounts",
@@ -2254,6 +2230,30 @@
    "expires": "2027-03-30T22:59:00Z",
    "venue": "",
    "score": 66
+  },
+  {
+   "id": "hukd-4982531",
+   "source": "hukd",
+   "title": "College and university students tickets (Limited number - first come, first served basis)",
+   "subtitle": "Octagon Theatre Bolton",
+   "category": "theatre",
+   "kind": "deal",
+   "badges": [
+    "56°"
+   ],
+   "merchant": "Octagon Theatre Bolton",
+   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
+   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 55.8,
+   "rating": null,
+   "published": "2026-09-16T09:14:36Z",
+   "expires": null,
+   "venue": "",
+   "score": 65
   },
   {
    "id": "todaytix-28218",
@@ -2288,7 +2288,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "202°",
+    "236°",
     "20% off"
    ],
    "merchant": "Amazon",
@@ -2298,12 +2298,12 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 202.1,
+   "heat": 235.9,
    "rating": null,
    "published": "2026-10-23T15:38:28Z",
    "expires": "2026-10-31T23:59:00Z",
    "venue": "",
-   "score": 63
+   "score": 64
   },
   {
    "id": "olt-neighbour-totoro-tickets-111433417",
