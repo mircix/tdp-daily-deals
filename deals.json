@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-25T20:57:42Z",
+ "generatedAt": "2026-10-25T23:20:41Z",
  "sources": [
   {
    "id": "olt",
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 2,
+   "count": 4,
    "errors": []
   }
  ],
@@ -913,7 +913,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "228°"
+    "234°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
@@ -922,7 +922,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 228.2,
+   "heat": 233.8,
    "rating": null,
    "published": "2026-10-25T06:40:38Z",
    "expires": null,
@@ -2254,6 +2254,30 @@
    "score": 54
   },
   {
+   "id": "news-ashe-glasgow-tickets-and-presale-how-to-see-the-stop-the-wedding-singer-at-glasg",
+   "source": "news",
+   "title": "Ashe Glasgow Tickets and Presale: How to see the 'Stop the Wedding!' singer at Glasgow's O2 Academy in 2027",
+   "subtitle": "The Scotsman",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "The Scotsman"
+   ],
+   "merchant": "The Scotsman",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVktkSGw0cVhSVG1UOTdZRUhHSE5fY3A1VGRqWnYyT2huS1FBT3FTWHVMbndVZkFINHpiQXhjTXoyN01jX2FuNWhXN2hyTUNxZm5zVFZvdGZ4YkQwWmlzOExrZzFoWnN3UC1sZThPQXV6cjFYYnA3VmVSTEhlUFo5YThVOVVTTktoTEs4?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-23T10:34:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
    "id": "news-blue-oyster-cult-announce-glasgow-anniversary-show-for-2027-here-s-how-to-get-ti",
    "source": "news",
    "title": "Blue Oyster Cult announce Glasgow anniversary show for 2027 - here's how to get tickets and presale",
@@ -2297,6 +2321,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-16T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-the-invictus-games-2027-are-coming-how-to-get-presale-tickets-as-a-birmingham-re",
+   "source": "news",
+   "title": "The Invictus Games 2027 are coming - how to get presale tickets as a Birmingham resident",
+   "subtitle": "Birmingham Live",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Birmingham Live"
+   ],
+   "merchant": "Birmingham Live",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWldJTERuRGR5d2E5bEVjS3lBVzIwd0xuRk9WT1FmVmFMQVJZaUlpdzBXcnk5TXZCMjBGUWpaa3hNN3Z3RTU0NjREcWU1R09Gci14Y01VVXlma3JVUWV2a2VaTVc3ZjBkcDZpeHFBVmJHUnlDeGtySlFZbmFveVVyc3JPeTJZbG1kdmZudHJPZVpzLTYzUkUtRF95T1BvQnPSAaQBQVVfeXFMTzlKWlZQSndvMmdWczMtN2xsUjFnYzc2THFlQlZZeHYxZ1lnS0gzRVg2U1lwX0RVajJUN2NGbUhrU0w0bTk0bVpmakY1SzZHeWx4T21SaS1GMG1oTlpScGRtYUJHVTJMdklXUnNhaHUtcXRzeE1IalpDX2pCWERBY3d5STJEYks1QjdySTAycHpESVZHYVRrTkNhejRDYVdYZVFwR1g?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-14T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
