@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-25T11:45:24Z",
+ "generatedAt": "2026-10-25T16:33:32Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 26,
+   "count": 23,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 21,
+   "count": 20,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 2,
+   "count": 5,
    "errors": []
   }
  ],
@@ -62,56 +62,6 @@
   }
  ],
  "deals": [
-  {
-   "id": "olt-franz-marie-111475208",
-   "source": "olt",
-   "title": "Franz & Marie",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 66%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/franz-marie-111475208/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/07/FranzM-_CX2_1200-x-600px-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 66,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-25T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 63%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 63,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
   {
    "id": "hukd-4985426",
    "source": "hukd",
@@ -264,31 +214,6 @@
    "score": 86
   },
   {
-   "id": "olt-the-hunger-games-on-stage-111466358",
-   "source": "olt",
-   "title": "The Hunger Games: On Stage",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 51%",
-    "From £25"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-hunger-games-on-stage-111466358/",
-   "image": "https://officiallondontheatre.com/app/uploads/2025/11/THG_OLT-DIGI-ASSETS_NOV25_1200x600-1-768x384.jpg",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 51,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-25T23:59:00Z",
-   "venue": "London",
-   "score": 85
-  },
-  {
    "id": "todaytix-36456",
    "source": "todaytix",
    "title": "The Hunger Games: On Stage",
@@ -372,13 +297,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 49%",
-    "From £28"
+    "From £25.50"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 25.5,
+   "priceText": "from £25.50",
    "discount": 49,
    "code": "",
    "heat": null,
@@ -1006,6 +931,30 @@
    "score": 76
   },
   {
+   "id": "hukd-5013201",
+   "source": "hukd",
+   "title": "Odeon Kids Screenings (£0.90 When You Book Online and in Cinema as a Extras Plus Member)",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "199°"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
+   "image": "https://images.hotukdeals.com/threads/raw/ZSdou/5013201_1/re/768x768/qt/60/5013201_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 198.9,
+   "rating": null,
+   "published": "2026-10-25T06:40:38Z",
+   "expires": null,
+   "venue": "",
+   "score": 76
+  },
+  {
    "id": "olt-titanique-111446286",
    "source": "olt",
    "title": "Titaníque",
@@ -1521,30 +1470,6 @@
    "score": 73
   },
   {
-   "id": "hukd-5013201",
-   "source": "hukd",
-   "title": "Odeon Kids Screenings (£0.90 When You Book Online and in Cinema as a Extras Plus Member)",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "95°"
-   ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
-   "image": "https://images.hotukdeals.com/threads/raw/ZSdou/5013201_1/re/768x768/qt/60/5013201_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 95.3,
-   "rating": null,
-   "published": "2026-10-25T06:40:38Z",
-   "expires": null,
-   "venue": "",
-   "score": 73
-  },
-  {
    "id": "olt-oh-mary-111465023",
    "source": "olt",
    "title": "Oh, Mary!",
@@ -1740,30 +1665,6 @@
    "published": null,
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Hampstead Theatre, London",
-   "score": 71
-  },
-  {
-   "id": "hukd-4978597",
-   "source": "hukd",
-   "title": "Vue 2d cinema tickets - 2 x tickets £9.50 / 5 x tickets = £22 / 10 x tickets = £40 (possibly cheaper via app)",
-   "subtitle": "Groupon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "421°"
-   ],
-   "merchant": "Groupon",
-   "url": "https://www.hotukdeals.com/deals/vue-2d-cinema-tickets-2-x-tickets-ps950-5-x-tickets-ps22-10-x-tickets-ps40-possibly-cheaper-via-app-4978597",
-   "image": "https://images.hotukdeals.com/threads/raw/FSVPK/4978597_1/re/768x768/qt/60/4978597_1.jpg",
-   "price": 9.5,
-   "priceText": "£9.50",
-   "discount": null,
-   "code": "",
-   "heat": 421.4,
-   "rating": null,
-   "published": "2026-09-10T14:02:43Z",
-   "expires": null,
-   "venue": "",
    "score": 71
   },
   {
@@ -2042,7 +1943,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "554°"
+    "584°"
    ],
    "merchant": "Show Film First",
    "url": "https://www.hotukdeals.com/deals/wicker-preview-screening-tickets-5012273",
@@ -2051,7 +1952,7 @@
    "priceText": "",
    "discount": null,
    "code": "",
-   "heat": 554.1,
+   "heat": 583.8,
    "rating": null,
    "published": "2026-10-23T16:43:58Z",
    "expires": null,
@@ -2213,7 +2114,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "287°",
+    "291°",
     "20% off"
    ],
    "merchant": "Amazon",
@@ -2223,7 +2124,7 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 287.3,
+   "heat": 291.0,
    "rating": null,
    "published": "2026-10-23T15:38:28Z",
    "expires": "2026-10-31T23:59:00Z",
@@ -2351,7 +2252,7 @@
    "published": "2026-09-23T14:29:02Z",
    "expires": null,
    "venue": "",
-   "score": 56
+   "score": 55
   },
   {
    "id": "hukd-4977128",
@@ -2376,6 +2277,54 @@
    "expires": "2026-10-30T23:59:00Z",
    "venue": "",
    "score": 55
+  },
+  {
+   "id": "news-ashe-glasgow-tickets-and-presale-how-to-see-the-stop-the-wedding-singer-at-glasg",
+   "source": "news",
+   "title": "Ashe Glasgow Tickets and Presale: How to see the 'Stop the Wedding!' singer at Glasgow's O2 Academy in 2027",
+   "subtitle": "The Scotsman",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "The Scotsman"
+   ],
+   "merchant": "The Scotsman",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVktkSGw0cVhSVG1UOTdZRUhHSE5fY3A1VGRqWnYyT2huS1FBT3FTWHVMbndVZkFINHpiQXhjTXoyN01jX2FuNWhXN2hyTUNxZm5zVFZvdGZ4YkQwWmlzOExrZzFoWnN3UC1sZThPQXV6cjFYYnA3VmVSTEhlUFo5YThVOVVTTktoTEs4?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-23T10:34:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
+   "id": "news-how-to-get-sam-fender-presale-and-general-sale-tickets-for-principality-stadium",
+   "source": "news",
+   "title": "How to get Sam Fender presale and general sale tickets for Principality Stadium",
+   "subtitle": "Wales Online",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Wales Online"
+   ],
+   "merchant": "Wales Online",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckJjX2d2aVB2eS1EYmRmNzdweEhMYkh6N0RFSU1qTTU2V1NNUGNramU3UUhXd1BQakhGaS0tSU5PZGd6Ukd5ZWtiS1d3U0kwUF9pOVFzMjFmTFp2V0tjUUo5NER2R1FQNUNRcGh0MGlIVnZ1WVR1X1F0R3VTdEU5NTJWcEwwOXVWcmlac2hOU1dOd3llLWpWd3dfS3B1cnAw0gGmAUFVX3lxTE9NbFhWaXBQQTJYYUkxZ3FjdzdPSmJFcWNReUJwd1g4M251ZW8xYnRqN3EySmp0QmtycGdBbllTc05rNllTS1owWmlGWXNFRTl6UlBWSEVWODNNOXR3NU5VNkZMNzZsQmw3RGZCTHRPeEtidEtYRmI4dmlJb2RuYjJpcHdEeFZkR2xxVUJhcEpEeDRpN3h2Ym9jSURUWlVMREhfTVM0VUE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-21T10:14:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
   },
   {
    "id": "news-blue-oyster-cult-announce-glasgow-anniversary-show-for-2027-here-s-how-to-get-ti",
@@ -2421,6 +2370,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-16T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-the-invictus-games-2027-are-coming-how-to-get-presale-tickets-as-a-birmingham-re",
+   "source": "news",
+   "title": "The Invictus Games 2027 are coming - how to get presale tickets as a Birmingham resident",
+   "subtitle": "Birmingham Live",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Birmingham Live"
+   ],
+   "merchant": "Birmingham Live",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWldJTERuRGR5d2E5bEVjS3lBVzIwd0xuRk9WT1FmVmFMQVJZaUlpdzBXcnk5TXZCMjBGUWpaa3hNN3Z3RTU0NjREcWU1R09Gci14Y01VVXlma3JVUWV2a2VaTVc3ZjBkcDZpeHFBVmJHUnlDeGtySlFZbmFveVVyc3JPeTJZbG1kdmZudHJPZVpzLTYzUkUtRF95T1BvQnPSAaQBQVVfeXFMTzlKWlZQSndvMmdWczMtN2xsUjFnYzc2THFlQlZZeHYxZ1lnS0gzRVg2U1lwX0RVajJUN2NGbUhrU0w0bTk0bVpmakY1SzZHeWx4T21SaS1GMG1oTlpScGRtYUJHVTJMdklXUnNhaHUtcXRzeE1IalpDX2pCWERBY3d5STJEYks1QjdySTAycHpESVZHYVRrTkNhejRDYVdYZVFwR1g?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-14T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
