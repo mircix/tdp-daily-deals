@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-25T16:33:32Z",
+ "generatedAt": "2026-10-25T20:57:42Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 5,
+   "count": 2,
    "errors": []
   }
  ],
@@ -187,31 +187,6 @@
    "expires": "2026-10-31T23:59:00Z",
    "venue": "Peacock Theatre, London",
    "score": 87
-  },
-  {
-   "id": "olt-cirque-berserk-111438194",
-   "source": "olt",
-   "title": "Cirque Berserk!",
-   "subtitle": "Entertainment",
-   "category": "comedy",
-   "kind": "offer",
-   "badges": [
-    "Save up to 53%",
-    "From £27.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/cirque-berserk-111438194/",
-   "image": "https://officiallondontheatre.com/app/uploads/2022/12/TTG-1200x600-CB-SOLT-768x384.jpg",
-   "price": 27.5,
-   "priceText": "from £27.50",
-   "discount": 53,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-25T23:59:00Z",
-   "venue": "London",
-   "score": 86
   },
   {
    "id": "todaytix-36456",
@@ -938,7 +913,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "199°"
+    "228°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
@@ -947,7 +922,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 198.9,
+   "heat": 228.2,
    "rating": null,
    "published": "2026-10-25T06:40:38Z",
    "expires": null,
@@ -1943,7 +1918,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "584°"
+    "592°"
    ],
    "merchant": "Show Film First",
    "url": "https://www.hotukdeals.com/deals/wicker-preview-screening-tickets-5012273",
@@ -1952,7 +1927,7 @@
    "priceText": "",
    "discount": null,
    "code": "",
-   "heat": 583.8,
+   "heat": 592.4,
    "rating": null,
    "published": "2026-10-23T16:43:58Z",
    "expires": null,
@@ -2276,55 +2251,7 @@
    "published": "2026-09-08T19:01:38Z",
    "expires": "2026-10-30T23:59:00Z",
    "venue": "",
-   "score": 55
-  },
-  {
-   "id": "news-ashe-glasgow-tickets-and-presale-how-to-see-the-stop-the-wedding-singer-at-glasg",
-   "source": "news",
-   "title": "Ashe Glasgow Tickets and Presale: How to see the 'Stop the Wedding!' singer at Glasgow's O2 Academy in 2027",
-   "subtitle": "The Scotsman",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "The Scotsman"
-   ],
-   "merchant": "The Scotsman",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVktkSGw0cVhSVG1UOTdZRUhHSE5fY3A1VGRqWnYyT2huS1FBT3FTWHVMbndVZkFINHpiQXhjTXoyN01jX2FuNWhXN2hyTUNxZm5zVFZvdGZ4YkQwWmlzOExrZzFoWnN3UC1sZThPQXV6cjFYYnA3VmVSTEhlUFo5YThVOVVTTktoTEs4?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-23T10:34:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
-   "id": "news-how-to-get-sam-fender-presale-and-general-sale-tickets-for-principality-stadium",
-   "source": "news",
-   "title": "How to get Sam Fender presale and general sale tickets for Principality Stadium",
-   "subtitle": "Wales Online",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Wales Online"
-   ],
-   "merchant": "Wales Online",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckJjX2d2aVB2eS1EYmRmNzdweEhMYkh6N0RFSU1qTTU2V1NNUGNramU3UUhXd1BQakhGaS0tSU5PZGd6Ukd5ZWtiS1d3U0kwUF9pOVFzMjFmTFp2V0tjUUo5NER2R1FQNUNRcGh0MGlIVnZ1WVR1X1F0R3VTdEU5NTJWcEwwOXVWcmlac2hOU1dOd3llLWpWd3dfS3B1cnAw0gGmAUFVX3lxTE9NbFhWaXBQQTJYYUkxZ3FjdzdPSmJFcWNReUJwd1g4M251ZW8xYnRqN3EySmp0QmtycGdBbllTc05rNllTS1owWmlGWXNFRTl6UlBWSEVWODNNOXR3NU5VNkZMNzZsQmw3RGZCTHRPeEtidEtYRmI4dmlJb2RuYjJpcHdEeFZkR2xxVUJhcEpEeDRpN3h2Ym9jSURUWlVMREhfTVM0VUE?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-21T10:14:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
+   "score": 54
   },
   {
    "id": "news-blue-oyster-cult-announce-glasgow-anniversary-show-for-2027-here-s-how-to-get-ti",
@@ -2370,30 +2297,6 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-16T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-the-invictus-games-2027-are-coming-how-to-get-presale-tickets-as-a-birmingham-re",
-   "source": "news",
-   "title": "The Invictus Games 2027 are coming - how to get presale tickets as a Birmingham resident",
-   "subtitle": "Birmingham Live",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Birmingham Live"
-   ],
-   "merchant": "Birmingham Live",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWldJTERuRGR5d2E5bEVjS3lBVzIwd0xuRk9WT1FmVmFMQVJZaUlpdzBXcnk5TXZCMjBGUWpaa3hNN3Z3RTU0NjREcWU1R09Gci14Y01VVXlma3JVUWV2a2VaTVc3ZjBkcDZpeHFBVmJHUnlDeGtySlFZbmFveVVyc3JPeTJZbG1kdmZudHJPZVpzLTYzUkUtRF95T1BvQnPSAaQBQVVfeXFMTzlKWlZQSndvMmdWczMtN2xsUjFnYzc2THFlQlZZeHYxZ1lnS0gzRVg2U1lwX0RVajJUN2NGbUhrU0w0bTk0bVpmakY1SzZHeWx4T21SaS1GMG1oTlpScGRtYUJHVTJMdklXUnNhaHUtcXRzeE1IalpDX2pCWERBY3d5STJEYks1QjdySTAycHpESVZHYVRrTkNhejRDYVdYZVFwR1g?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-14T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
