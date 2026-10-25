@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-24T23:22:14Z",
+ "generatedAt": "2026-10-25T04:55:08Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 48,
+   "count": 47,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "errors": []
   }
  ],
@@ -1250,30 +1250,6 @@
    "score": 75
   },
   {
-   "id": "todaytix-45676",
-   "source": "todaytix",
-   "title": "Man to Man",
-   "subtitle": "Royal Court",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45676-man-to-man",
-   "image": "https://images.ctfassets.net/6pezt69ih962/7Cwn8QxLBCyKGSy3UiaH3g/b4019d6cbbc2366800e7dbfd751d3f15/1080x1080____.png?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-24T23:59:00Z",
-   "venue": "Royal Court, London",
-   "score": 75
-  },
-  {
    "id": "todaytix-45604",
    "source": "todaytix",
    "title": "Paranormal Activity",
@@ -2076,7 +2052,7 @@
    "priceText": "",
    "discount": null,
    "code": "",
-   "heat": 538.4,
+   "heat": 538.3,
    "rating": null,
    "published": "2026-10-23T16:43:58Z",
    "expires": null,
@@ -2470,6 +2446,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-13T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-free-christmas-show-tickets-up-for-grabs-through-new-theatre-initiative",
+   "source": "news",
+   "title": "Free Christmas show tickets up for grabs through new theatre initiative",
+   "subtitle": "Glasgow Times",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Glasgow Times"
+   ],
+   "merchant": "Glasgow Times",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXN1UE1NV05IOVBVN1hpSW1fN1hQaGs1XzJWbVYzclpYLTRJM05tVXdpTzlkNk9IdThWUDZ4WnhqRjJzbWdfSVE4RExGUmVOT3hjdkxWaTZDLTR5NF9ZWFo2a24ybnhiWEc3MFFrTlVaVEhSbzNJWHdldGNSXzlkSFBzS2dzRGNseUI3SUpGSXR4d2ZfOHlrcWxtSEVQWDJVN1lF?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-16T14:53:49Z",
    "expires": null,
    "venue": "",
    "score": 47
