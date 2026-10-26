@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-25T23:20:41Z",
+ "generatedAt": "2026-10-26T04:58:21Z",
  "sources": [
   {
    "id": "olt",
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 20,
+   "count": 19,
    "errors": []
   },
   {
@@ -212,31 +212,6 @@
    "expires": null,
    "venue": "Troubadour Canary Wharf Theatre, London",
    "score": 85
-  },
-  {
-   "id": "olt-into-the-woods-111473840",
-   "source": "olt",
-   "title": "Into The Woods",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 50%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/into-the-woods-111473840/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 50,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-31T23:59:00Z",
-   "venue": "London",
-   "score": 84
   },
   {
    "id": "olt-les-miserables-76782",
@@ -560,32 +535,6 @@
    "score": 80
   },
   {
-   "id": "todaytix-333",
-   "source": "todaytix",
-   "title": "The Mousetrap",
-   "subtitle": "St. Martin's Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 46%",
-    "£29.50 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/333-mousetrap",
-   "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 46,
-   "code": "",
-   "heat": null,
-   "rating": 4.3,
-   "published": null,
-   "expires": null,
-   "venue": "St. Martin's Theatre, London",
-   "score": 80
-  },
-  {
    "id": "todaytix-46808",
    "source": "todaytix",
    "title": "White Rabbit Red Rabbit",
@@ -708,6 +657,30 @@
    "score": 77
   },
   {
+   "id": "hukd-5013201",
+   "source": "hukd",
+   "title": "Odeon Kids Screenings (£0.90 When You Book Online and in Cinema as a Extras Plus Member)",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "280°"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
+   "image": "https://images.hotukdeals.com/threads/raw/ZSdou/5013201_1/re/768x768/qt/60/5013201_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 280.4,
+   "rating": null,
+   "published": "2026-10-25T06:40:38Z",
+   "expires": null,
+   "venue": "",
+   "score": 77
+  },
+  {
    "id": "todaytix-45447",
    "source": "todaytix",
    "title": "Oh, Mary!",
@@ -808,32 +781,6 @@
    "score": 77
   },
   {
-   "id": "todaytix-40903",
-   "source": "todaytix",
-   "title": "Titanique",
-   "subtitle": "Criterion Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 42%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/40903-titanique",
-   "image": "https://images.ctfassets.net/6pezt69ih962/4KqiYiRPKqrxr0vJQTPUCT/922a7e8a47d82a401b3a031e321fd690/TQE506-FullCast-TTGAsset-Sept26-1080x1080__1_.jpg?w=400&h=400&fit=fill",
-   "price": 27.0,
-   "priceText": "from £27",
-   "discount": 42,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "Criterion Theatre, London",
-   "score": 77
-  },
-  {
    "id": "todaytix-313",
    "source": "todaytix",
    "title": "Wicked",
@@ -906,27 +853,27 @@
    "score": 76
   },
   {
-   "id": "hukd-5013201",
-   "source": "hukd",
-   "title": "Odeon Kids Screenings (£0.90 When You Book Online and in Cinema as a Extras Plus Member)",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "deal",
+   "id": "todaytix-333",
+   "source": "todaytix",
+   "title": "The Mousetrap",
+   "subtitle": "St. Martin's Theatre",
+   "category": "theatre",
+   "kind": "rush",
    "badges": [
-    "234°"
+    "£29.50 Rush tickets"
    ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
-   "image": "https://images.hotukdeals.com/threads/raw/ZSdou/5013201_1/re/768x768/qt/60/5013201_1.jpg",
-   "price": 1,
-   "priceText": "£1",
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/333-mousetrap",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
+   "price": 29.5,
+   "priceText": "from £29.50",
    "discount": null,
    "code": "",
-   "heat": 233.8,
-   "rating": null,
-   "published": "2026-10-25T06:40:38Z",
+   "heat": null,
+   "rating": 4.3,
+   "published": null,
    "expires": null,
-   "venue": "",
+   "venue": "St. Martin's Theatre, London",
    "score": 76
   },
   {
@@ -1320,6 +1267,31 @@
    "score": 75
   },
   {
+   "id": "todaytix-40903",
+   "source": "todaytix",
+   "title": "Titanique",
+   "subtitle": "Criterion Theatre",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£30 Rush tickets",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/40903-titanique",
+   "image": "https://images.ctfassets.net/6pezt69ih962/4KqiYiRPKqrxr0vJQTPUCT/922a7e8a47d82a401b3a031e321fd690/TQE506-FullCast-TTGAsset-Sept26-1080x1080__1_.jpg?w=400&h=400&fit=fill",
+   "price": 30.0,
+   "priceText": "from £30",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Criterion Theatre, London",
+   "score": 75
+  },
+  {
    "id": "todaytix-47454",
    "source": "todaytix",
    "title": "Tru",
@@ -1470,6 +1442,31 @@
    "score": 73
   },
   {
+   "id": "olt-wicked-73606",
+   "source": "olt",
+   "title": "Wicked",
+   "subtitle": "Musical, Family",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Special offer",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/wicked-73606/",
+   "image": "https://officiallondontheatre.com/app/uploads/2008/04/Wicked-2025-10-TKTSBanner-600x1200-56210SA-Vis2-1-1-1-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "London",
+   "score": 73
+  },
+  {
    "id": "olt-hadestown-111440588",
    "source": "olt",
    "title": "Hadestown",
@@ -1543,30 +1540,6 @@
    "expires": "2026-11-21T23:59:00Z",
    "venue": "London",
    "score": 72
-  },
-  {
-   "id": "hukd-5010364",
-   "source": "hukd",
-   "title": "2 x adult 2D screening standard seat tickets + Booking free extra with Three+ rewards",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "59°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/2-for-ps10-cineworld-booking-free-extra-with-three-5010364",
-   "image": "https://images.hotukdeals.com/threads/raw/FsmPZ/5010364_1/re/768x768/qt/60/5010364_1.jpg",
-   "price": 10,
-   "priceText": "£10",
-   "discount": null,
-   "code": "",
-   "heat": 59.5,
-   "rating": null,
-   "published": "2026-10-21T12:29:48Z",
-   "expires": "2026-10-25T23:59:00Z",
-   "venue": "",
-   "score": 71
   },
   {
    "id": "hukd-4772103",
@@ -1918,7 +1891,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "592°"
+    "594°"
    ],
    "merchant": "Show Film First",
    "url": "https://www.hotukdeals.com/deals/wicker-preview-screening-tickets-5012273",
@@ -1927,7 +1900,7 @@
    "priceText": "",
    "discount": null,
    "code": "",
-   "heat": 592.4,
+   "heat": 594.2,
    "rating": null,
    "published": "2026-10-23T16:43:58Z",
    "expires": null,
