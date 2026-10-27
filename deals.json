@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-27T00:34:04Z",
+ "generatedAt": "2026-10-27T09:09:27Z",
  "sources": [
   {
    "id": "olt",
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "errors": []
   },
   {
@@ -445,8 +445,7 @@
    "category": "theatre",
    "kind": "lottery",
    "badges": [
-    "£10 Lottery tickets",
-    "Exclusive Prices"
+    "£10 Lottery tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/20561-hamilton",
@@ -489,6 +488,30 @@
    "score": 83
   },
   {
+   "id": "hukd-5014143",
+   "source": "hukd",
+   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
+   "subtitle": "Amazon",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "814°"
+   ],
+   "merchant": "Amazon",
+   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5014143",
+   "image": "https://images.hotukdeals.com/threads/raw/vbhWl/5014143_1/re/768x768/qt/60/5014143_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 814.4,
+   "rating": null,
+   "published": "2026-10-26T11:01:42Z",
+   "expires": "2026-10-31T23:59:00Z",
+   "venue": "",
+   "score": 81
+  },
+  {
    "id": "hukd-4892734",
    "source": "hukd",
    "title": "Kids FREE Entry to 200+ UK Attractions (Stonehenge / Eden Project / Edinburgh Zoo + More) via Blue Peter Badge",
@@ -512,30 +535,6 @@
    "expires": null,
    "venue": "",
    "score": 81
-  },
-  {
-   "id": "hukd-5014143",
-   "source": "hukd",
-   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
-   "subtitle": "Amazon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "640°"
-   ],
-   "merchant": "Amazon",
-   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5014143",
-   "image": "https://images.hotukdeals.com/threads/raw/vbhWl/5014143_1/re/768x768/qt/60/5014143_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 639.7,
-   "rating": null,
-   "published": "2026-10-26T11:01:42Z",
-   "expires": "2026-10-31T23:59:00Z",
-   "venue": "",
-   "score": 80
   },
   {
    "id": "olt-avenue-q-111466206",
@@ -684,6 +683,30 @@
    "score": 80
   },
   {
+   "id": "hukd-4991179",
+   "source": "hukd",
+   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "2629°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
+   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 2628.8,
+   "rating": null,
+   "published": "2026-09-29T06:52:16Z",
+   "expires": null,
+   "venue": "",
+   "score": 79
+  },
+  {
    "id": "todaytix-48379",
    "source": "todaytix",
    "title": "Balletboyz - Six Lethargies",
@@ -757,31 +780,6 @@
    "expires": "2026-11-01T23:59:00Z",
    "venue": "London",
    "score": 78
-  },
-  {
-   "id": "hukd-4975792",
-   "source": "hukd",
-   "title": "50% off your next cinema trip - Via McDonald's Rewards (Points Spend) and ODEON - £1 Booking Fee Applies",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "voucher",
-   "badges": [
-    "709°",
-    "50% off"
-   ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/vouchers/50-off-your-next-cinema-trip-via-mcdonalds-rewards-and-odeon-4975792",
-   "image": "https://images.hotukdeals.com/threads/raw/qV2zO/4975792_1/re/768x768/qt/60/4975792_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 50,
-   "code": "",
-   "heat": 708.8,
-   "rating": null,
-   "published": "2026-09-07T06:26:46Z",
-   "expires": "2026-11-02T23:59:00Z",
-   "venue": "",
-   "score": 77
   },
   {
    "id": "todaytix-23350",
@@ -1003,6 +1001,31 @@
    "expires": null,
    "venue": "London County Hall, London",
    "score": 77
+  },
+  {
+   "id": "hukd-4975792",
+   "source": "hukd",
+   "title": "50% off your next cinema trip - Via McDonald's Rewards (Points Spend) and ODEON - £1 Booking Fee Applies",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "voucher",
+   "badges": [
+    "709°",
+    "50% off"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/vouchers/50-off-your-next-cinema-trip-via-mcdonalds-rewards-and-odeon-4975792",
+   "image": "https://images.hotukdeals.com/threads/raw/qV2zO/4975792_1/re/768x768/qt/60/4975792_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 50,
+   "code": "",
+   "heat": 708.8,
+   "rating": null,
+   "published": "2026-09-07T06:26:46Z",
+   "expires": "2026-11-02T23:59:00Z",
+   "venue": "",
+   "score": 76
   },
   {
    "id": "todaytix-23465",
@@ -1871,7 +1894,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "91°"
+    "93°"
    ],
    "merchant": "German Doner Kebab",
    "url": "https://www.hotukdeals.com/deals/gdk-x-vue-4999927",
@@ -1880,7 +1903,7 @@
    "priceText": "£5",
    "discount": null,
    "code": "",
-   "heat": 91.2,
+   "heat": 93.0,
    "rating": null,
    "published": "2026-10-07T21:14:20Z",
    "expires": "2026-10-27T23:59:00Z",
@@ -2066,7 +2089,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "521°"
+    "659°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/super-saver-ticket-bundle-5-tickets-luxe-cinemas-included-w-odeon-gift-card-via-amazon-payment-odeon-extras-members-5014326",
@@ -2075,7 +2098,7 @@
    "priceText": "£21",
    "discount": null,
    "code": "",
-   "heat": 521.5,
+   "heat": 659.0,
    "rating": null,
    "published": "2026-10-26T14:06:36Z",
    "expires": "2026-10-30T23:59:00Z",
@@ -2451,35 +2474,11 @@
    "score": 54
   },
   {
-   "id": "news-blue-oyster-cult-announce-glasgow-anniversary-show-for-2027-here-s-how-to-get-ti",
-   "source": "news",
-   "title": "Blue Oyster Cult announce Glasgow anniversary show for 2027 - here's how to get tickets and presale",
-   "subtitle": "The Scotsman",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "The Scotsman"
-   ],
-   "merchant": "The Scotsman",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSGRPclFpRlhNbDEwbjl0YVNkeFdvYnhfWXVXXzlmdUhCSTN1OUUzdV9PekxKUzQ4djdqX1lPdjh0U0taUzE0aWN5VzJZem1XdWgzRlRVSjFmUGx4NWhkd1k5bmw3VU5JdkphLXEyV3lTTmdFRUtvektsNmlpenFpU2JoTmFwVHN4N21sMnpnVVJrbW1zVExPLURHc1VBM1VBellNSGZzUHYxUzVLT0ZKRHBzVGJmOWJUQjhSNkRvbWZxc3pjT1ZTZE5wYkJBb21LOC04QlNrZFQ?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-13T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
    "id": "news-free-christmas-show-tickets-up-for-grabs-through-new-theatre-initiative",
    "source": "news",
    "title": "Free Christmas show tickets up for grabs through new theatre initiative",
    "subtitle": "Glasgow Times",
-   "category": "cinema",
+   "category": "theatre",
    "kind": "news",
    "badges": [
     "Glasgow Times"
@@ -2494,6 +2493,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-16T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-the-invictus-games-2027-are-coming-how-to-get-presale-tickets-as-a-birmingham-re",
+   "source": "news",
+   "title": "The Invictus Games 2027 are coming - how to get presale tickets as a Birmingham resident",
+   "subtitle": "Birmingham Live",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Birmingham Live"
+   ],
+   "merchant": "Birmingham Live",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWldJTERuRGR5d2E5bEVjS3lBVzIwd0xuRk9WT1FmVmFMQVJZaUlpdzBXcnk5TXZCMjBGUWpaa3hNN3Z3RTU0NjREcWU1R09Gci14Y01VVXlma3JVUWV2a2VaTVc3ZjBkcDZpeHFBVmJHUnlDeGtySlFZbmFveVVyc3JPeTJZbG1kdmZudHJPZVpzLTYzUkUtRF95T1BvQnPSAaQBQVVfeXFMTzlKWlZQSndvMmdWczMtN2xsUjFnYzc2THFlQlZZeHYxZ1lnS0gzRVg2U1lwX0RVajJUN2NGbUhrU0w0bTk0bVpmakY1SzZHeWx4T21SaS1GMG1oTlpScGRtYUJHVTJMdklXUnNhaHUtcXRzeE1IalpDX2pCWERBY3d5STJEYks1QjdySTAycHpESVZHYVRrTkNhejRDYVdYZVFwR1g?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-14T07:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
