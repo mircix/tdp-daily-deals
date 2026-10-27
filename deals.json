@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-27T09:09:27Z",
+ "generatedAt": "2026-10-27T15:25:40Z",
  "sources": [
   {
    "id": "olt",
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 2,
+   "count": 0,
    "errors": []
   }
  ],
@@ -83,32 +83,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-28T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 67%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 67,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
+   "expires": "2026-10-29T23:59:00Z",
    "venue": "London",
    "score": 90
   },
@@ -158,7 +133,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-01T23:59:00Z",
+   "expires": "2026-11-03T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -289,31 +264,6 @@
    "score": 86
   },
   {
-   "id": "olt-the-mousetrap-92715",
-   "source": "olt",
-   "title": "The Mousetrap",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 53%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
-   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 53,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-31T23:59:00Z",
-   "venue": "London",
-   "score": 86
-  },
-  {
    "id": "todaytix-36456",
    "source": "todaytix",
    "title": "The Hunger Games: On Stage",
@@ -360,6 +310,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-06T23:59:00Z",
+   "venue": "London",
+   "score": 84
+  },
+  {
+   "id": "olt-the-mousetrap-92715",
+   "source": "olt",
+   "title": "The Mousetrap",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 49%",
+    "From £25.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
+   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
+   "price": 25.5,
+   "priceText": "from £25.50",
+   "discount": 49,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-03T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -488,6 +463,31 @@
    "score": 83
   },
   {
+   "id": "olt-the-hunger-games-on-stage-111466358",
+   "source": "olt",
+   "title": "The Hunger Games: On Stage",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 47%",
+    "From £21"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-hunger-games-on-stage-111466358/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/11/THG_OLT-DIGI-ASSETS_NOV25_1200x600-1-768x384.jpg",
+   "price": 21.0,
+   "priceText": "from £21",
+   "discount": 47,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-01T23:59:00Z",
+   "venue": "London",
+   "score": 83
+  },
+  {
    "id": "hukd-5014143",
    "source": "hukd",
    "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
@@ -495,7 +495,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "814°"
+    "962°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5014143",
@@ -504,7 +504,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 814.4,
+   "heat": 961.5,
    "rating": null,
    "published": "2026-10-26T11:01:42Z",
    "expires": "2026-10-31T23:59:00Z",
@@ -557,7 +557,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-02T23:59:00Z",
+   "expires": "2026-11-03T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -630,7 +630,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-31T23:59:00Z",
+   "expires": "2026-11-03T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -690,7 +690,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2629°"
+    "2637°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -699,7 +699,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2628.8,
+   "heat": 2636.8,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -740,13 +740,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 39%",
-    "From £31"
+    "From £20"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
-   "price": 31.0,
-   "priceText": "from £31",
+   "price": 20.0,
+   "priceText": "from £20",
    "discount": 39,
    "code": "",
    "heat": null,
@@ -1052,30 +1052,6 @@
    "score": 76
   },
   {
-   "id": "todaytix-333",
-   "source": "todaytix",
-   "title": "The Mousetrap",
-   "subtitle": "St. Martin's Theatre",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£29.50 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/333-mousetrap",
-   "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
-   "price": 29.5,
-   "priceText": "from £29.50",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": 4.3,
-   "published": null,
-   "expires": null,
-   "venue": "St. Martin's Theatre, London",
-   "score": 76
-  },
-  {
    "id": "olt-titanique-111446286",
    "source": "olt",
    "title": "Titaníque",
@@ -1258,7 +1234,7 @@
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/2QMX0EgBEM8weY28iAxXbi/c09f6c1359b68deb1efcffe5a5bd4cd0/HSM_1080_x_1080.png?w=400&h=400&fit=fill",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
    "price": 30.0,
    "priceText": "from £30",
    "discount": null,
@@ -1466,6 +1442,32 @@
    "score": 75
   },
   {
+   "id": "todaytix-333",
+   "source": "todaytix",
+   "title": "The Mousetrap",
+   "subtitle": "St. Martin's Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 36%",
+    "£29.50 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/333-mousetrap",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/06a7a854ad5d4750552c94b4fd6f8dd3/MT-AUG26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 36,
+   "code": "",
+   "heat": null,
+   "rating": 4.3,
+   "published": null,
+   "expires": null,
+   "venue": "St. Martin's Theatre, London",
+   "score": 75
+  },
+  {
    "id": "todaytix-40903",
    "source": "todaytix",
    "title": "Titanique",
@@ -1535,7 +1537,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-02T23:59:00Z",
+   "expires": "2026-11-03T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -1961,6 +1963,30 @@
    "score": 70
   },
   {
+   "id": "hukd-5014326",
+   "source": "hukd",
+   "title": "Super Saver Ticket Bundle - 5 Tickets - Luxe Cinemas Included - w/ ODEON gift card via Amazon & payment - Odeon Extras members",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "860°"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/deals/super-saver-ticket-bundle-5-tickets-luxe-cinemas-included-w-odeon-gift-card-via-amazon-payment-odeon-extras-members-5014326",
+   "image": "https://images.hotukdeals.com/threads/raw/Pe6I5/5014326_1/re/768x768/qt/60/5014326_1.jpg",
+   "price": 20,
+   "priceText": "£20",
+   "discount": null,
+   "code": "",
+   "heat": 860.1,
+   "rating": null,
+   "published": "2026-10-26T14:06:36Z",
+   "expires": "2026-10-30T23:59:00Z",
+   "venue": "",
+   "score": 70
+  },
+  {
    "id": "todaytix-34706",
    "source": "todaytix",
    "title": "The Devil Wears Prada",
@@ -2082,30 +2108,6 @@
    "score": 69
   },
   {
-   "id": "hukd-5014326",
-   "source": "hukd",
-   "title": "Super Saver Ticket Bundle - 5 Tickets - Luxe Cinemas Included - w/ ODEON gift card via Amazon & payment - Odeon Extras members",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "659°"
-   ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/deals/super-saver-ticket-bundle-5-tickets-luxe-cinemas-included-w-odeon-gift-card-via-amazon-payment-odeon-extras-members-5014326",
-   "image": "https://images.hotukdeals.com/threads/raw/Pe6I5/5014326_1/re/768x768/qt/60/5014326_1.jpg",
-   "price": 21,
-   "priceText": "£21",
-   "discount": null,
-   "code": "",
-   "heat": 659.0,
-   "rating": null,
-   "published": "2026-10-26T14:06:36Z",
-   "expires": "2026-10-30T23:59:00Z",
-   "venue": "",
-   "score": 69
-  },
-  {
    "id": "olt-the-smartest-giant-in-town-111473985",
    "source": "olt",
    "title": "The Smartest Giant In Town",
@@ -2138,7 +2140,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "606°"
+    "609°"
    ],
    "merchant": "Show Film First",
    "url": "https://www.hotukdeals.com/deals/wicker-preview-screening-tickets-5012273",
@@ -2147,7 +2149,7 @@
    "priceText": "",
    "discount": null,
    "code": "",
-   "heat": 605.6,
+   "heat": 609.2,
    "rating": null,
    "published": "2026-10-23T16:43:58Z",
    "expires": null,
@@ -2277,6 +2279,31 @@
    "score": 65
   },
   {
+   "id": "olt-neighbour-totoro-tickets-111433417",
+   "source": "olt",
+   "title": "My Neighbour Totoro",
+   "subtitle": "Drama, Family, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 17%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
+   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 17,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-31T23:59:00Z",
+   "venue": "London",
+   "score": 65
+  },
+  {
    "id": "todaytix-28218",
    "source": "todaytix",
    "title": "Showstopper! The Improvised Musical",
@@ -2325,31 +2352,6 @@
    "expires": "2026-10-31T23:59:00Z",
    "venue": "",
    "score": 64
-  },
-  {
-   "id": "olt-neighbour-totoro-tickets-111433417",
-   "source": "olt",
-   "title": "My Neighbour Totoro",
-   "subtitle": "Drama, Family, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 8%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
-   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 8,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-27T23:59:00Z",
-   "venue": "London",
-   "score": 60
   },
   {
    "id": "hukd-4972065",
@@ -2472,54 +2474,6 @@
    "expires": "2026-10-30T23:59:00Z",
    "venue": "",
    "score": 54
-  },
-  {
-   "id": "news-free-christmas-show-tickets-up-for-grabs-through-new-theatre-initiative",
-   "source": "news",
-   "title": "Free Christmas show tickets up for grabs through new theatre initiative",
-   "subtitle": "Glasgow Times",
-   "category": "theatre",
-   "kind": "news",
-   "badges": [
-    "Glasgow Times"
-   ],
-   "merchant": "Glasgow Times",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXN1UE1NV05IOVBVN1hpSW1fN1hQaGs1XzJWbVYzclpYLTRJM05tVXdpTzlkNk9IdThWUDZ4WnhqRjJzbWdfSVE4RExGUmVOT3hjdkxWaTZDLTR5NF9ZWFo2a24ybnhiWEc3MFFrTlVaVEhSbzNJWHdldGNSXzlkSFBzS2dzRGNseUI3SUpGSXR4d2ZfOHlrcWxtSEVQWDJVN1lF?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-16T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-the-invictus-games-2027-are-coming-how-to-get-presale-tickets-as-a-birmingham-re",
-   "source": "news",
-   "title": "The Invictus Games 2027 are coming - how to get presale tickets as a Birmingham resident",
-   "subtitle": "Birmingham Live",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Birmingham Live"
-   ],
-   "merchant": "Birmingham Live",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWldJTERuRGR5d2E5bEVjS3lBVzIwd0xuRk9WT1FmVmFMQVJZaUlpdzBXcnk5TXZCMjBGUWpaa3hNN3Z3RTU0NjREcWU1R09Gci14Y01VVXlma3JVUWV2a2VaTVc3ZjBkcDZpeHFBVmJHUnlDeGtySlFZbmFveVVyc3JPeTJZbG1kdmZudHJPZVpzLTYzUkUtRF95T1BvQnPSAaQBQVVfeXFMTzlKWlZQSndvMmdWczMtN2xsUjFnYzc2THFlQlZZeHYxZ1lnS0gzRVg2U1lwX0RVajJUN2NGbUhrU0w0bTk0bVpmakY1SzZHeWx4T21SaS1GMG1oTlpScGRtYUJHVTJMdklXUnNhaHUtcXRzeE1IalpDX2pCWERBY3d5STJEYks1QjdySTAycHpESVZHYVRrTkNhejRDYVdYZVFwR1g?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-14T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
   }
  ]
 }
