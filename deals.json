@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-28T05:54:57Z",
+ "generatedAt": "2026-10-28T13:12:29Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 29,
+   "count": 31,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 2,
+   "count": 0,
    "errors": []
   }
  ],
@@ -83,7 +83,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-10-29T23:59:00Z",
+   "expires": "2026-10-30T23:59:00Z",
    "venue": "London",
    "score": 90
   },
@@ -347,13 +347,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 49%",
-    "From £25.50"
+    "From £18"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 25.5,
-   "priceText": "from £25.50",
+   "price": 18.0,
+   "priceText": "from £18",
    "discount": 49,
    "code": "",
    "heat": null,
@@ -520,7 +520,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1030°"
+    "1048°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5014143",
@@ -529,7 +529,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 1030.1,
+   "heat": 1048.0,
    "rating": null,
    "published": "2026-10-26T11:01:42Z",
    "expires": "2026-10-31T23:59:00Z",
@@ -1588,7 +1588,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-03T23:59:00Z",
+   "expires": "2026-11-04T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -1658,31 +1658,6 @@
    "image": "https://officiallondontheatre.com/app/uploads/2025/10/Oh-Mary-Lolly-1200x600-1-768x384.jpg",
    "price": 27.39,
    "priceText": "from £27.39",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "London",
-   "score": 73
-  },
-  {
-   "id": "olt-six-vaudeville-theatre-111428236",
-   "source": "olt",
-   "title": "Six",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Special offer",
-    "From £37.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
-   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
-   "price": 37.5,
-   "priceText": "from £37.50",
    "discount": null,
    "code": "",
    "heat": null,
@@ -1891,6 +1866,55 @@
    "score": 71
   },
   {
+   "id": "olt-potted-panto-111449808",
+   "source": "olt",
+   "title": "Potted Panto",
+   "subtitle": "Entertainment, Christmas, Comedy",
+   "category": "comedy",
+   "kind": "offer",
+   "badges": [
+    "Save up to 27%",
+    "From £27.60"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/potted-panto-111449808/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/06/PottedPanto_1200x600px-768x384.jpg",
+   "price": 27.6,
+   "priceText": "from £27.60",
+   "discount": 27,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "London",
+   "score": 71
+  },
+  {
+   "id": "hukd-5014326",
+   "source": "hukd",
+   "title": "Super Saver Ticket Bundle - 5 Tickets - Luxe Cinemas Included - w/ ODEON gift card via Amazon & payment - Odeon Extras members",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "1009°"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/deals/super-saver-ticket-bundle-5-tickets-luxe-cinemas-included-w-odeon-gift-card-via-amazon-payment-odeon-extras-members-5014326",
+   "image": "https://images.hotukdeals.com/threads/raw/Pe6I5/5014326_1/re/768x768/qt/60/5014326_1.jpg",
+   "price": 20,
+   "priceText": "£20",
+   "discount": null,
+   "code": "",
+   "heat": 1008.8,
+   "rating": null,
+   "published": "2026-10-26T14:06:36Z",
+   "expires": "2026-10-30T23:59:00Z",
+   "venue": "",
+   "score": 71
+  },
+  {
    "id": "todaytix-46365",
    "source": "todaytix",
    "title": "Death Note: The Musical",
@@ -1989,30 +2013,6 @@
    "score": 70
   },
   {
-   "id": "hukd-5014326",
-   "source": "hukd",
-   "title": "Super Saver Ticket Bundle - 5 Tickets - Luxe Cinemas Included - w/ ODEON gift card via Amazon & payment - Odeon Extras members",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "942°"
-   ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/deals/super-saver-ticket-bundle-5-tickets-luxe-cinemas-included-w-odeon-gift-card-via-amazon-payment-odeon-extras-members-5014326",
-   "image": "https://images.hotukdeals.com/threads/raw/Pe6I5/5014326_1/re/768x768/qt/60/5014326_1.jpg",
-   "price": 20,
-   "priceText": "£20",
-   "discount": null,
-   "code": "",
-   "heat": 942,
-   "rating": null,
-   "published": "2026-10-26T14:06:36Z",
-   "expires": "2026-10-30T23:59:00Z",
-   "venue": "",
-   "score": 70
-  },
-  {
    "id": "todaytix-34706",
    "source": "todaytix",
    "title": "The Devil Wears Prada",
@@ -2025,8 +2025,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
    "image": "https://images.ctfassets.net/6pezt69ih962/5jG7BK43fAunWigytWCJHo/b942a936ab103b2a5d4c9f51d5225466/DWP-2026-10-TeriHatcherMiranda-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 23.0,
-   "priceText": "from £23",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2232,31 +2232,6 @@
    "score": 66
   },
   {
-   "id": "hukd-4989981",
-   "source": "hukd",
-   "title": "Up to 40% Off The Cinema Society Cinema Tickets Using Code via Lidl Plus App (Partners Section) - Selected Accounts",
-   "subtitle": "Lidl",
-   "category": "cinema",
-   "kind": "voucher",
-   "badges": [
-    "57°",
-    "40% off"
-   ],
-   "merchant": "Lidl",
-   "url": "https://www.hotukdeals.com/vouchers/save-up-to-40-on-cinema-tickets-via-the-lidl-app-tcs-apply-4989981",
-   "image": "https://images.hotukdeals.com/threads/raw/enU1C/4989981_1/re/768x768/qt/60/4989981_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 40,
-   "code": "",
-   "heat": 56.6,
-   "rating": null,
-   "published": "2026-09-27T11:31:09Z",
-   "expires": "2027-03-30T22:59:00Z",
-   "venue": "",
-   "score": 66
-  },
-  {
    "id": "hukd-4982531",
    "source": "hukd",
    "title": "College and university students tickets (Limited number - first come, first served basis)",
@@ -2331,6 +2306,31 @@
    "score": 65
   },
   {
+   "id": "hukd-4989981",
+   "source": "hukd",
+   "title": "Up to 40% Off The Cinema Society Cinema Tickets Using Code via Lidl Plus App (Partners Section) - Selected Accounts",
+   "subtitle": "Lidl",
+   "category": "cinema",
+   "kind": "voucher",
+   "badges": [
+    "57°",
+    "40% off"
+   ],
+   "merchant": "Lidl",
+   "url": "https://www.hotukdeals.com/vouchers/save-up-to-40-on-cinema-tickets-via-the-lidl-app-tcs-apply-4989981",
+   "image": "https://images.hotukdeals.com/threads/raw/enU1C/4989981_1/re/768x768/qt/60/4989981_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 40,
+   "code": "",
+   "heat": 56.6,
+   "rating": null,
+   "published": "2026-09-27T11:31:09Z",
+   "expires": "2027-03-30T22:59:00Z",
+   "venue": "",
+   "score": 65
+  },
+  {
    "id": "hukd-5012228",
    "source": "hukd",
    "title": "20% off Odeon eGift Cards - e.g. £5 eGift Card for £4, £20 eGift Card for £16 etc",
@@ -2354,6 +2354,56 @@
    "expires": "2026-10-31T23:59:00Z",
    "venue": "",
    "score": 64
+  },
+  {
+   "id": "olt-six-vaudeville-theatre-111428236",
+   "source": "olt",
+   "title": "Six",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 14%",
+    "From £37.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
+   "price": 37.5,
+   "priceText": "from £37.50",
+   "discount": 14,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-29T23:59:00Z",
+   "venue": "London",
+   "score": 63
+  },
+  {
+   "id": "olt-pulman-stilgoe-hooray-for-hollywood-111476184",
+   "source": "olt",
+   "title": "Pulman & Stilgoe: Hooray For Hollywood",
+   "subtitle": "Concert, Entertainment",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save up to 10%",
+    "From £12.15"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/pulman-stilgoe-hooray-for-hollywood-111476184/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/08/wilton_banner_2_OLT-Listing-•-1200px-x-600px-768x384.jpg",
+   "price": 12.15,
+   "priceText": "from £12.15",
+   "discount": 10,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-07T23:59:00Z",
+   "venue": "London",
+   "score": 61
   },
   {
    "id": "hukd-4972065",
@@ -2380,31 +2430,6 @@
    "score": 58
   },
   {
-   "id": "hukd-4973296",
-   "source": "hukd",
-   "title": "Wicked theatre tickets - weekdays Sep / Oct / Nov / Dec 2026 - Apollo Victoria Theatre London (discount at checkout)",
-   "subtitle": "ATG Tickets",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "417°",
-    "20% off"
-   ],
-   "merchant": "ATG Tickets",
-   "url": "https://www.hotukdeals.com/deals/wicked-theatre-tickets-weekdays-sep-oct-nov-dec-2026-apollo-victoria-theatre-london-discount-at-checkout-4973296",
-   "image": "https://images.hotukdeals.com/threads/raw/fN5sA/4973296_1/re/768x768/qt/60/4973296_1.jpg",
-   "price": 20,
-   "priceText": "£20",
-   "discount": 20,
-   "code": "",
-   "heat": 417.0,
-   "rating": null,
-   "published": "2026-09-03T12:22:16Z",
-   "expires": null,
-   "venue": "",
-   "score": 57
-  },
-  {
    "id": "hukd-4930804",
    "source": "hukd",
    "title": "30% off tickets to Pokemon Night Out EDM concert at the O2",
@@ -2426,6 +2451,31 @@
    "rating": null,
    "published": "2026-07-07T14:41:11Z",
    "expires": "2026-11-10T14:59:00Z",
+   "venue": "",
+   "score": 56
+  },
+  {
+   "id": "hukd-4973296",
+   "source": "hukd",
+   "title": "Wicked theatre tickets - weekdays Sep / Oct / Nov / Dec 2026 - Apollo Victoria Theatre London (discount at checkout)",
+   "subtitle": "ATG Tickets",
+   "category": "theatre",
+   "kind": "deal",
+   "badges": [
+    "417°",
+    "20% off"
+   ],
+   "merchant": "ATG Tickets",
+   "url": "https://www.hotukdeals.com/deals/wicked-theatre-tickets-weekdays-sep-oct-nov-dec-2026-apollo-victoria-theatre-london-discount-at-checkout-4973296",
+   "image": "https://images.hotukdeals.com/threads/raw/fN5sA/4973296_1/re/768x768/qt/60/4973296_1.jpg",
+   "price": 20,
+   "priceText": "£20",
+   "discount": 20,
+   "code": "",
+   "heat": 417.0,
+   "rating": null,
+   "published": "2026-09-03T12:22:16Z",
+   "expires": null,
    "venue": "",
    "score": 56
   },
@@ -2476,54 +2526,6 @@
    "expires": "2026-10-30T23:59:00Z",
    "venue": "",
    "score": 54
-  },
-  {
-   "id": "news-free-christmas-show-tickets-up-for-grabs-through-new-theatre-initiative",
-   "source": "news",
-   "title": "Free Christmas show tickets up for grabs through new theatre initiative",
-   "subtitle": "Glasgow Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Glasgow Times"
-   ],
-   "merchant": "Glasgow Times",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXN1UE1NV05IOVBVN1hpSW1fN1hQaGs1XzJWbVYzclpYLTRJM05tVXdpTzlkNk9IdThWUDZ4WnhqRjJzbWdfSVE4RExGUmVOT3hjdkxWaTZDLTR5NF9ZWFo2a24ybnhiWEc3MFFrTlVaVEhSbzNJWHdldGNSXzlkSFBzS2dzRGNseUI3SUpGSXR4d2ZfOHlrcWxtSEVQWDJVN1lF?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-16T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-the-invictus-games-2027-are-coming-how-to-get-presale-tickets-as-a-birmingham-re",
-   "source": "news",
-   "title": "The Invictus Games 2027 are coming - how to get presale tickets as a Birmingham resident",
-   "subtitle": "Birmingham Live",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Birmingham Live"
-   ],
-   "merchant": "Birmingham Live",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWldJTERuRGR5d2E5bEVjS3lBVzIwd0xuRk9WT1FmVmFMQVJZaUlpdzBXcnk5TXZCMjBGUWpaa3hNN3Z3RTU0NjREcWU1R09Gci14Y01VVXlma3JVUWV2a2VaTVc3ZjBkcDZpeHFBVmJHUnlDeGtySlFZbmFveVVyc3JPeTJZbG1kdmZudHJPZVpzLTYzUkUtRF95T1BvQnPSAaQBQVVfeXFMTzlKWlZQSndvMmdWczMtN2xsUjFnYzc2THFlQlZZeHYxZ1lnS0gzRVg2U1lwX0RVajJUN2NGbUhrU0w0bTk0bVpmakY1SzZHeWx4T21SaS1GMG1oTlpScGRtYUJHVTJMdklXUnNhaHUtcXRzeE1IalpDX2pCWERBY3d5STJEYks1QjdySTAycHpESVZHYVRrTkNhejRDYVdYZVFwR1g?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-14T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
   }
  ]
 }
