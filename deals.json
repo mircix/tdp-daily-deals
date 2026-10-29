@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-28T20:22:12Z",
+ "generatedAt": "2026-10-29T01:02:47Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 28,
+   "count": 32,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 50,
+   "count": 49,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 21,
+   "count": 23,
    "errors": []
   },
   {
@@ -88,6 +88,31 @@
    "score": 90
   },
   {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 65%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 65,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "hukd-4985426",
    "source": "hukd",
    "title": "Free pair of Horse Racing tickets to one of 15 events Oct to Dec 2026 + kids go free (50,000 tickets available)",
@@ -138,30 +163,29 @@
    "score": 88
   },
   {
-   "id": "todaytix-45407",
-   "source": "todaytix",
-   "title": "Beetlejuice",
-   "subtitle": "Prince Edward Theatre",
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 60%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
+    "Save up to 56%",
+    "From £35"
    ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 60,
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2027-01-02T23:59:00Z",
-   "venue": "Prince Edward Theatre, London",
-   "score": 87
+   "expires": "2027-04-10T23:59:00Z",
+   "venue": "London",
+   "score": 88
   },
   {
    "id": "olt-oliver-111446304",
@@ -239,6 +263,32 @@
    "score": 86
   },
   {
+   "id": "todaytix-45407",
+   "source": "todaytix",
+   "title": "Beetlejuice",
+   "subtitle": "Prince Edward Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 55%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 55,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-02T23:59:00Z",
+   "venue": "Prince Edward Theatre, London",
+   "score": 84
+  },
+  {
    "id": "olt-cirque-berserk-111438194",
    "source": "olt",
    "title": "Cirque Berserk!",
@@ -312,6 +362,31 @@
    "expires": "2026-11-03T23:59:00Z",
    "venue": "London",
    "score": 84
+  },
+  {
+   "id": "hukd-5016507",
+   "source": "hukd",
+   "title": "\"Discover\" films (incl Godzilla Minus: Zero) now free for Picturehouse Cinema Members",
+   "subtitle": "Picturehouse Cinemas",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "66°",
+    "FREE"
+   ],
+   "merchant": "Picturehouse Cinemas",
+   "url": "https://www.hotukdeals.com/deals/discover-films-incl-godzilla-minus-zero-now-free-for-picturehouse-cinema-members-5016507",
+   "image": "https://images.hotukdeals.com/threads/raw/281Oe/5016507_1/re/768x768/qt/60/5016507_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 65.9,
+   "rating": null,
+   "published": "2026-10-28T21:24:56Z",
+   "expires": null,
+   "venue": "",
+   "score": 83
   },
   {
    "id": "todaytix-25118",
@@ -1305,8 +1380,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets",
-    "Exclusive Offer"
+    "£30 Rush tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47065-into-the-woods",
@@ -1600,7 +1674,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "83°"
+    "93°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/cineworld-ps5-ticket-via-three-rewards-5016365",
@@ -1609,7 +1683,7 @@
    "priceText": "£5",
    "discount": null,
    "code": "",
-   "heat": 82.7,
+   "heat": 92.9,
    "rating": null,
    "published": "2026-10-28T17:17:03Z",
    "expires": null,
@@ -1792,6 +1866,31 @@
    "score": 72
   },
   {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-01T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
    "id": "olt-top-gunchained-111476290",
    "source": "olt",
    "title": "Top Gunchained",
@@ -1887,6 +1986,31 @@
    "published": null,
    "expires": "2027-01-03T23:59:00Z",
    "venue": "London",
+   "score": 71
+  },
+  {
+   "id": "hukd-4988790",
+   "source": "hukd",
+   "title": "Yorkshire's Winter Wonderland – Half Price Ice Skating & Funfair - Family of 4 ticket",
+   "subtitle": "Planet Offers",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "61°",
+    "50% off"
+   ],
+   "merchant": "Planet Offers",
+   "url": "https://www.hotukdeals.com/deals/yorkshires-winter-wonderland-half-price-ice-skating-funfair-4988790",
+   "image": "https://images.hotukdeals.com/threads/raw/mQLf5/4988790_1/re/768x768/qt/60/4988790_1.jpg",
+   "price": 33.9,
+   "priceText": "£33.90",
+   "discount": 50,
+   "code": "",
+   "heat": 61.1,
+   "rating": null,
+   "published": "2026-09-25T11:46:54Z",
+   "expires": null,
+   "venue": "",
    "score": 71
   },
   {
@@ -2009,30 +2133,6 @@
    "published": "2026-10-26T14:06:36Z",
    "expires": "2026-10-30T23:59:00Z",
    "venue": "",
-   "score": 70
-  },
-  {
-   "id": "todaytix-34706",
-   "source": "todaytix",
-   "title": "The Devil Wears Prada",
-   "subtitle": "Dominion Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/34706-the-devil-wears-prada",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5jG7BK43fAunWigytWCJHo/b942a936ab103b2a5d4c9f51d5225466/DWP-2026-10-TeriHatcherMiranda-BBs-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "Dominion Theatre, London",
    "score": 70
   },
   {
@@ -2353,6 +2453,31 @@
    "expires": "2026-10-31T23:59:00Z",
    "venue": "",
    "score": 64
+  },
+  {
+   "id": "olt-six-vaudeville-theatre-111428236",
+   "source": "olt",
+   "title": "Six",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 14%",
+    "From £37.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
+   "price": 37.5,
+   "priceText": "from £37.50",
+   "discount": 14,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-29T23:59:00Z",
+   "venue": "London",
+   "score": 63
   },
   {
    "id": "olt-pulman-stilgoe-hooray-for-hollywood-111476184",
