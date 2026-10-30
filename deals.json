@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-30T01:07:45Z",
+ "generatedAt": "2026-10-30T10:12:58Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 51,
+   "count": 50,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 2,
+   "count": 1,
    "errors": []
   }
  ],
@@ -62,31 +62,6 @@
   }
  ],
  "deals": [
-  {
-   "id": "hukd-5016396",
-   "source": "hukd",
-   "title": "Free Breakfast with Standard Premier Inn Room Booking - For UK Stays 13/11/26 to 28/02/27 using code - exclusions apply",
-   "subtitle": "Premier Inn",
-   "category": "music",
-   "kind": "free",
-   "badges": [
-    "2450°",
-    "FREE"
-   ],
-   "merchant": "Premier Inn",
-   "url": "https://www.hotukdeals.com/vouchers/free-breakfast-with-standard-premier-inn-room-booking-for-uk-stays-261126-to-280227-exclusions-apply-5016396",
-   "image": "https://images.hotukdeals.com/threads/raw/Ua6A6/5016396_1/re/768x768/qt/60/5016396_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 2449.7,
-   "rating": null,
-   "published": "2026-10-29T09:00:01Z",
-   "expires": "2026-11-09T23:59:00Z",
-   "venue": "",
-   "score": 94
-  },
   {
    "id": "olt-franz-marie-111475208",
    "source": "olt",
@@ -213,52 +188,27 @@
    "score": 88
   },
   {
-   "id": "todaytix-47410",
+   "id": "todaytix-47347",
    "source": "todaytix",
-   "title": "An Oak Tree",
-   "subtitle": "The Other Palace - Main Theatre",
+   "title": "Ceilidh The Musical",
+   "subtitle": "Shoreditch Town Hall",
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 62%",
-    "£25 Rush tickets"
+    "Save 74%"
    ],
    "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47410-an-oak-tree",
-   "image": "https://images.ctfassets.net/6pezt69ih962/EqTr6TQLPtG9NGYA5WmPS/295b9642b33a2994c9fea578acbe244c/AOT26_FMP26_TOP_ATG_1x1.png?w=400&h=400&fit=fill",
+   "url": "https://www.todaytix.com/london/shows/47347-ceilidh",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6uzECfgiM5OH4ANulMaoT6/c81fa7787af24e66bde5c98f4d2f4877/Ceilidh_TTG_Buttons_1080x1080.jpg?w=400&h=400&fit=fill",
    "price": 15.0,
    "priceText": "from £15",
-   "discount": 62,
+   "discount": 74,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-15T23:59:00Z",
-   "venue": "The Other Palace - Main Theatre, London",
-   "score": 87
-  },
-  {
-   "id": "todaytix-47411",
-   "source": "todaytix",
-   "title": "Feeling Afraid As If Something Terrible Is Going To Happen",
-   "subtitle": "The Other Palace - Main Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 62%"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47411-feeling-afraid-as-if-something-terrible-is-going-to-happen",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6viZqwi1AFQB1R47VEWHFN/45c801e0b81183c60d071d93d6877d7f/FA26_FMP26_TTG_1080x1080.png?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 62,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-10T23:59:00Z",
-   "venue": "The Other Palace - Main Theatre, London",
+   "expires": "2026-11-13T23:59:00Z",
+   "venue": "Shoreditch Town Hall, London",
    "score": 87
   },
   {
@@ -284,31 +234,6 @@
    "published": null,
    "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
-   "score": 87
-  },
-  {
-   "id": "todaytix-45811",
-   "source": "todaytix",
-   "title": "STORIES – The Tap Dance Sensation",
-   "subtitle": "Peacock Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 64%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45811-stories-the-tap-dance-sensation",
-   "image": "https://images.ctfassets.net/6pezt69ih962/2yqmTsiH3TF8nt69eeueC8/7eefc2977ca12c7e9a428c17fe94eaf8/1_stories26_london_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 64,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-10-31T23:59:00Z",
-   "venue": "Peacock Theatre, London",
    "score": 87
   },
   {
@@ -344,7 +269,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "142°",
+    "141°",
     "FREE"
    ],
    "merchant": "Picturehouse Cinemas",
@@ -354,7 +279,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 142.3,
+   "heat": 141.4,
    "rating": null,
    "published": "2026-10-28T21:24:56Z",
    "expires": null,
@@ -435,6 +360,31 @@
    "published": null,
    "expires": "2026-11-06T23:59:00Z",
    "venue": "London",
+   "score": 84
+  },
+  {
+   "id": "todaytix-45811",
+   "source": "todaytix",
+   "title": "STORIES – The Tap Dance Sensation",
+   "subtitle": "Peacock Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 54%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45811-stories-the-tap-dance-sensation",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2yqmTsiH3TF8nt69eeueC8/7eefc2977ca12c7e9a428c17fe94eaf8/1_stories26_london_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 54,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-10-31T23:59:00Z",
+   "venue": "Peacock Theatre, London",
    "score": 84
   },
   {
@@ -754,7 +704,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-05T23:59:00Z",
+   "expires": "2026-11-06T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -953,7 +903,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-03T23:59:00Z",
+   "expires": "2026-11-04T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1167,8 +1117,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/313-wicked",
    "image": "https://images.ctfassets.net/6pezt69ih962/6SLDDSfmqZpSJEtrPiIIt3/befbbe7e8a35763f695470b5031b108a/Wicked_LTW_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
+   "price": 20.0,
+   "priceText": "from £20",
    "discount": null,
    "code": "",
    "heat": null,
@@ -1210,7 +1160,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "189°"
+    "209°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -1219,7 +1169,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 188.5,
+   "heat": 209.3,
    "rating": null,
    "published": "2026-10-29T14:33:51Z",
    "expires": "2026-11-15T23:59:00Z",
@@ -1326,6 +1276,30 @@
    "score": 75
   },
   {
+   "id": "todaytix-47410",
+   "source": "todaytix",
+   "title": "An Oak Tree",
+   "subtitle": "The Other Palace - Main Theatre",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47410-an-oak-tree",
+   "image": "https://images.ctfassets.net/6pezt69ih962/EqTr6TQLPtG9NGYA5WmPS/295b9642b33a2994c9fea578acbe244c/AOT26_FMP26_TOP_ATG_1x1.png?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-15T23:59:00Z",
+   "venue": "The Other Palace - Main Theatre, London",
+   "score": 75
+  },
+  {
    "id": "todaytix-45732",
    "source": "todaytix",
    "title": "Avenue Q",
@@ -1357,7 +1331,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "151°"
+    "154°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/cineworld-ps5-ticket-via-three-rewards-5016365",
@@ -1366,7 +1340,7 @@
    "priceText": "£5",
    "discount": null,
    "code": "",
-   "heat": 151.2,
+   "heat": 154.1,
    "rating": null,
    "published": "2026-10-28T17:17:03Z",
    "expires": null,
@@ -1763,30 +1737,6 @@
    "expires": "2026-11-05T23:59:00Z",
    "venue": "London",
    "score": 74
-  },
-  {
-   "id": "todaytix-47409",
-   "source": "todaytix",
-   "title": "Garry Starr Classic Penguins",
-   "subtitle": "The Other Palace - Main Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 36%"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47409-garry-starr-classic-penguins",
-   "image": "https://images.ctfassets.net/6pezt69ih962/1xsbTpEnPGxJ1YTUyhIU0l/2907714bb8a809e2ca24326cbef04598/GSC26_FMP26_TTG_1080x1080.png?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 36,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "The Other Palace - Main Theatre, London",
-   "score": 73
   },
   {
    "id": "olt-mamma-mia-148257",
@@ -2429,30 +2379,6 @@
    "score": 66
   },
   {
-   "id": "hukd-4982531",
-   "source": "hukd",
-   "title": "College and university students tickets (Limited number - first come, first served basis)",
-   "subtitle": "Octagon Theatre Bolton",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "56°"
-   ],
-   "merchant": "Octagon Theatre Bolton",
-   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
-   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 55.8,
-   "rating": null,
-   "published": "2026-09-16T09:14:36Z",
-   "expires": null,
-   "venue": "",
-   "score": 65
-  },
-  {
    "id": "olt-neighbour-totoro-tickets-111433417",
    "source": "olt",
    "title": "My Neighbour Totoro",
@@ -2526,6 +2452,30 @@
    "expires": "2027-03-30T22:59:00Z",
    "venue": "",
    "score": 65
+  },
+  {
+   "id": "hukd-4982531",
+   "source": "hukd",
+   "title": "College and university students tickets (Limited number - first come, first served basis)",
+   "subtitle": "Octagon Theatre Bolton",
+   "category": "theatre",
+   "kind": "deal",
+   "badges": [
+    "56°"
+   ],
+   "merchant": "Octagon Theatre Bolton",
+   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
+   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 55.8,
+   "rating": null,
+   "published": "2026-09-16T09:14:36Z",
+   "expires": null,
+   "venue": "",
+   "score": 64
   },
   {
    "id": "hukd-5012228",
@@ -2722,30 +2672,6 @@
    "expires": null,
    "venue": "",
    "score": 49
-  },
-  {
-   "id": "news-free-christmas-show-tickets-up-for-grabs-through-new-theatre-initiative",
-   "source": "news",
-   "title": "Free Christmas show tickets up for grabs through new theatre initiative",
-   "subtitle": "Glasgow Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Glasgow Times"
-   ],
-   "merchant": "Glasgow Times",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSXN1UE1NV05IOVBVN1hpSW1fN1hQaGs1XzJWbVYzclpYLTRJM05tVXdpTzlkNk9IdThWUDZ4WnhqRjJzbWdfSVE4RExGUmVOT3hjdkxWaTZDLTR5NF9ZWFo2a24ybnhiWEc3MFFrTlVaVEhSbzNJWHdldGNSXzlkSFBzS2dzRGNseUI3SUpGSXR4d2ZfOHlrcWxtSEVQWDJVN1lF?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-16T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
   }
  ]
 }
