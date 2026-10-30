@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-30T10:12:58Z",
+ "generatedAt": "2026-10-30T18:04:53Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 32,
+   "count": 35,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 50,
+   "count": 53,
    "errors": []
   },
   {
@@ -188,6 +188,32 @@
    "score": 88
   },
   {
+   "id": "todaytix-47410",
+   "source": "todaytix",
+   "title": "An Oak Tree",
+   "subtitle": "The Other Palace - Main Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 62%",
+    "£25 Rush tickets",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47410-an-oak-tree",
+   "image": "https://images.ctfassets.net/6pezt69ih962/EqTr6TQLPtG9NGYA5WmPS/295b9642b33a2994c9fea578acbe244c/AOT26_FMP26_TOP_ATG_1x1.png?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 62,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-15T23:59:00Z",
+   "venue": "The Other Palace - Main Theatre, London",
+   "score": 87
+  },
+  {
    "id": "todaytix-47347",
    "source": "todaytix",
    "title": "Ceilidh The Musical",
@@ -209,6 +235,31 @@
    "published": null,
    "expires": "2026-11-13T23:59:00Z",
    "venue": "Shoreditch Town Hall, London",
+   "score": 87
+  },
+  {
+   "id": "todaytix-47411",
+   "source": "todaytix",
+   "title": "Feeling Afraid As If Something Terrible Is Going To Happen",
+   "subtitle": "The Other Palace - Main Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 62%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47411-feeling-afraid-as-if-something-terrible-is-going-to-happen",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6viZqwi1AFQB1R47VEWHFN/45c801e0b81183c60d071d93d6877d7f/FA26_FMP26_TTG_1080x1080.png?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 62,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-10T23:59:00Z",
+   "venue": "The Other Palace - Main Theatre, London",
    "score": 87
   },
   {
@@ -237,6 +288,31 @@
    "score": 87
   },
   {
+   "id": "todaytix-25773",
+   "source": "todaytix",
+   "title": "Tosca - English National Opera",
+   "subtitle": "London Coliseum",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 57%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/25773-tosca-english-national-opera",
+   "image": "https://images.ctfassets.net/6pezt69ih962/4i9JnWd409zO8V7euDFas5/0e7f31b8236cbae9a71019f268f44b5c/1080x1080_tosca.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 57,
+   "code": "",
+   "heat": null,
+   "rating": 4.46,
+   "published": null,
+   "expires": "2026-12-11T23:59:00Z",
+   "venue": "London Coliseum, London",
+   "score": 87
+  },
+  {
    "id": "olt-beetlejuice-the-musical-111465049",
    "source": "olt",
    "title": "Beetlejuice The Musical",
@@ -257,7 +333,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-04T23:59:00Z",
+   "expires": "2026-11-06T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -376,8 +452,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/45811-stories-the-tap-dance-sensation",
    "image": "https://images.ctfassets.net/6pezt69ih962/2yqmTsiH3TF8nt69eeueC8/7eefc2977ca12c7e9a428c17fe94eaf8/1_stories26_london_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
+   "price": 25.0,
+   "priceText": "from £25",
    "discount": 54,
    "code": "",
    "heat": null,
@@ -482,7 +558,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-05T23:59:00Z",
+   "expires": "2026-11-07T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -569,7 +645,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1055°"
+    "1069°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5014143",
@@ -578,7 +654,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 1055.4,
+   "heat": 1069.0,
    "rating": null,
    "published": "2026-10-26T11:01:42Z",
    "expires": "2026-10-31T23:59:00Z",
@@ -631,7 +707,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-05T23:59:00Z",
+   "expires": "2026-11-06T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -858,6 +934,31 @@
    "score": 78
   },
   {
+   "id": "olt-representasian-an-evening-of-asian-talent-111472513",
+   "source": "olt",
+   "title": "RepresentAsian: An Evening of Asian Talent",
+   "subtitle": "Concert",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save up to 39%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/representasian-an-evening-of-asian-talent-111472513/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/04/Represent-Asian-NIMAX_1200x600-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 39,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-09T23:59:00Z",
+   "venue": "London",
+   "score": 78
+  },
+  {
    "id": "todaytix-45825",
    "source": "todaytix",
    "title": "Tango After Dark",
@@ -987,7 +1088,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "322°"
+    "325°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
@@ -996,7 +1097,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 322.0,
+   "heat": 325.1,
    "rating": null,
    "published": "2026-10-25T06:40:38Z",
    "expires": null,
@@ -1160,7 +1261,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "209°"
+    "245°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -1169,7 +1270,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 209.3,
+   "heat": 244.6,
    "rating": null,
    "published": "2026-10-29T14:33:51Z",
    "expires": "2026-11-15T23:59:00Z",
@@ -1273,30 +1374,6 @@
    "published": null,
    "expires": "2026-11-28T23:59:00Z",
    "venue": "Riverside Studios, London",
-   "score": 75
-  },
-  {
-   "id": "todaytix-47410",
-   "source": "todaytix",
-   "title": "An Oak Tree",
-   "subtitle": "The Other Palace - Main Theatre",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47410-an-oak-tree",
-   "image": "https://images.ctfassets.net/6pezt69ih962/EqTr6TQLPtG9NGYA5WmPS/295b9642b33a2994c9fea578acbe244c/AOT26_FMP26_TOP_ATG_1x1.png?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-15T23:59:00Z",
-   "venue": "The Other Palace - Main Theatre, London",
    "score": 75
   },
   {
@@ -1739,6 +1816,56 @@
    "score": 74
   },
   {
+   "id": "todaytix-47409",
+   "source": "todaytix",
+   "title": "Garry Starr Classic Penguins",
+   "subtitle": "The Other Palace - Main Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 36%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47409-garry-starr-classic-penguins",
+   "image": "https://images.ctfassets.net/6pezt69ih962/1xsbTpEnPGxJ1YTUyhIU0l/2907714bb8a809e2ca24326cbef04598/GSC26_FMP26_TTG_1080x1080.png?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 36,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "The Other Palace - Main Theatre, London",
+   "score": 73
+  },
+  {
+   "id": "olt-harry-potter-and-the-cursed-child-tickets-347931",
+   "source": "olt",
+   "title": "Harry Potter And The Cursed Child",
+   "subtitle": "Drama, Family, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Special offer",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/harry-potter-and-the-cursed-child-tickets-347931/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/HP-1200x600-1-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "London",
+   "score": 73
+  },
+  {
    "id": "olt-mamma-mia-148257",
    "source": "olt",
    "title": "Mamma Mia!",
@@ -2167,7 +2294,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1014°"
+    "1019°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/super-saver-ticket-bundle-5-tickets-luxe-cinemas-included-w-odeon-gift-card-via-amazon-payment-odeon-extras-members-5014326",
@@ -2176,7 +2303,7 @@
    "priceText": "£20",
    "discount": null,
    "code": "",
-   "heat": 1013.8,
+   "heat": 1018.9,
    "rating": null,
    "published": "2026-10-26T14:06:36Z",
    "expires": "2026-10-30T23:59:00Z",
@@ -2429,6 +2556,31 @@
    "score": 65
   },
   {
+   "id": "olt-six-vaudeville-theatre-111428236",
+   "source": "olt",
+   "title": "Six",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 16%",
+    "From £37.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
+   "price": 37.5,
+   "priceText": "from £37.50",
+   "discount": 16,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-03T23:59:00Z",
+   "venue": "London",
+   "score": 65
+  },
+  {
    "id": "hukd-4989981",
    "source": "hukd",
    "title": "Up to 40% Off The Cinema Society Cinema Tickets Using Code via Lidl Plus App (Partners Section) - Selected Accounts",
@@ -2485,7 +2637,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "304°",
+    "309°",
     "20% off"
    ],
    "merchant": "Amazon",
@@ -2495,7 +2647,7 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 303.7,
+   "heat": 309.1,
    "rating": null,
    "published": "2026-10-23T15:38:28Z",
    "expires": "2026-10-31T23:59:00Z",
