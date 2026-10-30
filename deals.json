@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-30T18:04:53Z",
+ "generatedAt": "2026-10-30T22:28:56Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 35,
+   "count": 31,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 23,
+   "count": 24,
    "errors": []
   },
   {
@@ -88,31 +88,6 @@
    "score": 90
   },
   {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 65%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 65,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
    "id": "hukd-4985426",
    "source": "hukd",
    "title": "Free pair of Horse Racing tickets to one of 15 events Oct to Dec 2026 + kids go free (50,000 tickets available)",
@@ -163,31 +138,6 @@
    "score": 88
   },
   {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
    "id": "todaytix-47410",
    "source": "todaytix",
    "title": "An Oak Tree",
@@ -211,6 +161,32 @@
    "published": null,
    "expires": "2026-11-15T23:59:00Z",
    "venue": "The Other Palace - Main Theatre, London",
+   "score": 87
+  },
+  {
+   "id": "todaytix-45407",
+   "source": "todaytix",
+   "title": "Beetlejuice",
+   "subtitle": "Prince Edward Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 60%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 60,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-02T23:59:00Z",
+   "venue": "Prince Edward Theatre, London",
    "score": 87
   },
   {
@@ -345,7 +321,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "141°",
+    "146°",
     "FREE"
    ],
    "merchant": "Picturehouse Cinemas",
@@ -355,7 +331,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 141.4,
+   "heat": 146.1,
    "rating": null,
    "published": "2026-10-28T21:24:56Z",
    "expires": null,
@@ -363,30 +339,29 @@
    "score": 85
   },
   {
-   "id": "todaytix-45407",
-   "source": "todaytix",
-   "title": "Beetlejuice",
-   "subtitle": "Prince Edward Theatre",
-   "category": "theatre",
-   "kind": "offer",
+   "id": "hukd-5018256",
+   "source": "hukd",
+   "title": "Free Cinema Tickets to I See Buildings Fall Like Lightning - 100+ Venues on Mon 23rd + Tue 24th Nov",
+   "subtitle": "Cinematik",
+   "category": "cinema",
+   "kind": "free",
    "badges": [
-    "Save 55%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
+    "113°",
+    "FREE"
    ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 55,
+   "merchant": "Cinematik",
+   "url": "https://www.hotukdeals.com/deals/free-cinema-tickets-to-i-see-buildings-fall-like-lightning-123-venues-on-mon-23rd-tue-24th-nov-5018256",
+   "image": "https://images.hotukdeals.com/threads/raw/tbYPZ/5018256_1/re/768x768/qt/60/5018256_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
    "code": "",
-   "heat": null,
+   "heat": 113.3,
    "rating": null,
-   "published": null,
-   "expires": "2027-01-02T23:59:00Z",
-   "venue": "Prince Edward Theatre, London",
-   "score": 84
+   "published": "2026-10-30T18:25:11Z",
+   "expires": "2026-11-24T23:59:00Z",
+   "venue": "",
+   "score": 85
   },
   {
    "id": "olt-cirque-berserk-111438194",
@@ -613,31 +588,6 @@
    "score": 83
   },
   {
-   "id": "olt-the-hunger-games-on-stage-111466358",
-   "source": "olt",
-   "title": "The Hunger Games: On Stage",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 47%",
-    "From £21"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-hunger-games-on-stage-111466358/",
-   "image": "https://officiallondontheatre.com/app/uploads/2025/11/THG_OLT-DIGI-ASSETS_NOV25_1200x600-1-768x384.jpg",
-   "price": 21.0,
-   "priceText": "from £21",
-   "discount": 47,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-01T23:59:00Z",
-   "venue": "London",
-   "score": 83
-  },
-  {
    "id": "hukd-5014143",
    "source": "hukd",
    "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
@@ -645,7 +595,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1069°"
+    "1076°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5014143",
@@ -654,7 +604,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 1069.0,
+   "heat": 1076.4,
    "rating": null,
    "published": "2026-10-26T11:01:42Z",
    "expires": "2026-10-31T23:59:00Z",
@@ -859,31 +809,6 @@
    "score": 79
   },
   {
-   "id": "todaytix-36456",
-   "source": "todaytix",
-   "title": "The Hunger Games: On Stage",
-   "subtitle": "Troubadour Canary Wharf Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 47%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 21.0,
-   "priceText": "from £21",
-   "discount": 47,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "Troubadour Canary Wharf Theatre, London",
-   "score": 79
-  },
-  {
    "id": "todaytix-48379",
    "source": "todaytix",
    "title": "Balletboyz - Six Lethargies",
@@ -981,6 +906,31 @@
    "published": null,
    "expires": "2026-11-09T23:59:00Z",
    "venue": "Sadler's Wells, London",
+   "score": 78
+  },
+  {
+   "id": "olt-the-hunger-games-on-stage-111466358",
+   "source": "olt",
+   "title": "The Hunger Games: On Stage",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 39%",
+    "From £21"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-hunger-games-on-stage-111466358/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/11/THG_OLT-DIGI-ASSETS_NOV25_1200x600-1-768x384.jpg",
+   "price": 21.0,
+   "priceText": "from £21",
+   "discount": 39,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-01T23:59:00Z",
+   "venue": "London",
    "score": 78
   },
   {
@@ -2011,7 +1961,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-03T23:59:00Z",
+   "expires": "2026-11-05T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2038,31 +1988,6 @@
    "published": null,
    "expires": "2026-11-09T23:59:00Z",
    "venue": "Lyric Theatre, London",
-   "score": 72
-  },
-  {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-08T23:59:00Z",
-   "venue": "London",
    "score": 72
   },
   {
@@ -2189,6 +2114,31 @@
    "score": 71
   },
   {
+   "id": "todaytix-36456",
+   "source": "todaytix",
+   "title": "The Hunger Games: On Stage",
+   "subtitle": "Troubadour Canary Wharf Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 33%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 21.0,
+   "priceText": "from £21",
+   "discount": 33,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Troubadour Canary Wharf Theatre, London",
+   "score": 71
+  },
+  {
    "id": "todaytix-46365",
    "source": "todaytix",
    "title": "Death Note: The Musical",
@@ -2294,7 +2244,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1019°"
+    "1023°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/super-saver-ticket-bundle-5-tickets-luxe-cinemas-included-w-odeon-gift-card-via-amazon-payment-odeon-extras-members-5014326",
@@ -2303,7 +2253,7 @@
    "priceText": "£20",
    "discount": null,
    "code": "",
-   "heat": 1018.9,
+   "heat": 1022.6,
    "rating": null,
    "published": "2026-10-26T14:06:36Z",
    "expires": "2026-10-30T23:59:00Z",
@@ -2553,31 +2503,6 @@
    "published": null,
    "expires": null,
    "venue": "Cambridge Theatre, London",
-   "score": 65
-  },
-  {
-   "id": "olt-six-vaudeville-theatre-111428236",
-   "source": "olt",
-   "title": "Six",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 16%",
-    "From £37.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
-   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
-   "price": 37.5,
-   "priceText": "from £37.50",
-   "discount": 16,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-03T23:59:00Z",
-   "venue": "London",
    "score": 65
   },
   {
