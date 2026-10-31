@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-30T22:28:56Z",
+ "generatedAt": "2026-10-31T05:55:39Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 31,
+   "count": 35,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 24,
+   "count": 23,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "errors": []
   }
  ],
@@ -88,29 +88,29 @@
    "score": 90
   },
   {
-   "id": "hukd-4985426",
-   "source": "hukd",
-   "title": "Free pair of Horse Racing tickets to one of 15 events Oct to Dec 2026 + kids go free (50,000 tickets available)",
-   "subtitle": "Racing TV",
-   "category": "comedy",
-   "kind": "free",
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
    "badges": [
-    "2267°",
-    "FREE"
+    "Save up to 65%",
+    "From £20"
    ],
-   "merchant": "Racing TV",
-   "url": "https://www.hotukdeals.com/deals/free-pair-of-horse-racing-tickets-to-one-of-15-events-oct-to-dec-2026-kids-go-free-50000-tickets-available-4985426",
-   "image": "https://images.hotukdeals.com/threads/raw/t3ywB/4985426_1/re/768x768/qt/60/4985426_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 65,
    "code": "",
-   "heat": 2267.0,
+   "heat": null,
    "rating": null,
-   "published": "2026-09-20T23:22:56Z",
-   "expires": null,
-   "venue": "",
-   "score": 88
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
   },
   {
    "id": "olt-million-dollar-quartet-111475900",
@@ -134,6 +134,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-03T23:59:00Z",
+   "venue": "London",
+   "score": 88
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -236,6 +261,31 @@
    "published": null,
    "expires": "2027-01-10T23:59:00Z",
    "venue": "The Other Palace - Main Theatre, London",
+   "score": 87
+  },
+  {
+   "id": "hukd-4985426",
+   "source": "hukd",
+   "title": "Free pair of Horse Racing tickets to one of 15 events Oct to Dec 2026 + kids go free (50,000 tickets available)",
+   "subtitle": "Racing TV",
+   "category": "comedy",
+   "kind": "free",
+   "badges": [
+    "2267°",
+    "FREE"
+   ],
+   "merchant": "Racing TV",
+   "url": "https://www.hotukdeals.com/deals/free-pair-of-horse-racing-tickets-to-one-of-15-events-oct-to-dec-2026-kids-go-free-50000-tickets-available-4985426",
+   "image": "https://images.hotukdeals.com/threads/raw/t3ywB/4985426_1/re/768x768/qt/60/4985426_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 2267.0,
+   "rating": null,
+   "published": "2026-09-20T23:22:56Z",
+   "expires": null,
+   "venue": "",
    "score": 87
   },
   {
@@ -346,7 +396,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "113°",
+    "125°",
     "FREE"
    ],
    "merchant": "Cinematik",
@@ -356,7 +406,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 113.3,
+   "heat": 125.3,
    "rating": null,
    "published": "2026-10-30T18:25:11Z",
    "expires": "2026-11-24T23:59:00Z",
@@ -595,7 +645,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1076°"
+    "1078°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5014143",
@@ -604,7 +654,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 1076.4,
+   "heat": 1078.2,
    "rating": null,
    "published": "2026-10-26T11:01:42Z",
    "expires": "2026-10-31T23:59:00Z",
@@ -983,6 +1033,30 @@
    "score": 78
   },
   {
+   "id": "hukd-5017207",
+   "source": "hukd",
+   "title": "10,000 free pairs of Cineworld standard 2D cinema tickets via Sun Club (both new + existing users, membership £1 for 3 months, else £1.99pm)",
+   "subtitle": "The Sun",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "254°"
+   ],
+   "merchant": "The Sun",
+   "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
+   "image": "https://images.hotukdeals.com/threads/raw/RYqqL/5017207_1/re/768x768/qt/60/5017207_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 254.1,
+   "rating": null,
+   "published": "2026-10-29T14:33:51Z",
+   "expires": "2026-11-15T23:59:00Z",
+   "venue": "",
+   "score": 77
+  },
+  {
    "id": "todaytix-23350",
    "source": "todaytix",
    "title": "Moulin Rouge! The Musical",
@@ -1202,30 +1276,6 @@
    "expires": null,
    "venue": "London County Hall, London",
    "score": 77
-  },
-  {
-   "id": "hukd-5017207",
-   "source": "hukd",
-   "title": "10,000 free pairs of Cineworld standard 2D cinema tickets via Sun Club (both new + existing users, membership £1 for 3 months, else £1.99pm)",
-   "subtitle": "The Sun",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "245°"
-   ],
-   "merchant": "The Sun",
-   "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
-   "image": "https://images.hotukdeals.com/threads/raw/RYqqL/5017207_1/re/768x768/qt/60/5017207_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 244.6,
-   "rating": null,
-   "published": "2026-10-29T14:33:51Z",
-   "expires": "2026-11-15T23:59:00Z",
-   "venue": "",
-   "score": 76
   },
   {
    "id": "hukd-4975792",
@@ -1991,6 +2041,31 @@
    "score": 72
   },
   {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-08T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
    "id": "olt-top-gunchained-111476290",
    "source": "olt",
    "title": "Top Gunchained",
@@ -2139,6 +2214,31 @@
    "score": 71
   },
   {
+   "id": "hukd-4988790",
+   "source": "hukd",
+   "title": "Yorkshire's Winter Wonderland – Half Price Ice Skating & Funfair - Family of 4 ticket",
+   "subtitle": "Planet Offers",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "61°",
+    "50% off"
+   ],
+   "merchant": "Planet Offers",
+   "url": "https://www.hotukdeals.com/deals/yorkshires-winter-wonderland-half-price-ice-skating-funfair-4988790",
+   "image": "https://images.hotukdeals.com/threads/raw/mQLf5/4988790_1/re/768x768/qt/60/4988790_1.jpg",
+   "price": 33.9,
+   "priceText": "£33.90",
+   "discount": 50,
+   "code": "",
+   "heat": 61.1,
+   "rating": null,
+   "published": "2026-09-25T11:46:54Z",
+   "expires": null,
+   "venue": "",
+   "score": 71
+  },
+  {
    "id": "todaytix-46365",
    "source": "todaytix",
    "title": "Death Note: The Musical",
@@ -2234,30 +2334,6 @@
    "published": null,
    "expires": "2026-12-28T23:59:00Z",
    "venue": "Excel London, London",
-   "score": 70
-  },
-  {
-   "id": "hukd-5014326",
-   "source": "hukd",
-   "title": "Super Saver Ticket Bundle - 5 Tickets - Luxe Cinemas Included - w/ ODEON gift card via Amazon & payment - Odeon Extras members",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "1023°"
-   ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/deals/super-saver-ticket-bundle-5-tickets-luxe-cinemas-included-w-odeon-gift-card-via-amazon-payment-odeon-extras-members-5014326",
-   "image": "https://images.hotukdeals.com/threads/raw/Pe6I5/5014326_1/re/768x768/qt/60/5014326_1.jpg",
-   "price": 20,
-   "priceText": "£20",
-   "discount": null,
-   "code": "",
-   "heat": 1022.6,
-   "rating": null,
-   "published": "2026-10-26T14:06:36Z",
-   "expires": "2026-10-30T23:59:00Z",
-   "venue": "",
    "score": 70
   },
   {
@@ -2506,6 +2582,31 @@
    "score": 65
   },
   {
+   "id": "olt-six-vaudeville-theatre-111428236",
+   "source": "olt",
+   "title": "Six",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 16%",
+    "From £37.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
+   "price": 37.5,
+   "priceText": "from £37.50",
+   "discount": 16,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-03T23:59:00Z",
+   "venue": "London",
+   "score": 65
+  },
+  {
    "id": "hukd-4989981",
    "source": "hukd",
    "title": "Up to 40% Off The Cinema Society Cinema Tickets Using Code via Lidl Plus App (Partners Section) - Selected Accounts",
@@ -2703,28 +2804,28 @@
    "score": 55
   },
   {
-   "id": "hukd-4977128",
-   "source": "hukd",
-   "title": "Showcase Cinemas | 5 Tickets For £25",
-   "subtitle": "Showcase Cinemas",
-   "category": "cinema",
-   "kind": "deal",
+   "id": "news-comedy-legend-adds-extra-glasgow-show-after-fans-rush-to-buy-tickets",
+   "source": "news",
+   "title": "Comedy legend adds extra Glasgow show after fans rush to buy tickets",
+   "subtitle": "Glasgow Times",
+   "category": "comedy",
+   "kind": "news",
    "badges": [
-    "81°"
+    "Glasgow Times"
    ],
-   "merchant": "Showcase Cinemas",
-   "url": "https://www.hotukdeals.com/deals/showcase-cinemas-5-tickets-for-ps25-4977128",
-   "image": "https://images.hotukdeals.com/threads/raw/E0dQD/4977128_1/re/768x768/qt/60/4977128_1.jpg",
-   "price": 25,
-   "priceText": "£25",
+   "merchant": "Glasgow Times",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUxMSzVtVENUQkpyVExlNldfRVNaMDdNbzJtU1FKQkhMenVTcmFsRU14Y0k0WDRoQkx0eG00WDZULTJucjJUYjJoN0ZucW1CVFBrWHlIUVNvb3ZSVUh5d01CTHNoSXdsOHVnVjF3VG9UbHZzai1GRlhqRjF5WFNQeGxUUUVaUEVvLXBsVWNSX3lOVlZuNFE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
    "discount": null,
    "code": "",
-   "heat": 80.8,
+   "heat": null,
    "rating": null,
-   "published": "2026-09-08T19:01:38Z",
-   "expires": "2026-10-30T23:59:00Z",
+   "published": "2026-10-30T16:50:50Z",
+   "expires": null,
    "venue": "",
-   "score": 54
+   "score": 49
   },
   {
    "id": "news-free-cinema-tickets-for-thousands-of-schoolchildren-as-into-film-festival-return",
