@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-10-31T05:55:39Z",
+ "generatedAt": "2026-10-31T12:46:23Z",
  "sources": [
   {
    "id": "olt",
@@ -133,7 +133,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-03T23:59:00Z",
+   "expires": "2026-11-07T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -186,32 +186,6 @@
    "published": null,
    "expires": "2026-11-15T23:59:00Z",
    "venue": "The Other Palace - Main Theatre, London",
-   "score": 87
-  },
-  {
-   "id": "todaytix-45407",
-   "source": "todaytix",
-   "title": "Beetlejuice",
-   "subtitle": "Prince Edward Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 60%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 60,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-02T23:59:00Z",
-   "venue": "Prince Edward Theatre, London",
    "score": 87
   },
   {
@@ -364,6 +338,31 @@
    "score": 86
   },
   {
+   "id": "hukd-5018256",
+   "source": "hukd",
+   "title": "Free Cinema Tickets to I See Buildings Fall Like Lightning - 100+ Venues on Mon 23rd + Tue 24th Nov",
+   "subtitle": "Cinematik",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "152°",
+    "FREE"
+   ],
+   "merchant": "Cinematik",
+   "url": "https://www.hotukdeals.com/deals/free-cinema-tickets-to-i-see-buildings-fall-like-lightning-123-venues-on-mon-23rd-tue-24th-nov-5018256",
+   "image": "https://images.hotukdeals.com/threads/raw/tbYPZ/5018256_1/re/768x768/qt/60/5018256_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 152.2,
+   "rating": null,
+   "published": "2026-10-30T18:25:11Z",
+   "expires": "2026-11-24T23:59:00Z",
+   "venue": "",
+   "score": 86
+  },
+  {
    "id": "hukd-5016507",
    "source": "hukd",
    "title": "\"Discover\" films (incl Godzilla Minus: Zero) now free for Picturehouse Cinema Members",
@@ -389,29 +388,30 @@
    "score": 85
   },
   {
-   "id": "hukd-5018256",
-   "source": "hukd",
-   "title": "Free Cinema Tickets to I See Buildings Fall Like Lightning - 100+ Venues on Mon 23rd + Tue 24th Nov",
-   "subtitle": "Cinematik",
-   "category": "cinema",
-   "kind": "free",
+   "id": "todaytix-45407",
+   "source": "todaytix",
+   "title": "Beetlejuice",
+   "subtitle": "Prince Edward Theatre",
+   "category": "theatre",
+   "kind": "offer",
    "badges": [
-    "125°",
-    "FREE"
+    "Save 55%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
    ],
-   "merchant": "Cinematik",
-   "url": "https://www.hotukdeals.com/deals/free-cinema-tickets-to-i-see-buildings-fall-like-lightning-123-venues-on-mon-23rd-tue-24th-nov-5018256",
-   "image": "https://images.hotukdeals.com/threads/raw/tbYPZ/5018256_1/re/768x768/qt/60/5018256_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45407-beetlejuice-the-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/7tLPMJqA9wBrcqyhLuslPX/076e861a1b2546361b5dc4963c930db8/BJ-2026-09-b_b-NewCreative-62401SGA-TTG-1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 55,
    "code": "",
-   "heat": 125.3,
+   "heat": null,
    "rating": null,
-   "published": "2026-10-30T18:25:11Z",
-   "expires": "2026-11-24T23:59:00Z",
-   "venue": "",
-   "score": 85
+   "published": null,
+   "expires": "2027-01-02T23:59:00Z",
+   "venue": "Prince Edward Theatre, London",
+   "score": 84
   },
   {
    "id": "olt-cirque-berserk-111438194",
@@ -509,7 +509,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-05T23:59:00Z",
+   "expires": "2026-11-07T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -612,32 +612,6 @@
    "score": 83
   },
   {
-   "id": "todaytix-45917",
-   "source": "todaytix",
-   "title": "Kimberly Akimbo",
-   "subtitle": "Hampstead Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 53%",
-    "£25 Rush tickets",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45917-kimberly-akimbo",
-   "image": "https://images.ctfassets.net/6pezt69ih962/1uLppQ4gIoFiqXJr7CMHFl/d223d6d29f4c6a88ff84b46139faacac/Kimberly_Akimbo_TodayTix_1080x1080px__Reviews_.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 53,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Hampstead Theatre, London",
-   "score": 83
-  },
-  {
    "id": "hukd-5014143",
    "source": "hukd",
    "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
@@ -707,7 +681,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-06T23:59:00Z",
+   "expires": "2026-11-07T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -892,13 +866,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 39%",
-    "From £31"
+    "From £20"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
-   "price": 31.0,
-   "priceText": "from £31",
+   "price": 20.0,
+   "priceText": "from £20",
    "discount": 39,
    "code": "",
    "heat": null,
@@ -1545,6 +1519,30 @@
    "score": 75
   },
   {
+   "id": "todaytix-45917",
+   "source": "todaytix",
+   "title": "Kimberly Akimbo",
+   "subtitle": "Hampstead Theatre",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45917-kimberly-akimbo",
+   "image": "https://images.ctfassets.net/6pezt69ih962/1uLppQ4gIoFiqXJr7CMHFl/d223d6d29f4c6a88ff84b46139faacac/Kimberly_Akimbo_TodayTix_1080x1080px__Reviews_.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Hampstead Theatre, London",
+   "score": 75
+  },
+  {
    "id": "todaytix-45604",
    "source": "todaytix",
    "title": "Paranormal Activity",
@@ -2172,13 +2170,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 27%",
-    "From £9.70"
+    "From £11.10"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/showstopper-the-kids-show-111466488/",
    "image": "https://officiallondontheatre.com/app/uploads/2025/11/Showstopper_1200x600-768x384.jpg",
-   "price": 9.7,
-   "priceText": "from £9.70",
+   "price": 11.1,
+   "priceText": "from £11.10",
    "discount": 27,
    "code": "",
    "heat": null,
@@ -2602,7 +2600,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-03T23:59:00Z",
+   "expires": "2026-11-04T23:59:00Z",
    "venue": "London",
    "score": 65
   },
