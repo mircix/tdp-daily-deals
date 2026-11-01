@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-01T16:07:32Z",
+ "generatedAt": "2026-11-01T22:10:45Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 29,
+   "count": 27,
    "errors": []
   },
   {
@@ -256,7 +256,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 170.1,
+   "heat": 169.8,
    "rating": null,
    "published": "2026-10-30T18:25:11Z",
    "expires": "2026-11-24T23:59:00Z",
@@ -488,6 +488,30 @@
    "score": 83
   },
   {
+   "id": "hukd-5017207",
+   "source": "hukd",
+   "title": "10,000 free pairs of Cineworld standard 2D cinema tickets via Sun Club (both new + existing users, membership £1 for 3 months, else £1.99pm)",
+   "subtitle": "The Sun",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "921°"
+   ],
+   "merchant": "The Sun",
+   "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
+   "image": "https://images.hotukdeals.com/threads/raw/RYqqL/5017207_1/re/768x768/qt/60/5017207_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 921.1,
+   "rating": null,
+   "published": "2026-11-01T00:00:02Z",
+   "expires": "2026-11-15T23:59:00Z",
+   "venue": "",
+   "score": 81
+  },
+  {
    "id": "hukd-4892734",
    "source": "hukd",
    "title": "Kids FREE Entry to 200+ UK Attractions (Stonehenge / Eden Project / Edinburgh Zoo + More) via Blue Peter Badge",
@@ -511,30 +535,6 @@
    "expires": null,
    "venue": "",
    "score": 81
-  },
-  {
-   "id": "hukd-5017207",
-   "source": "hukd",
-   "title": "10,000 free pairs of Cineworld standard 2D cinema tickets via Sun Club (both new + existing users, membership £1 for 3 months, else £1.99pm)",
-   "subtitle": "The Sun",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "637°"
-   ],
-   "merchant": "The Sun",
-   "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
-   "image": "https://images.hotukdeals.com/threads/raw/RYqqL/5017207_1/re/768x768/qt/60/5017207_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 637.3,
-   "rating": null,
-   "published": "2026-11-01T00:00:02Z",
-   "expires": "2026-11-15T23:59:00Z",
-   "venue": "",
-   "score": 80
   },
   {
    "id": "olt-avenue-q-111466206",
@@ -734,31 +734,6 @@
    "score": 78
   },
   {
-   "id": "olt-high-school-musical-111473306",
-   "source": "olt",
-   "title": "High School Musical",
-   "subtitle": "Family, Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 39%",
-    "From £31"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
-   "price": 31.0,
-   "priceText": "from £31",
-   "discount": 39,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-01T23:59:00Z",
-   "venue": "London",
-   "score": 78
-  },
-  {
    "id": "olt-representasian-an-evening-of-asian-talent-111472513",
    "source": "olt",
    "title": "RepresentAsian: An Evening of Asian Talent",
@@ -829,7 +804,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-06T23:59:00Z",
+   "expires": "2026-11-07T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1174,30 +1149,6 @@
    "published": null,
    "expires": "2027-01-03T23:59:00Z",
    "venue": "Shaftesbury Theatre, London",
-   "score": 75
-  },
-  {
-   "id": "hukd-5016365",
-   "source": "hukd",
-   "title": "Cineworld Adult Ticket Via Three Rewards location dependant",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "154°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/cineworld-ps5-ticket-via-three-rewards-5016365",
-   "image": "https://images.hotukdeals.com/threads/raw/cen8L/5016365_1/re/768x768/qt/60/5016365_1.jpg",
-   "price": 5,
-   "priceText": "£5",
-   "discount": null,
-   "code": "",
-   "heat": 154.1,
-   "rating": null,
-   "published": "2026-10-28T17:17:03Z",
-   "expires": null,
-   "venue": "",
    "score": 75
   },
   {
@@ -1666,6 +1617,30 @@
    "score": 74
   },
   {
+   "id": "hukd-5016365",
+   "source": "hukd",
+   "title": "Cineworld Adult Ticket Via Three Rewards location dependant",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "154°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/cineworld-ps5-ticket-via-three-rewards-5016365",
+   "image": "https://images.hotukdeals.com/threads/raw/cen8L/5016365_1/re/768x768/qt/60/5016365_1.jpg",
+   "price": 5,
+   "priceText": "£5",
+   "discount": null,
+   "code": "",
+   "heat": 154.1,
+   "rating": null,
+   "published": "2026-10-28T17:17:03Z",
+   "expires": null,
+   "venue": "",
+   "score": 74
+  },
+  {
    "id": "hukd-5019107",
    "source": "hukd",
    "title": "Cinema tickets at Showcase Cinema de Lux Paisley or Coatbridge",
@@ -1865,6 +1840,30 @@
    "score": 73
   },
   {
+   "id": "hukd-5020003",
+   "source": "hukd",
+   "title": "Discounted Marwell Zoo Tickets",
+   "subtitle": "Marwell Wildlife",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "70°"
+   ],
+   "merchant": "Marwell Wildlife",
+   "url": "https://www.hotukdeals.com/deals/marwell-zoo-discount-ps10-tickets-5020003",
+   "image": "https://images.hotukdeals.com/threads/raw/lLESa/5020003_1/re/768x768/qt/60/5020003_1.jpg",
+   "price": 10,
+   "priceText": "£10",
+   "discount": null,
+   "code": "",
+   "heat": 69.6,
+   "rating": null,
+   "published": "2026-11-01T19:05:55Z",
+   "expires": "2026-11-19T23:59:00Z",
+   "venue": "",
+   "score": 72
+  },
+  {
    "id": "olt-hadestown-111440588",
    "source": "olt",
    "title": "Hadestown",
@@ -2038,30 +2037,6 @@
    "score": 71
   },
   {
-   "id": "hukd-5016940",
-   "source": "hukd",
-   "title": "Ticket for Lidl Christmas Showcase Event - 27th Nov London/Manchester",
-   "subtitle": "Eventbrite",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "56°"
-   ],
-   "merchant": "Eventbrite",
-   "url": "https://www.hotukdeals.com/deals/lidl-christmas-showcase-event-5016940",
-   "image": "https://images.hotukdeals.com/threads/raw/ELJCj/5016940_1/re/768x768/qt/60/5016940_1.jpg",
-   "price": 5,
-   "priceText": "£5",
-   "discount": null,
-   "code": "",
-   "heat": 56.4,
-   "rating": null,
-   "published": "2026-10-29T10:28:42Z",
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "",
-   "score": 71
-  },
-  {
    "id": "hukd-4988790",
    "source": "hukd",
    "title": "Yorkshire's Winter Wonderland – Half Price Ice Skating & Funfair - Family of 4 ticket",
@@ -2147,8 +2122,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47170-scrooge-a-cirque-extravaganza",
    "image": "https://images.ctfassets.net/6pezt69ih962/7IENc4YdhPpquxr9rkrO7S/7720468e4583787c8abfd750cdae8033/TTG1.jpg?w=400&h=400&fit=fill",
-   "price": 49.99,
-   "priceText": "from £49.99",
+   "price": 29.99,
+   "priceText": "from £29.99",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2326,31 +2301,6 @@
    "published": "2026-07-13T07:59:33Z",
    "expires": null,
    "venue": "",
-   "score": 66
-  },
-  {
-   "id": "olt-six-vaudeville-theatre-111428236",
-   "source": "olt",
-   "title": "Six",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 18%",
-    "From £37.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
-   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
-   "price": 37.5,
-   "priceText": "from £37.50",
-   "discount": 18,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-04T23:59:00Z",
-   "venue": "London",
    "score": 66
   },
   {
