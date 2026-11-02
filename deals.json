@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-02T06:24:37Z",
+ "generatedAt": "2026-11-02T19:35:50Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 46,
+   "count": 47,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "errors": []
   }
  ],
@@ -108,9 +108,33 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-07T23:59:00Z",
+   "expires": "2026-11-08T23:59:00Z",
    "venue": "London",
    "score": 88
+  },
+  {
+   "id": "todaytix-47347",
+   "source": "todaytix",
+   "title": "Ceilidh The Musical",
+   "subtitle": "Shoreditch Town Hall",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 74%"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47347-ceilidh",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6uzECfgiM5OH4ANulMaoT6/c81fa7787af24e66bde5c98f4d2f4877/Ceilidh_TTG_Buttons_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 74,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-13T23:59:00Z",
+   "venue": "Shoreditch Town Hall, London",
+   "score": 87
   },
   {
    "id": "hukd-4985426",
@@ -158,7 +182,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-13T23:59:00Z",
+   "expires": "2026-11-11T23:59:00Z",
    "venue": "London",
    "score": 87
   },
@@ -195,7 +219,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "176°",
+    "180°",
     "FREE"
    ],
    "merchant": "Cinematik",
@@ -205,7 +229,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 175.7,
+   "heat": 180.4,
    "rating": null,
    "published": "2026-10-30T18:25:11Z",
    "expires": "2026-11-24T23:59:00Z",
@@ -308,7 +332,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-06T23:59:00Z",
+   "expires": "2026-11-12T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -433,7 +457,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-07T23:59:00Z",
+   "expires": "2026-11-09T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -469,7 +493,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1003°"
+    "1164°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -478,12 +502,12 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 1003.0,
+   "heat": 1164.5,
    "rating": null,
    "published": "2026-11-01T00:00:02Z",
    "expires": "2026-11-15T23:59:00Z",
    "venue": "",
-   "score": 81
+   "score": 82
   },
   {
    "id": "hukd-4892734",
@@ -531,7 +555,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-07T23:59:00Z",
+   "expires": "2026-11-09T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -683,6 +707,32 @@
    "score": 79
   },
   {
+   "id": "todaytix-45447",
+   "source": "todaytix",
+   "title": "Oh, Mary!",
+   "subtitle": "Trafalgar Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 47%",
+    "£30 Rush tickets",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45447-oh-mary",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6awwHL3N70d3fX9Q8W9a3W/63c3b3f6c31bd2521c4d7aa1977875d9/8447_127_OHM_Lolly_TTG_1080x1080_v1.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 47,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Trafalgar Theatre, London",
+   "score": 79
+  },
+  {
    "id": "todaytix-48379",
    "source": "todaytix",
    "title": "Balletboyz - Six Lethargies",
@@ -705,6 +755,31 @@
    "published": null,
    "expires": "2026-11-21T23:59:00Z",
    "venue": "Sadler's Wells, London",
+   "score": 78
+  },
+  {
+   "id": "olt-high-school-musical-111473306",
+   "source": "olt",
+   "title": "High School Musical",
+   "subtitle": "Family, Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 39%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 39,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-08T23:59:00Z",
+   "venue": "London",
    "score": 78
   },
   {
@@ -755,6 +830,31 @@
    "published": null,
    "expires": "2026-11-09T23:59:00Z",
    "venue": "Sadler's Wells, London",
+   "score": 78
+  },
+  {
+   "id": "olt-the-hunger-games-on-stage-111466358",
+   "source": "olt",
+   "title": "The Hunger Games: On Stage",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 39%",
+    "From £21"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-hunger-games-on-stage-111466358/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/11/THG_OLT-DIGI-ASSETS_NOV25_1200x600-1-768x384.jpg",
+   "price": 21.0,
+   "priceText": "from £21",
+   "discount": 39,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-08T23:59:00Z",
+   "venue": "London",
    "score": 78
   },
   {
@@ -977,27 +1077,26 @@
    "score": 77
   },
   {
-   "id": "hukd-4975792",
+   "id": "hukd-5020003",
    "source": "hukd",
-   "title": "50% off your next cinema trip - Via McDonald's Rewards (Points Spend) and ODEON - £1 Booking Fee Applies",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "voucher",
+   "title": "Discounted Marwell Zoo Tickets",
+   "subtitle": "Marwell Wildlife",
+   "category": "comedy",
+   "kind": "deal",
    "badges": [
-    "715°",
-    "50% off"
+    "246°"
    ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/vouchers/50-off-your-next-cinema-trip-via-mcdonalds-rewards-and-odeon-4975792",
-   "image": "https://images.hotukdeals.com/threads/raw/qV2zO/4975792_1/re/768x768/qt/60/4975792_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 50,
+   "merchant": "Marwell Wildlife",
+   "url": "https://www.hotukdeals.com/deals/marwell-zoo-discount-ps10-tickets-5020003",
+   "image": "https://images.hotukdeals.com/threads/raw/lLESa/5020003_1/re/768x768/qt/60/5020003_1.jpg",
+   "price": 10,
+   "priceText": "£10",
+   "discount": null,
    "code": "",
-   "heat": 715.3,
+   "heat": 245.6,
    "rating": null,
-   "published": "2026-09-07T06:26:46Z",
-   "expires": "2026-11-02T23:59:00Z",
+   "published": "2026-11-01T19:05:55Z",
+   "expires": "2026-11-19T23:59:00Z",
    "venue": "",
    "score": 76
   },
@@ -1075,6 +1174,31 @@
    "score": 76
   },
   {
+   "id": "hukd-4975792",
+   "source": "hukd",
+   "title": "50% off your next cinema trip - Via McDonald's Rewards (Points Spend) and ODEON - £1 Booking Fee Applies",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "voucher",
+   "badges": [
+    "715°",
+    "50% off"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/vouchers/50-off-your-next-cinema-trip-via-mcdonalds-rewards-and-odeon-4975792",
+   "image": "https://images.hotukdeals.com/threads/raw/qV2zO/4975792_1/re/768x768/qt/60/4975792_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 50,
+   "code": "",
+   "heat": 715.3,
+   "rating": null,
+   "published": "2026-09-07T06:26:46Z",
+   "expires": "2026-11-02T23:59:00Z",
+   "venue": "",
+   "score": 75
+  },
+  {
    "id": "todaytix-47279",
    "source": "todaytix",
    "title": "Affluenza",
@@ -1082,7 +1206,8 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets"
+    "£30 Rush tickets",
+    "Special Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47279-affluenza",
@@ -1168,30 +1293,6 @@
    "published": null,
    "expires": null,
    "venue": "Empress Museum, London",
-   "score": 75
-  },
-  {
-   "id": "hukd-5020003",
-   "source": "hukd",
-   "title": "Discounted Marwell Zoo Tickets",
-   "subtitle": "Marwell Wildlife",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "145°"
-   ],
-   "merchant": "Marwell Wildlife",
-   "url": "https://www.hotukdeals.com/deals/marwell-zoo-discount-ps10-tickets-5020003",
-   "image": "https://images.hotukdeals.com/threads/raw/lLESa/5020003_1/re/768x768/qt/60/5020003_1.jpg",
-   "price": 10,
-   "priceText": "£10",
-   "discount": null,
-   "code": "",
-   "heat": 145.4,
-   "rating": null,
-   "published": "2026-11-01T19:05:55Z",
-   "expires": "2026-11-19T23:59:00Z",
-   "venue": "",
    "score": 75
   },
   {
@@ -1337,30 +1438,6 @@
    "published": null,
    "expires": "2026-11-27T23:59:00Z",
    "venue": "The Actors' Church, London",
-   "score": 75
-  },
-  {
-   "id": "todaytix-45447",
-   "source": "todaytix",
-   "title": "Oh, Mary!",
-   "subtitle": "Trafalgar Theatre",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£30 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45447-oh-mary",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6awwHL3N70d3fX9Q8W9a3W/63c3b3f6c31bd2521c4d7aa1977875d9/8447_127_OHM_Lolly_TTG_1080x1080_v1.jpg?w=400&h=400&fit=fill",
-   "price": 30.0,
-   "priceText": "from £30",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "Trafalgar Theatre, London",
    "score": 75
   },
   {
@@ -1664,7 +1741,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "80°"
+    "82°"
    ],
    "merchant": "itison",
    "url": "https://www.hotukdeals.com/deals/showcase-paisley-or-coatbridge-cinema-tickets-ps5-5019107",
@@ -1673,7 +1750,7 @@
    "priceText": "£5.49",
    "discount": null,
    "code": "",
-   "heat": 80.3,
+   "heat": 82.1,
    "rating": null,
    "published": "2026-10-31T20:35:38Z",
    "expires": "2026-12-31T23:59:00Z",
@@ -1721,31 +1798,6 @@
    "image": "https://officiallondontheatre.com/app/uploads/2011/05/1200-x-600-1-768x384.png",
    "price": 23.0,
    "priceText": "from £23",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "London",
-   "score": 73
-  },
-  {
-   "id": "olt-neighbour-totoro-tickets-111433417",
-   "source": "olt",
-   "title": "My Neighbour Totoro",
-   "subtitle": "Drama, Family, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Special offer",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
-   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
    "discount": null,
    "code": "",
    "heat": null,
@@ -1863,7 +1915,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Exclusive Offer"
+    "Exclusive Prices"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/302-the-lion-king",
@@ -1877,31 +1929,6 @@
    "published": null,
    "expires": null,
    "venue": "Lyceum Theatre, London",
-   "score": 72
-  },
-  {
-   "id": "olt-top-gunchained-111476290",
-   "source": "olt",
-   "title": "Top Gunchained",
-   "subtitle": "Comedy, Entertainment",
-   "category": "comedy",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £16.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/top-gunchained-111476290/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/08/Top-Gunchained-with-TT-1200x600-px-768x384.png",
-   "price": 16.5,
-   "priceText": "from £16.50",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-21T23:59:00Z",
-   "venue": "London",
    "score": 72
   },
   {
@@ -2002,31 +2029,6 @@
    "score": 71
   },
   {
-   "id": "hukd-4988790",
-   "source": "hukd",
-   "title": "Yorkshire's Winter Wonderland – Half Price Ice Skating & Funfair - Family of 4 ticket",
-   "subtitle": "Planet Offers",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "61°",
-    "50% off"
-   ],
-   "merchant": "Planet Offers",
-   "url": "https://www.hotukdeals.com/deals/yorkshires-winter-wonderland-half-price-ice-skating-funfair-4988790",
-   "image": "https://images.hotukdeals.com/threads/raw/mQLf5/4988790_1/re/768x768/qt/60/4988790_1.jpg",
-   "price": 33.9,
-   "priceText": "£33.90",
-   "discount": 50,
-   "code": "",
-   "heat": 61.1,
-   "rating": null,
-   "published": "2026-09-25T11:46:54Z",
-   "expires": null,
-   "venue": "",
-   "score": 71
-  },
-  {
    "id": "todaytix-46365",
    "source": "todaytix",
    "title": "Death Note: The Musical",
@@ -2123,6 +2125,31 @@
    "score": 70
   },
   {
+   "id": "hukd-4988790",
+   "source": "hukd",
+   "title": "Yorkshire's Winter Wonderland – Half Price Ice Skating & Funfair - Family of 4 ticket",
+   "subtitle": "Planet Offers",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "61°",
+    "50% off"
+   ],
+   "merchant": "Planet Offers",
+   "url": "https://www.hotukdeals.com/deals/yorkshires-winter-wonderland-half-price-ice-skating-funfair-4988790",
+   "image": "https://images.hotukdeals.com/threads/raw/mQLf5/4988790_1/re/768x768/qt/60/4988790_1.jpg",
+   "price": 33.9,
+   "priceText": "£33.90",
+   "discount": 50,
+   "code": "",
+   "heat": 61.1,
+   "rating": null,
+   "published": "2026-09-25T11:46:54Z",
+   "expires": null,
+   "venue": "",
+   "score": 70
+  },
+  {
    "id": "todaytix-47217",
    "source": "todaytix",
    "title": "Attention",
@@ -2170,6 +2197,31 @@
    "expires": "2026-12-18T23:59:00Z",
    "venue": "London",
    "score": 69
+  },
+  {
+   "id": "olt-neighbour-totoro-tickets-111433417",
+   "source": "olt",
+   "title": "My Neighbour Totoro",
+   "subtitle": "Drama, Family, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 22%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
+   "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 22,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-06T23:59:00Z",
+   "venue": "London",
+   "score": 68
   },
   {
    "id": "todaytix-40713",
@@ -2440,6 +2492,30 @@
    "expires": null,
    "venue": "",
    "score": 48
+  },
+  {
+   "id": "news-how-to-get-sam-fender-presale-and-general-sale-tickets-for-principality-stadium",
+   "source": "news",
+   "title": "How to get Sam Fender presale and general sale tickets for Principality Stadium",
+   "subtitle": "Wales Online",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Wales Online"
+   ],
+   "merchant": "Wales Online",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckJjX2d2aVB2eS1EYmRmNzdweEhMYkh6N0RFSU1qTTU2V1NNUGNramU3UUhXd1BQakhGaS0tSU5PZGd6Ukd5ZWtiS1d3U0kwUF9pOVFzMjFmTFp2V0tjUUo5NER2R1FQNUNRcGh0MGlIVnZ1WVR1X1F0R3VTdEU5NTJWcEwwOXVWcmlac2hOU1dOd3llLWpWd3dfS3B1cnAw0gGmAUFVX3lxTE9NbFhWaXBQQTJYYUkxZ3FjdzdPSmJFcWNReUJwd1g4M251ZW8xYnRqN3EySmp0QmtycGdBbllTc05rNllTS1owWmlGWXNFRTl6UlBWSEVWODNNOXR3NU5VNkZMNzZsQmw3RGZCTHRPeEtidEtYRmI4dmlJb2RuYjJpcHdEeFZkR2xxVUJhcEpEeDRpN3h2Ym9jSURUWlVMREhfTVM0VUE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-21T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
   },
   {
    "id": "news-sam-fender-2027-tour-pre-sale-details-in-full-as-ticket-limit-in-force-for-new-d",
