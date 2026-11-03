@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-03T02:57:12Z",
+ "generatedAt": "2026-11-03T11:02:03Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 47,
+   "count": 50,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 2,
+   "count": 3,
    "errors": []
   }
  ],
@@ -113,6 +113,30 @@
    "score": 90
   },
   {
+   "id": "todaytix-345",
+   "source": "todaytix",
+   "title": "The Play That Goes Wrong",
+   "subtitle": "Duchess Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 62%"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/345-play-that-goes-wrong",
+   "image": "https://images.ctfassets.net/6pezt69ih962/4C5berIDQKTCwq7CflU8Ch/d17c7687e712f90cb6231aeda64a1a6a/PT26078_SEE_1200x1200pxls.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 62,
+   "code": "",
+   "heat": null,
+   "rating": 4.48,
+   "published": null,
+   "expires": null,
+   "venue": "Duchess Theatre, London",
+   "score": 89
+  },
+  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -184,6 +208,31 @@
    "published": null,
    "expires": "2026-11-13T23:59:00Z",
    "venue": "Shoreditch Town Hall, London",
+   "score": 87
+  },
+  {
+   "id": "todaytix-47438",
+   "source": "todaytix",
+   "title": "Franz & Marie",
+   "subtitle": "Charing Cross Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 62%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47438-franz-and-marie",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2JZDlDtNmU5ulPTUNYANrv/760cd9b3e68da877887a65a35716f028/Franz_M-_TTix1_1080_x_1080px.jpg?w=400&h=400&fit=fill",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 62,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Charing Cross Theatre, London",
    "score": 87
   },
   {
@@ -269,7 +318,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "180°",
+    "184°",
     "FREE"
    ],
    "merchant": "Cinematik",
@@ -279,7 +328,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 180.4,
+   "heat": 184.4,
    "rating": null,
    "published": "2026-10-30T18:25:11Z",
    "expires": "2026-11-24T23:59:00Z",
@@ -307,7 +356,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-07T23:59:00Z",
+   "expires": "2026-11-10T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -605,7 +654,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-09T23:59:00Z",
+   "expires": "2026-11-10T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -928,7 +977,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-07T23:59:00Z",
+   "expires": "2026-11-08T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1490,6 +1539,31 @@
    "score": 75
   },
   {
+   "id": "todaytix-44411",
+   "source": "todaytix",
+   "title": "Peppa Pig’s Big Family Show!",
+   "subtitle": "Theatre Royal Haymarket",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 39%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/44411-peppa-pigs-big-family-show",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5HhvAb768CREyNDWgwIDIi/3741d6eaf1854139d8432c9907e33c5f/Peppa_26-27_-_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 13.0,
+   "priceText": "from £13",
+   "discount": 39,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Theatre Royal Haymarket, London",
+   "score": 75
+  },
+  {
    "id": "todaytix-46910",
    "source": "todaytix",
    "title": "RENT",
@@ -1730,7 +1804,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-05T23:59:00Z",
+   "expires": "2026-11-10T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -2567,6 +2641,30 @@
    "expires": null,
    "venue": "",
    "score": 48
+  },
+  {
+   "id": "news-how-to-get-sam-fender-presale-and-general-sale-tickets-for-principality-stadium",
+   "source": "news",
+   "title": "How to get Sam Fender presale and general sale tickets for Principality Stadium",
+   "subtitle": "Wales Online",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Wales Online"
+   ],
+   "merchant": "Wales Online",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckJjX2d2aVB2eS1EYmRmNzdweEhMYkh6N0RFSU1qTTU2V1NNUGNramU3UUhXd1BQakhGaS0tSU5PZGd6Ukd5ZWtiS1d3U0kwUF9pOVFzMjFmTFp2V0tjUUo5NER2R1FQNUNRcGh0MGlIVnZ1WVR1X1F0R3VTdEU5NTJWcEwwOXVWcmlac2hOU1dOd3llLWpWd3dfS3B1cnAw0gGmAUFVX3lxTE9NbFhWaXBQQTJYYUkxZ3FjdzdPSmJFcWNReUJwd1g4M251ZW8xYnRqN3EySmp0QmtycGdBbllTc05rNllTS1owWmlGWXNFRTl6UlBWSEVWODNNOXR3NU5VNkZMNzZsQmw3RGZCTHRPeEtidEtYRmI4dmlJb2RuYjJpcHdEeFZkR2xxVUJhcEpEeDRpN3h2Ym9jSURUWlVMREhfTVM0VUE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-21T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
   },
   {
    "id": "news-sam-fender-2027-tour-pre-sale-details-in-full-as-ticket-limit-in-force-for-new-d",
