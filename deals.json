@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-03T11:02:03Z",
+ "generatedAt": "2026-11-03T19:36:55Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 32,
+   "count": 30,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 50,
+   "count": 49,
    "errors": []
   },
   {
@@ -83,32 +83,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-04T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 63%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 63,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
+   "expires": "2026-11-05T23:59:00Z",
    "venue": "London",
    "score": 90
   },
@@ -160,55 +135,6 @@
    "expires": "2026-11-08T23:59:00Z",
    "venue": "London",
    "score": 88
-  },
-  {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
-   "id": "todaytix-47347",
-   "source": "todaytix",
-   "title": "Ceilidh The Musical",
-   "subtitle": "Shoreditch Town Hall",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 74%"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47347-ceilidh",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6uzECfgiM5OH4ANulMaoT6/c81fa7787af24e66bde5c98f4d2f4877/Ceilidh_TTG_Buttons_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 74,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-13T23:59:00Z",
-   "venue": "Shoreditch Town Hall, London",
-   "score": 87
   },
   {
    "id": "todaytix-47438",
@@ -311,31 +237,6 @@
    "score": 87
   },
   {
-   "id": "hukd-5018256",
-   "source": "hukd",
-   "title": "Free Cinema Tickets to I See Buildings Fall Like Lightning - 100+ Venues on Mon 23rd + Tue 24th Nov",
-   "subtitle": "Cinematik",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "184°",
-    "FREE"
-   ],
-   "merchant": "Cinematik",
-   "url": "https://www.hotukdeals.com/deals/free-cinema-tickets-to-i-see-buildings-fall-like-lightning-123-venues-on-mon-23rd-tue-24th-nov-5018256",
-   "image": "https://images.hotukdeals.com/threads/raw/tbYPZ/5018256_1/re/768x768/qt/60/5018256_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 184.4,
-   "rating": null,
-   "published": "2026-10-30T18:25:11Z",
-   "expires": "2026-11-24T23:59:00Z",
-   "venue": "",
-   "score": 86
-  },
-  {
    "id": "olt-into-the-woods-111473840",
    "source": "olt",
    "title": "Into The Woods",
@@ -344,13 +245,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 52%",
-    "From £33"
+    "From £23"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/into-the-woods-111473840/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/06/ITW26_Q3_036_Updated-ticket-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 33.0,
-   "priceText": "from £33",
+   "price": 23.0,
+   "priceText": "from £23",
    "discount": 52,
    "code": "",
    "heat": null,
@@ -382,6 +283,31 @@
    "rating": null,
    "published": "2026-10-28T21:24:56Z",
    "expires": null,
+   "venue": "",
+   "score": 85
+  },
+  {
+   "id": "hukd-5018256",
+   "source": "hukd",
+   "title": "Free Cinema Tickets to I See Buildings Fall Like Lightning - 100+ Venues on Mon 23rd + Tue 24th Nov",
+   "subtitle": "Cinematik",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "184°",
+    "FREE"
+   ],
+   "merchant": "Cinematik",
+   "url": "https://www.hotukdeals.com/deals/free-cinema-tickets-to-i-see-buildings-fall-like-lightning-123-venues-on-mon-23rd-tue-24th-nov-5018256",
+   "image": "https://images.hotukdeals.com/threads/raw/tbYPZ/5018256_1/re/768x768/qt/60/5018256_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 184.4,
+   "rating": null,
+   "published": "2026-10-30T18:25:11Z",
+   "expires": "2026-11-24T23:59:00Z",
    "venue": "",
    "score": 85
   },
@@ -457,6 +383,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-07T23:59:00Z",
+   "venue": "London",
+   "score": 84
+  },
+  {
+   "id": "olt-tosca-111473033",
+   "source": "olt",
+   "title": "Tosca",
+   "subtitle": "Opera",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 49%",
+    "From £8.62"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/tosca-111473033/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_tosca-768x384.jpg",
+   "price": 8.62,
+   "priceText": "from £8.62",
+   "discount": 49,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-10T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -556,7 +507,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-09T23:59:00Z",
+   "expires": "2026-11-10T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -592,7 +543,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1201°"
+    "1216°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -601,12 +552,12 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 1201.2,
+   "heat": 1216.2,
    "rating": null,
    "published": "2026-11-01T00:00:02Z",
    "expires": "2026-11-15T23:59:00Z",
    "venue": "",
-   "score": 81
+   "score": 82
   },
   {
    "id": "hukd-4892734",
@@ -1013,7 +964,7 @@
    "category": "comedy",
    "kind": "deal",
    "badges": [
-    "266°"
+    "273°"
    ],
    "merchant": "Marwell Wildlife",
    "url": "https://www.hotukdeals.com/deals/marwell-zoo-discount-ps10-tickets-5020003",
@@ -1022,7 +973,7 @@
    "priceText": "£10",
    "discount": null,
    "code": "",
-   "heat": 265.9,
+   "heat": 273.0,
    "rating": null,
    "published": "2026-11-01T19:05:55Z",
    "expires": "2026-11-19T23:59:00Z",
@@ -1207,7 +1158,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "325°"
+    "328°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
@@ -1216,7 +1167,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 325.1,
+   "heat": 328.2,
    "rating": null,
    "published": "2026-10-25T06:40:38Z",
    "expires": null,
@@ -2002,32 +1953,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-05T23:59:00Z",
-   "venue": "London",
-   "score": 72
-  },
-  {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-08T23:59:00Z",
+   "expires": "2026-11-10T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2116,7 +2042,7 @@
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/potted-panto-111449808/",
-   "image": "https://officiallondontheatre.com/app/uploads/2025/06/PottedPanto_1200x600px-768x384.jpg",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/09/PottedPanto_1200x600px-768x384.jpg",
    "price": 27.6,
    "priceText": "from £27.60",
    "discount": 27,
@@ -2441,7 +2367,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-04T23:59:00Z",
+   "expires": "2026-11-05T23:59:00Z",
    "venue": "London",
    "score": 66
   },
