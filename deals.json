@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-02T19:35:50Z",
+ "generatedAt": "2026-11-03T02:57:12Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 28,
+   "count": 32,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 23,
+   "count": 22,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 3,
+   "count": 2,
    "errors": []
   }
  ],
@@ -88,6 +88,31 @@
    "score": 90
   },
   {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 63%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 63,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -109,6 +134,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-08T23:59:00Z",
+   "venue": "London",
+   "score": 88
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -493,7 +543,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1164°"
+    "1201°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -502,12 +552,12 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 1164.5,
+   "heat": 1201.2,
    "rating": null,
    "published": "2026-11-01T00:00:02Z",
    "expires": "2026-11-15T23:59:00Z",
    "venue": "",
-   "score": 82
+   "score": 81
   },
   {
    "id": "hukd-4892734",
@@ -766,13 +816,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 39%",
-    "From £20"
+    "From £31"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
+   "price": 31.0,
+   "priceText": "from £31",
    "discount": 39,
    "code": "",
    "heat": null,
@@ -905,6 +955,30 @@
    "expires": null,
    "venue": "",
    "score": 78
+  },
+  {
+   "id": "hukd-5020003",
+   "source": "hukd",
+   "title": "Discounted Marwell Zoo Tickets",
+   "subtitle": "Marwell Wildlife",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "266°"
+   ],
+   "merchant": "Marwell Wildlife",
+   "url": "https://www.hotukdeals.com/deals/marwell-zoo-discount-ps10-tickets-5020003",
+   "image": "https://images.hotukdeals.com/threads/raw/lLESa/5020003_1/re/768x768/qt/60/5020003_1.jpg",
+   "price": 10,
+   "priceText": "£10",
+   "discount": null,
+   "code": "",
+   "heat": 265.9,
+   "rating": null,
+   "published": "2026-11-01T19:05:55Z",
+   "expires": "2026-11-19T23:59:00Z",
+   "venue": "",
+   "score": 77
   },
   {
    "id": "todaytix-23350",
@@ -1077,30 +1151,6 @@
    "score": 77
   },
   {
-   "id": "hukd-5020003",
-   "source": "hukd",
-   "title": "Discounted Marwell Zoo Tickets",
-   "subtitle": "Marwell Wildlife",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "246°"
-   ],
-   "merchant": "Marwell Wildlife",
-   "url": "https://www.hotukdeals.com/deals/marwell-zoo-discount-ps10-tickets-5020003",
-   "image": "https://images.hotukdeals.com/threads/raw/lLESa/5020003_1/re/768x768/qt/60/5020003_1.jpg",
-   "price": 10,
-   "priceText": "£10",
-   "discount": null,
-   "code": "",
-   "heat": 245.6,
-   "rating": null,
-   "published": "2026-11-01T19:05:55Z",
-   "expires": "2026-11-19T23:59:00Z",
-   "venue": "",
-   "score": 76
-  },
-  {
    "id": "hukd-5013201",
    "source": "hukd",
    "title": "Odeon Kids Screenings (£0.90 When You Book Online and in Cinema as a Extras Plus Member)",
@@ -1172,31 +1222,6 @@
    "expires": "2026-11-08T23:59:00Z",
    "venue": "London",
    "score": 76
-  },
-  {
-   "id": "hukd-4975792",
-   "source": "hukd",
-   "title": "50% off your next cinema trip - Via McDonald's Rewards (Points Spend) and ODEON - £1 Booking Fee Applies",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "voucher",
-   "badges": [
-    "715°",
-    "50% off"
-   ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/vouchers/50-off-your-next-cinema-trip-via-mcdonalds-rewards-and-odeon-4975792",
-   "image": "https://images.hotukdeals.com/threads/raw/qV2zO/4975792_1/re/768x768/qt/60/4975792_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 50,
-   "code": "",
-   "heat": 715.3,
-   "rating": null,
-   "published": "2026-09-07T06:26:46Z",
-   "expires": "2026-11-02T23:59:00Z",
-   "venue": "",
-   "score": 75
   },
   {
    "id": "todaytix-47279",
@@ -1908,6 +1933,31 @@
    "score": 72
   },
   {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-08T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
    "id": "todaytix-302",
    "source": "todaytix",
    "title": "The Lion King",
@@ -2297,6 +2347,31 @@
    "score": 66
   },
   {
+   "id": "olt-six-vaudeville-theatre-111428236",
+   "source": "olt",
+   "title": "Six",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 18%",
+    "From £37.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
+   "price": 37.5,
+   "priceText": "from £37.50",
+   "discount": 18,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-04T23:59:00Z",
+   "venue": "London",
+   "score": 66
+  },
+  {
    "id": "todaytix-28218",
    "source": "todaytix",
    "title": "Showstopper! The Improvised Musical",
@@ -2492,30 +2567,6 @@
    "expires": null,
    "venue": "",
    "score": 48
-  },
-  {
-   "id": "news-how-to-get-sam-fender-presale-and-general-sale-tickets-for-principality-stadium",
-   "source": "news",
-   "title": "How to get Sam Fender presale and general sale tickets for Principality Stadium",
-   "subtitle": "Wales Online",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Wales Online"
-   ],
-   "merchant": "Wales Online",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOckJjX2d2aVB2eS1EYmRmNzdweEhMYkh6N0RFSU1qTTU2V1NNUGNramU3UUhXd1BQakhGaS0tSU5PZGd6Ukd5ZWtiS1d3U0kwUF9pOVFzMjFmTFp2V0tjUUo5NER2R1FQNUNRcGh0MGlIVnZ1WVR1X1F0R3VTdEU5NTJWcEwwOXVWcmlac2hOU1dOd3llLWpWd3dfS3B1cnAw0gGmAUFVX3lxTE9NbFhWaXBQQTJYYUkxZ3FjdzdPSmJFcWNReUJwd1g4M251ZW8xYnRqN3EySmp0QmtycGdBbllTc05rNllTS1owWmlGWXNFRTl6UlBWSEVWODNNOXR3NU5VNkZMNzZsQmw3RGZCTHRPeEtidEtYRmI4dmlJb2RuYjJpcHdEeFZkR2xxVUJhcEpEeDRpN3h2Ym9jSURUWlVMREhfTVM0VUE?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-21T07:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
   },
   {
    "id": "news-sam-fender-2027-tour-pre-sale-details-in-full-as-ticket-limit-in-force-for-new-d",
