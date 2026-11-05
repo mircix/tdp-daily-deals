@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-05T01:29:54Z",
+ "generatedAt": "2026-11-05T11:10:27Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 49,
+   "count": 50,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "errors": []
   },
   {
@@ -113,6 +113,31 @@
    "score": 90
   },
   {
+   "id": "hukd-5018256",
+   "source": "hukd",
+   "title": "Free Cinema Tickets to I See Buildings Fall Like Lightning - 111 venues on Mon 23rd + Tue 24th Nov",
+   "subtitle": "Cinematik",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "429°",
+    "FREE"
+   ],
+   "merchant": "Cinematik",
+   "url": "https://www.hotukdeals.com/deals/free-cinema-tickets-to-i-see-buildings-fall-like-lightning-123-venues-on-mon-23rd-tue-24th-nov-5018256",
+   "image": "https://images.hotukdeals.com/threads/raw/tbYPZ/5018256_1/re/768x768/qt/60/5018256_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 429.2,
+   "rating": null,
+   "published": "2026-11-04T17:30:00Z",
+   "expires": "2026-11-24T23:59:00Z",
+   "venue": "",
+   "score": 89
+  },
+  {
    "id": "todaytix-345",
    "source": "todaytix",
    "title": "The Play That Goes Wrong",
@@ -136,31 +161,6 @@
    "expires": null,
    "venue": "Duchess Theatre, London",
    "score": 89
-  },
-  {
-   "id": "hukd-5018256",
-   "source": "hukd",
-   "title": "Free Cinema Tickets to I See Buildings Fall Like Lightning - 111 venues on Mon 23rd + Tue 24th Nov",
-   "subtitle": "Cinematik",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "367°",
-    "FREE"
-   ],
-   "merchant": "Cinematik",
-   "url": "https://www.hotukdeals.com/deals/free-cinema-tickets-to-i-see-buildings-fall-like-lightning-123-venues-on-mon-23rd-tue-24th-nov-5018256",
-   "image": "https://images.hotukdeals.com/threads/raw/tbYPZ/5018256_1/re/768x768/qt/60/5018256_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 367.1,
-   "rating": null,
-   "published": "2026-11-04T17:30:00Z",
-   "expires": "2026-11-24T23:59:00Z",
-   "venue": "",
-   "score": 88
   },
   {
    "id": "olt-million-dollar-quartet-111475900",
@@ -235,6 +235,31 @@
    "published": null,
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Charing Cross Theatre, London",
+   "score": 87
+  },
+  {
+   "id": "todaytix-47549",
+   "source": "todaytix",
+   "title": "Musicals By Candlelight",
+   "subtitle": "The Actors' Church",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 60%",
+    "£20 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 10.0,
+   "priceText": "from £10",
+   "discount": 60,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "The Actors' Church, London",
    "score": 87
   },
   {
@@ -638,6 +663,31 @@
    "score": 81
   },
   {
+   "id": "hukd-5023514",
+   "source": "hukd",
+   "title": "Get Two Free Cineworld Tickets (10,000 available - The Sun Club members)",
+   "subtitle": "The Sun",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "41°",
+    "FREE"
+   ],
+   "merchant": "The Sun",
+   "url": "https://www.hotukdeals.com/deals/get-two-free-cineworld-tickets-the-sun-club-5023514",
+   "image": "https://images.hotukdeals.com/threads/raw/PU0pY/5023514_1/re/768x768/qt/60/5023514_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 40.6,
+   "rating": null,
+   "published": "2026-11-05T08:56:29Z",
+   "expires": "2026-11-15T23:59:00Z",
+   "venue": "",
+   "score": 81
+  },
+  {
    "id": "hukd-4892734",
    "source": "hukd",
    "title": "Kids FREE Entry to 200+ UK Attractions (Stonehenge / Eden Project / Edinburgh Zoo + More) via Blue Peter Badge",
@@ -1011,30 +1061,6 @@
    "score": 78
   },
   {
-   "id": "hukd-4991179",
-   "source": "hukd",
-   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "2637°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
-   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 2636.8,
-   "rating": null,
-   "published": "2026-09-29T06:52:16Z",
-   "expires": null,
-   "venue": "",
-   "score": 78
-  },
-  {
    "id": "todaytix-23350",
    "source": "todaytix",
    "title": "Moulin Rouge! The Musical",
@@ -1202,6 +1228,30 @@
    "published": null,
    "expires": null,
    "venue": "London County Hall, London",
+   "score": 77
+  },
+  {
+   "id": "hukd-4991179",
+   "source": "hukd",
+   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "2637°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
+   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 2636.8,
+   "rating": null,
+   "published": "2026-09-29T06:52:16Z",
+   "expires": null,
+   "venue": "",
    "score": 77
   },
   {
@@ -1492,31 +1542,6 @@
    "published": null,
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Hampstead Theatre, London",
-   "score": 75
-  },
-  {
-   "id": "todaytix-47549",
-   "source": "todaytix",
-   "title": "Musicals By Candlelight",
-   "subtitle": "The Actors' Church",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save 40%",
-    "£20 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 40,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "The Actors' Church, London",
    "score": 75
   },
   {
@@ -1938,6 +1963,31 @@
    "score": 73
   },
   {
+   "id": "todaytix-48181",
+   "source": "todaytix",
+   "title": "A Homo Alone 2: Yikes, We Did It Again!",
+   "subtitle": "The Other Palace - Studio",
+   "category": "comedy",
+   "kind": "offer",
+   "badges": [
+    "Save 35%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/48181-a-homo-alone-2-yikes-we-did-it-again",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6SxRd1dUHsGC1viW6gLiG6/65f84adf3c52c732118d18d98c981b99/AHA2_1080x1080px.jpg?w=400&h=400&fit=fill",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 35,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "The Other Palace - Studio, London",
+   "score": 72
+  },
+  {
    "id": "hukd-5019107",
    "source": "hukd",
    "title": "Cinema tickets at Showcase Cinema de Lux Paisley or Coatbridge",
@@ -1954,7 +2004,7 @@
    "priceText": "£5.49",
    "discount": null,
    "code": "",
-   "heat": 82.1,
+   "heat": 82.0,
    "rating": null,
    "published": "2026-10-31T20:35:38Z",
    "expires": "2026-12-31T23:59:00Z",
@@ -2428,30 +2478,6 @@
    "score": 65
   },
   {
-   "id": "hukd-4982531",
-   "source": "hukd",
-   "title": "College and university students tickets (Limited number - first come, first served basis)",
-   "subtitle": "Octagon Theatre Bolton",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "56°"
-   ],
-   "merchant": "Octagon Theatre Bolton",
-   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
-   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 55.8,
-   "rating": null,
-   "published": "2026-09-16T09:14:36Z",
-   "expires": null,
-   "venue": "",
-   "score": 64
-  },
-  {
    "id": "todaytix-47613",
    "source": "todaytix",
    "title": "Sherlock Holmes and the 12 Days of Christmas",
@@ -2500,6 +2526,30 @@
    "expires": "2027-03-30T22:59:00Z",
    "venue": "",
    "score": 64
+  },
+  {
+   "id": "hukd-4982531",
+   "source": "hukd",
+   "title": "College and university students tickets (Limited number - first come, first served basis)",
+   "subtitle": "Octagon Theatre Bolton",
+   "category": "theatre",
+   "kind": "deal",
+   "badges": [
+    "56°"
+   ],
+   "merchant": "Octagon Theatre Bolton",
+   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
+   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 55.8,
+   "rating": null,
+   "published": "2026-09-16T09:14:36Z",
+   "expires": null,
+   "venue": "",
+   "score": 63
   },
   {
    "id": "olt-pulman-stilgoe-hooray-for-hollywood-111476184",
@@ -2644,7 +2694,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-11-04T16:56:01Z",
+   "published": "2026-11-05T06:19:25Z",
    "expires": null,
    "venue": "",
    "score": 49
