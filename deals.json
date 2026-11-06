@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-06T01:37:58Z",
+ "generatedAt": "2026-11-06T11:08:27Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 50,
+   "count": 51,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 1,
+   "count": 4,
    "errors": []
   }
  ],
@@ -262,6 +262,31 @@
    "score": 87
   },
   {
+   "id": "todaytix-47476",
+   "source": "todaytix",
+   "title": "Sylvia",
+   "subtitle": "Royal Albert Hall",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 74%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47476-sylvia",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2qXEGyeGTuTsJL5EZUEdvk/a6fcafd4f471fcbdd8b589dde8fe164e/8391_56_Sylvia_Naomi_Social_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 30.0,
+   "priceText": "from £30",
+   "discount": 74,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-15T23:59:00Z",
+   "venue": "Royal Albert Hall, London",
+   "score": 87
+  },
+  {
    "id": "todaytix-25773",
    "source": "todaytix",
    "title": "Tosca - English National Opera",
@@ -333,7 +358,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-11T23:59:00Z",
+   "expires": "2026-11-12T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -433,7 +458,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-07T23:59:00Z",
+   "expires": null,
    "venue": "London",
    "score": 84
   },
@@ -919,13 +944,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 39%",
-    "From £31"
+    "From £31.40"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
-   "price": 31.0,
-   "priceText": "from £31",
+   "price": 31.4,
+   "priceText": "from £31.40",
    "discount": 39,
    "code": "",
    "heat": null,
@@ -1431,7 +1456,8 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets"
+    "£30 Rush tickets",
+    "Exclusive Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47065-into-the-woods",
@@ -2135,30 +2161,6 @@
    "score": 71
   },
   {
-   "id": "hukd-5016940",
-   "source": "hukd",
-   "title": "Ticket for Lidl Christmas Showcase Event - 27th Nov London/Manchester",
-   "subtitle": "Eventbrite",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "56°"
-   ],
-   "merchant": "Eventbrite",
-   "url": "https://www.hotukdeals.com/deals/lidl-christmas-showcase-event-5016940",
-   "image": "https://images.hotukdeals.com/threads/raw/ELJCj/5016940_1/re/768x768/qt/60/5016940_1.jpg",
-   "price": 5,
-   "priceText": "£5",
-   "discount": null,
-   "code": "",
-   "heat": 56.4,
-   "rating": null,
-   "published": "2026-10-29T10:28:42Z",
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "",
-   "score": 71
-  },
-  {
    "id": "todaytix-24429",
    "source": "todaytix",
    "title": "Faulty Towers The Dining Experience",
@@ -2228,6 +2230,30 @@
    "published": null,
    "expires": "2027-01-03T23:59:00Z",
    "venue": "St. Martin's Theatre, London",
+   "score": 70
+  },
+  {
+   "id": "hukd-5016940",
+   "source": "hukd",
+   "title": "Ticket for Lidl Christmas Showcase Event - 27th Nov London/Manchester",
+   "subtitle": "Eventbrite",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "56°"
+   ],
+   "merchant": "Eventbrite",
+   "url": "https://www.hotukdeals.com/deals/lidl-christmas-showcase-event-5016940",
+   "image": "https://images.hotukdeals.com/threads/raw/ELJCj/5016940_1/re/768x768/qt/60/5016940_1.jpg",
+   "price": 5,
+   "priceText": "£5",
+   "discount": null,
+   "code": "",
+   "heat": 56.4,
+   "rating": null,
+   "published": "2026-10-29T10:28:42Z",
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "",
    "score": 70
   },
   {
@@ -2404,6 +2430,31 @@
    "score": 66
   },
   {
+   "id": "olt-six-vaudeville-theatre-111428236",
+   "source": "olt",
+   "title": "Six",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 18%",
+    "From £37.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
+   "price": 37.5,
+   "priceText": "from £37.50",
+   "discount": 18,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-06T23:59:00Z",
+   "venue": "London",
+   "score": 66
+  },
+  {
    "id": "todaytix-28218",
    "source": "todaytix",
    "title": "Showstopper! The Improvised Musical",
@@ -2500,31 +2551,6 @@
    "published": "2026-09-16T09:14:36Z",
    "expires": null,
    "venue": "",
-   "score": 63
-  },
-  {
-   "id": "olt-six-vaudeville-theatre-111428236",
-   "source": "olt",
-   "title": "Six",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 13%",
-    "From £37.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
-   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
-   "price": 37.5,
-   "priceText": "from £37.50",
-   "discount": 13,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-06T23:59:00Z",
-   "venue": "London",
    "score": 63
   },
   {
@@ -2627,6 +2653,54 @@
    "score": 54
   },
   {
+   "id": "news-discounted-panto-tickets-open-doors-for-families",
+   "source": "news",
+   "title": "Discounted panto tickets open doors for families",
+   "subtitle": "BBC",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "BBC"
+   ],
+   "merchant": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wV2ZvZzI5SGFScEstcVZOckd4UW5nQUU2UlF2dFcxa0pmMEplSUpIYzNhVU55Tk5DS21VeDBnbG5Id0FkXy1ZRVJkcUZfR0M0dmpVRGwwdFc2bHFQWVE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-05T11:38:52Z",
+   "expires": null,
+   "venue": "",
+   "score": 49
+  },
+  {
+   "id": "news-single-tout-offers-nine-in-ten-west-end-theatre-tickets-on-viagogo",
+   "source": "news",
+   "title": "Single tout offers nine in ten West End theatre tickets on Viagogo",
+   "subtitle": "The Times",
+   "category": "theatre",
+   "kind": "news",
+   "badges": [
+    "The Times"
+   ],
+   "merchant": "The Times",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmhVUlNqbDg3Z0d5ckNtREpGTDlpUDhObVlXM1BTbjlnR3dqRWo4U19waXFWVnVST1JFMGd2d05nUkh3ZDFaemZEcjlmM2h4TGV2RXBnOU54ZmNRdS1kUEJDd2l1bnFOaE96MXJwSmZIaGtndGhXaGpUNlBOMlJ6Y05UbEV1Q01OeklTQlBCVzg1bjN4YnIwb0lxWUY5R0pUd2pMMUc3cnRTTVZmVGhxeVRfTHRtSWd0YmwxV1lZaktSTTFKTWw1SndqYw?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-06T10:50:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 49
+  },
+  {
    "id": "news-free-cinema-tickets-for-thousands-of-schoolchildren-as-into-film-festival-return",
    "source": "news",
    "title": "Free cinema tickets for thousands of schoolchildren as Into Film Festival returns",
@@ -2646,6 +2720,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-10-29T13:28:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
+   "id": "news-how-does-the-american-express-pre-sale-work-on-ticketmaster",
+   "source": "news",
+   "title": "How does the American Express pre-sale work on Ticketmaster?",
+   "subtitle": "Radio Times",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Radio Times"
+   ],
+   "merchant": "Radio Times",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWRiVm1OVG5OTWZGQjZDX2JaamdYaDhvSXJLOG1Ba0hpd293MnM3NExuYzh1ZVNvc1d5LVZ3dzdFTlJzUjFwNTVrVzZrXzk5bWtmeTh1aThXZ0tOZWUwSFROY1BsTloxZ1hxQ3RYOUxYcnQzQ1N5MVkzeEJYRkZxT0hB?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-04T08:00:00Z",
    "expires": null,
    "venue": "",
    "score": 48
