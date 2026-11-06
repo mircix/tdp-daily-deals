@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-06T11:08:27Z",
+ "generatedAt": "2026-11-06T19:30:58Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 51,
+   "count": 53,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 4,
+   "count": 5,
    "errors": []
   }
  ],
@@ -83,7 +83,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-06T23:59:00Z",
+   "expires": null,
    "venue": "London",
    "score": 90
   },
@@ -95,7 +95,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save up to 63%",
+    "Save up to 64%",
     "From £20"
    ],
    "merchant": "Official London Theatre",
@@ -103,7 +103,7 @@
    "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
    "price": 20.0,
    "priceText": "from £20",
-   "discount": 63,
+   "discount": 64,
    "code": "",
    "heat": null,
    "rating": null,
@@ -120,7 +120,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "502°",
+    "504°",
     "FREE"
    ],
    "merchant": "Cinematik",
@@ -130,7 +130,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 501.9,
+   "heat": 503.7,
    "rating": null,
    "published": "2026-11-04T17:30:00Z",
    "expires": "2026-11-24T23:59:00Z",
@@ -188,30 +188,6 @@
    "score": 88
   },
   {
-   "id": "todaytix-47347",
-   "source": "todaytix",
-   "title": "Ceilidh The Musical",
-   "subtitle": "Shoreditch Town Hall",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 63%"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47347-ceilidh",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6uzECfgiM5OH4ANulMaoT6/c81fa7787af24e66bde5c98f4d2f4877/Ceilidh_TTG_Buttons_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 63,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-02-28T23:59:00Z",
-   "venue": "Shoreditch Town Hall, London",
-   "score": 87
-  },
-  {
    "id": "todaytix-47438",
    "source": "todaytix",
    "title": "Franz & Marie",
@@ -257,7 +233,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-11T23:59:00Z",
+   "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
    "score": 87
   },
@@ -269,7 +245,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 74%",
+    "Save 66%",
     "Exclusive Offer"
    ],
    "merchant": "TodayTix",
@@ -277,7 +253,7 @@
    "image": "https://images.ctfassets.net/6pezt69ih962/2qXEGyeGTuTsJL5EZUEdvk/a6fcafd4f471fcbdd8b589dde8fe164e/8391_56_Sylvia_Naomi_Social_1080x1080.jpg?w=400&h=400&fit=fill",
    "price": 30.0,
    "priceText": "from £30",
-   "discount": 74,
+   "discount": 66,
    "code": "",
    "heat": null,
    "rating": null,
@@ -358,7 +334,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-12T23:59:00Z",
+   "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -408,7 +384,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-11T23:59:00Z",
+   "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -433,7 +409,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-12T23:59:00Z",
+   "expires": null,
    "venue": "London",
    "score": 84
   },
@@ -446,19 +422,19 @@
    "kind": "offer",
    "badges": [
     "Save up to 49%",
-    "From £28"
+    "From £18"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 18.0,
+   "priceText": "from £18",
    "discount": 49,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": null,
+   "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -583,7 +559,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-12T23:59:00Z",
+   "expires": "2026-11-14T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -733,7 +709,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-11T23:59:00Z",
+   "expires": null,
    "venue": "London",
    "score": 80
   },
@@ -944,13 +920,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 39%",
-    "From £31.40"
+    "From £31"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
-   "price": 31.4,
-   "priceText": "from £31.40",
+   "price": 31.0,
+   "priceText": "from £31",
    "discount": 39,
    "code": "",
    "heat": null,
@@ -1031,7 +1007,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-08T23:59:00Z",
+   "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1082,6 +1058,31 @@
    "published": null,
    "expires": null,
    "venue": "Piccadilly Theatre, London",
+   "score": 77
+  },
+  {
+   "id": "todaytix-47549",
+   "source": "todaytix",
+   "title": "Musicals By Candlelight",
+   "subtitle": "The Actors' Church",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 43%",
+    "£20 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 43,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "The Actors' Church, London",
    "score": 77
   },
   {
@@ -1681,8 +1682,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
    "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 21.0,
-   "priceText": "from £21",
+   "price": 29.0,
+   "priceText": "from £29",
    "discount": 40,
    "code": "",
    "heat": null,
@@ -2014,6 +2015,30 @@
    "score": 72
   },
   {
+   "id": "todaytix-305",
+   "source": "todaytix",
+   "title": "Matilda The Musical",
+   "subtitle": "Cambridge Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/305-matilda-the-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2gIsErMihZJm30lS7osQXh/cae5f170e43f1afddd5ad81608f11346/MAT25_Q3_055_15_year_ticket_agent_button_TTG_1080x1080_AW2.jpg?w=400&h=400&fit=fill",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": 4.57,
+   "published": null,
+   "expires": null,
+   "venue": "Cambridge Theatre, London",
+   "score": 72
+  },
+  {
    "id": "olt-moulin-rouge-the-musical-tickets-111421793",
    "source": "olt",
    "title": "Moulin Rouge! The Musical",
@@ -2185,6 +2210,30 @@
    "score": 70
   },
   {
+   "id": "todaytix-47806",
+   "source": "todaytix",
+   "title": "Pride",
+   "subtitle": "Bridge Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Exclusive Prices"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47806-pride-bridge-theatre",
+   "image": "https://images.ctfassets.net/6pezt69ih962/73QH3KRW2AzFSRzcVmVxeZ/45f12f591e0457e7fadd2563d171806f/PRIDE_TTG_ASSETS_AUG26_AW_1080x1080__1_.jpg?w=400&h=400&fit=fill",
+   "price": 32.0,
+   "priceText": "from £32",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Bridge Theatre, London",
+   "score": 70
+  },
+  {
    "id": "todaytix-47170",
    "source": "todaytix",
    "title": "Scrooge: Cirque Extravaganza",
@@ -2306,31 +2355,6 @@
    "score": 69
   },
   {
-   "id": "todaytix-47549",
-   "source": "todaytix",
-   "title": "Musicals By Candlelight",
-   "subtitle": "The Actors' Church",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save 29%",
-    "£20 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "The Actors' Church, London",
-   "score": 69
-  },
-  {
    "id": "olt-the-smartest-giant-in-town-111473985",
    "source": "olt",
    "title": "The Smartest Giant In Town",
@@ -2377,6 +2401,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-12T23:59:00Z",
+   "venue": "London",
+   "score": 68
+  },
+  {
+   "id": "olt-sherlock-holmes-and-the-12-days-of-christmas-111477663",
+   "source": "olt",
+   "title": "Sherlock Holmes And The 12 Days Of Christmas",
+   "subtitle": "Christmas, Comedy",
+   "category": "comedy",
+   "kind": "offer",
+   "badges": [
+    "Save up to 21%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sherlock-holmes-and-the-12-days-of-christmas-111477663/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/10/8741_18_SHERLOCK_Socials_1920x1080_V3-1-768x432.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 21,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-12-02T23:59:00Z",
    "venue": "London",
    "score": 68
   },
@@ -2450,7 +2499,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-06T23:59:00Z",
+   "expires": "2026-11-08T23:59:00Z",
    "venue": "London",
    "score": 66
   },
@@ -2478,6 +2527,31 @@
    "expires": null,
    "venue": "Cambridge Theatre, London",
    "score": 65
+  },
+  {
+   "id": "todaytix-44904",
+   "source": "todaytix",
+   "title": "Ebony Scrooge",
+   "subtitle": "Sadler's Wells East",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 21%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/44904-ebony-scrooge",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5wOUth2y7qFGrqMghtpRnT/e7c5bab93b34882da0138cb7a33c3b04/ebony-scrooge-1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 21,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Sadler's Wells East, London",
+   "score": 64
   },
   {
    "id": "todaytix-47613",
@@ -2554,6 +2628,30 @@
    "score": 63
   },
   {
+   "id": "hukd-5024934",
+   "source": "hukd",
+   "title": "Gulliver's Theme Park 2027 Family Gift Ticket for Matlock Bath - 2, 3 or 4 people from £22 (MK / Rother Valley / Warrington from £27)",
+   "subtitle": "Wowcher",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "90°"
+   ],
+   "merchant": "Wowcher",
+   "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
+   "image": "https://images.hotukdeals.com/threads/raw/5ku2n/5024934_1/re/768x768/qt/60/5024934_1.jpg",
+   "price": 22,
+   "priceText": "£22",
+   "discount": null,
+   "code": "",
+   "heat": 90.5,
+   "rating": null,
+   "published": "2026-11-06T15:49:52Z",
+   "expires": "2026-12-31T23:59:00Z",
+   "venue": "",
+   "score": 63
+  },
+  {
    "id": "olt-pulman-stilgoe-hooray-for-hollywood-111476184",
    "source": "olt",
    "title": "Pulman & Stilgoe: Hooray For Hollywood",
@@ -2577,31 +2675,6 @@
    "expires": "2026-11-07T23:59:00Z",
    "venue": "London",
    "score": 61
-  },
-  {
-   "id": "olt-sherlock-holmes-and-the-12-days-of-christmas-111477663",
-   "source": "olt",
-   "title": "Sherlock Holmes And The 12 Days Of Christmas",
-   "subtitle": "Christmas, Comedy",
-   "category": "comedy",
-   "kind": "offer",
-   "badges": [
-    "Save up to 9%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sherlock-holmes-and-the-12-days-of-christmas-111477663/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/10/8741_18_SHERLOCK_Socials_1920x1080_V3-1-768x432.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 9,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-12-02T23:59:00Z",
-   "venue": "London",
-   "score": 60
   },
   {
    "id": "hukd-4973296",
@@ -2650,7 +2723,31 @@
    "published": "2026-09-23T14:29:02Z",
    "expires": null,
    "venue": "",
-   "score": 54
+   "score": 53
+  },
+  {
+   "id": "news-best-sky-stream-offers-for-november-2026-deals-and-tv-bundles-for-new-and-existi",
+   "source": "news",
+   "title": "Best Sky Stream offers for November 2026: Deals and TV bundles for new and existing Sky customers",
+   "subtitle": "Radio Times",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Radio Times"
+   ],
+   "merchant": "Radio Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRJOC0xamhsU0tNUDhpYzJIMzIwaDlYWW5UdFVWRXdEQ2wyM1lFQjVsc3RIbWVETTBKb1FlRzdXdFE1WGZsNjg4eWd0LXRhN1R0X0FsQVd0MkczTHNQYVNIZnhKcDdSNU1tTGQ5bFZHVFp5THd5dU5iblZoZnY2U2R0ZmQ?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-05T17:00:40Z",
+   "expires": null,
+   "venue": "",
+   "score": 49
   },
   {
    "id": "news-discounted-panto-tickets-open-doors-for-families",
@@ -2701,30 +2798,6 @@
    "score": 49
   },
   {
-   "id": "news-free-cinema-tickets-for-thousands-of-schoolchildren-as-into-film-festival-return",
-   "source": "news",
-   "title": "Free cinema tickets for thousands of schoolchildren as Into Film Festival returns",
-   "subtitle": "Belfast Telegraph",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Belfast Telegraph"
-   ],
-   "merchant": "Belfast Telegraph",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSHkyZm5OYmE4dEJ4cTk5Y1lkVmJpNzlLZXFrVXhHRTFPM2xHR0hLLUxSUEhiVFR0YVZhOHpXaXVRNHlHVmQ3eWxBTlVaY1dhQWNhSko2bzRobWkzQWI2S0xqVDZ5cGVGWG14QWZjU3RXMVBCdmYyRTBUQXFURG82Yjgyek56NXNDVXJxZkc1N1dfVUFhRkdaMEFwMzNNMXRJbDJMS0IwZ0FGbkpaWFkxT2pVeWRZTmRBZzBTRnFiX0x4TDhqSlc5NXVUQ1hTbHVlaHdGQS1fYVpPamJyOGhhS1RB?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-10-29T13:28:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-how-does-the-american-express-pre-sale-work-on-ticketmaster",
    "source": "news",
    "title": "How does the American Express pre-sale work on Ticketmaster?",
@@ -2747,6 +2820,30 @@
    "expires": null,
    "venue": "",
    "score": 48
+  },
+  {
+   "id": "news-free-cinema-tickets-for-thousands-of-schoolchildren-as-into-film-festival-return",
+   "source": "news",
+   "title": "Free cinema tickets for thousands of schoolchildren as Into Film Festival returns",
+   "subtitle": "Belfast Telegraph",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Belfast Telegraph"
+   ],
+   "merchant": "Belfast Telegraph",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSHkyZm5OYmE4dEJ4cTk5Y1lkVmJpNzlLZXFrVXhHRTFPM2xHR0hLLUxSUEhiVFR0YVZhOHpXaXVRNHlHVmQ3eWxBTlVaY1dhQWNhSko2bzRobWkzQWI2S0xqVDZ5cGVGWG14QWZjU3RXMVBCdmYyRTBUQXFURG82Yjgyek56NXNDVXJxZkc1N1dfVUFhRkdaMEFwMzNNMXRJbDJMS0IwZ0FGbkpaWFkxT2pVeWRZTmRBZzBTRnFiX0x4TDhqSlc5NXVUQ1hTbHVlaHdGQS1fYVpPamJyOGhhS1RB?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-29T07:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
   }
  ]
 }
