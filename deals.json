@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-05T20:05:56Z",
+ "generatedAt": "2026-11-06T01:37:58Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 31,
+   "count": 34,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 51,
+   "count": 50,
    "errors": []
   },
   {
@@ -88,6 +88,31 @@
    "score": 90
   },
   {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 63%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 63,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "hukd-5018256",
    "source": "hukd",
    "title": "Free Cinema Tickets to I See Buildings Fall Like Lightning - 111 venues on Mon 23rd + Tue 24th Nov",
@@ -113,31 +138,6 @@
    "score": 89
   },
   {
-   "id": "todaytix-345",
-   "source": "todaytix",
-   "title": "The Play That Goes Wrong",
-   "subtitle": "Duchess Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 62%",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/345-play-that-goes-wrong",
-   "image": "https://images.ctfassets.net/6pezt69ih962/4C5berIDQKTCwq7CflU8Ch/d17c7687e712f90cb6231aeda64a1a6a/PT26078_SEE_1200x1200pxls.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 62,
-   "code": "",
-   "heat": null,
-   "rating": 4.48,
-   "published": null,
-   "expires": null,
-   "venue": "Duchess Theatre, London",
-   "score": 89
-  },
-  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -159,6 +159,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-11T23:59:00Z",
+   "venue": "London",
+   "score": 88
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -209,57 +234,6 @@
    "published": null,
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Charing Cross Theatre, London",
-   "score": 87
-  },
-  {
-   "id": "todaytix-46909",
-   "source": "todaytix",
-   "title": "High School Musical",
-   "subtitle": "Troubadour Wembley Park Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 60%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 31.0,
-   "priceText": "from £31",
-   "discount": 60,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "Troubadour Wembley Park Theatre, London",
-   "score": 87
-  },
-  {
-   "id": "todaytix-47549",
-   "source": "todaytix",
-   "title": "Musicals By Candlelight",
-   "subtitle": "The Actors' Church",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save 60%",
-    "£20 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 10.0,
-   "priceText": "from £10",
-   "discount": 60,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "The Actors' Church, London",
    "score": 87
   },
   {
@@ -620,7 +594,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1276°"
+    "1285°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -629,7 +603,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 1276.3,
+   "heat": 1284.8,
    "rating": null,
    "published": "2026-11-01T00:00:02Z",
    "expires": "2026-11-15T23:59:00Z",
@@ -660,6 +634,32 @@
    "published": null,
    "expires": "2027-01-03T23:59:00Z",
    "venue": "Shaftesbury Theatre, London",
+   "score": 81
+  },
+  {
+   "id": "todaytix-46909",
+   "source": "todaytix",
+   "title": "High School Musical",
+   "subtitle": "Troubadour Wembley Park Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 49%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 31.0,
+   "priceText": "from £31",
+   "discount": 49,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Troubadour Wembley Park Theatre, London",
    "score": 81
   },
   {
@@ -1213,7 +1213,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2637°"
+    "2640°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -1222,7 +1222,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2636.8,
+   "heat": 2639.5,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -2013,6 +2013,31 @@
    "score": 72
   },
   {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-15T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
    "id": "todaytix-302",
    "source": "todaytix",
    "title": "The Lion King",
@@ -2252,6 +2277,31 @@
    "published": null,
    "expires": "2026-12-23T23:59:00Z",
    "venue": "Bush Theatre, London",
+   "score": 69
+  },
+  {
+   "id": "todaytix-47549",
+   "source": "todaytix",
+   "title": "Musicals By Candlelight",
+   "subtitle": "The Actors' Church",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 29%",
+    "£20 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "The Actors' Church, London",
    "score": 69
   },
   {
