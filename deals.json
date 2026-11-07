@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-07T10:26:25Z",
+ "generatedAt": "2026-11-07T17:46:23Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 53,
+   "count": 52,
    "errors": []
   },
   {
@@ -83,7 +83,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-07T23:59:00Z",
+   "expires": "2026-11-08T23:59:00Z",
    "venue": "London",
    "score": 90
   },
@@ -120,7 +120,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "504°",
+    "506°",
     "FREE"
    ],
    "merchant": "Cinematik",
@@ -130,7 +130,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 503.7,
+   "heat": 505.5,
    "rating": null,
    "published": "2026-11-04T17:30:00Z",
    "expires": "2026-11-24T23:59:00Z",
@@ -314,6 +314,31 @@
    "score": 86
   },
   {
+   "id": "todaytix-36456",
+   "source": "todaytix",
+   "title": "The Hunger Games: On Stage",
+   "subtitle": "Troubadour Canary Wharf Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 56%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 29.0,
+   "priceText": "from £29",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Troubadour Canary Wharf Theatre, London",
+   "score": 85
+  },
+  {
    "id": "hukd-5016507",
    "source": "hukd",
    "title": "\"Discover\" films (incl Godzilla Minus: Zero) now free for Picturehouse Cinema Members",
@@ -372,13 +397,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 49%",
-    "From £13.62"
+    "From £14.25"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/tosca-111473033/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_tosca-768x384.jpg",
-   "price": 13.62,
-   "priceText": "from £13.62",
+   "price": 14.25,
+   "priceText": "from £14.25",
    "discount": 49,
    "code": "",
    "heat": null,
@@ -538,31 +563,6 @@
    "score": 83
   },
   {
-   "id": "todaytix-47476",
-   "source": "todaytix",
-   "title": "Sylvia",
-   "subtitle": "Royal Albert Hall",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 52%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47476-sylvia",
-   "image": "https://images.ctfassets.net/6pezt69ih962/2qXEGyeGTuTsJL5EZUEdvk/a6fcafd4f471fcbdd8b589dde8fe164e/8391_56_Sylvia_Naomi_Social_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 30.0,
-   "priceText": "from £30",
-   "discount": 52,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-15T23:59:00Z",
-   "venue": "Royal Albert Hall, London",
-   "score": 82
-  },
-  {
    "id": "olt-the-mousetrap-92715",
    "source": "olt",
    "title": "The Mousetrap",
@@ -638,32 +638,6 @@
    "score": 81
   },
   {
-   "id": "todaytix-46909",
-   "source": "todaytix",
-   "title": "High School Musical",
-   "subtitle": "Troubadour Wembley Park Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 49%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 31.0,
-   "priceText": "from £31",
-   "discount": 49,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "Troubadour Wembley Park Theatre, London",
-   "score": 81
-  },
-  {
    "id": "hukd-4892734",
    "source": "hukd",
    "title": "Kids FREE Entry to 200+ UK Attractions (Stonehenge / Eden Project / Edinburgh Zoo + More) via Blue Peter Badge",
@@ -709,7 +683,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-13T23:59:00Z",
+   "expires": "2026-11-14T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -1061,31 +1035,6 @@
    "score": 77
   },
   {
-   "id": "todaytix-47549",
-   "source": "todaytix",
-   "title": "Musicals By Candlelight",
-   "subtitle": "The Actors' Church",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save 43%",
-    "£20 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 43,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "The Actors' Church, London",
-   "score": 77
-  },
-  {
    "id": "todaytix-25389",
    "source": "todaytix",
    "title": "My Neighbour Totoro",
@@ -1324,7 +1273,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-08T23:59:00Z",
+   "expires": "2026-11-15T23:59:00Z",
    "venue": "London",
    "score": 76
   },
@@ -1669,31 +1618,6 @@
    "score": 75
   },
   {
-   "id": "todaytix-36456",
-   "source": "todaytix",
-   "title": "The Hunger Games: On Stage",
-   "subtitle": "Troubadour Canary Wharf Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 40%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 29.0,
-   "priceText": "from £29",
-   "discount": 40,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "Troubadour Canary Wharf Theatre, London",
-   "score": 75
-  },
-  {
    "id": "todaytix-43642",
    "source": "todaytix",
    "title": "The Magicians Table",
@@ -1767,30 +1691,6 @@
    "score": 75
   },
   {
-   "id": "hukd-5016365",
-   "source": "hukd",
-   "title": "Cineworld Adult Ticket Via Three Rewards location dependant",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "154°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/cineworld-ps5-ticket-via-three-rewards-5016365",
-   "image": "https://images.hotukdeals.com/threads/raw/cen8L/5016365_1/re/768x768/qt/60/5016365_1.jpg",
-   "price": 5,
-   "priceText": "£5",
-   "discount": null,
-   "code": "",
-   "heat": 154.1,
-   "rating": null,
-   "published": "2026-10-28T17:17:03Z",
-   "expires": null,
-   "venue": "",
-   "score": 74
-  },
-  {
    "id": "hukd-4981324",
    "source": "hukd",
    "title": "[Free] Odeon Cinema ticket and Uber Ride up to £20 (Selected Teen accounts via Invite)",
@@ -1838,6 +1738,30 @@
    "published": null,
    "expires": "2026-11-11T23:59:00Z",
    "venue": "London",
+   "score": 73
+  },
+  {
+   "id": "hukd-5016365",
+   "source": "hukd",
+   "title": "Cineworld Adult Ticket Via Three Rewards location dependant",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "154°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/cineworld-ps5-ticket-via-three-rewards-5016365",
+   "image": "https://images.hotukdeals.com/threads/raw/cen8L/5016365_1/re/768x768/qt/60/5016365_1.jpg",
+   "price": 5,
+   "priceText": "£5",
+   "discount": null,
+   "code": "",
+   "heat": 154.1,
+   "rating": null,
+   "published": "2026-10-28T17:17:03Z",
+   "expires": null,
+   "venue": "",
    "score": 73
   },
   {
@@ -2355,6 +2279,31 @@
    "score": 69
   },
   {
+   "id": "todaytix-47549",
+   "source": "todaytix",
+   "title": "Musicals By Candlelight",
+   "subtitle": "The Actors' Church",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 29%",
+    "£20 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "The Actors' Church, London",
+   "score": 69
+  },
+  {
    "id": "olt-neighbour-totoro-tickets-111433417",
    "source": "olt",
    "title": "My Neighbour Totoro",
@@ -2363,13 +2312,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 22%",
-    "From £18"
+    "From £23"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
    "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
+   "price": 23.0,
+   "priceText": "from £23",
    "discount": 22,
    "code": "",
    "heat": null,
@@ -2430,6 +2379,32 @@
    "score": 68
   },
   {
+   "id": "todaytix-46909",
+   "source": "todaytix",
+   "title": "High School Musical",
+   "subtitle": "Troubadour Wembley Park Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 25%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 31.0,
+   "priceText": "from £31",
+   "discount": 25,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Troubadour Wembley Park Theatre, London",
+   "score": 67
+  },
+  {
    "id": "todaytix-40713",
    "source": "todaytix",
    "title": "Oliver!",
@@ -2486,7 +2461,7 @@
    "category": "comedy",
    "kind": "deal",
    "badges": [
-    "215°"
+    "274°"
    ],
    "merchant": "Wowcher",
    "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
@@ -2495,7 +2470,7 @@
    "priceText": "£22",
    "discount": null,
    "code": "",
-   "heat": 214.6,
+   "heat": 274.1,
    "rating": null,
    "published": "2026-11-06T15:49:52Z",
    "expires": "2026-12-31T23:59:00Z",
@@ -2751,30 +2726,6 @@
    "score": 53
   },
   {
-   "id": "news-discounted-panto-tickets-open-doors-for-families",
-   "source": "news",
-   "title": "Discounted panto tickets open doors for families",
-   "subtitle": "BBC",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "BBC"
-   ],
-   "merchant": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wV2ZvZzI5SGFScEstcVZOckd4UW5nQUU2UlF2dFcxa0pmMEplSUpIYzNhVU55Tk5DS21VeDBnbG5Id0FkXy1ZRVJkcUZfR0M0dmpVRGwwdFc2bHFQWVE?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-05T11:38:52Z",
-   "expires": null,
-   "venue": "",
-   "score": 49
-  },
-  {
    "id": "news-single-tout-offers-nine-in-ten-west-end-theatre-tickets-on-viagogo",
    "source": "news",
    "title": "Single tout offers nine in ten West End theatre tickets on Viagogo",
@@ -2797,6 +2748,30 @@
    "expires": null,
    "venue": "",
    "score": 49
+  },
+  {
+   "id": "news-discounted-panto-tickets-open-doors-for-families",
+   "source": "news",
+   "title": "Discounted panto tickets open doors for families",
+   "subtitle": "BBC",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "BBC"
+   ],
+   "merchant": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wV2ZvZzI5SGFScEstcVZOckd4UW5nQUU2UlF2dFcxa0pmMEplSUpIYzNhVU55Tk5DS21VeDBnbG5Id0FkXy1ZRVJkcUZfR0M0dmpVRGwwdFc2bHFQWVE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-05T11:38:52Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
   },
   {
    "id": "news-how-does-the-american-express-pre-sale-work-on-ticketmaster",
