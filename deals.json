@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-07T00:58:30Z",
+ "generatedAt": "2026-11-07T10:26:25Z",
  "sources": [
   {
    "id": "olt",
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 5,
+   "count": 4,
    "errors": []
   }
  ],
@@ -238,31 +238,6 @@
    "score": 87
   },
   {
-   "id": "todaytix-47476",
-   "source": "todaytix",
-   "title": "Sylvia",
-   "subtitle": "Royal Albert Hall",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 66%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47476-sylvia",
-   "image": "https://images.ctfassets.net/6pezt69ih962/2qXEGyeGTuTsJL5EZUEdvk/a6fcafd4f471fcbdd8b589dde8fe164e/8391_56_Sylvia_Naomi_Social_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 30.0,
-   "priceText": "from £30",
-   "discount": 66,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-15T23:59:00Z",
-   "venue": "Royal Albert Hall, London",
-   "score": 87
-  },
-  {
    "id": "todaytix-25773",
    "source": "todaytix",
    "title": "Tosca - English National Opera",
@@ -379,31 +354,6 @@
    "image": "https://officiallondontheatre.com/app/uploads/2025/09/BJ-2026-09-bb-NewCreative-62401SGA-SOLT-1200x600-1-768x384.jpg",
    "price": 28.0,
    "priceText": "from £28",
-   "discount": 49,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-13T23:59:00Z",
-   "venue": "London",
-   "score": 84
-  },
-  {
-   "id": "olt-the-mousetrap-92715",
-   "source": "olt",
-   "title": "The Mousetrap",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 49%",
-    "From £18"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
-   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
    "discount": 49,
    "code": "",
    "heat": null,
@@ -586,6 +536,56 @@
    "expires": "2026-11-12T23:59:00Z",
    "venue": "London",
    "score": 83
+  },
+  {
+   "id": "todaytix-47476",
+   "source": "todaytix",
+   "title": "Sylvia",
+   "subtitle": "Royal Albert Hall",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 52%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47476-sylvia",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2qXEGyeGTuTsJL5EZUEdvk/a6fcafd4f471fcbdd8b589dde8fe164e/8391_56_Sylvia_Naomi_Social_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 30.0,
+   "priceText": "from £30",
+   "discount": 52,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-15T23:59:00Z",
+   "venue": "Royal Albert Hall, London",
+   "score": 82
+  },
+  {
+   "id": "olt-the-mousetrap-92715",
+   "source": "olt",
+   "title": "The Mousetrap",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 46%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
+   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 46,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-13T23:59:00Z",
+   "venue": "London",
+   "score": 82
   },
   {
    "id": "hukd-5017207",
@@ -1280,30 +1280,6 @@
    "score": 76
   },
   {
-   "id": "hukd-5013201",
-   "source": "hukd",
-   "title": "Odeon Kids Screenings (£0.90 When You Book Online and in Cinema as a Extras Plus Member)",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "335°"
-   ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
-   "image": "https://images.hotukdeals.com/threads/raw/ZSdou/5013201_1/re/768x768/qt/60/5013201_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 334.6,
-   "rating": null,
-   "published": "2026-10-25T06:40:38Z",
-   "expires": null,
-   "venue": "",
-   "score": 76
-  },
-  {
    "id": "todaytix-333",
    "source": "todaytix",
    "title": "The Mousetrap",
@@ -1520,6 +1496,30 @@
    "published": null,
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Hampstead Theatre, London",
+   "score": 75
+  },
+  {
+   "id": "hukd-5013201",
+   "source": "hukd",
+   "title": "Odeon Kids Screenings (£0.90 When You Book Online and in Cinema as a Extras Plus Member)",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "335°"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
+   "image": "https://images.hotukdeals.com/threads/raw/ZSdou/5013201_1/re/768x768/qt/60/5013201_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 334.6,
+   "rating": null,
+   "published": "2026-10-25T06:40:38Z",
+   "expires": null,
+   "venue": "",
    "score": 75
   },
   {
@@ -2355,31 +2355,6 @@
    "score": 69
   },
   {
-   "id": "olt-the-smartest-giant-in-town-111473985",
-   "source": "olt",
-   "title": "The Smartest Giant In Town",
-   "subtitle": "Children's",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 24%",
-    "From £13"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-smartest-giant-in-town-111473985/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TSGIT-1200x600-1-768x384.jpg",
-   "price": 13.0,
-   "priceText": "from £13",
-   "discount": 24,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-12-18T23:59:00Z",
-   "venue": "London",
-   "score": 69
-  },
-  {
    "id": "olt-neighbour-totoro-tickets-111433417",
    "source": "olt",
    "title": "My Neighbour Totoro",
@@ -2504,6 +2479,30 @@
    "score": 66
   },
   {
+   "id": "hukd-5024934",
+   "source": "hukd",
+   "title": "Gulliver's Theme Park 2027 Family Gift Ticket for Matlock Bath - 2, 3 or 4 people from £22 (MK / Rother Valley / Warrington from £27)",
+   "subtitle": "Wowcher",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "215°"
+   ],
+   "merchant": "Wowcher",
+   "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
+   "image": "https://images.hotukdeals.com/threads/raw/5ku2n/5024934_1/re/768x768/qt/60/5024934_1.jpg",
+   "price": 22,
+   "priceText": "£22",
+   "discount": null,
+   "code": "",
+   "heat": 214.6,
+   "rating": null,
+   "published": "2026-11-06T15:49:52Z",
+   "expires": "2026-12-31T23:59:00Z",
+   "venue": "",
+   "score": 66
+  },
+  {
    "id": "olt-six-vaudeville-theatre-111428236",
    "source": "olt",
    "title": "Six",
@@ -2529,28 +2528,29 @@
    "score": 66
   },
   {
-   "id": "hukd-5024934",
-   "source": "hukd",
-   "title": "Gulliver's Theme Park 2027 Family Gift Ticket for Matlock Bath - 2, 3 or 4 people from £22 (MK / Rother Valley / Warrington from £27)",
-   "subtitle": "Wowcher",
-   "category": "comedy",
-   "kind": "deal",
+   "id": "olt-the-smartest-giant-in-town-111473985",
+   "source": "olt",
+   "title": "The Smartest Giant In Town",
+   "subtitle": "Children's",
+   "category": "theatre",
+   "kind": "offer",
    "badges": [
-    "185°"
+    "Save up to 19%",
+    "From £13"
    ],
-   "merchant": "Wowcher",
-   "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
-   "image": "https://images.hotukdeals.com/threads/raw/5ku2n/5024934_1/re/768x768/qt/60/5024934_1.jpg",
-   "price": 22,
-   "priceText": "£22",
-   "discount": null,
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-smartest-giant-in-town-111473985/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/TSGIT-1200x600-1-768x384.jpg",
+   "price": 13.0,
+   "priceText": "from £13",
+   "discount": 19,
    "code": "",
-   "heat": 185.1,
+   "heat": null,
    "rating": null,
-   "published": "2026-11-06T15:49:52Z",
-   "expires": "2026-12-31T23:59:00Z",
-   "venue": "",
-   "score": 65
+   "published": null,
+   "expires": "2026-12-18T23:59:00Z",
+   "venue": "London",
+   "score": 66
   },
   {
    "id": "todaytix-28218",
@@ -2749,30 +2749,6 @@
    "expires": null,
    "venue": "",
    "score": 53
-  },
-  {
-   "id": "news-best-sky-stream-offers-for-november-2026-deals-and-tv-bundles-for-new-and-existi",
-   "source": "news",
-   "title": "Best Sky Stream offers for November 2026: Deals and TV bundles for new and existing Sky customers",
-   "subtitle": "Radio Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Radio Times"
-   ],
-   "merchant": "Radio Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRJOC0xamhsU0tNUDhpYzJIMzIwaDlYWW5UdFVWRXdEQ2wyM1lFQjVsc3RIbWVETTBKb1FlRzdXdFE1WGZsNjg4eWd0LXRhN1R0X0FsQVd0MkczTHNQYVNIZnhKcDdSNU1tTGQ5bFZHVFp5THd5dU5iblZoZnY2U2R0ZmQ?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-05T17:00:40Z",
-   "expires": null,
-   "venue": "",
-   "score": 49
   },
   {
    "id": "news-discounted-panto-tickets-open-doors-for-families",
