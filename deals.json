@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-06T19:30:58Z",
+ "generatedAt": "2026-11-07T00:58:30Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 34,
+   "count": 35,
    "errors": []
   },
   {
@@ -83,7 +83,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": null,
+   "expires": "2026-11-07T23:59:00Z",
    "venue": "London",
    "score": 90
   },
@@ -389,31 +389,6 @@
    "score": 84
   },
   {
-   "id": "olt-les-miserables-76782",
-   "source": "olt",
-   "title": "Les Misérables",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 50%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/les-miserables-76782/",
-   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MIS_Updated-Ticket-Agent_1200x600_1_AW-2-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 50,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "London",
-   "score": 84
-  },
-  {
    "id": "olt-the-mousetrap-92715",
    "source": "olt",
    "title": "The Mousetrap",
@@ -588,6 +563,31 @@
    "score": 83
   },
   {
+   "id": "olt-les-miserables-76782",
+   "source": "olt",
+   "title": "Les Misérables",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 47%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/les-miserables-76782/",
+   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MIS_Updated-Ticket-Agent_1200x600_1_AW-2-1-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 47,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-12T23:59:00Z",
+   "venue": "London",
+   "score": 83
+  },
+  {
    "id": "hukd-5017207",
    "source": "hukd",
    "title": "10,000 free pairs of Cineworld standard 2D cinema tickets via Sun Club (both new + existing users, membership £1 for 3 months, else £1.99pm)",
@@ -709,7 +709,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": null,
+   "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -995,13 +995,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 39%",
-    "From £21"
+    "From £25"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-hunger-games-on-stage-111466358/",
    "image": "https://officiallondontheatre.com/app/uploads/2025/11/THG_OLT-DIGI-ASSETS_NOV25_1200x600-1-768x384.jpg",
-   "price": 21.0,
-   "priceText": "from £21",
+   "price": 25.0,
+   "priceText": "from £25",
    "discount": 39,
    "code": "",
    "heat": null,
@@ -2430,6 +2430,31 @@
    "score": 68
   },
   {
+   "id": "olt-yippee-ki-yay-111478466",
+   "source": "olt",
+   "title": "Yippee Ki Yay",
+   "subtitle": "Comedy, Entertainment",
+   "category": "comedy",
+   "kind": "offer",
+   "badges": [
+    "Save up to 22%",
+    "From £18"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/yippee-ki-yay-111478466/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/11/YKY-Hero_1200x600px-768x384.jpg",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 22,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-12-19T23:59:00Z",
+   "venue": "London",
+   "score": 68
+  },
+  {
    "id": "todaytix-40713",
    "source": "todaytix",
    "title": "Oliver!",
@@ -2502,6 +2527,30 @@
    "expires": "2026-11-08T23:59:00Z",
    "venue": "London",
    "score": 66
+  },
+  {
+   "id": "hukd-5024934",
+   "source": "hukd",
+   "title": "Gulliver's Theme Park 2027 Family Gift Ticket for Matlock Bath - 2, 3 or 4 people from £22 (MK / Rother Valley / Warrington from £27)",
+   "subtitle": "Wowcher",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "185°"
+   ],
+   "merchant": "Wowcher",
+   "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
+   "image": "https://images.hotukdeals.com/threads/raw/5ku2n/5024934_1/re/768x768/qt/60/5024934_1.jpg",
+   "price": 22,
+   "priceText": "£22",
+   "discount": null,
+   "code": "",
+   "heat": 185.1,
+   "rating": null,
+   "published": "2026-11-06T15:49:52Z",
+   "expires": "2026-12-31T23:59:00Z",
+   "venue": "",
+   "score": 65
   },
   {
    "id": "todaytix-28218",
@@ -2624,30 +2673,6 @@
    "rating": null,
    "published": "2026-09-16T09:14:36Z",
    "expires": null,
-   "venue": "",
-   "score": 63
-  },
-  {
-   "id": "hukd-5024934",
-   "source": "hukd",
-   "title": "Gulliver's Theme Park 2027 Family Gift Ticket for Matlock Bath - 2, 3 or 4 people from £22 (MK / Rother Valley / Warrington from £27)",
-   "subtitle": "Wowcher",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "90°"
-   ],
-   "merchant": "Wowcher",
-   "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
-   "image": "https://images.hotukdeals.com/threads/raw/5ku2n/5024934_1/re/768x768/qt/60/5024934_1.jpg",
-   "price": 22,
-   "priceText": "£22",
-   "discount": null,
-   "code": "",
-   "heat": 90.5,
-   "rating": null,
-   "published": "2026-11-06T15:49:52Z",
-   "expires": "2026-12-31T23:59:00Z",
    "venue": "",
    "score": 63
   },
