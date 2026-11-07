@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-07T17:46:23Z",
+ "generatedAt": "2026-11-07T21:59:16Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 35,
+   "count": 30,
    "errors": []
   },
   {
@@ -88,31 +88,6 @@
    "score": 90
   },
   {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 64%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 64,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
    "id": "hukd-5018256",
    "source": "hukd",
    "title": "Free Cinema Tickets to I See Buildings Fall Like Lightning - 111 venues on Mon 23rd + Tue 24th Nov",
@@ -120,7 +95,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "506°",
+    "508°",
     "FREE"
    ],
    "merchant": "Cinematik",
@@ -130,7 +105,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 505.5,
+   "heat": 508.4,
    "rating": null,
    "published": "2026-11-04T17:30:00Z",
    "expires": "2026-11-24T23:59:00Z",
@@ -159,31 +134,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-11T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -364,56 +314,6 @@
    "score": 84
   },
   {
-   "id": "olt-beetlejuice-the-musical-111465049",
-   "source": "olt",
-   "title": "Beetlejuice The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 49%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/beetlejuice-the-musical-111465049/",
-   "image": "https://officiallondontheatre.com/app/uploads/2025/09/BJ-2026-09-bb-NewCreative-62401SGA-SOLT-1200x600-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 49,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-13T23:59:00Z",
-   "venue": "London",
-   "score": 84
-  },
-  {
-   "id": "olt-tosca-111473033",
-   "source": "olt",
-   "title": "Tosca",
-   "subtitle": "Opera",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 49%",
-    "From £14.25"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/tosca-111473033/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_tosca-768x384.jpg",
-   "price": 14.25,
-   "priceText": "from £14.25",
-   "discount": 49,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-07T23:59:00Z",
-   "venue": "London",
-   "score": 84
-  },
-  {
    "id": "todaytix-25118",
    "source": "todaytix",
    "title": "ABBA Voyage",
@@ -563,6 +463,31 @@
    "score": 83
   },
   {
+   "id": "olt-beetlejuice-the-musical-111465049",
+   "source": "olt",
+   "title": "Beetlejuice The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 45%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/beetlejuice-the-musical-111465049/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/09/BJ-2026-09-bb-NewCreative-62401SGA-SOLT-1200x600-1-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 45,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-13T23:59:00Z",
+   "venue": "London",
+   "score": 82
+  },
+  {
    "id": "olt-the-mousetrap-92715",
    "source": "olt",
    "title": "The Mousetrap",
@@ -571,13 +496,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 46%",
-    "From £18"
+    "From £28"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 46,
    "code": "",
    "heat": null,
@@ -635,6 +560,32 @@
    "published": null,
    "expires": "2027-01-03T23:59:00Z",
    "venue": "Shaftesbury Theatre, London",
+   "score": 81
+  },
+  {
+   "id": "todaytix-46909",
+   "source": "todaytix",
+   "title": "High School Musical",
+   "subtitle": "Troubadour Wembley Park Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 49%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 31.0,
+   "priceText": "from £31",
+   "discount": 49,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Troubadour Wembley Park Theatre, London",
    "score": 81
   },
   {
@@ -1988,31 +1939,6 @@
    "score": 72
   },
   {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-15T23:59:00Z",
-   "venue": "London",
-   "score": 72
-  },
-  {
    "id": "todaytix-302",
    "source": "todaytix",
    "title": "The Lion King",
@@ -2379,29 +2305,27 @@
    "score": 68
   },
   {
-   "id": "todaytix-46909",
-   "source": "todaytix",
-   "title": "High School Musical",
-   "subtitle": "Troubadour Wembley Park Theatre",
-   "category": "theatre",
-   "kind": "offer",
+   "id": "hukd-5024934",
+   "source": "hukd",
+   "title": "Gulliver's Theme Park 2027 Family Gift Ticket for Matlock Bath - 2, 3 or 4 people from £22 (MK / Rother Valley / Warrington from £27)",
+   "subtitle": "Wowcher",
+   "category": "comedy",
+   "kind": "deal",
    "badges": [
-    "Save 25%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
+    "303°"
    ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 31.0,
-   "priceText": "from £31",
-   "discount": 25,
+   "merchant": "Wowcher",
+   "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
+   "image": "https://images.hotukdeals.com/threads/raw/5ku2n/5024934_1/re/768x768/qt/60/5024934_1.jpg",
+   "price": 22,
+   "priceText": "£22",
+   "discount": null,
    "code": "",
-   "heat": null,
+   "heat": 303.2,
    "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "Troubadour Wembley Park Theatre, London",
+   "published": "2026-11-06T15:49:52Z",
+   "expires": "2026-12-31T23:59:00Z",
+   "venue": "",
    "score": 67
   },
   {
@@ -2450,30 +2374,6 @@
    "rating": null,
    "published": "2026-07-13T07:59:33Z",
    "expires": null,
-   "venue": "",
-   "score": 66
-  },
-  {
-   "id": "hukd-5024934",
-   "source": "hukd",
-   "title": "Gulliver's Theme Park 2027 Family Gift Ticket for Matlock Bath - 2, 3 or 4 people from £22 (MK / Rother Valley / Warrington from £27)",
-   "subtitle": "Wowcher",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "274°"
-   ],
-   "merchant": "Wowcher",
-   "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
-   "image": "https://images.hotukdeals.com/threads/raw/5ku2n/5024934_1/re/768x768/qt/60/5024934_1.jpg",
-   "price": 22,
-   "priceText": "£22",
-   "discount": null,
-   "code": "",
-   "heat": 274.1,
-   "rating": null,
-   "published": "2026-11-06T15:49:52Z",
-   "expires": "2026-12-31T23:59:00Z",
    "venue": "",
    "score": 66
   },
@@ -2650,31 +2550,6 @@
    "expires": null,
    "venue": "",
    "score": 63
-  },
-  {
-   "id": "olt-pulman-stilgoe-hooray-for-hollywood-111476184",
-   "source": "olt",
-   "title": "Pulman & Stilgoe: Hooray For Hollywood",
-   "subtitle": "Concert, Entertainment",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save up to 10%",
-    "From £12.15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/pulman-stilgoe-hooray-for-hollywood-111476184/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/08/wilton_banner_2_OLT-Listing-•-1200px-x-600px-768x384.jpg",
-   "price": 12.15,
-   "priceText": "from £12.15",
-   "discount": 10,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-07T23:59:00Z",
-   "venue": "London",
-   "score": 61
   },
   {
    "id": "hukd-4973296",
