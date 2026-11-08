@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T06:18:19Z",
+ "generatedAt": "2026-11-08T13:37:49Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 32,
+   "count": 31,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "errors": []
   }
  ],
@@ -284,7 +284,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-13T23:59:00Z",
+   "expires": "2026-11-14T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -321,7 +321,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "148°",
+    "158°",
     "FREE"
    ],
    "merchant": "Picturehouse Cinemas",
@@ -331,7 +331,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 147.9,
+   "heat": 158.0,
    "rating": null,
    "published": "2026-10-28T21:24:56Z",
    "expires": null,
@@ -545,7 +545,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1285°"
+    "1289°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -554,7 +554,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 1284.8,
+   "heat": 1288.9,
    "rating": null,
    "published": "2026-11-01T00:00:02Z",
    "expires": "2026-11-15T23:59:00Z",
@@ -958,31 +958,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-13T23:59:00Z",
-   "venue": "London",
-   "score": 78
-  },
-  {
-   "id": "olt-the-play-that-goes-wrong-228430",
-   "source": "olt",
-   "title": "The Play That Goes Wrong",
-   "subtitle": "Comedy, Family, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 39%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-play-that-goes-wrong-228430/",
-   "image": "https://officiallondontheatre.com/app/uploads/2014/05/PT26078_OLT_1200x600pxls-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 39,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-08T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -2206,31 +2181,6 @@
    "score": 70
   },
   {
-   "id": "hukd-4988790",
-   "source": "hukd",
-   "title": "Yorkshire's Winter Wonderland – Half Price Ice Skating & Funfair - Family of 4 ticket",
-   "subtitle": "Planet Offers",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "61°",
-    "50% off"
-   ],
-   "merchant": "Planet Offers",
-   "url": "https://www.hotukdeals.com/deals/yorkshires-winter-wonderland-half-price-ice-skating-funfair-4988790",
-   "image": "https://images.hotukdeals.com/threads/raw/mQLf5/4988790_1/re/768x768/qt/60/4988790_1.jpg",
-   "price": 33.9,
-   "priceText": "£33.90",
-   "discount": 50,
-   "code": "",
-   "heat": 61.1,
-   "rating": null,
-   "published": "2026-09-25T11:46:54Z",
-   "expires": null,
-   "venue": "",
-   "score": 70
-  },
-  {
    "id": "todaytix-47217",
    "source": "todaytix",
    "title": "Attention",
@@ -2277,6 +2227,31 @@
    "published": null,
    "expires": "2026-11-27T23:59:00Z",
    "venue": "The Actors' Church, London",
+   "score": 69
+  },
+  {
+   "id": "hukd-4988790",
+   "source": "hukd",
+   "title": "Yorkshire's Winter Wonderland – Half Price Ice Skating & Funfair - Family of 4 ticket",
+   "subtitle": "Planet Offers",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "61°",
+    "50% off"
+   ],
+   "merchant": "Planet Offers",
+   "url": "https://www.hotukdeals.com/deals/yorkshires-winter-wonderland-half-price-ice-skating-funfair-4988790",
+   "image": "https://images.hotukdeals.com/threads/raw/mQLf5/4988790_1/re/768x768/qt/60/4988790_1.jpg",
+   "price": 33.9,
+   "priceText": "£33.90",
+   "discount": 50,
+   "code": "",
+   "heat": 61.1,
+   "rating": null,
+   "published": "2026-09-25T11:46:54Z",
+   "expires": null,
+   "venue": "",
    "score": 69
   },
   {
@@ -2448,7 +2423,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-08T23:59:00Z",
+   "expires": "2026-11-11T23:59:00Z",
    "venue": "London",
    "score": 66
   },
@@ -2651,78 +2626,6 @@
    "score": 53
   },
   {
-   "id": "news-how-to-get-cheap-thorpe-park-tickets-for-2027",
-   "source": "news",
-   "title": "How to get cheap Thorpe Park tickets for 2027",
-   "subtitle": "Radio Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Radio Times"
-   ],
-   "merchant": "Radio Times",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSmprSUxibmxBTWE0aEs0ektlbXExU2JlR0s0MjRlcEZUVlZEbzk1NFpZaTBlMVFIOFFQbE5udW5mMFFlYVJLQzdVMmM0REZ3blhYUktMX0hBQmxaOFkxRVV3T2QzbW5mX1AtTGlpRDBTMDR4WWJwWExPVHN0RXM?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-06T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 49
-  },
-  {
-   "id": "news-single-tout-offers-nine-in-ten-west-end-theatre-tickets-on-viagogo",
-   "source": "news",
-   "title": "Single tout offers nine in ten West End theatre tickets on Viagogo",
-   "subtitle": "The Times",
-   "category": "theatre",
-   "kind": "news",
-   "badges": [
-    "The Times"
-   ],
-   "merchant": "The Times",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmhVUlNqbDg3Z0d5ckNtREpGTDlpUDhObVlXM1BTbjlnR3dqRWo4U19waXFWVnVST1JFMGd2d05nUkh3ZDFaemZEcjlmM2h4TGV2RXBnOU54ZmNRdS1kUEJDd2l1bnFOaE96MXJwSmZIaGtndGhXaGpUNlBOMlJ6Y05UbEV1Q01OeklTQlBCVzg1bjN4YnIwb0lxWUY5R0pUd2pMMUc3cnRTTVZmVGhxeVRfTHRtSWd0YmwxV1lZaktSTTFKTWw1SndqYw?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-06T10:50:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 49
-  },
-  {
-   "id": "news-best-sky-stream-offers-for-november-2026-deals-and-tv-bundles-for-new-and-existi",
-   "source": "news",
-   "title": "Best Sky Stream offers for November 2026: Deals and TV bundles for new and existing Sky customers",
-   "subtitle": "Radio Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Radio Times"
-   ],
-   "merchant": "Radio Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRJOC0xamhsU0tNUDhpYzJIMzIwaDlYWW5UdFVWRXdEQ2wyM1lFQjVsc3RIbWVETTBKb1FlRzdXdFE1WGZsNjg4eWd0LXRhN1R0X0FsQVd0MkczTHNQYVNIZnhKcDdSNU1tTGQ5bFZHVFp5THd5dU5iblZoZnY2U2R0ZmQ?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-05T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-discounted-panto-tickets-open-doors-for-families",
    "source": "news",
    "title": "Discounted panto tickets open doors for families",
@@ -2766,6 +2669,54 @@
    "heat": null,
    "rating": null,
    "published": "2026-11-04T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
+   "id": "news-how-to-get-cheap-thorpe-park-tickets-for-2027",
+   "source": "news",
+   "title": "How to get cheap Thorpe Park tickets for 2027",
+   "subtitle": "Radio Times",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Radio Times"
+   ],
+   "merchant": "Radio Times",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSmprSUxibmxBTWE0aEs0ektlbXExU2JlR0s0MjRlcEZUVlZEbzk1NFpZaTBlMVFIOFFQbE5udW5mMFFlYVJLQzdVMmM0REZ3blhYUktMX0hBQmxaOFkxRVV3T2QzbW5mX1AtTGlpRDBTMDR4WWJwWExPVHN0RXM?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-06T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
+   "id": "news-single-tout-offers-nine-in-ten-west-end-theatre-tickets-on-viagogo",
+   "source": "news",
+   "title": "Single tout offers nine in ten West End theatre tickets on Viagogo",
+   "subtitle": "The Times",
+   "category": "theatre",
+   "kind": "news",
+   "badges": [
+    "The Times"
+   ],
+   "merchant": "The Times",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmhVUlNqbDg3Z0d5ckNtREpGTDlpUDhObVlXM1BTbjlnR3dqRWo4U19waXFWVnVST1JFMGd2d05nUkh3ZDFaemZEcjlmM2h4TGV2RXBnOU54ZmNRdS1kUEJDd2l1bnFOaE96MXJwSmZIaGtndGhXaGpUNlBOMlJ6Y05UbEV1Q01OeklTQlBCVzg1bjN4YnIwb0lxWUY5R0pUd2pMMUc3cnRTTVZmVGhxeVRfTHRtSWd0YmwxV1lZaktSTTFKTWw1SndqYw?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-06T10:50:00Z",
    "expires": null,
    "venue": "",
    "score": 48
