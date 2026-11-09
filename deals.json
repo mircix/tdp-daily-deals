@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T11:48:15Z",
+ "generatedAt": "2026-11-09T22:30:04Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 28,
+   "count": 31,
    "errors": []
   },
   {
@@ -138,32 +138,6 @@
    "score": 87
   },
   {
-   "id": "todaytix-46909",
-   "source": "todaytix",
-   "title": "High School Musical",
-   "subtitle": "Troubadour Wembley Park Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 60%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 37.0,
-   "priceText": "from £37",
-   "discount": 60,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "Troubadour Wembley Park Theatre, London",
-   "score": 87
-  },
-  {
    "id": "olt-oliver-111446304",
    "source": "olt",
    "title": "Oliver!",
@@ -186,6 +160,31 @@
    "published": null,
    "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
+   "score": 87
+  },
+  {
+   "id": "todaytix-47476",
+   "source": "todaytix",
+   "title": "Sylvia",
+   "subtitle": "Royal Albert Hall",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 76%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47476-sylvia",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2qXEGyeGTuTsJL5EZUEdvk/a6fcafd4f471fcbdd8b589dde8fe164e/8391_56_Sylvia_Naomi_Social_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 30.0,
+   "priceText": "from £30",
+   "discount": 76,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-15T23:59:00Z",
+   "venue": "Royal Albert Hall, London",
    "score": 87
   },
   {
@@ -265,31 +264,6 @@
    "score": 86
   },
   {
-   "id": "olt-million-dollar-quartet-111475900",
-   "source": "olt",
-   "title": "Million Dollar Quartet",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 52%",
-    "From £15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/million-dollar-quartet-111475900/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/08/260805-MDQ-OLT_1200-x-600-768x384.jpg",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 52,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-11T23:59:00Z",
-   "venue": "London",
-   "score": 86
-  },
-  {
    "id": "todaytix-36456",
    "source": "todaytix",
    "title": "The Hunger Games: On Stage",
@@ -337,6 +311,106 @@
    "published": "2026-10-28T21:24:56Z",
    "expires": null,
    "venue": "",
+   "score": 84
+  },
+  {
+   "id": "olt-beetlejuice-the-musical-111465049",
+   "source": "olt",
+   "title": "Beetlejuice The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 49%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/beetlejuice-the-musical-111465049/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/09/BJ-2026-09-bb-NewCreative-62401SGA-SOLT-1200x600-1-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 49,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-16T23:59:00Z",
+   "venue": "London",
+   "score": 84
+  },
+  {
+   "id": "olt-les-miserables-76782",
+   "source": "olt",
+   "title": "Les Misérables",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 50%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/les-miserables-76782/",
+   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MIS_Updated-Ticket-Agent_1200x600_1_AW-2-1-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 50,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-20T23:59:00Z",
+   "venue": "London",
+   "score": 84
+  },
+  {
+   "id": "olt-million-dollar-quartet-111475900",
+   "source": "olt",
+   "title": "Million Dollar Quartet",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 49%",
+    "From £15"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/million-dollar-quartet-111475900/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/08/260805-MDQ-OLT_1200-x-600-768x384.jpg",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 49,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-11T23:59:00Z",
+   "venue": "London",
+   "score": 84
+  },
+  {
+   "id": "olt-tosca-111473033",
+   "source": "olt",
+   "title": "Tosca",
+   "subtitle": "Opera",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 49%",
+    "From £14.25"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/tosca-111473033/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_tosca-768x384.jpg",
+   "price": 14.25,
+   "priceText": "from £14.25",
+   "discount": 49,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-10T23:59:00Z",
+   "venue": "London",
    "score": 84
   },
   {
@@ -435,7 +509,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-14T23:59:00Z",
+   "expires": "2026-11-16T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -462,56 +536,6 @@
    "expires": null,
    "venue": "Victoria Palace Theatre, London",
    "score": 83
-  },
-  {
-   "id": "olt-les-miserables-76782",
-   "source": "olt",
-   "title": "Les Misérables",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 47%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/les-miserables-76782/",
-   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MIS_Updated-Ticket-Agent_1200x600_1_AW-2-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 47,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-12T23:59:00Z",
-   "venue": "London",
-   "score": 83
-  },
-  {
-   "id": "olt-beetlejuice-the-musical-111465049",
-   "source": "olt",
-   "title": "Beetlejuice The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 45%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/beetlejuice-the-musical-111465049/",
-   "image": "https://officiallondontheatre.com/app/uploads/2025/09/BJ-2026-09-bb-NewCreative-62401SGA-SOLT-1200x600-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 45,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-13T23:59:00Z",
-   "venue": "London",
-   "score": 82
   },
   {
    "id": "olt-the-mousetrap-92715",
@@ -546,7 +570,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1293°"
+    "1297°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -555,7 +579,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 1293.1,
+   "heat": 1296.7,
    "rating": null,
    "published": "2026-11-01T00:00:02Z",
    "expires": "2026-11-15T23:59:00Z",
@@ -589,6 +613,32 @@
    "score": 81
   },
   {
+   "id": "todaytix-46909",
+   "source": "todaytix",
+   "title": "High School Musical",
+   "subtitle": "Troubadour Wembley Park Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 49%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 31.0,
+   "priceText": "from £31",
+   "discount": 49,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Troubadour Wembley Park Theatre, London",
+   "score": 81
+  },
+  {
    "id": "hukd-4892734",
    "source": "hukd",
    "title": "Kids FREE Entry to 200+ UK Attractions (Stonehenge / Eden Project / Edinburgh Zoo + More) via Blue Peter Badge",
@@ -612,6 +662,30 @@
    "expires": null,
    "venue": "",
    "score": 81
+  },
+  {
+   "id": "hukd-5026696",
+   "source": "hukd",
+   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
+   "subtitle": "Amazon",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "688°"
+   ],
+   "merchant": "Amazon",
+   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
+   "image": "https://images.hotukdeals.com/threads/raw/0h3y8/5026696_1/re/768x768/qt/60/5026696_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 688.4,
+   "rating": null,
+   "published": "2026-11-09T00:22:10Z",
+   "expires": "2026-11-22T23:59:00Z",
+   "venue": "",
+   "score": 80
   },
   {
    "id": "olt-avenue-q-111466206",
@@ -812,30 +886,6 @@
    "score": 79
   },
   {
-   "id": "hukd-5026696",
-   "source": "hukd",
-   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
-   "subtitle": "Amazon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "329°"
-   ],
-   "merchant": "Amazon",
-   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
-   "image": "https://images.hotukdeals.com/threads/raw/0h3y8/5026696_1/re/768x768/qt/60/5026696_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 329.2,
-   "rating": null,
-   "published": "2026-11-09T00:22:10Z",
-   "expires": "2026-11-22T23:59:00Z",
-   "venue": "",
-   "score": 78
-  },
-  {
    "id": "todaytix-47279",
    "source": "todaytix",
    "title": "Affluenza",
@@ -849,7 +899,7 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47279-affluenza",
    "image": "https://images.ctfassets.net/6pezt69ih962/43XyAm7cwUhnqz8VosoaXw/143849815b8c4b6035115d50175b31d5/1080x1080_V1.jpg?w=400&h=400&fit=fill",
-   "price": 15,
+   "price": 15.0,
    "priceText": "from £15",
    "discount": 44,
    "code": "",
@@ -886,27 +936,27 @@
    "score": 78
   },
   {
-   "id": "olt-representasian-an-evening-of-asian-talent-111472513",
+   "id": "olt-high-school-musical-111473306",
    "source": "olt",
-   "title": "RepresentAsian: An Evening of Asian Talent",
-   "subtitle": "Concert",
-   "category": "music",
+   "title": "High School Musical",
+   "subtitle": "Family, Musical",
+   "category": "theatre",
    "kind": "offer",
    "badges": [
     "Save up to 39%",
-    "From £20"
+    "From £31.40"
    ],
    "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/representasian-an-evening-of-asian-talent-111472513/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/04/Represent-Asian-NIMAX_1200x600-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
+   "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
+   "price": 31.4,
+   "priceText": "from £31.40",
    "discount": 39,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-09T23:59:00Z",
+   "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -932,6 +982,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-13T23:59:00Z",
+   "venue": "London",
+   "score": 78
+  },
+  {
+   "id": "olt-the-play-that-goes-wrong-228430",
+   "source": "olt",
+   "title": "The Play That Goes Wrong",
+   "subtitle": "Comedy, Family, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 39%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-play-that-goes-wrong-228430/",
+   "image": "https://officiallondontheatre.com/app/uploads/2014/05/PT26078_OLT_1200x600pxls-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 39,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-15T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1539,7 +1614,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-12T23:59:00Z",
+   "expires": "2026-11-13T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -1663,6 +1738,31 @@
    "published": "2026-10-28T17:17:03Z",
    "expires": null,
    "venue": "",
+   "score": 73
+  },
+  {
+   "id": "olt-jesus-christ-superstar-111470377",
+   "source": "olt",
+   "title": "Jesus Christ Superstar",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Special offer",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/jesus-christ-superstar-111470377/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/03/8490_82_JCS_OLT_1200x600-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "London",
    "score": 73
   },
   {
@@ -1791,30 +1891,6 @@
    "score": 72
   },
   {
-   "id": "hukd-5019107",
-   "source": "hukd",
-   "title": "Cinema tickets at Showcase Cinema de Lux Paisley or Coatbridge",
-   "subtitle": "itison",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "82°"
-   ],
-   "merchant": "itison",
-   "url": "https://www.hotukdeals.com/deals/showcase-paisley-or-coatbridge-cinema-tickets-ps5-5019107",
-   "image": "https://images.hotukdeals.com/threads/raw/yv9fi/5019107_1/re/768x768/qt/60/5019107_1.jpg",
-   "price": 5.49,
-   "priceText": "£5.49",
-   "discount": null,
-   "code": "",
-   "heat": 82.0,
-   "rating": null,
-   "published": "2026-10-31T20:35:38Z",
-   "expires": "2026-12-31T23:59:00Z",
-   "venue": "",
-   "score": 72
-  },
-  {
    "id": "olt-hadestown-111440588",
    "source": "olt",
    "title": "Hadestown",
@@ -1835,7 +1911,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-12T23:59:00Z",
+   "expires": "2026-11-19T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -1933,6 +2009,30 @@
    "rating": null,
    "published": "2025-12-19T19:35:56Z",
    "expires": null,
+   "venue": "",
+   "score": 71
+  },
+  {
+   "id": "hukd-5019107",
+   "source": "hukd",
+   "title": "Cinema tickets at Showcase Cinema de Lux Paisley or Coatbridge",
+   "subtitle": "itison",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "82°"
+   ],
+   "merchant": "itison",
+   "url": "https://www.hotukdeals.com/deals/showcase-paisley-or-coatbridge-cinema-tickets-ps5-5019107",
+   "image": "https://images.hotukdeals.com/threads/raw/yv9fi/5019107_1/re/768x768/qt/60/5019107_1.jpg",
+   "price": 5.49,
+   "priceText": "£5.49",
+   "discount": null,
+   "code": "",
+   "heat": 82.0,
+   "rating": null,
+   "published": "2026-10-31T20:35:38Z",
+   "expires": "2026-12-31T23:59:00Z",
    "venue": "",
    "score": 71
   },
@@ -2079,31 +2179,6 @@
    "published": null,
    "expires": "2026-12-28T23:59:00Z",
    "venue": "Excel London, London",
-   "score": 70
-  },
-  {
-   "id": "todaytix-45825",
-   "source": "todaytix",
-   "title": "Tango After Dark",
-   "subtitle": "Sadler's Wells",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 31%",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45825-tango-after-dark",
-   "image": "https://images.ctfassets.net/6pezt69ih962/1vhkyF7GG6neXJ4wqZ8pWY/e7ab9e63ca1ed506af68a1e4938594ee/tango-1080x1080-v3.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 31,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-09T23:59:00Z",
-   "venue": "Sadler's Wells, London",
    "score": 70
   },
   {
@@ -2311,7 +2386,7 @@
    "category": "comedy",
    "kind": "deal",
    "badges": [
-    "344°"
+    "349°"
    ],
    "merchant": "Wowcher",
    "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
@@ -2320,7 +2395,7 @@
    "priceText": "£22",
    "discount": null,
    "code": "",
-   "heat": 344,
+   "heat": 348.7,
    "rating": null,
    "published": "2026-11-06T15:49:52Z",
    "expires": "2026-12-31T23:59:00Z",
