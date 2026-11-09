@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-08T19:45:38Z",
+ "generatedAt": "2026-11-09T00:59:36Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 52,
+   "count": 51,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 21,
+   "count": 22,
    "errors": []
   },
   {
@@ -834,31 +834,6 @@
    "published": null,
    "expires": "2026-11-09T23:59:00Z",
    "venue": "London",
-   "score": 78
-  },
-  {
-   "id": "todaytix-45825",
-   "source": "todaytix",
-   "title": "Tango After Dark",
-   "subtitle": "Sadler's Wells",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 44%",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45825-tango-after-dark",
-   "image": "https://images.ctfassets.net/6pezt69ih962/1vhkyF7GG6neXJ4wqZ8pWY/e7ab9e63ca1ed506af68a1e4938594ee/tango-1080x1080-v3.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 44,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-09T23:59:00Z",
-   "venue": "Sadler's Wells, London",
    "score": 78
   },
   {
@@ -1888,6 +1863,30 @@
    "score": 72
   },
   {
+   "id": "hukd-5026696",
+   "source": "hukd",
+   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
+   "subtitle": "Amazon",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "48°"
+   ],
+   "merchant": "Amazon",
+   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
+   "image": "https://images.hotukdeals.com/threads/raw/0h3y8/5026696_1/re/768x768/qt/60/5026696_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 48.1,
+   "rating": null,
+   "published": "2026-11-09T00:22:10Z",
+   "expires": "2026-11-22T23:59:00Z",
+   "venue": "",
+   "score": 71
+  },
+  {
    "id": "hukd-4772103",
    "source": "hukd",
    "title": "4 x £5 2D tickets or £10 4DX - Clubcard Price",
@@ -1961,30 +1960,6 @@
    "score": 71
   },
   {
-   "id": "todaytix-24429",
-   "source": "todaytix",
-   "title": "Faulty Towers The Dining Experience",
-   "subtitle": "President Hotel",
-   "category": "comedy",
-   "kind": "offer",
-   "badges": [
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/24429-faulty-towers-the-dining-experience-from-2022",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5xI5NeK4i7t2K9z3LgxoPK/bd34625a25bdabe505e7c434e6ee90b5/FT_LONDON_TTG_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 55.0,
-   "priceText": "from £55",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "President Hotel, London",
-   "score": 70
-  },
-  {
    "id": "todaytix-47806",
    "source": "todaytix",
    "title": "Pride",
@@ -2030,6 +2005,31 @@
    "published": null,
    "expires": "2026-12-28T23:59:00Z",
    "venue": "Excel London, London",
+   "score": 70
+  },
+  {
+   "id": "todaytix-45825",
+   "source": "todaytix",
+   "title": "Tango After Dark",
+   "subtitle": "Sadler's Wells",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 31%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45825-tango-after-dark",
+   "image": "https://images.ctfassets.net/6pezt69ih962/1vhkyF7GG6neXJ4wqZ8pWY/e7ab9e63ca1ed506af68a1e4938594ee/tango-1080x1080-v3.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 31,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-09T23:59:00Z",
+   "venue": "Sadler's Wells, London",
    "score": 70
   },
   {
