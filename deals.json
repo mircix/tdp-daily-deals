@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T00:59:36Z",
+ "generatedAt": "2026-11-09T11:48:15Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 51,
+   "count": 53,
    "errors": []
   },
   {
@@ -62,6 +62,31 @@
   }
  ],
  "deals": [
+  {
+   "id": "olt-franz-marie-111475208",
+   "source": "olt",
+   "title": "Franz & Marie",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 66%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/franz-marie-111475208/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/07/FranzM-_CX2_1200-x-600px-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 66,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-11T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
   {
    "id": "hukd-5018256",
    "source": "hukd",
@@ -127,8 +152,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
    "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 31.0,
-   "priceText": "from £31",
+   "price": 37.0,
+   "priceText": "from £37",
    "discount": 60,
    "code": "",
    "heat": null,
@@ -521,7 +546,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1288°"
+    "1293°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -530,7 +555,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 1288.1,
+   "heat": 1293.1,
    "rating": null,
    "published": "2026-11-01T00:00:02Z",
    "expires": "2026-11-15T23:59:00Z",
@@ -552,8 +577,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/45732-avenue-q",
    "image": "https://images.ctfassets.net/6pezt69ih962/Q1Xe467rLlJDwtEDLy7PJ/feb656bb19afe241ebcdfa9fb990d3fd/Ave_Q_8523_136_AveQ_LTW_1080x1080_v1.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 25.0,
+   "priceText": "from £25",
    "discount": 49,
    "code": "",
    "heat": null,
@@ -609,7 +634,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-14T23:59:00Z",
+   "expires": "2026-11-16T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -682,7 +707,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-12T23:59:00Z",
+   "expires": "2026-11-16T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -785,6 +810,55 @@
    "expires": null,
    "venue": "Trafalgar Theatre, London",
    "score": 79
+  },
+  {
+   "id": "hukd-5026696",
+   "source": "hukd",
+   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
+   "subtitle": "Amazon",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "329°"
+   ],
+   "merchant": "Amazon",
+   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
+   "image": "https://images.hotukdeals.com/threads/raw/0h3y8/5026696_1/re/768x768/qt/60/5026696_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 329.2,
+   "rating": null,
+   "published": "2026-11-09T00:22:10Z",
+   "expires": "2026-11-22T23:59:00Z",
+   "venue": "",
+   "score": 78
+  },
+  {
+   "id": "todaytix-47279",
+   "source": "todaytix",
+   "title": "Affluenza",
+   "subtitle": "Riverside Studios",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 44%",
+    "£30 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47279-affluenza",
+   "image": "https://images.ctfassets.net/6pezt69ih962/43XyAm7cwUhnqz8VosoaXw/143849815b8c4b6035115d50175b31d5/1080x1080_V1.jpg?w=400&h=400&fit=fill",
+   "price": 15,
+   "priceText": "from £15",
+   "discount": 44,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-28T23:59:00Z",
+   "venue": "Riverside Studios, London",
+   "score": 78
   },
   {
    "id": "todaytix-48379",
@@ -1129,31 +1203,6 @@
    "score": 76
   },
   {
-   "id": "todaytix-47279",
-   "source": "todaytix",
-   "title": "Affluenza",
-   "subtitle": "Riverside Studios",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£30 Rush tickets",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47279-affluenza",
-   "image": "https://images.ctfassets.net/6pezt69ih962/43XyAm7cwUhnqz8VosoaXw/143849815b8c4b6035115d50175b31d5/1080x1080_V1.jpg?w=400&h=400&fit=fill",
-   "price": 30.0,
-   "priceText": "from £30",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-28T23:59:00Z",
-   "venue": "Riverside Studios, London",
-   "score": 75
-  },
-  {
    "id": "todaytix-47410",
    "source": "todaytix",
    "title": "An Oak Tree",
@@ -1175,6 +1224,31 @@
    "published": null,
    "expires": "2026-11-15T23:59:00Z",
    "venue": "The Other Palace - Main Theatre, London",
+   "score": 75
+  },
+  {
+   "id": "olt-cabaret-111429752",
+   "source": "olt",
+   "title": "Cabaret",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 34%",
+    "From £37.15"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/cabaret-111429752/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/11/1200x600-2-1-768x384.jpg",
+   "price": 37.15,
+   "priceText": "from £37.15",
+   "discount": 34,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-16T23:59:00Z",
+   "venue": "London",
    "score": 75
   },
   {
@@ -1403,7 +1477,8 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets"
+    "£30 Rush tickets",
+    "Special Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46142-sinatra-the-musical",
@@ -1565,31 +1640,6 @@
    "expires": null,
    "venue": "",
    "score": 74
-  },
-  {
-   "id": "olt-cabaret-111429752",
-   "source": "olt",
-   "title": "Cabaret",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 30%",
-    "From £37.15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/cabaret-111429752/",
-   "image": "https://officiallondontheatre.com/app/uploads/2021/11/1200x600-2-1-768x384.jpg",
-   "price": 37.15,
-   "priceText": "from £37.15",
-   "discount": 30,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-11T23:59:00Z",
-   "venue": "London",
-   "score": 73
   },
   {
    "id": "hukd-5016365",
@@ -1863,30 +1913,6 @@
    "score": 72
   },
   {
-   "id": "hukd-5026696",
-   "source": "hukd",
-   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
-   "subtitle": "Amazon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "48°"
-   ],
-   "merchant": "Amazon",
-   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
-   "image": "https://images.hotukdeals.com/threads/raw/0h3y8/5026696_1/re/768x768/qt/60/5026696_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 48.1,
-   "rating": null,
-   "published": "2026-11-09T00:22:10Z",
-   "expires": "2026-11-22T23:59:00Z",
-   "venue": "",
-   "score": 71
-  },
-  {
    "id": "hukd-4772103",
    "source": "hukd",
    "title": "4 x £5 2D tickets or £10 4DX - Clubcard Price",
@@ -1960,6 +1986,30 @@
    "score": 71
   },
   {
+   "id": "todaytix-47301",
+   "source": "todaytix",
+   "title": "Expecting",
+   "subtitle": "Riverside Studios",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Pay No Fees"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47301-expecting",
+   "image": "https://images.ctfassets.net/6pezt69ih962/01cl4clIKH4CsnXO8igMu5/f48f81a3530abfef64cad1e11a6dc6bd/RIVS26_Q2_010_Expecting_PressAssets_1080x1080_1_AW.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-03-27T23:59:00Z",
+   "venue": "Riverside Studios, London",
+   "score": 70
+  },
+  {
    "id": "todaytix-47806",
    "source": "todaytix",
    "title": "Pride",
@@ -1981,6 +2031,30 @@
    "published": null,
    "expires": null,
    "venue": "Bridge Theatre, London",
+   "score": 70
+  },
+  {
+   "id": "todaytix-47337",
+   "source": "todaytix",
+   "title": "Sacrilegious",
+   "subtitle": "Riverside Studios",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Pay No Fees"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47337-sacrilegious",
+   "image": "https://images.ctfassets.net/6pezt69ih962/OueCoX2cYh1svc0l24Q9m/382de324db4608f59e363467f89cef52/RIVS26_Q4_009_NewSacrilegiousDateTTGButtons_1080x1080_V1.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-05-29T23:59:00Z",
+   "venue": "Riverside Studios, London",
    "score": 70
   },
   {
@@ -2237,7 +2311,7 @@
    "category": "comedy",
    "kind": "deal",
    "badges": [
-    "326°"
+    "344°"
    ],
    "merchant": "Wowcher",
    "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
@@ -2246,7 +2320,7 @@
    "priceText": "£22",
    "discount": null,
    "code": "",
-   "heat": 325.7,
+   "heat": 344,
    "rating": null,
    "published": "2026-11-06T15:49:52Z",
    "expires": "2026-12-31T23:59:00Z",
