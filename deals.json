@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-09T22:30:04Z",
+ "generatedAt": "2026-11-10T07:29:23Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 31,
+   "count": 34,
    "errors": []
   },
   {
@@ -88,6 +88,31 @@
    "score": 90
   },
   {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 64%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 64,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "hukd-5018256",
    "source": "hukd",
    "title": "Free Cinema Tickets to I See Buildings Fall Like Lightning - 111 venues on Mon 23rd + Tue 24th Nov",
@@ -95,7 +120,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "508°",
+    "516°",
     "FREE"
    ],
    "merchant": "Cinematik",
@@ -105,12 +130,37 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 508.4,
+   "heat": 516.4,
    "rating": null,
    "published": "2026-11-04T17:30:00Z",
    "expires": "2026-11-24T23:59:00Z",
    "venue": "",
    "score": 89
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
+   "venue": "London",
+   "score": 88
   },
   {
    "id": "todaytix-47438",
@@ -185,6 +235,31 @@
    "published": null,
    "expires": "2026-11-15T23:59:00Z",
    "venue": "Royal Albert Hall, London",
+   "score": 87
+  },
+  {
+   "id": "todaytix-47131",
+   "source": "todaytix",
+   "title": "The Smartest Giant in Town",
+   "subtitle": "St. Martin's Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 60%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47131-the-smartest-giant-in-town",
+   "image": "https://images.ctfassets.net/6pezt69ih962/4X4NvYRR2JrUZCfPvrrr3O/27957912c9b40333b913a7cbcc233bb6/TSGIT_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 10.0,
+   "priceText": "from £10",
+   "discount": 60,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "St. Martin's Theatre, London",
    "score": 87
   },
   {
@@ -627,8 +702,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
    "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 31.0,
-   "priceText": "from £31",
+   "price": 37.0,
+   "priceText": "from £37",
    "discount": 49,
    "code": "",
    "heat": null,
@@ -671,7 +746,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "688°"
+    "731°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
@@ -680,7 +755,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 688.4,
+   "heat": 731.2,
    "rating": null,
    "published": "2026-11-09T00:22:10Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -894,7 +969,8 @@
    "kind": "offer",
    "badges": [
     "Save 44%",
-    "£30 Rush tickets"
+    "£30 Rush tickets",
+    "Special Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47279-affluenza",
@@ -1181,30 +1257,6 @@
    "score": 77
   },
   {
-   "id": "hukd-4991179",
-   "source": "hukd",
-   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "2640°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
-   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 2639.5,
-   "rating": null,
-   "published": "2026-09-29T06:52:16Z",
-   "expires": null,
-   "venue": "",
-   "score": 77
-  },
-  {
    "id": "hukd-5020003",
    "source": "hukd",
    "title": "Discounted Marwell Zoo Tickets",
@@ -1275,6 +1327,30 @@
    "published": null,
    "expires": "2026-11-15T23:59:00Z",
    "venue": "London",
+   "score": 76
+  },
+  {
+   "id": "hukd-4991179",
+   "source": "hukd",
+   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "2640°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
+   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 2639.5,
+   "rating": null,
+   "published": "2026-09-29T06:52:16Z",
+   "expires": null,
+   "venue": "",
    "score": 76
   },
   {
@@ -1965,6 +2041,31 @@
    "score": 72
   },
   {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £27.39"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 27.39,
+   "priceText": "from £27.39",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-15T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
    "id": "todaytix-302",
    "source": "todaytix",
    "title": "The Lion King",
@@ -2182,30 +2283,6 @@
    "score": 70
   },
   {
-   "id": "todaytix-47131",
-   "source": "todaytix",
-   "title": "The Smartest Giant in Town",
-   "subtitle": "St. Martin's Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Pay No Fees"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47131-the-smartest-giant-in-town",
-   "image": "https://images.ctfassets.net/6pezt69ih962/4X4NvYRR2JrUZCfPvrrr3O/27957912c9b40333b913a7cbcc233bb6/TSGIT_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 13.0,
-   "priceText": "from £13",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "St. Martin's Theatre, London",
-   "score": 70
-  },
-  {
    "id": "hukd-5016940",
    "source": "hukd",
    "title": "Ticket for Lidl Christmas Showcase Event - 27th Nov London/Manchester",
@@ -2386,7 +2463,7 @@
    "category": "comedy",
    "kind": "deal",
    "badges": [
-    "349°"
+    "350°"
    ],
    "merchant": "Wowcher",
    "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
@@ -2395,7 +2472,7 @@
    "priceText": "£22",
    "discount": null,
    "code": "",
-   "heat": 348.7,
+   "heat": 350.5,
    "rating": null,
    "published": "2026-11-06T15:49:52Z",
    "expires": "2026-12-31T23:59:00Z",
