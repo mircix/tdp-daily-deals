@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-10T17:08:21Z",
+ "generatedAt": "2026-11-10T23:30:44Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 35,
+   "count": 32,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "errors": []
   }
  ],
@@ -88,31 +88,6 @@
    "score": 90
   },
   {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 65%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 65,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
    "id": "hukd-5018256",
    "source": "hukd",
    "title": "Free Cinema Tickets to I See Buildings Fall Like Lightning - 111 venues on Mon 23rd + Tue 24th Nov",
@@ -136,6 +111,31 @@
    "expires": "2026-11-24T23:59:00Z",
    "venue": "",
    "score": 89
+  },
+  {
+   "id": "hukd-5028316",
+   "source": "hukd",
+   "title": "Free admission to Film & TV Props exhibition - Batman, Indiana Jones, Disney, Game of Thrones + more - London Oxford Street (Marble Arch)",
+   "subtitle": "",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "359°",
+    "FREE"
+   ],
+   "merchant": "",
+   "url": "https://www.hotukdeals.com/deals/free-admission-to-film-tv-props-exhibition-batman-indiana-jones-disney-game-of-thrones-more-london-oxford-street-marble-arch-5028316",
+   "image": "https://images.hotukdeals.com/threads/raw/fudjw/5028316_1/re/768x768/qt/60/5028316_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 358.5,
+   "rating": null,
+   "published": "2026-11-10T13:30:39Z",
+   "expires": "2026-11-22T23:59:00Z",
+   "venue": "",
+   "score": 88
   },
   {
    "id": "olt-million-dollar-quartet-111475900",
@@ -163,31 +163,6 @@
    "score": 88
   },
   {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
    "id": "todaytix-47438",
    "source": "todaytix",
    "title": "Franz & Marie",
@@ -210,31 +185,6 @@
    "published": null,
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Charing Cross Theatre, London",
-   "score": 87
-  },
-  {
-   "id": "hukd-5028316",
-   "source": "hukd",
-   "title": "Free admission to Film & TV Props exhibition - Batman, Indiana Jones, Disney, Game of Thrones + more - London Oxford Street (Marble Arch)",
-   "subtitle": "",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "234°",
-    "FREE"
-   ],
-   "merchant": "",
-   "url": "https://www.hotukdeals.com/deals/free-admission-to-film-tv-props-exhibition-batman-indiana-jones-disney-game-of-thrones-more-london-oxford-street-marble-arch-5028316",
-   "image": "https://images.hotukdeals.com/threads/raw/fudjw/5028316_1/re/768x768/qt/60/5028316_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 234.2,
-   "rating": null,
-   "published": "2026-11-10T13:30:39Z",
-   "expires": "2026-11-22T23:59:00Z",
-   "venue": "",
    "score": 87
   },
   {
@@ -365,6 +315,31 @@
    "score": 87
   },
   {
+   "id": "hukd-5028751",
+   "source": "hukd",
+   "title": "Free cinema tickets from Tesco for Arthur Christmas at Cineworld on 21st November + Drinks and Snacks for up to 4 people (Invite Via Email)",
+   "subtitle": "Show Film First",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "190°",
+    "FREE"
+   ],
+   "merchant": "Show Film First",
+   "url": "https://www.hotukdeals.com/deals/free-tickets-from-tesco-to-arthur-christmas-at-cineworld-on-21-november-plus-drinks-and-snacks-for-up-to-4-people-5028751",
+   "image": "https://images.hotukdeals.com/threads/raw/OwARp/5028751_1/re/768x768/qt/60/5028751_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 190.3,
+   "rating": null,
+   "published": "2026-11-10T19:52:25Z",
+   "expires": "2026-11-21T15:30:00Z",
+   "venue": "",
+   "score": 86
+  },
+  {
    "id": "hukd-4985426",
    "source": "hukd",
    "title": "Free pair of Horse Racing tickets to one of 15 events Oct to Dec 2026 + kids go free (50,000 tickets available)",
@@ -440,31 +415,6 @@
    "score": 85
   },
   {
-   "id": "hukd-5016507",
-   "source": "hukd",
-   "title": "\"Discover\" films (incl Godzilla Minus: Zero) now free for Picturehouse Cinema Members",
-   "subtitle": "Picturehouse Cinemas",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "158°",
-    "FREE"
-   ],
-   "merchant": "Picturehouse Cinemas",
-   "url": "https://www.hotukdeals.com/deals/discover-films-incl-godzilla-minus-zero-now-free-for-picturehouse-cinema-members-5016507",
-   "image": "https://images.hotukdeals.com/threads/raw/281Oe/5016507_1/re/768x768/qt/60/5016507_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 158.0,
-   "rating": null,
-   "published": "2026-10-28T21:24:56Z",
-   "expires": null,
-   "venue": "",
-   "score": 84
-  },
-  {
    "id": "olt-beetlejuice-the-musical-111465049",
    "source": "olt",
    "title": "Beetlejuice The Musical",
@@ -523,21 +473,46 @@
    "kind": "offer",
    "badges": [
     "Save up to 49%",
-    "From £14.25"
+    "From £13.62"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/tosca-111473033/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_tosca-768x384.jpg",
-   "price": 14.25,
-   "priceText": "from £14.25",
+   "price": 13.62,
+   "priceText": "from £13.62",
    "discount": 49,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-10T23:59:00Z",
+   "expires": "2026-11-12T23:59:00Z",
    "venue": "London",
    "score": 84
+  },
+  {
+   "id": "hukd-5016507",
+   "source": "hukd",
+   "title": "\"Discover\" films (incl Godzilla Minus: Zero) now free for Picturehouse Cinema Members",
+   "subtitle": "Picturehouse Cinemas",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "158°",
+    "FREE"
+   ],
+   "merchant": "Picturehouse Cinemas",
+   "url": "https://www.hotukdeals.com/deals/discover-films-incl-godzilla-minus-zero-now-free-for-picturehouse-cinema-members-5016507",
+   "image": "https://images.hotukdeals.com/threads/raw/281Oe/5016507_1/re/768x768/qt/60/5016507_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 158.0,
+   "rating": null,
+   "published": "2026-10-28T21:24:56Z",
+   "expires": null,
+   "venue": "",
+   "score": 83
   },
   {
    "id": "todaytix-25118",
@@ -664,6 +639,31 @@
    "score": 83
   },
   {
+   "id": "hukd-5028472",
+   "source": "hukd",
+   "title": "Meerkat Movies – 2 for 1 Cinema Tickets Every Tuesday or Wednesday (No Purchase Required / via App)",
+   "subtitle": "Compare The Market",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "276°",
+    "50% off"
+   ],
+   "merchant": "Compare The Market",
+   "url": "https://www.hotukdeals.com/deals/meerkat-movies-2-for-1-cinema-tickets-every-tuesday-or-wednesday-no-purchase-required-via-app-5028472",
+   "image": "https://images.hotukdeals.com/threads/raw/aiYzo/5028472_1/re/768x768/qt/60/5028472_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 50,
+   "code": "",
+   "heat": 275.6,
+   "rating": null,
+   "published": "2026-11-10T15:59:41Z",
+   "expires": "2027-07-19T22:59:00Z",
+   "venue": "",
+   "score": 82
+  },
+  {
    "id": "olt-the-mousetrap-92715",
    "source": "olt",
    "title": "The Mousetrap",
@@ -696,7 +696,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1299°"
+    "1300°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -705,7 +705,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 1298.5,
+   "heat": 1300.3,
    "rating": null,
    "published": "2026-11-01T00:00:02Z",
    "expires": "2026-11-15T23:59:00Z",
@@ -771,7 +771,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "752°"
+    "756°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
@@ -780,7 +780,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 752.0,
+   "heat": 755.9,
    "rating": null,
    "published": "2026-11-09T00:22:10Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -956,31 +956,6 @@
    "published": null,
    "expires": "2026-12-18T23:59:00Z",
    "venue": "London",
-   "score": 79
-  },
-  {
-   "id": "hukd-5028472",
-   "source": "hukd",
-   "title": "Meerkat Movies – 2 for 1 Cinema Tickets Every Tuesday or Wednesday (No Purchase Required / via App)",
-   "subtitle": "Compare The Market",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "136°",
-    "50% off"
-   ],
-   "merchant": "Compare The Market",
-   "url": "https://www.hotukdeals.com/deals/meerkat-movies-2-for-1-cinema-tickets-every-tuesday-or-wednesday-no-purchase-required-via-app-5028472",
-   "image": "https://images.hotukdeals.com/threads/raw/Uf3L0/5028472_1/re/768x768/qt/60/5028472_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 50,
-   "code": "",
-   "heat": 135.9,
-   "rating": null,
-   "published": "2026-11-10T15:59:41Z",
-   "expires": "2027-07-19T22:59:00Z",
-   "venue": "",
    "score": 79
   },
   {
@@ -1332,30 +1307,6 @@
    "score": 77
   },
   {
-   "id": "hukd-5020003",
-   "source": "hukd",
-   "title": "Discounted Marwell Zoo Tickets",
-   "subtitle": "Marwell Wildlife",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "273°"
-   ],
-   "merchant": "Marwell Wildlife",
-   "url": "https://www.hotukdeals.com/deals/marwell-zoo-discount-ps10-tickets-5020003",
-   "image": "https://images.hotukdeals.com/threads/raw/lLESa/5020003_1/re/768x768/qt/60/5020003_1.jpg",
-   "price": 10,
-   "priceText": "£10",
-   "discount": null,
-   "code": "",
-   "heat": 273.0,
-   "rating": null,
-   "published": "2026-11-01T19:05:55Z",
-   "expires": "2026-11-19T23:59:00Z",
-   "venue": "",
-   "score": 76
-  },
-  {
    "id": "todaytix-333",
    "source": "todaytix",
    "title": "The Mousetrap",
@@ -1499,6 +1450,30 @@
    "published": null,
    "expires": null,
    "venue": "Empress Museum, London",
+   "score": 75
+  },
+  {
+   "id": "hukd-5020003",
+   "source": "hukd",
+   "title": "Discounted Marwell Zoo Tickets",
+   "subtitle": "Marwell Wildlife",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "273°"
+   ],
+   "merchant": "Marwell Wildlife",
+   "url": "https://www.hotukdeals.com/deals/marwell-zoo-discount-ps10-tickets-5020003",
+   "image": "https://images.hotukdeals.com/threads/raw/lLESa/5020003_1/re/768x768/qt/60/5020003_1.jpg",
+   "price": 10,
+   "priceText": "£10",
+   "discount": null,
+   "code": "",
+   "heat": 273.0,
+   "rating": null,
+   "published": "2026-11-01T19:05:55Z",
+   "expires": "2026-11-19T23:59:00Z",
+   "venue": "",
    "score": 75
   },
   {
@@ -1868,31 +1843,6 @@
    "score": 75
   },
   {
-   "id": "hukd-4981324",
-   "source": "hukd",
-   "title": "[Free] Odeon Cinema ticket and Uber Ride up to £20 (Selected Teen accounts via Invite)",
-   "subtitle": "Uber",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "68°",
-    "FREE"
-   ],
-   "merchant": "Uber",
-   "url": "https://www.hotukdeals.com/deals/free-odeon-cinema-ticket-and-uber-ride-up-to-ps20-for-teen-accounts-4981324",
-   "image": "https://images.hotukdeals.com/threads/raw/FrdSd/4981324_1/re/768x768/qt/60/4981324_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 68.5,
-   "rating": null,
-   "published": "2026-09-14T17:38:33Z",
-   "expires": null,
-   "venue": "",
-   "score": 74
-  },
-  {
    "id": "hukd-5016365",
    "source": "hukd",
    "title": "Cineworld Adult Ticket Via Three Rewards location dependant",
@@ -2042,6 +1992,31 @@
    "score": 73
   },
   {
+   "id": "hukd-4981324",
+   "source": "hukd",
+   "title": "[Free] Odeon Cinema ticket and Uber Ride up to £20 (Selected Teen accounts via Invite)",
+   "subtitle": "Uber",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "68°",
+    "FREE"
+   ],
+   "merchant": "Uber",
+   "url": "https://www.hotukdeals.com/deals/free-odeon-cinema-ticket-and-uber-ride-up-to-ps20-for-teen-accounts-4981324",
+   "image": "https://images.hotukdeals.com/threads/raw/FrdSd/4981324_1/re/768x768/qt/60/4981324_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 68.5,
+   "rating": null,
+   "published": "2026-09-14T17:38:33Z",
+   "expires": null,
+   "venue": "",
+   "score": 73
+  },
+  {
    "id": "todaytix-48181",
    "source": "todaytix",
    "title": "A Homo Alone 2: Yikes, We Did It Again!",
@@ -2137,31 +2112,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-17T23:59:00Z",
-   "venue": "London",
-   "score": 72
-  },
-  {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-15T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2465,6 +2415,7 @@
    "kind": "offer",
    "badges": [
     "Save 29%",
+    "£20 Rush Tickets",
     "Exclusive Prices"
    ],
    "merchant": "TodayTix",
@@ -2876,6 +2827,30 @@
    "expires": null,
    "venue": "",
    "score": 53
+  },
+  {
+   "id": "news-best-sky-stream-offers-for-november-2026-deals-and-tv-bundles-for-new-and-existi",
+   "source": "news",
+   "title": "Best Sky Stream offers for November 2026: Deals and TV bundles for new and existing Sky customers",
+   "subtitle": "Radio Times",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Radio Times"
+   ],
+   "merchant": "Radio Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRJOC0xamhsU0tNUDhpYzJIMzIwaDlYWW5UdFVWRXdEQ2wyM1lFQjVsc3RIbWVETTBKb1FlRzdXdFE1WGZsNjg4eWd0LXRhN1R0X0FsQVd0MkczTHNQYVNIZnhKcDdSNU1tTGQ5bFZHVFp5THd5dU5iblZoZnY2U2R0ZmQ?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-05T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
   },
   {
    "id": "news-discounted-panto-tickets-open-doors-for-families",
