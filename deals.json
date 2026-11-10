@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-10T07:29:23Z",
+ "generatedAt": "2026-11-10T17:08:21Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 34,
+   "count": 35,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 53,
+   "count": 55,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 22,
+   "count": 24,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "errors": []
   }
  ],
@@ -83,7 +83,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-11T23:59:00Z",
+   "expires": "2026-11-12T23:59:00Z",
    "venue": "London",
    "score": 90
   },
@@ -95,7 +95,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save up to 64%",
+    "Save up to 65%",
     "From £20"
    ],
    "merchant": "Official London Theatre",
@@ -103,7 +103,7 @@
    "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
    "price": 20.0,
    "priceText": "from £20",
-   "discount": 64,
+   "discount": 65,
    "code": "",
    "heat": null,
    "rating": null,
@@ -136,6 +136,31 @@
    "expires": "2026-11-24T23:59:00Z",
    "venue": "",
    "score": 89
+  },
+  {
+   "id": "olt-million-dollar-quartet-111475900",
+   "source": "olt",
+   "title": "Million Dollar Quartet",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 57%",
+    "From £15"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/million-dollar-quartet-111475900/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/08/260805-MDQ-OLT_1200-x-600-768x384.jpg",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 57,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-17T23:59:00Z",
+   "venue": "London",
+   "score": 88
   },
   {
    "id": "olt-sinatra-the-musical-111469026",
@@ -188,6 +213,57 @@
    "score": 87
   },
   {
+   "id": "hukd-5028316",
+   "source": "hukd",
+   "title": "Free admission to Film & TV Props exhibition - Batman, Indiana Jones, Disney, Game of Thrones + more - London Oxford Street (Marble Arch)",
+   "subtitle": "",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "234°",
+    "FREE"
+   ],
+   "merchant": "",
+   "url": "https://www.hotukdeals.com/deals/free-admission-to-film-tv-props-exhibition-batman-indiana-jones-disney-game-of-thrones-more-london-oxford-street-marble-arch-5028316",
+   "image": "https://images.hotukdeals.com/threads/raw/fudjw/5028316_1/re/768x768/qt/60/5028316_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 234.2,
+   "rating": null,
+   "published": "2026-11-10T13:30:39Z",
+   "expires": "2026-11-22T23:59:00Z",
+   "venue": "",
+   "score": 87
+  },
+  {
+   "id": "todaytix-46909",
+   "source": "todaytix",
+   "title": "High School Musical",
+   "subtitle": "Troubadour Wembley Park Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 60%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 37.0,
+   "priceText": "from £37",
+   "discount": 60,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Troubadour Wembley Park Theatre, London",
+   "score": 87
+  },
+  {
    "id": "olt-oliver-111446304",
    "source": "olt",
    "title": "Oliver!",
@@ -208,7 +284,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-13T23:59:00Z",
+   "expires": "2026-11-18T23:59:00Z",
    "venue": "London",
    "score": 87
   },
@@ -220,7 +296,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 76%",
+    "Save 69%",
     "Exclusive Offer"
    ],
    "merchant": "TodayTix",
@@ -228,7 +304,7 @@
    "image": "https://images.ctfassets.net/6pezt69ih962/2qXEGyeGTuTsJL5EZUEdvk/a6fcafd4f471fcbdd8b589dde8fe164e/8391_56_Sylvia_Naomi_Social_1080x1080.jpg?w=400&h=400&fit=fill",
    "price": 30.0,
    "priceText": "from £30",
-   "discount": 76,
+   "discount": 69,
    "code": "",
    "heat": null,
    "rating": null,
@@ -334,7 +410,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-14T23:59:00Z",
+   "expires": "2026-11-17T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -409,7 +485,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-16T23:59:00Z",
+   "expires": "2026-11-17T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -435,31 +511,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-20T23:59:00Z",
-   "venue": "London",
-   "score": 84
-  },
-  {
-   "id": "olt-million-dollar-quartet-111475900",
-   "source": "olt",
-   "title": "Million Dollar Quartet",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 49%",
-    "From £15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/million-dollar-quartet-111475900/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/08/260805-MDQ-OLT_1200-x-600-768x384.jpg",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 49,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-11T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -584,7 +635,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-16T23:59:00Z",
+   "expires": "2026-11-17T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -645,7 +696,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1297°"
+    "1299°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -654,7 +705,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 1296.7,
+   "heat": 1298.5,
    "rating": null,
    "published": "2026-11-01T00:00:02Z",
    "expires": "2026-11-15T23:59:00Z",
@@ -685,32 +736,6 @@
    "published": null,
    "expires": "2027-01-03T23:59:00Z",
    "venue": "Shaftesbury Theatre, London",
-   "score": 81
-  },
-  {
-   "id": "todaytix-46909",
-   "source": "todaytix",
-   "title": "High School Musical",
-   "subtitle": "Troubadour Wembley Park Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 49%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 37.0,
-   "priceText": "from £37",
-   "discount": 49,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "Troubadour Wembley Park Theatre, London",
    "score": 81
   },
   {
@@ -746,7 +771,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "731°"
+    "752°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
@@ -755,7 +780,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 731.2,
+   "heat": 752.0,
    "rating": null,
    "published": "2026-11-09T00:22:10Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -766,7 +791,7 @@
    "id": "olt-avenue-q-111466206",
    "source": "olt",
    "title": "Avenue Q",
-   "subtitle": "Musical",
+   "subtitle": "Comedy, Musical",
    "category": "theatre",
    "kind": "offer",
    "badges": [
@@ -783,7 +808,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-16T23:59:00Z",
+   "expires": "2026-11-17T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -856,7 +881,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-16T23:59:00Z",
+   "expires": "2026-11-17T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -907,6 +932,56 @@
    "expires": null,
    "venue": "Duchess Theatre, London",
    "score": 80
+  },
+  {
+   "id": "olt-jack-and-the-beanstalk-111477429",
+   "source": "olt",
+   "title": "Jack And The Beanstalk",
+   "subtitle": "Christmas, Comedy, Entertainment",
+   "category": "comedy",
+   "kind": "offer",
+   "badges": [
+    "Save up to 40%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/jack-and-the-beanstalk-111477429/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/09/Jack_landscape_plain1200x600-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 40,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-12-18T23:59:00Z",
+   "venue": "London",
+   "score": 79
+  },
+  {
+   "id": "hukd-5028472",
+   "source": "hukd",
+   "title": "Meerkat Movies – 2 for 1 Cinema Tickets Every Tuesday or Wednesday (No Purchase Required / via App)",
+   "subtitle": "Compare The Market",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "136°",
+    "50% off"
+   ],
+   "merchant": "Compare The Market",
+   "url": "https://www.hotukdeals.com/deals/meerkat-movies-2-for-1-cinema-tickets-every-tuesday-or-wednesday-no-purchase-required-via-app-5028472",
+   "image": "https://images.hotukdeals.com/threads/raw/Uf3L0/5028472_1/re/768x768/qt/60/5028472_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 50,
+   "code": "",
+   "heat": 135.9,
+   "rating": null,
+   "published": "2026-11-10T15:59:41Z",
+   "expires": "2027-07-19T22:59:00Z",
+   "venue": "",
+   "score": 79
   },
   {
    "id": "todaytix-47555",
@@ -1483,7 +1558,8 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets"
+    "£30 Rush tickets",
+    "Special Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46996-jesus-christ-superstar-theatre-royal-drury-lane",
@@ -1670,10 +1746,34 @@
    "score": 75
   },
   {
+   "id": "todaytix-45692",
+   "source": "todaytix",
+   "title": "The Afronauts",
+   "subtitle": "Royal Court",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£25 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45692-the-afronauts",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6h7roaUml4yPN76ILPI0Of/4a5bb229c7cc5ec457b8ff9d06ebeed6/1080x1080____.png?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-12-19T23:59:00Z",
+   "venue": "Royal Court, London",
+   "score": 75
+  },
+  {
    "id": "olt-the-book-of-mormon-157833",
    "source": "olt",
    "title": "The Book Of Mormon",
-   "subtitle": "Musical",
+   "subtitle": "Comedy, Musical",
    "category": "theatre",
    "kind": "offer",
    "badges": [
@@ -2036,7 +2136,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-12T23:59:00Z",
+   "expires": "2026-11-17T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2211,6 +2311,32 @@
    "score": 70
   },
   {
+   "id": "todaytix-47549",
+   "source": "todaytix",
+   "title": "Musicals By Candlelight",
+   "subtitle": "The Actors' Church",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 30%",
+    "£20 Rush tickets",
+    "Exclusive Prices"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 30,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "The Actors' Church, London",
+   "score": 70
+  },
+  {
    "id": "todaytix-47806",
    "source": "todaytix",
    "title": "Pride",
@@ -2223,8 +2349,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47806-pride-bridge-theatre",
    "image": "https://images.ctfassets.net/6pezt69ih962/73QH3KRW2AzFSRzcVmVxeZ/45f12f591e0457e7fadd2563d171806f/PRIDE_TTG_ASSETS_AUG26_AW_1080x1080__1_.jpg?w=400&h=400&fit=fill",
-   "price": 32.0,
-   "priceText": "from £32",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2331,19 +2457,19 @@
    "score": 69
   },
   {
-   "id": "todaytix-47549",
+   "id": "todaytix-47552",
    "source": "todaytix",
-   "title": "Musicals By Candlelight",
-   "subtitle": "The Actors' Church",
+   "title": "Gospel by Candlelight",
+   "subtitle": "Round Chapel, Hackney",
    "category": "music",
    "kind": "offer",
    "badges": [
     "Save 29%",
-    "£20 Rush tickets"
+    "Exclusive Prices"
    ],
    "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47549-musicals-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/24F1SzhgJLtzucldbl7JJB/f099b2741963ce3519b2acf922dba141/MBC_-_1080_x_1080.png?w=400&h=400&fit=fill",
+   "url": "https://www.todaytix.com/london/shows/47552-gospel-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/CbXI70zQo6tuyU3AHYknn/1838950e01c92a0d7a8ece432e9fbb97/1080_x_1080.png?w=400&h=400&fit=fill",
    "price": 25.0,
    "priceText": "from £25",
    "discount": 29,
@@ -2351,8 +2477,8 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "The Actors' Church, London",
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Round Chapel, Hackney, London",
    "score": 69
   },
   {
@@ -2389,19 +2515,19 @@
    "kind": "offer",
    "badges": [
     "Save up to 22%",
-    "From £28"
+    "From £18"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
    "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 18.0,
+   "priceText": "from £18",
    "discount": 22,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-12T23:59:00Z",
+   "expires": "2026-11-17T23:59:00Z",
    "venue": "London",
    "score": 68
   },
@@ -2654,6 +2780,30 @@
    "score": 64
   },
   {
+   "id": "hukd-4982531",
+   "source": "hukd",
+   "title": "College and university students tickets (Limited number - first come, first served basis)",
+   "subtitle": "Octagon Theatre Bolton",
+   "category": "theatre",
+   "kind": "deal",
+   "badges": [
+    "56°"
+   ],
+   "merchant": "Octagon Theatre Bolton",
+   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
+   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 55.8,
+   "rating": null,
+   "published": "2026-09-16T09:14:36Z",
+   "expires": null,
+   "venue": "",
+   "score": 63
+  },
+  {
    "id": "hukd-4989981",
    "source": "hukd",
    "title": "Up to 40% Off The Cinema Society Cinema Tickets Using Code via Lidl Plus App (Partners Section) - Selected Accounts",
@@ -2675,30 +2825,6 @@
    "rating": null,
    "published": "2026-09-27T11:31:09Z",
    "expires": "2027-03-30T22:59:00Z",
-   "venue": "",
-   "score": 64
-  },
-  {
-   "id": "hukd-4982531",
-   "source": "hukd",
-   "title": "College and university students tickets (Limited number - first come, first served basis)",
-   "subtitle": "Octagon Theatre Bolton",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "56°"
-   ],
-   "merchant": "Octagon Theatre Bolton",
-   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
-   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 55.8,
-   "rating": null,
-   "published": "2026-09-16T09:14:36Z",
-   "expires": null,
    "venue": "",
    "score": 63
   },
@@ -2819,6 +2945,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-11-06T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
+   "id": "news-national-theatre-deals",
+   "source": "news",
+   "title": "National Theatre deals",
+   "subtitle": "Money Saving Expert",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Money Saving Expert"
+   ],
+   "merchant": "Money Saving Expert",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44YmtOZHRXaF8yWWRJLUkzbGdEWTcyTjRoT3dJVjAxZTZfdVJwS3g4aG1vTXRTeGFHLXdUX0dUbWtXek8zS1otczdjdGFKSGJ5UTN6c2d3bzcyZUVhcjNCV2xRYzJ5d0NO?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-05T08:00:00Z",
    "expires": null,
    "venue": "",
    "score": 48
