@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-12T00:50:03Z",
+ "generatedAt": "2026-11-12T11:29:15Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 36,
+   "count": 38,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "errors": []
   }
  ],
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "819°",
+    "842°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 818.6,
+   "heat": 842.0,
    "rating": null,
    "published": "2026-11-10T19:52:25Z",
    "expires": "2026-11-21T15:30:00Z",
@@ -385,7 +385,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-18T23:59:00Z",
+   "expires": "2026-11-19T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -522,7 +522,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "566°",
+    "578°",
     "50% off"
    ],
    "merchant": "Compare The Market",
@@ -532,7 +532,7 @@
    "priceText": "",
    "discount": 50,
    "code": "",
-   "heat": 566.4,
+   "heat": 577.9,
    "rating": null,
    "published": "2026-11-10T15:59:41Z",
    "expires": "2027-07-19T22:59:00Z",
@@ -622,8 +622,7 @@
    "category": "music",
    "kind": "lottery",
    "badges": [
-    "£45 Dance Floor Lottery tickets",
-    "Pay No Fees"
+    "£45 Dance Floor Lottery tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/25118-abba-voyage",
@@ -739,6 +738,31 @@
    "score": 83
   },
   {
+   "id": "olt-avenue-q-111466206",
+   "source": "olt",
+   "title": "Avenue Q",
+   "subtitle": "Comedy, Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 46%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/avenue-q-111466206/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/11/8782_02_AveQ_SOLT_1200x600px_OPT3-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 46,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-19T23:59:00Z",
+   "venue": "London",
+   "score": 82
+  },
+  {
    "id": "todaytix-45732",
    "source": "todaytix",
    "title": "Avenue Q",
@@ -797,7 +821,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1300°"
+    "1301°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -806,7 +830,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 1300.3,
+   "heat": 1301.4,
    "rating": null,
    "published": "2026-11-01T00:00:02Z",
    "expires": "2026-11-15T23:59:00Z",
@@ -835,31 +859,6 @@
    "published": "2026-11-09T00:22:10Z",
    "expires": "2026-11-22T23:59:00Z",
    "venue": "",
-   "score": 80
-  },
-  {
-   "id": "olt-avenue-q-111466206",
-   "source": "olt",
-   "title": "Avenue Q",
-   "subtitle": "Comedy, Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 42%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/avenue-q-111466206/",
-   "image": "https://officiallondontheatre.com/app/uploads/2025/11/8782_02_AveQ_SOLT_1200x600px_OPT3-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 42,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-18T23:59:00Z",
-   "venue": "London",
    "score": 80
   },
   {
@@ -931,7 +930,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-18T23:59:00Z",
+   "expires": "2026-11-19T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -1436,7 +1435,8 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets"
+    "£30 Rush tickets",
+    "Special Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47279-affluenza",
@@ -1497,7 +1497,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-18T23:59:00Z",
+   "expires": "2026-11-19T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -2089,6 +2089,56 @@
    "score": 73
   },
   {
+   "id": "olt-pride-111469360",
+   "source": "olt",
+   "title": "Pride",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Special offer",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/pride-111469360/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/PRIDE_SOLT-ASSETS_AUG26_AW_1200x600-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "London",
+   "score": 73
+  },
+  {
+   "id": "olt-rent-111473523",
+   "source": "olt",
+   "title": "Rent",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Special offer",
+    "From £22.51"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/rent-111473523/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/05/6a0740e541c80e555922bed5_RENT_ATG_ON-SALE-ASSETS-MAY26_1920x1080-TITLE-TREATMENT-768x432.jpg",
+   "price": 22.51,
+   "priceText": "from £22.51",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "London",
+   "score": 73
+  },
+  {
    "id": "olt-wicked-73606",
    "source": "olt",
    "title": "Wicked",
@@ -2455,30 +2505,6 @@
    "published": "2026-10-29T10:28:42Z",
    "expires": "2026-11-27T23:59:00Z",
    "venue": "",
-   "score": 70
-  },
-  {
-   "id": "todaytix-47217",
-   "source": "todaytix",
-   "title": "Attention",
-   "subtitle": "Bush Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 29%"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47217-attention",
-   "image": "https://images.ctfassets.net/6pezt69ih962/3mCRunfdcyRmAvE3PUeARp/9f680abd77f753b706234cd9a1d2cc72/BushTheatre_Attention_DigitalRollout_TicketAgent_TT_1080x1080px.jpg?w=400&h=400&fit=fill",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-12-23T23:59:00Z",
-   "venue": "Bush Theatre, London",
    "score": 69
   },
   {
@@ -2582,6 +2608,30 @@
    "score": 68
   },
   {
+   "id": "todaytix-48370",
+   "source": "todaytix",
+   "title": "Christmas by Candlelight",
+   "subtitle": "The Actors' Church",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 25%"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/48370-christmas-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/3vBxQgekhLts8LGKCnPE7S/cc3315197799bd46532ab4d344ae0250/_1__CBC_-_1080_x_1080.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 25,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-12-23T23:59:00Z",
+   "venue": "The Actors' Church, London",
+   "score": 67
+  },
+  {
    "id": "todaytix-40713",
    "source": "todaytix",
    "title": "Oliver!",
@@ -2651,7 +2701,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-12T23:59:00Z",
+   "expires": "2026-11-15T23:59:00Z",
    "venue": "London",
    "score": 66
   },
@@ -2670,8 +2720,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47552-gospel-by-candlelight",
    "image": "https://images.ctfassets.net/6pezt69ih962/CbXI70zQo6tuyU3AHYknn/1838950e01c92a0d7a8ece432e9fbb97/1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 35.0,
-   "priceText": "from £35",
+   "price": 25.0,
+   "priceText": "from £25",
    "discount": 22,
    "code": "",
    "heat": null,
@@ -2928,30 +2978,6 @@
    "score": 48
   },
   {
-   "id": "news-how-does-the-american-express-pre-sale-work-on-ticketmaster",
-   "source": "news",
-   "title": "How does the American Express pre-sale work on Ticketmaster?",
-   "subtitle": "Radio Times",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Radio Times"
-   ],
-   "merchant": "Radio Times",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWRiVm1OVG5OTWZGQjZDX2JaamdYaDhvSXJLOG1Ba0hpd293MnM3NExuYzh1ZVNvc1d5LVZ3dzdFTlJzUjFwNTVrVzZrXzk5bWtmeTh1aThXZ0tOZWUwSFROY1BsTloxZ1hxQ3RYOUxYcnQzQ1N5MVkzeEJYRkZxT0hB?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-04T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-how-to-get-cheap-thorpe-park-tickets-for-2027",
    "source": "news",
    "title": "How to get cheap Thorpe Park tickets for 2027",
@@ -3000,17 +3026,17 @@
    "score": 48
   },
   {
-   "id": "news-free-cinema-tickets-for-thousands-of-schoolchildren-as-into-film-festival-return",
+   "id": "news-how-does-the-american-express-pre-sale-work-on-ticketmaster",
    "source": "news",
-   "title": "Free cinema tickets for thousands of schoolchildren as Into Film Festival returns",
-   "subtitle": "Belfast Telegraph",
-   "category": "cinema",
+   "title": "How does the American Express pre-sale work on Ticketmaster?",
+   "subtitle": "Radio Times",
+   "category": "music",
    "kind": "news",
    "badges": [
-    "Belfast Telegraph"
+    "Radio Times"
    ],
-   "merchant": "Belfast Telegraph",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSHkyZm5OYmE4dEJ4cTk5Y1lkVmJpNzlLZXFrVXhHRTFPM2xHR0hLLUxSUEhiVFR0YVZhOHpXaXVRNHlHVmQ3eWxBTlVaY1dhQWNhSko2bzRobWkzQWI2S0xqVDZ5cGVGWG14QWZjU3RXMVBCdmYyRTBUQXFURG82Yjgyek56NXNDVXJxZkc1N1dfVUFhRkdaMEFwMzNNMXRJbDJMS0IwZ0FGbkpaWFkxT2pVeWRZTmRBZzBTRnFiX0x4TDhqSlc5NXVUQ1hTbHVlaHdGQS1fYVpPamJyOGhhS1RB?oc=5",
+   "merchant": "Radio Times",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWRiVm1OVG5OTWZGQjZDX2JaamdYaDhvSXJLOG1Ba0hpd293MnM3NExuYzh1ZVNvc1d5LVZ3dzdFTlJzUjFwNTVrVzZrXzk5bWtmeTh1aThXZ0tOZWUwSFROY1BsTloxZ1hxQ3RYOUxYcnQzQ1N5MVkzeEJYRkZxT0hB?oc=5",
    "image": "",
    "price": null,
    "priceText": "",
@@ -3018,7 +3044,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-10-29T07:00:00Z",
+   "published": "2026-11-04T08:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
