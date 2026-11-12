@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-11T17:15:27Z",
+ "generatedAt": "2026-11-12T00:50:03Z",
  "sources": [
   {
    "id": "olt",
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 54,
+   "count": 53,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "errors": []
   }
  ],
@@ -62,6 +62,31 @@
   }
  ],
  "deals": [
+  {
+   "id": "hukd-5028751",
+   "source": "hukd",
+   "title": "Free cinema tickets from Tesco for Arthur Christmas at Cineworld on 21st November + Drinks and Snacks for up to 4 people (Invite Via Email)",
+   "subtitle": "Show Film First",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "819°",
+    "FREE"
+   ],
+   "merchant": "Show Film First",
+   "url": "https://www.hotukdeals.com/deals/free-tickets-from-tesco-to-arthur-christmas-at-cineworld-on-21-november-plus-drinks-and-snacks-for-up-to-4-people-5028751",
+   "image": "https://images.hotukdeals.com/threads/raw/OwARp/5028751_1/re/768x768/qt/60/5028751_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 818.6,
+   "rating": null,
+   "published": "2026-11-10T19:52:25Z",
+   "expires": "2026-11-21T15:30:00Z",
+   "venue": "",
+   "score": 91
+  },
   {
    "id": "olt-franz-marie-111475208",
    "source": "olt",
@@ -95,7 +120,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "627°",
+    "642°",
     "FREE"
    ],
    "merchant": "",
@@ -105,35 +130,10 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 627.4,
+   "heat": 642.2,
    "rating": null,
    "published": "2026-11-10T13:30:39Z",
    "expires": "2026-11-22T23:59:00Z",
-   "venue": "",
-   "score": 90
-  },
-  {
-   "id": "hukd-5028751",
-   "source": "hukd",
-   "title": "Free cinema tickets from Tesco for Arthur Christmas at Cineworld on 21st November + Drinks and Snacks for up to 4 people (Invite Via Email)",
-   "subtitle": "Show Film First",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "587°",
-    "FREE"
-   ],
-   "merchant": "Show Film First",
-   "url": "https://www.hotukdeals.com/deals/free-tickets-from-tesco-to-arthur-christmas-at-cineworld-on-21-november-plus-drinks-and-snacks-for-up-to-4-people-5028751",
-   "image": "https://images.hotukdeals.com/threads/raw/OwARp/5028751_1/re/768x768/qt/60/5028751_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 587.2,
-   "rating": null,
-   "published": "2026-11-10T19:52:25Z",
-   "expires": "2026-11-21T15:30:00Z",
    "venue": "",
    "score": 90
   },
@@ -185,7 +185,7 @@
    "published": "2026-11-04T17:30:00Z",
    "expires": "2026-11-24T23:59:00Z",
    "venue": "",
-   "score": 89
+   "score": 88
   },
   {
    "id": "olt-million-dollar-quartet-111475900",
@@ -289,31 +289,6 @@
    "score": 87
   },
   {
-   "id": "olt-oliver-111446304",
-   "source": "olt",
-   "title": "Oliver!",
-   "subtitle": "Musical, Family",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 55%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/oliver-111446304/",
-   "image": "https://officiallondontheatre.com/app/uploads/2024/09/Oliver-1200x600-1-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 55,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-18T23:59:00Z",
-   "venue": "London",
-   "score": 87
-  },
-  {
    "id": "olt-the-smartest-giant-in-town-111473985",
    "source": "olt",
    "title": "The Smartest Giant In Town",
@@ -390,31 +365,6 @@
    "score": 87
   },
   {
-   "id": "hukd-4985426",
-   "source": "hukd",
-   "title": "Free pair of Horse Racing tickets to one of 15 events Oct to Dec 2026 + kids go free (50,000 tickets available)",
-   "subtitle": "Racing TV",
-   "category": "comedy",
-   "kind": "free",
-   "badges": [
-    "2267°",
-    "FREE"
-   ],
-   "merchant": "Racing TV",
-   "url": "https://www.hotukdeals.com/deals/free-pair-of-horse-racing-tickets-to-one-of-15-events-oct-to-dec-2026-kids-go-free-50000-tickets-available-4985426",
-   "image": "https://images.hotukdeals.com/threads/raw/t3ywB/4985426_1/re/768x768/qt/60/4985426_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 2267.0,
-   "rating": null,
-   "published": "2026-09-20T23:22:56Z",
-   "expires": null,
-   "venue": "",
-   "score": 86
-  },
-  {
    "id": "olt-into-the-woods-111473840",
    "source": "olt",
    "title": "Into The Woods",
@@ -438,6 +388,56 @@
    "expires": "2026-11-18T23:59:00Z",
    "venue": "London",
    "score": 86
+  },
+  {
+   "id": "olt-oliver-111446304",
+   "source": "olt",
+   "title": "Oliver!",
+   "subtitle": "Musical, Family",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 52%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/oliver-111446304/",
+   "image": "https://officiallondontheatre.com/app/uploads/2024/09/Oliver-1200x600-1-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 52,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-18T23:59:00Z",
+   "venue": "London",
+   "score": 86
+  },
+  {
+   "id": "hukd-4985426",
+   "source": "hukd",
+   "title": "Free pair of Horse Racing tickets to one of 15 events Oct to Dec 2026 + kids go free (50,000 tickets available)",
+   "subtitle": "Racing TV",
+   "category": "comedy",
+   "kind": "free",
+   "badges": [
+    "2267°",
+    "FREE"
+   ],
+   "merchant": "Racing TV",
+   "url": "https://www.hotukdeals.com/deals/free-pair-of-horse-racing-tickets-to-one-of-15-events-oct-to-dec-2026-kids-go-free-50000-tickets-available-4985426",
+   "image": "https://images.hotukdeals.com/threads/raw/t3ywB/4985426_1/re/768x768/qt/60/4985426_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 2267.0,
+   "rating": null,
+   "published": "2026-09-20T23:22:56Z",
+   "expires": null,
+   "venue": "",
+   "score": 85
   },
   {
    "id": "todaytix-36456",
@@ -522,7 +522,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "550°",
+    "566°",
     "50% off"
    ],
    "merchant": "Compare The Market",
@@ -532,7 +532,7 @@
    "priceText": "",
    "discount": 50,
    "code": "",
-   "heat": 549.9,
+   "heat": 566.4,
    "rating": null,
    "published": "2026-11-10T15:59:41Z",
    "expires": "2027-07-19T22:59:00Z",
@@ -548,13 +548,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 49%",
-    "From £18"
+    "From £28"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 49,
    "code": "",
    "heat": null,
@@ -1436,8 +1436,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets",
-    "Special Offer"
+    "£30 Rush tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47279-affluenza",
@@ -1900,8 +1899,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets",
-    "Special Offer"
+    "£30 Rush tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/40903-titanique",
@@ -1939,6 +1937,31 @@
    "published": null,
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Menier Chocolate Factory, London",
+   "score": 75
+  },
+  {
+   "id": "todaytix-48305",
+   "source": "todaytix",
+   "title": "What's the F**king Point?",
+   "subtitle": "The Maria Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 40%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/48305-whats-the-f-king-point",
+   "image": "https://images.ctfassets.net/6pezt69ih962/4Y2mgFRC2lsReQ77bQ26IW/b10b66cd6ca92525f4e71bc885d4b5a6/YoungVic_WhatsTheFuckingPoint_Sand_DigitalRollout_Facebook_1080x1080px.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 40,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-24T23:59:00Z",
+   "venue": "The Maria Theatre, London",
    "score": 75
   },
   {
@@ -2361,30 +2384,6 @@
    "score": 71
   },
   {
-   "id": "todaytix-47301",
-   "source": "todaytix",
-   "title": "Expecting",
-   "subtitle": "Riverside Studios",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Pay No Fees"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47301-expecting",
-   "image": "https://images.ctfassets.net/6pezt69ih962/01cl4clIKH4CsnXO8igMu5/f48f81a3530abfef64cad1e11a6dc6bd/RIVS26_Q2_010_Expecting_PressAssets_1080x1080_1_AW.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-03-27T23:59:00Z",
-   "venue": "Riverside Studios, London",
-   "score": 70
-  },
-  {
    "id": "todaytix-47549",
    "source": "todaytix",
    "title": "Musicals By Candlelight",
@@ -2408,30 +2407,6 @@
    "published": null,
    "expires": "2026-11-27T23:59:00Z",
    "venue": "The Actors' Church, London",
-   "score": 70
-  },
-  {
-   "id": "todaytix-47337",
-   "source": "todaytix",
-   "title": "Sacrilegious",
-   "subtitle": "Riverside Studios",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Pay No Fees"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47337-sacrilegious",
-   "image": "https://images.ctfassets.net/6pezt69ih962/OueCoX2cYh1svc0l24Q9m/382de324db4608f59e363467f89cef52/RIVS26_Q4_009_NewSacrilegiousDateTTGButtons_1080x1080_V1.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-05-29T23:59:00Z",
-   "venue": "Riverside Studios, London",
    "score": 70
   },
   {
@@ -2695,8 +2670,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47552-gospel-by-candlelight",
    "image": "https://images.ctfassets.net/6pezt69ih962/CbXI70zQo6tuyU3AHYknn/1838950e01c92a0d7a8ece432e9fbb97/1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
+   "price": 35.0,
+   "priceText": "from £35",
    "discount": 22,
    "code": "",
    "heat": null,
@@ -2838,7 +2813,7 @@
    "category": "cinema",
    "kind": "voucher",
    "badges": [
-    "44°",
+    "48°",
     "20% off"
    ],
    "merchant": "Tesco Gift Cards",
@@ -2848,7 +2823,7 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 44.3,
+   "heat": 47.9,
    "rating": null,
    "published": "2026-11-11T09:30:55Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -2996,30 +2971,6 @@
    "heat": null,
    "rating": null,
    "published": "2026-11-06T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
-   "id": "news-national-theatre-deals",
-   "source": "news",
-   "title": "National Theatre deals",
-   "subtitle": "Money Saving Expert",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Money Saving Expert"
-   ],
-   "merchant": "Money Saving Expert",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE44YmtOZHRXaF8yWWRJLUkzbGdEWTcyTjRoT3dJVjAxZTZfdVJwS3g4aG1vTXRTeGFHLXdUX0dUbWtXek8zS1otczdjdGFKSGJ5UTN6c2d3bzcyZUVhcjNCV2xRYzJ5d0NO?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-05T08:00:00Z",
    "expires": null,
    "venue": "",
    "score": 48
