@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-13T01:56:05Z",
+ "generatedAt": "2026-11-13T11:14:14Z",
  "sources": [
   {
    "id": "olt",
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 5,
+   "count": 6,
    "errors": []
   }
  ],
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "868°",
+    "880°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 867.8,
+   "heat": 879.8,
    "rating": null,
    "published": "2026-11-10T19:52:25Z",
    "expires": "2026-11-21T15:30:00Z",
@@ -120,7 +120,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "644°",
+    "648°",
     "FREE"
    ],
    "merchant": "",
@@ -130,7 +130,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 644.0,
+   "heat": 647.6,
    "rating": null,
    "published": "2026-11-10T13:30:39Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -145,7 +145,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save up to 64%",
+    "Save up to 62%",
     "From £20"
    ],
    "merchant": "Official London Theatre",
@@ -153,7 +153,7 @@
    "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
    "price": 20.0,
    "priceText": "from £20",
-   "discount": 64,
+   "discount": 62,
    "code": "",
    "heat": null,
    "rating": null,
@@ -260,32 +260,6 @@
    "published": null,
    "expires": "2026-11-14T23:59:00Z",
    "venue": "Charing Cross Theatre, London",
-   "score": 87
-  },
-  {
-   "id": "todaytix-46909",
-   "source": "todaytix",
-   "title": "High School Musical",
-   "subtitle": "Troubadour Wembley Park Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 60%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 31.0,
-   "priceText": "from £31",
-   "discount": 60,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "Troubadour Wembley Park Theatre, London",
    "score": 87
   },
   {
@@ -485,7 +459,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-18T23:59:00Z",
+   "expires": "2026-11-19T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -522,7 +496,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "594°",
+    "599°",
     "50% off"
    ],
    "merchant": "Compare The Market",
@@ -532,7 +506,7 @@
    "priceText": "",
    "discount": 50,
    "code": "",
-   "heat": 593.5,
+   "heat": 598.9,
    "rating": null,
    "published": "2026-11-10T15:59:41Z",
    "expires": "2027-07-19T22:59:00Z",
@@ -870,7 +844,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "769°"
+    "772°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
@@ -879,7 +853,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 769.3,
+   "heat": 772.2,
    "rating": null,
    "published": "2026-11-09T00:22:10Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -1083,31 +1057,6 @@
    "expires": null,
    "venue": "Trafalgar Theatre, London",
    "score": 79
-  },
-  {
-   "id": "todaytix-48379",
-   "source": "todaytix",
-   "title": "Balletboyz - Six Lethargies",
-   "subtitle": "Sadler's Wells",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 44%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/48379-balletboyz-six-lethargies",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5GWNrS02DQ4aGKeTCQpdHy/6ae2b68d8cb7581d60341d18dd286dca/bb-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 44,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-21T23:59:00Z",
-   "venue": "Sadler's Wells, London",
-   "score": 78
   },
   {
    "id": "olt-high-school-musical-111473306",
@@ -1648,30 +1597,6 @@
    "score": 75
   },
   {
-   "id": "hukd-5013201",
-   "source": "hukd",
-   "title": "Odeon Kids Screenings (£0.90 When You Book Online and in Cinema as a Extras Plus Member)",
-   "subtitle": "ODEON",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "335°"
-   ],
-   "merchant": "ODEON",
-   "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
-   "image": "https://images.hotukdeals.com/threads/raw/ZSdou/5013201_1/re/768x768/qt/60/5013201_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 334.6,
-   "rating": null,
-   "published": "2026-10-25T06:40:38Z",
-   "expires": null,
-   "venue": "",
-   "score": 75
-  },
-  {
    "id": "todaytix-45604",
    "source": "todaytix",
    "title": "Paranormal Activity",
@@ -1963,6 +1888,30 @@
    "expires": "2027-04-24T23:59:00Z",
    "venue": "The Maria Theatre, London",
    "score": 75
+  },
+  {
+   "id": "hukd-5013201",
+   "source": "hukd",
+   "title": "Odeon Kids Screenings (£0.90 When You Book Online and in Cinema as a Extras Plus Member)",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "335°"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/deals/odeon-kids-screenings-ps090-when-you-book-online-and-in-cinema-as-a-extras-plus-member-5013201",
+   "image": "https://images.hotukdeals.com/threads/raw/ZSdou/5013201_1/re/768x768/qt/60/5013201_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 334.6,
+   "rating": null,
+   "published": "2026-10-25T06:40:38Z",
+   "expires": null,
+   "venue": "",
+   "score": 74
   },
   {
    "id": "hukd-5016365",
@@ -2435,6 +2384,31 @@
    "score": 71
   },
   {
+   "id": "todaytix-26120",
+   "source": "todaytix",
+   "title": "Cirque du Soleil - Kurios",
+   "subtitle": "Royal Albert Hall",
+   "category": "comedy",
+   "kind": "offer",
+   "badges": [
+    "Save 30%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/26120-cirque-du-soleil-kurios",
+   "image": "https://images.ctfassets.net/6pezt69ih962/1AjY4hTzAkRjHXaiTiGi3K/3aac27da808c6e0df7b864620f915708/KURIOS_TTG_ASSETS_SEP26_AW_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 45,
+   "priceText": "from £45",
+   "discount": 30,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-02-28T23:59:00Z",
+   "venue": "Royal Albert Hall, London",
+   "score": 70
+  },
+  {
    "id": "todaytix-47549",
    "source": "todaytix",
    "title": "Musicals By Candlelight",
@@ -2554,7 +2528,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-17T23:59:00Z",
+   "expires": "2026-11-18T23:59:00Z",
    "venue": "London",
    "score": 68
   },
@@ -2633,6 +2607,32 @@
    "score": 67
   },
   {
+   "id": "todaytix-46909",
+   "source": "todaytix",
+   "title": "High School Musical",
+   "subtitle": "Troubadour Wembley Park Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 25%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 31.0,
+   "priceText": "from £31",
+   "discount": 25,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Troubadour Wembley Park Theatre, London",
+   "score": 67
+  },
+  {
    "id": "todaytix-40713",
    "source": "todaytix",
    "title": "Oliver!",
@@ -2656,6 +2656,31 @@
    "expires": null,
    "venue": "Gielgud Theatre, London",
    "score": 67
+  },
+  {
+   "id": "todaytix-48131",
+   "source": "todaytix",
+   "title": "Club NVRLND",
+   "subtitle": "The Vaults Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 24%",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/48131-club-nvrlnd",
+   "image": "https://images.ctfassets.net/6pezt69ih962/Gb9vZYR4CDPnrvLNBx9xO/164ababf239cf7fdb6f92cc58e587412/CN26_TTG_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 24,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-03-28T23:59:00Z",
+   "venue": "The Vaults Theatre, London",
+   "score": 66
   },
   {
    "id": "hukd-5024934",
@@ -2758,31 +2783,6 @@
    "score": 65
   },
   {
-   "id": "todaytix-44904",
-   "source": "todaytix",
-   "title": "Ebony Scrooge",
-   "subtitle": "Sadler's Wells East",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 21%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/44904-ebony-scrooge",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5wOUth2y7qFGrqMghtpRnT/e7c5bab93b34882da0138cb7a33c3b04/ebony-scrooge-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 21,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "Sadler's Wells East, London",
-   "score": 64
-  },
-  {
    "id": "todaytix-47613",
    "source": "todaytix",
    "title": "Sherlock Holmes and the 12 Days of Christmas",
@@ -2864,7 +2864,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "65°",
+    "72°",
     "20% off"
    ],
    "merchant": "Tesco Gift Cards",
@@ -2874,7 +2874,7 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 65.3,
+   "heat": 71.9,
    "rating": null,
    "published": "2026-11-11T09:30:55Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -2929,30 +2929,6 @@
    "expires": null,
    "venue": "",
    "score": 52
-  },
-  {
-   "id": "news-best-sky-stream-offers-for-november-2026-deals-and-tv-bundles-for-new-and-existi",
-   "source": "news",
-   "title": "Best Sky Stream offers for November 2026: Deals and TV bundles for new and existing Sky customers",
-   "subtitle": "Radio Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Radio Times"
-   ],
-   "merchant": "Radio Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRJOC0xamhsU0tNUDhpYzJIMzIwaDlYWW5UdFVWRXdEQ2wyM1lFQjVsc3RIbWVETTBKb1FlRzdXdFE1WGZsNjg4eWd0LXRhN1R0X0FsQVd0MkczTHNQYVNIZnhKcDdSNU1tTGQ5bFZHVFp5THd5dU5iblZoZnY2U2R0ZmQ?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-05T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
   },
   {
    "id": "news-discounted-panto-tickets-open-doors-for-families",
@@ -3025,6 +3001,54 @@
    "expires": null,
    "venue": "",
    "score": 48
+  },
+  {
+   "id": "news-best-sky-stream-offers-for-november-2026-deals-and-tv-bundles-for-new-and-existi",
+   "source": "news",
+   "title": "Best Sky Stream offers for November 2026: Deals and TV bundles for new and existing Sky customers",
+   "subtitle": "Radio Times",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Radio Times"
+   ],
+   "merchant": "Radio Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRJOC0xamhsU0tNUDhpYzJIMzIwaDlYWW5UdFVWRXdEQ2wyM1lFQjVsc3RIbWVETTBKb1FlRzdXdFE1WGZsNjg4eWd0LXRhN1R0X0FsQVd0MkczTHNQYVNIZnhKcDdSNU1tTGQ5bFZHVFp5THd5dU5iblZoZnY2U2R0ZmQ?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-05T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-comedy-legend-adds-extra-glasgow-show-after-fans-rush-to-buy-tickets",
+   "source": "news",
+   "title": "Comedy legend adds extra Glasgow show after fans rush to buy tickets",
+   "subtitle": "Glasgow Times",
+   "category": "comedy",
+   "kind": "news",
+   "badges": [
+    "Glasgow Times"
+   ],
+   "merchant": "Glasgow Times",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUxMSzVtVENUQkpyVExlNldfRVNaMDdNbzJtU1FKQkhMenVTcmFsRU14Y0k0WDRoQkx0eG00WDZULTJucjJUYjJoN0ZucW1CVFBrWHlIUVNvb3ZSVUh5d01CTHNoSXdsOHVnVjF3VG9UbHZzai1GRlhqRjF5WFNQeGxUUUVaUEVvLXBsVWNSX3lOVlZuNFE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-10-30T16:50:50Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
   },
   {
    "id": "news-how-does-the-american-express-pre-sale-work-on-ticketmaster",
