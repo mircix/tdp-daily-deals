@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-13T11:14:14Z",
+ "generatedAt": "2026-11-13T19:52:12Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 39,
+   "count": 35,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 53,
+   "count": 55,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 6,
+   "count": 4,
    "errors": []
   }
  ],
@@ -108,7 +108,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-13T23:59:00Z",
+   "expires": "2026-11-14T23:59:00Z",
    "venue": "London",
    "score": 90
   },
@@ -135,31 +135,6 @@
    "published": "2026-11-10T13:30:39Z",
    "expires": "2026-11-22T23:59:00Z",
    "venue": "",
-   "score": 90
-  },
-  {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 62%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 62,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
    "score": 90
   },
   {
@@ -209,31 +184,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-18T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -459,7 +409,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-19T23:59:00Z",
+   "expires": "2026-11-20T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -522,19 +472,19 @@
    "kind": "offer",
    "badges": [
     "Save up to 49%",
-    "From £18"
+    "From £28"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 49,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-17T23:59:00Z",
+   "expires": "2026-11-20T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -683,7 +633,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-19T23:59:00Z",
+   "expires": "2026-11-20T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -732,7 +682,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-15T23:59:00Z",
+   "expires": "2026-11-19T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -757,7 +707,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-19T23:59:00Z",
+   "expires": "2026-11-20T23:59:00Z",
    "venue": "London",
    "score": 82
   },
@@ -844,7 +794,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "772°"
+    "774°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
@@ -853,7 +803,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 772.2,
+   "heat": 774.0,
    "rating": null,
    "published": "2026-11-09T00:22:10Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -929,7 +879,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-19T23:59:00Z",
+   "expires": "2026-11-20T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -1047,8 +997,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/45447-oh-mary",
    "image": "https://images.ctfassets.net/6pezt69ih962/6awwHL3N70d3fX9Q8W9a3W/63c3b3f6c31bd2521c4d7aa1977875d9/8447_127_OHM_Lolly_TTG_1080x1080_v1.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
+   "price": 23.0,
+   "priceText": "from £23",
    "discount": 47,
    "code": "",
    "heat": null,
@@ -1057,6 +1007,31 @@
    "expires": null,
    "venue": "Trafalgar Theatre, London",
    "score": 79
+  },
+  {
+   "id": "todaytix-48379",
+   "source": "todaytix",
+   "title": "Balletboyz - Six Lethargies",
+   "subtitle": "Sadler's Wells",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 44%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/48379-balletboyz-six-lethargies",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5GWNrS02DQ4aGKeTCQpdHy/6ae2b68d8cb7581d60341d18dd286dca/bb-1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 44,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-21T23:59:00Z",
+   "venue": "Sadler's Wells, London",
+   "score": 78
   },
   {
    "id": "olt-high-school-musical-111473306",
@@ -1079,32 +1054,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-13T23:59:00Z",
-   "venue": "London",
-   "score": 78
-  },
-  {
-   "id": "olt-speculations-111477147",
-   "source": "olt",
-   "title": "Speculations",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 39%",
-    "From £13.65"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/speculations-111477147/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/09/SPECULATIONS-new-artwork_1200-x-600-768x384.jpg",
-   "price": 13.65,
-   "priceText": "from £13.65",
-   "discount": 39,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-17T23:59:00Z",
+   "expires": "2026-11-15T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1523,6 +1473,30 @@
    "score": 75
   },
   {
+   "id": "todaytix-46909",
+   "source": "todaytix",
+   "title": "High School Musical",
+   "subtitle": "Troubadour Wembley Park Theatre",
+   "category": "theatre",
+   "kind": "rush",
+   "badges": [
+    "£30 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 30.0,
+   "priceText": "from £30",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Troubadour Wembley Park Theatre, London",
+   "score": 75
+  },
+  {
    "id": "todaytix-47065",
    "source": "todaytix",
    "title": "Into The Woods",
@@ -1824,7 +1798,8 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets"
+    "£30 Rush tickets",
+    "Special Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/40903-titanique",
@@ -1912,30 +1887,6 @@
    "expires": null,
    "venue": "",
    "score": 74
-  },
-  {
-   "id": "hukd-5016365",
-   "source": "hukd",
-   "title": "Cineworld Adult Ticket Via Three Rewards location dependant",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "154°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/cineworld-ps5-ticket-via-three-rewards-5016365",
-   "image": "https://images.hotukdeals.com/threads/raw/cen8L/5016365_1/re/768x768/qt/60/5016365_1.jpg",
-   "price": 5,
-   "priceText": "£5",
-   "discount": null,
-   "code": "",
-   "heat": 154.1,
-   "rating": null,
-   "published": "2026-10-28T17:17:03Z",
-   "expires": null,
-   "venue": "",
-   "score": 73
   },
   {
    "id": "olt-jesus-christ-superstar-111470377",
@@ -2071,13 +2022,13 @@
    "kind": "offer",
    "badges": [
     "Special offer",
-    "From £28"
+    "From £24"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/pride-111469360/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/02/PRIDE_SOLT-ASSETS_AUG26_AW_1200x600-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 24.0,
+   "priceText": "from £24",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2188,6 +2139,30 @@
    "score": 72
   },
   {
+   "id": "hukd-5016365",
+   "source": "hukd",
+   "title": "Cineworld Adult Ticket Via Three Rewards location dependant",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "154°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/cineworld-ps5-ticket-via-three-rewards-5016365",
+   "image": "https://images.hotukdeals.com/threads/raw/cen8L/5016365_1/re/768x768/qt/60/5016365_1.jpg",
+   "price": 5,
+   "priceText": "£5",
+   "discount": null,
+   "code": "",
+   "heat": 154.1,
+   "rating": null,
+   "published": "2026-10-28T17:17:03Z",
+   "expires": null,
+   "venue": "",
+   "score": 72
+  },
+  {
    "id": "olt-hadestown-111440588",
    "source": "olt",
    "title": "Hadestown",
@@ -2258,31 +2233,6 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-18T23:59:00Z",
-   "venue": "London",
-   "score": 72
-  },
-  {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £27.39"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-22T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2397,7 +2347,7 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/26120-cirque-du-soleil-kurios",
    "image": "https://images.ctfassets.net/6pezt69ih962/1AjY4hTzAkRjHXaiTiGi3K/3aac27da808c6e0df7b864620f915708/KURIOS_TTG_ASSETS_SEP26_AW_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 45,
+   "price": 45.0,
    "priceText": "from £45",
    "discount": 30,
    "code": "",
@@ -2607,32 +2557,6 @@
    "score": 67
   },
   {
-   "id": "todaytix-46909",
-   "source": "todaytix",
-   "title": "High School Musical",
-   "subtitle": "Troubadour Wembley Park Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 25%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 31.0,
-   "priceText": "from £31",
-   "discount": 25,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "Troubadour Wembley Park Theatre, London",
-   "score": 67
-  },
-  {
    "id": "todaytix-40713",
    "source": "todaytix",
    "title": "Oliver!",
@@ -2783,6 +2707,31 @@
    "score": 65
   },
   {
+   "id": "todaytix-44904",
+   "source": "todaytix",
+   "title": "Ebony Scrooge",
+   "subtitle": "Sadler's Wells East",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 21%",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/44904-ebony-scrooge",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5wOUth2y7qFGrqMghtpRnT/e7c5bab93b34882da0138cb7a33c3b04/ebony-scrooge-1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 18.0,
+   "priceText": "from £18",
+   "discount": 21,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Sadler's Wells East, London",
+   "score": 64
+  },
+  {
    "id": "todaytix-47613",
    "source": "todaytix",
    "title": "Sherlock Holmes and the 12 Days of Christmas",
@@ -2864,7 +2813,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "72°",
+    "74°",
     "20% off"
    ],
    "merchant": "Tesco Gift Cards",
@@ -2874,7 +2823,7 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 71.9,
+   "heat": 73.7,
    "rating": null,
    "published": "2026-11-11T09:30:55Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -2931,30 +2880,6 @@
    "score": 52
   },
   {
-   "id": "news-discounted-panto-tickets-open-doors-for-families",
-   "source": "news",
-   "title": "Discounted panto tickets open doors for families",
-   "subtitle": "BBC",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "BBC"
-   ],
-   "merchant": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wV2ZvZzI5SGFScEstcVZOckd4UW5nQUU2UlF2dFcxa0pmMEplSUpIYzNhVU55Tk5DS21VeDBnbG5Id0FkXy1ZRVJkcUZfR0M0dmpVRGwwdFc2bHFQWVE?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-05T11:38:52Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
    "id": "news-how-to-get-cheap-thorpe-park-tickets-for-2027",
    "source": "news",
    "title": "How to get cheap Thorpe Park tickets for 2027",
@@ -2974,30 +2899,6 @@
    "heat": null,
    "rating": null,
    "published": "2026-11-06T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
-   "id": "news-single-tout-offers-nine-in-ten-west-end-theatre-tickets-on-viagogo",
-   "source": "news",
-   "title": "Single tout offers nine in ten West End theatre tickets on Viagogo",
-   "subtitle": "The Times",
-   "category": "theatre",
-   "kind": "news",
-   "badges": [
-    "The Times"
-   ],
-   "merchant": "The Times",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmhVUlNqbDg3Z0d5ckNtREpGTDlpUDhObVlXM1BTbjlnR3dqRWo4U19waXFWVnVST1JFMGd2d05nUkh3ZDFaemZEcjlmM2h4TGV2RXBnOU54ZmNRdS1kUEJDd2l1bnFOaE96MXJwSmZIaGtndGhXaGpUNlBOMlJ6Y05UbEV1Q01OeklTQlBCVzg1bjN4YnIwb0lxWUY5R0pUd2pMMUc3cnRTTVZmVGhxeVRfTHRtSWd0YmwxV1lZaktSTTFKTWw1SndqYw?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-06T10:50:00Z",
    "expires": null,
    "venue": "",
    "score": 48
@@ -3027,17 +2928,17 @@
    "score": 47
   },
   {
-   "id": "news-comedy-legend-adds-extra-glasgow-show-after-fans-rush-to-buy-tickets",
+   "id": "news-discounted-panto-tickets-open-doors-for-families",
    "source": "news",
-   "title": "Comedy legend adds extra Glasgow show after fans rush to buy tickets",
-   "subtitle": "Glasgow Times",
-   "category": "comedy",
+   "title": "Discounted panto tickets open doors for families",
+   "subtitle": "BBC",
+   "category": "cinema",
    "kind": "news",
    "badges": [
-    "Glasgow Times"
+    "BBC"
    ],
-   "merchant": "Glasgow Times",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdUxMSzVtVENUQkpyVExlNldfRVNaMDdNbzJtU1FKQkhMenVTcmFsRU14Y0k0WDRoQkx0eG00WDZULTJucjJUYjJoN0ZucW1CVFBrWHlIUVNvb3ZSVUh5d01CTHNoSXdsOHVnVjF3VG9UbHZzai1GRlhqRjF5WFNQeGxUUUVaUEVvLXBsVWNSX3lOVlZuNFE?oc=5",
+   "merchant": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wV2ZvZzI5SGFScEstcVZOckd4UW5nQUU2UlF2dFcxa0pmMEplSUpIYzNhVU55Tk5DS21VeDBnbG5Id0FkXy1ZRVJkcUZfR0M0dmpVRGwwdFc2bHFQWVE?oc=5",
    "image": "",
    "price": null,
    "priceText": "",
@@ -3045,7 +2946,7 @@
    "code": "",
    "heat": null,
    "rating": null,
-   "published": "2026-10-30T16:50:50Z",
+   "published": "2026-11-05T11:38:52Z",
    "expires": null,
    "venue": "",
    "score": 47
