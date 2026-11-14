@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-14T01:29:20Z",
+ "generatedAt": "2026-11-14T10:39:41Z",
  "sources": [
   {
    "id": "olt",
@@ -34,9 +34,11 @@
    "name": "News",
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
-   "ok": true,
-   "count": 4,
-   "errors": []
+   "ok": false,
+   "count": 0,
+   "errors": [
+    "headlines: HTTP Error 503: Service Unavailable"
+   ]
   }
  ],
  "categories": [
@@ -396,7 +398,7 @@
    "category": "comedy",
    "kind": "free",
    "badges": [
-    "2267°",
+    "2269°",
     "FREE"
    ],
    "merchant": "Racing TV",
@@ -406,7 +408,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 2267.0,
+   "heat": 2268.8,
    "rating": null,
    "published": "2026-09-20T23:22:56Z",
    "expires": null,
@@ -511,31 +513,6 @@
    "published": "2026-11-10T15:59:41Z",
    "expires": "2027-07-19T22:59:00Z",
    "venue": "",
-   "score": 84
-  },
-  {
-   "id": "olt-the-mousetrap-92715",
-   "source": "olt",
-   "title": "The Mousetrap",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 49%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
-   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 49,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-20T23:59:00Z",
-   "venue": "London",
    "score": 84
   },
   {
@@ -762,6 +739,31 @@
    "score": 82
   },
   {
+   "id": "olt-the-mousetrap-92715",
+   "source": "olt",
+   "title": "The Mousetrap",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 46%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
+   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 46,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-20T23:59:00Z",
+   "venue": "London",
+   "score": 82
+  },
+  {
    "id": "todaytix-45732",
    "source": "todaytix",
    "title": "Avenue Q",
@@ -844,7 +846,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "776°"
+    "779°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
@@ -853,7 +855,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 775.8,
+   "heat": 779.5,
    "rating": null,
    "published": "2026-11-09T00:22:10Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -1521,6 +1523,31 @@
    "published": "2026-11-01T19:05:55Z",
    "expires": "2026-11-19T23:59:00Z",
    "venue": "",
+   "score": 75
+  },
+  {
+   "id": "todaytix-47552",
+   "source": "todaytix",
+   "title": "Gospel by Candlelight",
+   "subtitle": "Round Chapel, Hackney",
+   "category": "music",
+   "kind": "rush",
+   "badges": [
+    "£20 Rush Tickets",
+    "Exclusive Prices"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47552-gospel-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/CbXI70zQo6tuyU3AHYknn/1838950e01c92a0d7a8ece432e9fbb97/1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Round Chapel, Hackney, London",
    "score": 75
   },
   {
@@ -2664,7 +2691,7 @@
    "category": "comedy",
    "kind": "deal",
    "badges": [
-    "354°"
+    "356°"
    ],
    "merchant": "Wowcher",
    "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
@@ -2673,7 +2700,7 @@
    "priceText": "£22",
    "discount": null,
    "code": "",
-   "heat": 354.1,
+   "heat": 355.9,
    "rating": null,
    "published": "2026-11-06T15:49:52Z",
    "expires": "2026-12-31T23:59:00Z",
@@ -2830,32 +2857,6 @@
    "score": 62
   },
   {
-   "id": "todaytix-47552",
-   "source": "todaytix",
-   "title": "Gospel by Candlelight",
-   "subtitle": "Round Chapel, Hackney",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save 18%",
-    "£20 Rush Tickets",
-    "Exclusive Prices"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47552-gospel-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/CbXI70zQo6tuyU3AHYknn/1838950e01c92a0d7a8ece432e9fbb97/1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 45.0,
-   "priceText": "from £45",
-   "discount": 18,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Round Chapel, Hackney, London",
-   "score": 62
-  },
-  {
    "id": "hukd-5029407",
    "source": "hukd",
    "title": "20% off Gift cards (Odeon and Virgin Experience)",
@@ -2863,7 +2864,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "77°",
+    "75°",
     "20% off"
    ],
    "merchant": "Tesco Gift Cards",
@@ -2873,12 +2874,12 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 77.2,
+   "heat": 74.7,
    "rating": null,
    "published": "2026-11-11T09:30:55Z",
    "expires": "2026-11-22T23:59:00Z",
    "venue": "",
-   "score": 60
+   "score": 59
   },
   {
    "id": "hukd-4973296",
@@ -2928,102 +2929,6 @@
    "expires": null,
    "venue": "",
    "score": 52
-  },
-  {
-   "id": "news-how-to-get-cheap-thorpe-park-tickets-for-2027",
-   "source": "news",
-   "title": "How to get cheap Thorpe Park tickets for 2027",
-   "subtitle": "Radio Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Radio Times"
-   ],
-   "merchant": "Radio Times",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSmprSUxibmxBTWE0aEs0ektlbXExU2JlR0s0MjRlcEZUVlZEbzk1NFpZaTBlMVFIOFFQbE5udW5mMFFlYVJLQzdVMmM0REZ3blhYUktMX0hBQmxaOFkxRVV3T2QzbW5mX1AtTGlpRDBTMDR4WWJwWExPVHN0RXM?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-06T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 48
-  },
-  {
-   "id": "news-best-sky-stream-offers-for-november-2026-deals-and-tv-bundles-for-new-and-existi",
-   "source": "news",
-   "title": "Best Sky Stream offers for November 2026: Deals and TV bundles for new and existing Sky customers",
-   "subtitle": "Radio Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Radio Times"
-   ],
-   "merchant": "Radio Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRJOC0xamhsU0tNUDhpYzJIMzIwaDlYWW5UdFVWRXdEQ2wyM1lFQjVsc3RIbWVETTBKb1FlRzdXdFE1WGZsNjg4eWd0LXRhN1R0X0FsQVd0MkczTHNQYVNIZnhKcDdSNU1tTGQ5bFZHVFp5THd5dU5iblZoZnY2U2R0ZmQ?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-05T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-discounted-panto-tickets-open-doors-for-families",
-   "source": "news",
-   "title": "Discounted panto tickets open doors for families",
-   "subtitle": "BBC",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "BBC"
-   ],
-   "merchant": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wV2ZvZzI5SGFScEstcVZOckd4UW5nQUU2UlF2dFcxa0pmMEplSUpIYzNhVU55Tk5DS21VeDBnbG5Id0FkXy1ZRVJkcUZfR0M0dmpVRGwwdFc2bHFQWVE?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-05T11:38:52Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-how-does-the-american-express-pre-sale-work-on-ticketmaster",
-   "source": "news",
-   "title": "How does the American Express pre-sale work on Ticketmaster?",
-   "subtitle": "Radio Times",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Radio Times"
-   ],
-   "merchant": "Radio Times",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWRiVm1OVG5OTWZGQjZDX2JaamdYaDhvSXJLOG1Ba0hpd293MnM3NExuYzh1ZVNvc1d5LVZ3dzdFTlJzUjFwNTVrVzZrXzk5bWtmeTh1aThXZ0tOZWUwSFROY1BsTloxZ1hxQ3RYOUxYcnQzQ1N5MVkzeEJYRkZxT0hB?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-04T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
   }
  ]
 }
