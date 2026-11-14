@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-14T10:39:41Z",
+ "generatedAt": "2026-11-14T18:16:57Z",
  "sources": [
   {
    "id": "olt",
@@ -34,11 +34,9 @@
    "name": "News",
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
-   "ok": false,
-   "count": 0,
-   "errors": [
-    "headlines: HTTP Error 503: Service Unavailable"
-   ]
+   "ok": true,
+   "count": 3,
+   "errors": []
   }
  ],
  "categories": [
@@ -97,7 +95,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save up to 66%",
+    "Save up to 62%",
     "From £23"
    ],
    "merchant": "Official London Theatre",
@@ -105,7 +103,7 @@
    "image": "https://officiallondontheatre.com/app/uploads/2026/07/FranzM-_CX2_1200-x-600px-768x384.jpg",
    "price": 23.0,
    "priceText": "from £23",
-   "discount": 66,
+   "discount": 62,
    "code": "",
    "heat": null,
    "rating": null,
@@ -210,7 +208,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-18T23:59:00Z",
+   "expires": "2026-11-21T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -461,7 +459,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-20T23:59:00Z",
+   "expires": "2026-11-21T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -640,31 +638,6 @@
    "score": 83
   },
   {
-   "id": "olt-hamilton-tickets-366811",
-   "source": "olt",
-   "title": "Hamilton",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 47%",
-    "From £23"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
-   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 47,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-20T23:59:00Z",
-   "venue": "London",
-   "score": 83
-  },
-  {
    "id": "todaytix-20561",
    "source": "todaytix",
    "title": "Hamilton",
@@ -734,7 +707,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-20T23:59:00Z",
+   "expires": "2026-11-21T23:59:00Z",
    "venue": "London",
    "score": 82
   },
@@ -747,13 +720,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 46%",
-    "From £28"
+    "From £18"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 18.0,
+   "priceText": "from £18",
    "discount": 46,
    "code": "",
    "heat": null,
@@ -822,7 +795,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "1305°"
+    "1307°"
    ],
    "merchant": "The Sun",
    "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
@@ -831,7 +804,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 1305.0,
+   "heat": 1306.8,
    "rating": null,
    "published": "2026-11-01T00:00:02Z",
    "expires": "2026-11-15T23:59:00Z",
@@ -846,7 +819,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "779°"
+    "783°"
    ],
    "merchant": "Amazon",
    "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
@@ -855,7 +828,7 @@
    "priceText": "£8",
    "discount": null,
    "code": "",
-   "heat": 779.5,
+   "heat": 783.1,
    "rating": null,
    "published": "2026-11-09T00:22:10Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -1375,7 +1348,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-15T23:59:00Z",
+   "expires": "2026-11-22T23:59:00Z",
    "venue": "London",
    "score": 76
   },
@@ -1453,31 +1426,6 @@
    "score": 75
   },
   {
-   "id": "olt-cabaret-111429752",
-   "source": "olt",
-   "title": "Cabaret",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 34%",
-    "From £37.15"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/cabaret-111429752/",
-   "image": "https://officiallondontheatre.com/app/uploads/2021/11/1200x600-2-1-768x384.jpg",
-   "price": 37.15,
-   "priceText": "from £37.15",
-   "discount": 34,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-19T23:59:00Z",
-   "venue": "London",
-   "score": 75
-  },
-  {
    "id": "todaytix-37379",
    "source": "todaytix",
    "title": "Come Alive! The Greatest Showman Circus Spectacular",
@@ -1526,31 +1474,6 @@
    "score": 75
   },
   {
-   "id": "todaytix-47552",
-   "source": "todaytix",
-   "title": "Gospel by Candlelight",
-   "subtitle": "Round Chapel, Hackney",
-   "category": "music",
-   "kind": "rush",
-   "badges": [
-    "£20 Rush Tickets",
-    "Exclusive Prices"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47552-gospel-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/CbXI70zQo6tuyU3AHYknn/1838950e01c92a0d7a8ece432e9fbb97/1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-14T23:59:00Z",
-   "venue": "Round Chapel, Hackney, London",
-   "score": 75
-  },
-  {
    "id": "todaytix-24465",
    "source": "todaytix",
    "title": "Hadestown",
@@ -1572,6 +1495,31 @@
    "published": null,
    "expires": null,
    "venue": "Lyric Theatre, London",
+   "score": 75
+  },
+  {
+   "id": "olt-hamilton-tickets-366811",
+   "source": "olt",
+   "title": "Hamilton",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 33%",
+    "From £23"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/hamilton-tickets-366811/",
+   "image": "https://officiallondontheatre.com/app/uploads/2016/06/Hamilton_p7wpox-1-1-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 33,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-20T23:59:00Z",
+   "venue": "London",
    "score": 75
   },
   {
@@ -1967,6 +1915,31 @@
    "score": 75
   },
   {
+   "id": "olt-cabaret-111429752",
+   "source": "olt",
+   "title": "Cabaret",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 32%",
+    "From £37.15"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/cabaret-111429752/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/11/1200x600-2-1-768x384.jpg",
+   "price": 37.15,
+   "priceText": "from £37.15",
+   "discount": 32,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-21T23:59:00Z",
+   "venue": "London",
+   "score": 74
+  },
+  {
    "id": "hukd-5013201",
    "source": "hukd",
    "title": "Odeon Kids Screenings (£0.90 When You Book Online and in Cinema as a Extras Plus Member)",
@@ -2284,7 +2257,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-18T23:59:00Z",
+   "expires": "2026-11-19T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2510,31 +2483,6 @@
    "score": 69
   },
   {
-   "id": "hukd-4988790",
-   "source": "hukd",
-   "title": "Yorkshire's Winter Wonderland – Half Price Ice Skating & Funfair - Family of 4 ticket",
-   "subtitle": "Planet Offers",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "61°",
-    "50% off"
-   ],
-   "merchant": "Planet Offers",
-   "url": "https://www.hotukdeals.com/deals/yorkshires-winter-wonderland-half-price-ice-skating-funfair-4988790",
-   "image": "https://images.hotukdeals.com/threads/raw/mQLf5/4988790_1/re/768x768/qt/60/4988790_1.jpg",
-   "price": 33.9,
-   "priceText": "£33.90",
-   "discount": 50,
-   "code": "",
-   "heat": 61.1,
-   "rating": null,
-   "published": "2026-09-25T11:46:54Z",
-   "expires": null,
-   "venue": "",
-   "score": 69
-  },
-  {
    "id": "olt-neighbour-totoro-tickets-111433417",
    "source": "olt",
    "title": "My Neighbour Totoro",
@@ -2555,7 +2503,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-18T23:59:00Z",
+   "expires": "2026-11-20T23:59:00Z",
    "venue": "London",
    "score": 68
   },
@@ -2607,6 +2555,31 @@
    "published": null,
    "expires": "2026-12-19T23:59:00Z",
    "venue": "London",
+   "score": 68
+  },
+  {
+   "id": "hukd-4988790",
+   "source": "hukd",
+   "title": "Yorkshire's Winter Wonderland – Half Price Ice Skating & Funfair - Family of 4 ticket",
+   "subtitle": "Planet Offers",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "61°",
+    "50% off"
+   ],
+   "merchant": "Planet Offers",
+   "url": "https://www.hotukdeals.com/deals/yorkshires-winter-wonderland-half-price-ice-skating-funfair-4988790",
+   "image": "https://images.hotukdeals.com/threads/raw/mQLf5/4988790_1/re/768x768/qt/60/4988790_1.jpg",
+   "price": 33.9,
+   "priceText": "£33.90",
+   "discount": 50,
+   "code": "",
+   "heat": 61.1,
+   "rating": null,
+   "published": "2026-09-25T11:46:54Z",
+   "expires": null,
+   "venue": "",
    "score": 68
   },
   {
@@ -2691,7 +2664,7 @@
    "category": "comedy",
    "kind": "deal",
    "badges": [
-    "356°"
+    "359°"
    ],
    "merchant": "Wowcher",
    "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
@@ -2700,7 +2673,7 @@
    "priceText": "£22",
    "discount": null,
    "code": "",
-   "heat": 355.9,
+   "heat": 359.3,
    "rating": null,
    "published": "2026-11-06T15:49:52Z",
    "expires": "2026-12-31T23:59:00Z",
@@ -2731,6 +2704,32 @@
    "expires": "2026-11-15T23:59:00Z",
    "venue": "London",
    "score": 66
+  },
+  {
+   "id": "todaytix-47552",
+   "source": "todaytix",
+   "title": "Gospel by Candlelight",
+   "subtitle": "Round Chapel, Hackney",
+   "category": "music",
+   "kind": "offer",
+   "badges": [
+    "Save 22%",
+    "£20 Rush Tickets",
+    "Exclusive Prices"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47552-gospel-by-candlelight",
+   "image": "https://images.ctfassets.net/6pezt69ih962/CbXI70zQo6tuyU3AHYknn/1838950e01c92a0d7a8ece432e9fbb97/1080_x_1080.png?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 22,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-14T23:59:00Z",
+   "venue": "Round Chapel, Hackney, London",
+   "score": 65
   },
   {
    "id": "todaytix-28218",
@@ -2929,6 +2928,78 @@
    "expires": null,
    "venue": "",
    "score": 52
+  },
+  {
+   "id": "news-best-sky-stream-offers-for-november-2026-deals-and-tv-bundles-for-new-and-existi",
+   "source": "news",
+   "title": "Best Sky Stream offers for November 2026: Deals and TV bundles for new and existing Sky customers",
+   "subtitle": "Radio Times",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Radio Times"
+   ],
+   "merchant": "Radio Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRJOC0xamhsU0tNUDhpYzJIMzIwaDlYWW5UdFVWRXdEQ2wyM1lFQjVsc3RIbWVETTBKb1FlRzdXdFE1WGZsNjg4eWd0LXRhN1R0X0FsQVd0MkczTHNQYVNIZnhKcDdSNU1tTGQ5bFZHVFp5THd5dU5iblZoZnY2U2R0ZmQ?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-05T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-discounted-panto-tickets-open-doors-for-families",
+   "source": "news",
+   "title": "Discounted panto tickets open doors for families",
+   "subtitle": "BBC",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "BBC"
+   ],
+   "merchant": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wV2ZvZzI5SGFScEstcVZOckd4UW5nQUU2UlF2dFcxa0pmMEplSUpIYzNhVU55Tk5DS21VeDBnbG5Id0FkXy1ZRVJkcUZfR0M0dmpVRGwwdFc2bHFQWVE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-05T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-how-does-the-american-express-pre-sale-work-on-ticketmaster",
+   "source": "news",
+   "title": "How does the American Express pre-sale work on Ticketmaster?",
+   "subtitle": "Radio Times",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "Radio Times"
+   ],
+   "merchant": "Radio Times",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWRiVm1OVG5OTWZGQjZDX2JaamdYaDhvSXJLOG1Ba0hpd293MnM3NExuYzh1ZVNvc1d5LVZ3dzdFTlJzUjFwNTVrVzZrXzk5bWtmeTh1aThXZ0tOZWUwSFROY1BsTloxZ1hxQ3RYOUxYcnQzQ1N5MVkzeEJYRkZxT0hB?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-04T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
   }
  ]
 }
