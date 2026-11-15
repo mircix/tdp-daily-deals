@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-15T16:26:55Z",
+ "generatedAt": "2026-11-15T22:57:41Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 34,
+   "count": 32,
    "errors": []
   },
   {
@@ -63,31 +63,6 @@
  ],
  "deals": [
   {
-   "id": "hukd-5028751",
-   "source": "hukd",
-   "title": "Free cinema tickets from Tesco for Arthur Christmas at Cineworld on 21st November + Drinks and Snacks for up to 4 people (Invite Via Email)",
-   "subtitle": "Show Film First",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "887°",
-    "FREE"
-   ],
-   "merchant": "Show Film First",
-   "url": "https://www.hotukdeals.com/deals/free-tickets-from-tesco-to-arthur-christmas-at-cineworld-on-21-november-plus-drinks-and-snacks-for-up-to-4-people-5028751",
-   "image": "https://images.hotukdeals.com/threads/raw/OwARp/5028751_1/re/768x768/qt/60/5028751_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 887.3,
-   "rating": null,
-   "published": "2026-11-10T19:52:25Z",
-   "expires": "2026-11-21T15:30:00Z",
-   "venue": "",
-   "score": 91
-  },
-  {
    "id": "hukd-5033165",
    "source": "hukd",
    "title": "Buckingham Palace tickets (per person) for Aug-Sep 2027 visits, for those on Universal Credit, Pension Credit, or other named benefits",
@@ -95,7 +70,7 @@
    "category": "music",
    "kind": "deal",
    "badges": [
-    "539°",
+    "1068°",
     "97% off"
    ],
    "merchant": "The Royal Collection Trust",
@@ -105,10 +80,35 @@
    "priceText": "£1",
    "discount": 97,
    "code": "",
-   "heat": 538.6,
+   "heat": 1067.6,
    "rating": null,
    "published": "2026-11-14T23:04:05Z",
    "expires": "2027-09-26T22:59:00Z",
+   "venue": "",
+   "score": 92
+  },
+  {
+   "id": "hukd-5028751",
+   "source": "hukd",
+   "title": "Free cinema tickets from Tesco for Arthur Christmas at Cineworld on 21st November + Drinks and Snacks for up to 4 people (Invite Via Email)",
+   "subtitle": "Show Film First",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "885°",
+    "FREE"
+   ],
+   "merchant": "Show Film First",
+   "url": "https://www.hotukdeals.com/deals/free-tickets-from-tesco-to-arthur-christmas-at-cineworld-on-21-november-plus-drinks-and-snacks-for-up-to-4-people-5028751",
+   "image": "https://images.hotukdeals.com/threads/raw/OwARp/5028751_1/re/768x768/qt/60/5028751_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 885.3,
+   "rating": null,
+   "published": "2026-11-10T19:52:25Z",
+   "expires": "2026-11-21T15:30:00Z",
    "venue": "",
    "score": 90
   },
@@ -543,7 +543,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "599°",
+    "602°",
     "50% off"
    ],
    "merchant": "Compare The Market",
@@ -553,7 +553,7 @@
    "priceText": "",
    "discount": 50,
    "code": "",
-   "heat": 598.9,
+   "heat": 602.4,
    "rating": null,
    "published": "2026-11-10T15:59:41Z",
    "expires": "2027-07-19T22:59:00Z",
@@ -1009,31 +1009,6 @@
    "score": 78
   },
   {
-   "id": "olt-high-school-musical-111473306",
-   "source": "olt",
-   "title": "High School Musical",
-   "subtitle": "Family, Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 39%",
-    "From £36"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
-   "price": 36.0,
-   "priceText": "from £36",
-   "discount": 39,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-15T23:59:00Z",
-   "venue": "London",
-   "score": 78
-  },
-  {
    "id": "olt-the-play-that-goes-wrong-228430",
    "source": "olt",
    "title": "The Play That Goes Wrong",
@@ -1309,7 +1284,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "2640°"
+    "2645°"
    ],
    "merchant": "Three",
    "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
@@ -1318,7 +1293,7 @@
    "priceText": "£1",
    "discount": null,
    "code": "",
-   "heat": 2639.5,
+   "heat": 2645.0,
    "rating": null,
    "published": "2026-09-29T06:52:16Z",
    "expires": null,
@@ -2138,30 +2113,6 @@
    "score": 72
   },
   {
-   "id": "hukd-5019107",
-   "source": "hukd",
-   "title": "Cinema tickets at Showcase Cinema de Lux Paisley or Coatbridge",
-   "subtitle": "itison",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "82°"
-   ],
-   "merchant": "itison",
-   "url": "https://www.hotukdeals.com/deals/showcase-paisley-or-coatbridge-cinema-tickets-ps5-5019107",
-   "image": "https://images.hotukdeals.com/threads/raw/yv9fi/5019107_1/re/768x768/qt/60/5019107_1.jpg",
-   "price": 5.49,
-   "priceText": "£5.49",
-   "discount": null,
-   "code": "",
-   "heat": 82.0,
-   "rating": null,
-   "published": "2026-10-31T20:35:38Z",
-   "expires": "2026-12-31T23:59:00Z",
-   "venue": "",
-   "score": 71
-  },
-  {
    "id": "hukd-4962031",
    "source": "hukd",
    "title": "Hyde Park Winter Wonderland Tickets - November-January Dates",
@@ -2209,6 +2160,30 @@
    "expires": "2027-01-03T23:59:00Z",
    "venue": "London",
    "score": 71
+  },
+  {
+   "id": "hukd-5019107",
+   "source": "hukd",
+   "title": "Cinema tickets at Showcase Cinema de Lux Paisley or Coatbridge",
+   "subtitle": "itison",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "82°"
+   ],
+   "merchant": "itison",
+   "url": "https://www.hotukdeals.com/deals/showcase-paisley-or-coatbridge-cinema-tickets-ps5-5019107",
+   "image": "https://images.hotukdeals.com/threads/raw/yv9fi/5019107_1/re/768x768/qt/60/5019107_1.jpg",
+   "price": 5.49,
+   "priceText": "£5.49",
+   "discount": null,
+   "code": "",
+   "heat": 82.0,
+   "rating": null,
+   "published": "2026-10-31T20:35:38Z",
+   "expires": "2026-12-31T23:59:00Z",
+   "venue": "",
+   "score": 70
   },
   {
    "id": "todaytix-26120",
@@ -2318,13 +2293,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 22%",
-    "From £18"
+    "From £28"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
    "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 22,
    "code": "",
    "heat": null,
@@ -2581,31 +2556,6 @@
    "expires": "2027-01-17T23:59:00Z",
    "venue": "Alexandra Palace, London",
    "score": 64
-  },
-  {
-   "id": "olt-six-vaudeville-theatre-111428236",
-   "source": "olt",
-   "title": "Six",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 13%",
-    "From £37.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
-   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
-   "price": 37.5,
-   "priceText": "from £37.50",
-   "discount": 13,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "London",
-   "score": 63
   },
   {
    "id": "hukd-4989981",
