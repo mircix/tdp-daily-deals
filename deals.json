@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-15T22:57:41Z",
+ "generatedAt": "2026-11-16T06:46:35Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 32,
+   "count": 30,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 50,
+   "count": 46,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 24,
+   "count": 21,
    "errors": []
   },
   {
@@ -62,31 +62,6 @@
   }
  ],
  "deals": [
-  {
-   "id": "hukd-5033165",
-   "source": "hukd",
-   "title": "Buckingham Palace tickets (per person) for Aug-Sep 2027 visits, for those on Universal Credit, Pension Credit, or other named benefits",
-   "subtitle": "The Royal Collection Trust",
-   "category": "music",
-   "kind": "deal",
-   "badges": [
-    "1068°",
-    "97% off"
-   ],
-   "merchant": "The Royal Collection Trust",
-   "url": "https://www.hotukdeals.com/deals/buckingham-palace-tickets-per-person-for-aug-sep-2027-visits-for-those-on-universal-credit-pension-credit-or-other-named-benefits-5033165",
-   "image": "https://images.hotukdeals.com/threads/raw/J3VmX/5033165_1/re/768x768/qt/60/5033165_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": 97,
-   "code": "",
-   "heat": 1067.6,
-   "rating": null,
-   "published": "2026-11-14T23:04:05Z",
-   "expires": "2027-09-26T22:59:00Z",
-   "venue": "",
-   "score": 92
-  },
   {
    "id": "hukd-5028751",
    "source": "hukd",
@@ -310,31 +285,6 @@
    "published": "2026-09-20T23:22:56Z",
    "expires": null,
    "venue": "",
-   "score": 85
-  },
-  {
-   "id": "todaytix-36456",
-   "source": "todaytix",
-   "title": "The Hunger Games: On Stage",
-   "subtitle": "Troubadour Canary Wharf Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 56%",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/36456-the-hunger-games",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5AsPwIDheKTDPr9x3y0Yt0/3b295038c37daa0d8350f6e02ed8c9c7/THG_TTG_ASSETS_FEB26_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 29.0,
-   "priceText": "from £29",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "Troubadour Canary Wharf Theatre, London",
    "score": 85
   },
   {
@@ -711,30 +661,6 @@
    "expires": null,
    "venue": "",
    "score": 81
-  },
-  {
-   "id": "hukd-5017207",
-   "source": "hukd",
-   "title": "10,000 free pairs of Cineworld standard 2D cinema tickets via Sun Club (both new + existing users, membership £1 for 3 months, else £1.99pm)",
-   "subtitle": "The Sun",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "1307°"
-   ],
-   "merchant": "The Sun",
-   "url": "https://www.hotukdeals.com/deals/10000-free-pairs-of-cineworld-standard-2d-cinema-tickets-via-sun-club-both-new-existing-users-ps199month-membership-5017207",
-   "image": "https://images.hotukdeals.com/threads/raw/RYqqL/5017207_1/re/768x768/qt/60/5017207_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 1306.8,
-   "rating": null,
-   "published": "2026-11-01T00:00:02Z",
-   "expires": "2026-11-15T23:59:00Z",
-   "venue": "",
-   "score": 80
   },
   {
    "id": "todaytix-47105",
@@ -1114,8 +1040,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets",
-    "Pay No Fees"
+    "£30 Rush tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/12201-six-the-musical",
@@ -1323,30 +1248,6 @@
    "published": null,
    "expires": "2026-11-28T23:59:00Z",
    "venue": "Riverside Studios, London",
-   "score": 75
-  },
-  {
-   "id": "todaytix-47410",
-   "source": "todaytix",
-   "title": "An Oak Tree",
-   "subtitle": "The Other Palace - Main Theatre",
-   "category": "theatre",
-   "kind": "rush",
-   "badges": [
-    "£25 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47410-an-oak-tree",
-   "image": "https://images.ctfassets.net/6pezt69ih962/EqTr6TQLPtG9NGYA5WmPS/295b9642b33a2994c9fea578acbe244c/AOT26_FMP26_TOP_ATG_1x1.png?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-15T23:59:00Z",
-   "venue": "The Other Palace - Main Theatre, London",
    "score": 75
   },
   {
@@ -1791,31 +1692,6 @@
    "score": 74
   },
   {
-   "id": "olt-jesus-christ-superstar-111470377",
-   "source": "olt",
-   "title": "Jesus Christ Superstar",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Special offer",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/jesus-christ-superstar-111470377/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/03/8490_82_JCS_OLT_1200x600-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "London",
-   "score": 73
-  },
-  {
    "id": "olt-mamma-mia-148257",
    "source": "olt",
    "title": "Mamma Mia!",
@@ -2089,30 +1965,6 @@
    "score": 72
   },
   {
-   "id": "todaytix-302",
-   "source": "todaytix",
-   "title": "The Lion King",
-   "subtitle": "Lyceum Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Exclusive Prices"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/302-the-lion-king",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6BUur5zWD99m4kerNRQvzv/793f6544d28035d8f4e22eeee0542252/LK-2025-07-square_banner-1080x1080-54645SA-34-.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": 4.67,
-   "published": null,
-   "expires": null,
-   "venue": "Lyceum Theatre, London",
-   "score": 72
-  },
-  {
    "id": "hukd-4962031",
    "source": "hukd",
    "title": "Hyde Park Winter Wonderland Tickets - November-January Dates",
@@ -2134,31 +1986,6 @@
    "published": "2026-08-20T09:10:22Z",
    "expires": "2027-01-03T23:59:00Z",
    "venue": "",
-   "score": 71
-  },
-  {
-   "id": "olt-potted-panto-111449808",
-   "source": "olt",
-   "title": "Potted Panto",
-   "subtitle": "Entertainment, Christmas, Comedy",
-   "category": "comedy",
-   "kind": "offer",
-   "badges": [
-    "Save up to 27%",
-    "From £27.60"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/potted-panto-111449808/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/09/PottedPanto_1200x600px-1-768x384.jpg",
-   "price": 27.6,
-   "priceText": "from £27.60",
-   "discount": 27,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "London",
    "score": 71
   },
   {
@@ -2385,30 +2212,6 @@
    "score": 68
   },
   {
-   "id": "todaytix-48370",
-   "source": "todaytix",
-   "title": "Christmas by Candlelight",
-   "subtitle": "The Actors' Church",
-   "category": "music",
-   "kind": "offer",
-   "badges": [
-    "Save 25%"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/48370-christmas-by-candlelight",
-   "image": "https://images.ctfassets.net/6pezt69ih962/3vBxQgekhLts8LGKCnPE7S/cc3315197799bd46532ab4d344ae0250/_1__CBC_-_1080_x_1080.jpg?w=400&h=400&fit=fill",
-   "price": 15.0,
-   "priceText": "from £15",
-   "discount": 25,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-12-23T23:59:00Z",
-   "venue": "The Actors' Church, London",
-   "score": 67
-  },
-  {
    "id": "todaytix-40713",
    "source": "todaytix",
    "title": "Oliver!",
@@ -2466,7 +2269,7 @@
    "category": "comedy",
    "kind": "deal",
    "badges": [
-    "372°"
+    "390°"
    ],
    "merchant": "Wowcher",
    "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
@@ -2475,7 +2278,7 @@
    "priceText": "£22",
    "discount": null,
    "code": "",
-   "heat": 372.3,
+   "heat": 390.1,
    "rating": null,
    "published": "2026-11-06T15:49:52Z",
    "expires": "2026-12-31T23:59:00Z",
@@ -2583,30 +2386,6 @@
    "score": 63
   },
   {
-   "id": "hukd-4982531",
-   "source": "hukd",
-   "title": "College and university students tickets (Limited number - first come, first served basis)",
-   "subtitle": "Octagon Theatre Bolton",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "56°"
-   ],
-   "merchant": "Octagon Theatre Bolton",
-   "url": "https://www.hotukdeals.com/deals/ps8-theatre-tickets-at-the-octagon-bolton-4982531",
-   "image": "https://images.hotukdeals.com/threads/raw/161Cu/4982531_1/re/768x768/qt/60/4982531_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 55.8,
-   "rating": null,
-   "published": "2026-09-16T09:14:36Z",
-   "expires": null,
-   "venue": "",
-   "score": 62
-  },
-  {
    "id": "hukd-5029407",
    "source": "hukd",
    "title": "20% off Gift cards (Odeon and Virgin Experience)",
@@ -2679,6 +2458,30 @@
    "expires": null,
    "venue": "",
    "score": 52
+  },
+  {
+   "id": "news-eight-ways-to-save-money-on-christmas-theatre-tickets-including-1-best-day-to-go",
+   "source": "news",
+   "title": "Eight ways to save money on Christmas theatre tickets - including 1 best day to go",
+   "subtitle": "Daily Express",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Daily Express"
+   ],
+   "merchant": "Daily Express",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWVIZmcwMUFXTDZuUklMSFNERHEySWI0QWp3cEFDQ0JKbGNidFJ3MXNmc0NmTXlGWTFnV1pDaFI5NjhHVEFYdzEzZHdsWFFUdHdGN0xGcFhnZmUxc045Z1hWTk0wN2JaSF9ranBtZFdITDZpcXlvUFp6ZkJ6aHh6X1YydkdDeFY3Uks5YVhSVHduck9KTjRJZjNCaG5WN0hLUU5zVU5ubkHSAa4BQVVfeXFMTmpxMmhWUnBCV2tVd0VoQUo5anlsY1pNZm5rTHZIaTBFQ3JoVUxHUU5hSmliRmdJa0VodHBSQnNBLXRiS0Q0MTJPNzh0aXFXbm5KVFpIX1BJSGJ5QU1vSnlsZ05jMkh3QUhMT3N1QUo1cURJa0RYZm1iMzNEeEtxSzBHem4wSVdnaF9OY0Q2RW5VeW5zVTY3UEF1U3JWVjl3R2Frekx5Q1VTb2ZOdkdB?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-15T23:06:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 49
   },
   {
    "id": "news-scottish-cinemas-giving-away-free-tickets-to-new-peaky-blinders-star-s-film",
@@ -2788,30 +2591,6 @@
    ],
    "merchant": "Radio Times",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOSmprSUxibmxBTWE0aEs0ektlbXExU2JlR0s0MjRlcEZUVlZEbzk1NFpZaTBlMVFIOFFQbE5udW5mMFFlYVJLQzdVMmM0REZ3blhYUktMX0hBQmxaOFkxRVV3T2QzbW5mX1AtTGlpRDBTMDR4WWJwWExPVHN0RXM?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-06T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-single-tout-offers-nine-in-ten-west-end-theatre-tickets-on-viagogo",
-   "source": "news",
-   "title": "Single tout offers nine in ten West End theatre tickets on Viagogo",
-   "subtitle": "The Times",
-   "category": "theatre",
-   "kind": "news",
-   "badges": [
-    "The Times"
-   ],
-   "merchant": "The Times",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmhVUlNqbDg3Z0d5ckNtREpGTDlpUDhObVlXM1BTbjlnR3dqRWo4U19waXFWVnVST1JFMGd2d05nUkh3ZDFaemZEcjlmM2h4TGV2RXBnOU54ZmNRdS1kUEJDd2l1bnFOaE96MXJwSmZIaGtndGhXaGpUNlBOMlJ6Y05UbEV1Q01OeklTQlBCVzg1bjN4YnIwb0lxWUY5R0pUd2pMMUc3cnRTTVZmVGhxeVRfTHRtSWd0YmwxV1lZaktSTTFKTWw1SndqYw?oc=5",
    "image": "",
    "price": null,
    "priceText": "",
