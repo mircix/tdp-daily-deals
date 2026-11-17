@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-17T03:58:50Z",
+ "generatedAt": "2026-11-17T16:13:37Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 33,
+   "count": 35,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 24,
+   "count": 25,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 7,
+   "count": 6,
    "errors": []
   }
  ],
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "887°",
+    "895°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 887.1,
+   "heat": 895.1,
    "rating": null,
    "published": "2026-11-10T19:52:25Z",
    "expires": "2026-11-21T15:30:00Z",
@@ -120,7 +120,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "659°",
+    "661°",
     "FREE"
    ],
    "merchant": "",
@@ -130,7 +130,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 658.9,
+   "heat": 660.7,
    "rating": null,
    "published": "2026-11-10T13:30:39Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -211,6 +211,32 @@
    "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
+  },
+  {
+   "id": "todaytix-46909",
+   "source": "todaytix",
+   "title": "High School Musical",
+   "subtitle": "Troubadour Wembley Park Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 60%",
+    "£30 Rush tickets",
+    "Exclusive Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 37.0,
+   "priceText": "from £37",
+   "discount": 60,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Troubadour Wembley Park Theatre, London",
+   "score": 87
   },
   {
    "id": "olt-the-smartest-giant-in-town-111473985",
@@ -308,7 +334,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-18T23:59:00Z",
+   "expires": "2026-11-19T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -385,6 +411,32 @@
    "published": null,
    "expires": "2026-11-27T23:59:00Z",
    "venue": "London",
+   "score": 84
+  },
+  {
+   "id": "todaytix-45447",
+   "source": "todaytix",
+   "title": "Oh, Mary!",
+   "subtitle": "Trafalgar Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 54%",
+    "£30 Rush tickets",
+    "Special Offer"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/45447-oh-mary",
+   "image": "https://images.ctfassets.net/6pezt69ih962/6awwHL3N70d3fX9Q8W9a3W/63c3b3f6c31bd2521c4d7aa1977875d9/8447_127_OHM_Lolly_TTG_1080x1080_v1.jpg?w=400&h=400&fit=fill",
+   "price": 23.0,
+   "priceText": "from £23",
+   "discount": 54,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "Trafalgar Theatre, London",
    "score": 84
   },
   {
@@ -606,7 +658,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-23T23:59:00Z",
+   "expires": "2026-11-24T23:59:00Z",
    "venue": "London",
    "score": 82
   },
@@ -659,32 +711,6 @@
    "published": null,
    "expires": "2027-01-03T23:59:00Z",
    "venue": "Shaftesbury Theatre, London",
-   "score": 81
-  },
-  {
-   "id": "todaytix-46909",
-   "source": "todaytix",
-   "title": "High School Musical",
-   "subtitle": "Troubadour Wembley Park Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 49%",
-    "£30 Rush tickets",
-    "Exclusive Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 37.0,
-   "priceText": "from £37",
-   "discount": 49,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "Troubadour Wembley Park Theatre, London",
    "score": 81
   },
   {
@@ -782,7 +808,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-20T23:59:00Z",
+   "expires": "2026-11-24T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -932,32 +958,6 @@
    "published": null,
    "expires": "2026-12-06T23:59:00Z",
    "venue": "The Arts at Marble Arch Powered by TodayTix, London",
-   "score": 79
-  },
-  {
-   "id": "todaytix-45447",
-   "source": "todaytix",
-   "title": "Oh, Mary!",
-   "subtitle": "Trafalgar Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 47%",
-    "£30 Rush tickets",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/45447-oh-mary",
-   "image": "https://images.ctfassets.net/6pezt69ih962/6awwHL3N70d3fX9Q8W9a3W/63c3b3f6c31bd2521c4d7aa1977875d9/8447_127_OHM_Lolly_TTG_1080x1080_v1.jpg?w=400&h=400&fit=fill",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 47,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "Trafalgar Theatre, London",
    "score": 79
   },
   {
@@ -1275,30 +1275,6 @@
    "published": null,
    "expires": "2026-11-22T23:59:00Z",
    "venue": "London",
-   "score": 76
-  },
-  {
-   "id": "hukd-4991179",
-   "source": "hukd",
-   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
-   "subtitle": "Three",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "2645°"
-   ],
-   "merchant": "Three",
-   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
-   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
-   "price": 1,
-   "priceText": "£1",
-   "discount": null,
-   "code": "",
-   "heat": 2645.0,
-   "rating": null,
-   "published": "2026-09-29T06:52:16Z",
-   "expires": null,
-   "venue": "",
    "score": 76
   },
   {
@@ -1695,6 +1671,30 @@
    "score": 75
   },
   {
+   "id": "hukd-4991179",
+   "source": "hukd",
+   "title": "£1 Cinema Ticket - All Formats IMAX, 4DX, ScreenX, Super Screen Via Three+ Rewards (Selected Venues)",
+   "subtitle": "Three",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "2645°"
+   ],
+   "merchant": "Three",
+   "url": "https://www.hotukdeals.com/deals/ps1-ticket-all-formats-including-imax-4dx-screenx-super-screen-4991179",
+   "image": "https://images.hotukdeals.com/threads/raw/CYE6O/4991179_1/re/768x768/qt/60/4991179_1.jpg",
+   "price": 1,
+   "priceText": "£1",
+   "discount": null,
+   "code": "",
+   "heat": 2645.0,
+   "rating": null,
+   "published": "2026-09-29T06:52:16Z",
+   "expires": null,
+   "venue": "",
+   "score": 75
+  },
+  {
    "id": "olt-cabaret-111429752",
    "source": "olt",
    "title": "Cabaret",
@@ -1715,7 +1715,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-23T23:59:00Z",
+   "expires": "2026-11-24T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -1780,7 +1780,7 @@
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/mamma-mia-148257/",
-   "image": "https://officiallondontheatre.com/app/uploads/2012/07/MM-JUL24-BBs-SOLT-1200x600-1-768x384.jpg",
+   "image": "https://officiallondontheatre.com/app/uploads/2012/07/MM-2026-10-xmas26-jetski-BB-63101SGA-SOLT-1200x600-1-768x384.jpg",
    "price": 20.5,
    "priceText": "from £20.50",
    "discount": null,
@@ -1843,6 +1843,31 @@
    "score": 73
   },
   {
+   "id": "olt-operation-mincemeat-111449209",
+   "source": "olt",
+   "title": "Operation Mincemeat",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Special offer",
+    "From £53.24"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/operation-mincemeat-111449209/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/05/operation-mincemeat-2-1-768x384.jpg",
+   "price": 53.24,
+   "priceText": "from £53.24",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "London",
+   "score": 73
+  },
+  {
    "id": "olt-pride-111469360",
    "source": "olt",
    "title": "Pride",
@@ -1858,6 +1883,31 @@
    "image": "https://officiallondontheatre.com/app/uploads/2026/02/PRIDE_SOLT-ASSETS_AUG26_AW_1200x600-768x384.jpg",
    "price": 24.0,
    "priceText": "from £24",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "London",
+   "score": 73
+  },
+  {
+   "id": "olt-rent-111473523",
+   "source": "olt",
+   "title": "Rent",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Special offer",
+    "From £22.51"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/rent-111473523/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/05/6a0740e541c80e555922bed5_RENT_ATG_ON-SALE-ASSETS-MAY26_1920x1080-TITLE-TREATMENT-768x432.jpg",
+   "price": 22.51,
+   "priceText": "from £22.51",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2011,7 +2061,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-19T23:59:00Z",
+   "expires": "2026-11-24T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2120,7 +2170,6 @@
    "category": "comedy",
    "kind": "offer",
    "badges": [
-    "Save 30%",
     "Special Offer"
    ],
    "merchant": "TodayTix",
@@ -2128,7 +2177,7 @@
    "image": "https://images.ctfassets.net/6pezt69ih962/1AjY4hTzAkRjHXaiTiGi3K/3aac27da808c6e0df7b864620f915708/KURIOS_TTG_ASSETS_SEP26_AW_1080x1080.jpg?w=400&h=400&fit=fill",
    "price": 45.0,
    "priceText": "from £45",
-   "discount": 30,
+   "discount": null,
    "code": "",
    "heat": null,
    "rating": null,
@@ -2393,7 +2442,7 @@
    "category": "cinema",
    "kind": "voucher",
    "badges": [
-    "89°",
+    "93°",
     "Code BF2026"
    ],
    "merchant": "ODEON",
@@ -2403,7 +2452,7 @@
    "priceText": "£53.97",
    "discount": null,
    "code": "BF2026",
-   "heat": 89.2,
+   "heat": 93.4,
    "rating": null,
    "published": "2026-11-16T13:50:52Z",
    "expires": "2026-11-30T23:59:00Z",
@@ -2418,7 +2467,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "177°"
+    "200°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/odeon-ps100-gift-card-for-ps75-5034669",
@@ -2427,7 +2476,7 @@
    "priceText": "£75",
    "discount": null,
    "code": "",
-   "heat": 177.4,
+   "heat": 200.1,
    "rating": null,
    "published": "2026-11-16T11:25:54Z",
    "expires": "2026-11-30T23:59:00Z",
@@ -2559,6 +2608,30 @@
    "score": 62
   },
   {
+   "id": "hukd-5036014",
+   "source": "hukd",
+   "title": "The Road Home - A Special Research Screening Thursday 19 November - Odeon Wimbledon",
+   "subtitle": "Show Film First",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "50°"
+   ],
+   "merchant": "Show Film First",
+   "url": "https://www.hotukdeals.com/deals/the-road-home-a-special-research-screening-thursday-19-november-odeon-wimbledon-5036014",
+   "image": "https://images.hotukdeals.com/threads/raw/3IvbQ/5036014_1/re/768x768/qt/60/5036014_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": 50.3,
+   "rating": null,
+   "published": "2026-11-17T11:06:04Z",
+   "expires": "2026-11-19T23:59:00Z",
+   "venue": "",
+   "score": 61
+  },
+  {
    "id": "hukd-5029407",
    "source": "hukd",
    "title": "20% off Gift cards (Odeon and Virgin Experience)",
@@ -2679,30 +2752,6 @@
    "expires": null,
    "venue": "",
    "score": 48
-  },
-  {
-   "id": "news-best-sky-stream-offers-for-november-2026-deals-and-tv-bundles-for-new-and-existi",
-   "source": "news",
-   "title": "Best Sky Stream offers for November 2026: Deals and TV bundles for new and existing Sky customers",
-   "subtitle": "Radio Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Radio Times"
-   ],
-   "merchant": "Radio Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRJOC0xamhsU0tNUDhpYzJIMzIwaDlYWW5UdFVWRXdEQ2wyM1lFQjVsc3RIbWVETTBKb1FlRzdXdFE1WGZsNjg4eWd0LXRhN1R0X0FsQVd0MkczTHNQYVNIZnhKcDdSNU1tTGQ5bFZHVFp5THd5dU5iblZoZnY2U2R0ZmQ?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-05T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
   },
   {
    "id": "news-discounted-panto-tickets-open-doors-for-families",
