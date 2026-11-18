@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-18T01:01:31Z",
+ "generatedAt": "2026-11-18T11:55:32Z",
  "sources": [
   {
    "id": "olt",
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 26,
+   "count": 25,
    "errors": []
   },
   {
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "929°",
+    "937°",
     "FREE"
    ],
    "merchant": "Show Film First",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 929.2,
+   "heat": 937.1,
    "rating": null,
    "published": "2026-11-10T19:52:25Z",
    "expires": null,
@@ -227,8 +227,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
    "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 37.0,
-   "priceText": "from £37",
+   "price": 31.0,
+   "priceText": "from £31",
    "discount": 60,
    "code": "",
    "heat": null,
@@ -334,7 +334,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-23T23:59:00Z",
+   "expires": "2026-11-24T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -683,7 +683,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-24T23:59:00Z",
+   "expires": "2026-11-25T23:59:00Z",
    "venue": "London",
    "score": 82
   },
@@ -710,31 +710,6 @@
    "published": null,
    "expires": "2026-11-19T23:59:00Z",
    "venue": "London",
-   "score": 82
-  },
-  {
-   "id": "hukd-5036522",
-   "source": "hukd",
-   "title": "Unspeakable Hosted By Phil Wang & Susie Dent - The Christmas Special - Free audience tickets - Backyard Comedy Club, Bethnal Green",
-   "subtitle": "SRO Audiences",
-   "category": "comedy",
-   "kind": "free",
-   "badges": [
-    "59°",
-    "FREE"
-   ],
-   "merchant": "SRO Audiences",
-   "url": "https://www.hotukdeals.com/deals/unspeakable-hosted-by-phil-wang-susie-dent-the-christmas-special-free-audience-tickets-backyard-comedy-club-bethnal-green-5036522",
-   "image": "https://images.hotukdeals.com/threads/raw/GPe0n/5036522_1/re/768x768/qt/60/5036522_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 58.6,
-   "rating": null,
-   "published": "2026-11-17T18:50:14Z",
-   "expires": "2026-12-02T23:59:00Z",
-   "venue": "",
    "score": 82
   },
   {
@@ -858,7 +833,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-24T23:59:00Z",
+   "expires": "2026-11-25T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -1019,13 +994,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 39%",
-    "From £23"
+    "From £31.40"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
-   "price": 23.0,
-   "priceText": "from £23",
+   "price": 31.4,
+   "priceText": "from £31.40",
    "discount": 39,
    "code": "",
    "heat": null,
@@ -1765,7 +1740,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-24T23:59:00Z",
+   "expires": "2026-11-25T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -2262,30 +2237,6 @@
    "score": 70
   },
   {
-   "id": "hukd-5016940",
-   "source": "hukd",
-   "title": "Ticket for Lidl Christmas Showcase Event - 27th Nov London/Manchester",
-   "subtitle": "Eventbrite",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "56°"
-   ],
-   "merchant": "Eventbrite",
-   "url": "https://www.hotukdeals.com/deals/lidl-christmas-showcase-event-5016940",
-   "image": "https://images.hotukdeals.com/threads/raw/ELJCj/5016940_1/re/768x768/qt/60/5016940_1.jpg",
-   "price": 5,
-   "priceText": "£5",
-   "discount": null,
-   "code": "",
-   "heat": 56.4,
-   "rating": null,
-   "published": "2026-10-29T10:28:42Z",
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "",
-   "score": 69
-  },
-  {
    "id": "olt-neighbour-totoro-tickets-111433417",
    "source": "olt",
    "title": "My Neighbour Totoro",
@@ -2336,6 +2287,30 @@
    "score": 68
   },
   {
+   "id": "hukd-5016940",
+   "source": "hukd",
+   "title": "Ticket for Lidl Christmas Showcase Event - 27th Nov London/Manchester",
+   "subtitle": "Eventbrite",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "56°"
+   ],
+   "merchant": "Eventbrite",
+   "url": "https://www.hotukdeals.com/deals/lidl-christmas-showcase-event-5016940",
+   "image": "https://images.hotukdeals.com/threads/raw/ELJCj/5016940_1/re/768x768/qt/60/5016940_1.jpg",
+   "price": 5,
+   "priceText": "£5",
+   "discount": null,
+   "code": "",
+   "heat": 56.4,
+   "rating": null,
+   "published": "2026-10-29T10:28:42Z",
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "",
+   "score": 68
+  },
+  {
    "id": "hukd-4988790",
    "source": "hukd",
    "title": "Yorkshire's Winter Wonderland – Half Price Ice Skating & Funfair - Family of 4 ticket",
@@ -2368,7 +2343,7 @@
    "category": "cinema",
    "kind": "voucher",
    "badges": [
-    "160°",
+    "168°",
     "Code BF2026"
    ],
    "merchant": "ODEON",
@@ -2378,7 +2353,7 @@
    "priceText": "£53.97",
    "discount": null,
    "code": "BF2026",
-   "heat": 159.8,
+   "heat": 167.7,
    "rating": null,
    "published": "2026-11-16T13:50:52Z",
    "expires": "2026-11-30T23:59:00Z",
@@ -2399,7 +2374,7 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/40713-oliver",
    "image": "https://images.ctfassets.net/6pezt69ih962/5mpEQ4a9dVGMTPVFEt4iqn/6b729a3ee53a95bdc3327e37a45352a9/Oliver__1080x1080px.png?w=400&h=400&fit=fill",
-   "price": 23.0,
+   "price": 23,
    "priceText": "from £23",
    "discount": 26,
    "code": "",
@@ -2492,7 +2467,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "197°"
+    "203°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/odeon-ps100-gift-card-for-ps75-5034669",
@@ -2501,7 +2476,7 @@
    "priceText": "£75",
    "discount": null,
    "code": "",
-   "heat": 196.8,
+   "heat": 203.0,
    "rating": null,
    "published": "2026-11-16T11:25:54Z",
    "expires": "2026-11-30T23:59:00Z",
@@ -2664,7 +2639,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "77°",
+    "81°",
     "20% off"
    ],
    "merchant": "Tesco Gift Cards",
@@ -2674,7 +2649,7 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 76.5,
+   "heat": 80.7,
    "rating": null,
    "published": "2026-11-11T09:30:55Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -2755,6 +2730,30 @@
    "score": 48
   },
   {
+   "id": "news-private-medical-insurance-perks-what-s-on-offer-and-are-they-worth-it",
+   "source": "news",
+   "title": "Private medical insurance perks: what's on offer and are they worth it?",
+   "subtitle": "Which?",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Which?"
+   ],
+   "merchant": "Which?",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTEl6cEhjcDRsVjhJZ294VXVOWFgwSktpYlVSaTVtZkh1a1F4WVpCQlBmSnBjNlBRX0Q1aDVPaF9tcThOZDB3UERuQWVHZzhmSkZoVFZpbUpZZDRhQmZmb0dLSjktWFdxUWpvekxtMkYtLUlCaEV2alV5NGxCd01WTzBLR1B1bFpKQS1qM1Ziem1QUHBiY3pIWE9TM1RPTFR4cmFndUM4TC1tbm9zN3NLYXRqUENCVjFtMlE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-14T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
    "id": "news-scottish-cinemas-giving-away-free-tickets-to-new-peaky-blinders-star-s-film",
    "source": "news",
    "title": "Scottish cinemas giving away free tickets to new Peaky Blinders star's film",
@@ -2798,30 +2797,6 @@
    "heat": null,
    "rating": null,
    "published": "2026-11-05T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 47
-  },
-  {
-   "id": "news-how-does-the-american-express-pre-sale-work-on-ticketmaster",
-   "source": "news",
-   "title": "How does the American Express pre-sale work on Ticketmaster?",
-   "subtitle": "Radio Times",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "Radio Times"
-   ],
-   "merchant": "Radio Times",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWRiVm1OVG5OTWZGQjZDX2JaamdYaDhvSXJLOG1Ba0hpd293MnM3NExuYzh1ZVNvc1d5LVZ3dzdFTlJzUjFwNTVrVzZrXzk5bWtmeTh1aThXZ0tOZWUwSFROY1BsTloxZ1hxQ3RYOUxYcnQzQ1N5MVkzeEJYRkZxT0hB?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-04T08:00:00Z",
    "expires": null,
    "venue": "",
    "score": 47
