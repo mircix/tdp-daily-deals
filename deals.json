@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-18T20:41:21Z",
+ "generatedAt": "2026-11-19T02:38:59Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 32,
+   "count": 35,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 45,
+   "count": 44,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "errors": []
   }
  ],
@@ -63,6 +63,31 @@
  ],
  "deals": [
   {
+   "id": "hukd-5028316",
+   "source": "hukd",
+   "title": "Free admission to Film & TV Props exhibition - Batman, Indiana Jones, Disney, Game of Thrones + more - London Oxford Street (Marble Arch)",
+   "subtitle": "",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "698°",
+    "FREE"
+   ],
+   "merchant": "",
+   "url": "https://www.hotukdeals.com/deals/free-admission-to-film-tv-props-exhibition-batman-indiana-jones-disney-game-of-thrones-more-london-oxford-street-marble-arch-5028316",
+   "image": "https://images.hotukdeals.com/threads/raw/fudjw/5028316_1/re/768x768/qt/60/5028316_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 698.0,
+   "rating": null,
+   "published": "2026-11-19T00:10:35Z",
+   "expires": "2026-11-22T23:59:00Z",
+   "venue": "",
+   "score": 91
+  },
+  {
    "id": "hukd-5028751",
    "source": "hukd",
    "title": "Free cinema tickets from Tesco for Arthur Christmas at Cineworld on 21st November + Drinks and Snacks for up to 4 people (Invite Via Email)",
@@ -88,29 +113,29 @@
    "score": 90
   },
   {
-   "id": "hukd-5028316",
-   "source": "hukd",
-   "title": "Free admission to Film & TV Props exhibition - Batman, Indiana Jones, Disney, Game of Thrones + more - London Oxford Street (Marble Arch)",
-   "subtitle": "",
-   "category": "cinema",
-   "kind": "free",
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
    "badges": [
-    "661°",
-    "FREE"
+    "Save up to 65%",
+    "From £20"
    ],
-   "merchant": "",
-   "url": "https://www.hotukdeals.com/deals/free-admission-to-film-tv-props-exhibition-batman-indiana-jones-disney-game-of-thrones-more-london-oxford-street-marble-arch-5028316",
-   "image": "https://images.hotukdeals.com/threads/raw/fudjw/5028316_1/re/768x768/qt/60/5028316_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 65,
    "code": "",
-   "heat": 660.7,
+   "heat": null,
    "rating": null,
-   "published": "2026-11-10T13:30:39Z",
-   "expires": "2026-11-22T23:59:00Z",
-   "venue": "",
-   "score": 89
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
   },
   {
    "id": "olt-million-dollar-quartet-111475900",
@@ -134,6 +159,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-22T23:59:00Z",
+   "venue": "London",
+   "score": 88
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -177,8 +227,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
    "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 31.0,
-   "priceText": "from £31",
+   "price": 37.0,
+   "priceText": "from £37",
    "discount": 60,
    "code": "",
    "heat": null,
@@ -944,19 +994,44 @@
    "kind": "offer",
    "badges": [
     "Save up to 39%",
-    "From £31"
+    "From £31.40"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/high-school-musical-111473306/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_SOLT-768x384.jpg",
-   "price": 31.0,
-   "priceText": "from £31",
+   "price": 31.4,
+   "priceText": "from £31.40",
    "discount": 39,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
    "expires": "2026-11-22T23:59:00Z",
+   "venue": "London",
+   "score": 78
+  },
+  {
+   "id": "olt-speculations-111477147",
+   "source": "olt",
+   "title": "Speculations",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 39%",
+    "From £13.65"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/speculations-111477147/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/09/SPECULATIONS-new-artwork_1200-x-600-768x384.jpg",
+   "price": 13.65,
+   "priceText": "from £13.65",
+   "discount": 39,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-17T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1308,8 +1383,7 @@
    "category": "theatre",
    "kind": "rush",
    "badges": [
-    "£30 Rush tickets",
-    "Exclusive Offer"
+    "£30 Rush tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47065-into-the-woods",
@@ -1817,31 +1891,6 @@
    "score": 73
   },
   {
-   "id": "olt-rent-111473523",
-   "source": "olt",
-   "title": "Rent",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Special offer",
-    "From £22.51"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/rent-111473523/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/05/6a0740e541c80e555922bed5_RENT_ATG_ON-SALE-ASSETS-MAY26_1920x1080-TITLE-TREATMENT-768x432.jpg",
-   "price": 22.51,
-   "priceText": "from £22.51",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "London",
-   "score": 73
-  },
-  {
    "id": "olt-showstopper-111424735",
    "source": "olt",
    "title": "Showstopper! The Improvised Musical",
@@ -1987,6 +2036,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-24T23:59:00Z",
+   "venue": "London",
+   "score": 72
+  },
+  {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £32.27"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 32.27,
+   "priceText": "from £32.27",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -2286,31 +2360,6 @@
    "score": 67
   },
   {
-   "id": "todaytix-48131",
-   "source": "todaytix",
-   "title": "Club NVRLND",
-   "subtitle": "The Vaults Theatre",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 24%",
-    "Special Offer"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/48131-club-nvrlnd",
-   "image": "https://images.ctfassets.net/6pezt69ih962/Gb9vZYR4CDPnrvLNBx9xO/164ababf239cf7fdb6f92cc58e587412/CN26_TTG_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 24,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-03-28T23:59:00Z",
-   "venue": "The Vaults Theatre, London",
-   "score": 66
-  },
-  {
    "id": "hukd-5024934",
    "source": "hukd",
    "title": "Gulliver's Theme Park 2027 Family Gift Ticket for Matlock Bath - 2, 3 or 4 people from £22 (MK / Rother Valley / Warrington from £27)",
@@ -2539,7 +2588,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "81°",
+    "89°",
     "20% off"
    ],
    "merchant": "Tesco Gift Cards",
@@ -2549,7 +2598,7 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 80.7,
+   "heat": 89.3,
    "rating": null,
    "published": "2026-11-11T09:30:55Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -2676,6 +2725,30 @@
    "expires": null,
    "venue": "",
    "score": 48
+  },
+  {
+   "id": "news-best-sky-stream-offers-for-november-2026-deals-and-tv-bundles-for-new-and-existi",
+   "source": "news",
+   "title": "Best Sky Stream offers for November 2026: Deals and TV bundles for new and existing Sky customers",
+   "subtitle": "Radio Times",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Radio Times"
+   ],
+   "merchant": "Radio Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMGRJOC0xamhsU0tNUDhpYzJIMzIwaDlYWW5UdFVWRXdEQ2wyM1lFQjVsc3RIbWVETTBKb1FlRzdXdFE1WGZsNjg4eWd0LXRhN1R0X0FsQVd0MkczTHNQYVNIZnhKcDdSNU1tTGQ5bFZHVFp5THd5dU5iblZoZnY2U2R0ZmQ?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-05T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
   },
   {
    "id": "news-discounted-panto-tickets-open-doors-for-families",
