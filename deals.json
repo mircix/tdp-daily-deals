@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-20T11:54:02Z",
+ "generatedAt": "2026-11-20T20:31:28Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 34,
+   "count": 31,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 22,
+   "count": 23,
    "errors": []
   },
   {
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "1450°",
+    "1454°",
     "FREE"
    ],
    "merchant": "",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 1450.2,
+   "heat": 1453.9,
    "rating": null,
    "published": "2026-11-19T00:10:35Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -113,31 +113,6 @@
    "score": 90
   },
   {
-   "id": "olt-witness-for-the-prosecution-397188",
-   "source": "olt",
-   "title": "Witness For The Prosecution",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 65%",
-    "From £20"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
-   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 65,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-09-19T23:59:00Z",
-   "venue": "London",
-   "score": 90
-  },
-  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -146,44 +121,19 @@
    "kind": "offer",
    "badges": [
     "Save up to 57%",
-    "From £20.10"
+    "From £15"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/million-dollar-quartet-111475900/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/08/260805-MDQ-OLT_1200-x-600-768x384.jpg",
-   "price": 20.1,
-   "priceText": "from £20.10",
+   "price": 15.0,
+   "priceText": "from £15",
    "discount": 57,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
    "expires": "2026-11-22T23:59:00Z",
-   "venue": "London",
-   "score": 88
-  },
-  {
-   "id": "olt-sinatra-the-musical-111469026",
-   "source": "olt",
-   "title": "Sinatra The Musical",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 56%",
-    "From £35"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
-   "price": 35.0,
-   "priceText": "from £35",
-   "discount": 56,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -258,7 +208,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-25T23:59:00Z",
+   "expires": "2026-11-26T23:59:00Z",
    "venue": "London",
    "score": 87
   },
@@ -406,7 +356,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-27T23:59:00Z",
+   "expires": "2026-11-28T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -557,31 +507,6 @@
    "score": 84
   },
   {
-   "id": "olt-les-miserables-76782",
-   "source": "olt",
-   "title": "Les Misérables",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 50%",
-    "From £28"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/les-miserables-76782/",
-   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MIS_Updated-Ticket-Agent_1200x600_1_AW-2-1-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
-   "discount": 50,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "London",
-   "score": 84
-  },
-  {
    "id": "todaytix-45447",
    "source": "todaytix",
    "title": "Oh, Mary!",
@@ -656,6 +581,31 @@
    "score": 84
   },
   {
+   "id": "olt-tosca-111473033",
+   "source": "olt",
+   "title": "Tosca",
+   "subtitle": "Opera",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 49%",
+    "From £13.62"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/tosca-111473033/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/05/1200x600_tosca-768x384.jpg",
+   "price": 13.62,
+   "priceText": "from £13.62",
+   "discount": 49,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "London",
+   "score": 84
+  },
+  {
    "id": "todaytix-25118",
    "source": "todaytix",
    "title": "ABBA Voyage",
@@ -724,7 +674,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-26T23:59:00Z",
+   "expires": "2026-11-27T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -750,6 +700,31 @@
    "published": null,
    "expires": null,
    "venue": "Victoria Palace Theatre, London",
+   "score": 83
+  },
+  {
+   "id": "olt-les-miserables-76782",
+   "source": "olt",
+   "title": "Les Misérables",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 47%",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/les-miserables-76782/",
+   "image": "https://officiallondontheatre.com/app/uploads/2008/04/MIS_Updated-Ticket-Agent_1200x600_1_AW-2-1-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": 47,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "London",
    "score": 83
   },
   {
@@ -888,8 +863,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46954-cinderella",
    "image": "https://images.ctfassets.net/6pezt69ih962/4Rs3wE1vAUH9takLWcKiNZ/0da9cdbb62167300cbf646a5f668146e/LYRSep26_005_Cinderella_TicketAgentAssets_TodayTix_NewAsset_1080_x_1080.png?w=400&h=400&fit=fill",
-   "price": 13.0,
-   "priceText": "from £13",
+   "price": 15.0,
+   "priceText": "from £15",
    "discount": 50,
    "code": "",
    "heat": null,
@@ -1092,7 +1067,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-25T23:59:00Z",
+   "expires": "2026-11-27T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -1400,7 +1375,7 @@
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/333-mousetrap",
-   "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/997c78bff39354a11b833c3f328b1b0e/MT-NOV26-TODAYTIX-1080X1080.jpg?w=400&h=400&fit=fill",
+   "image": "https://images.ctfassets.net/6pezt69ih962/2siJpAEYFgc7ZmX4SHN621/80d547cb1b8e0e13b5715b26dea56a4a/MT-NOV26-META-1080X1080-4cast__2_.jpg?w=400&h=400&fit=fill",
    "price": 18.0,
    "priceText": "from £18",
    "discount": 43,
@@ -1509,6 +1484,30 @@
    "score": 78
   },
   {
+   "id": "todaytix-44904",
+   "source": "todaytix",
+   "title": "Ebony Scrooge",
+   "subtitle": "Sadler's Wells East",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 44%"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/44904-ebony-scrooge",
+   "image": "https://images.ctfassets.net/6pezt69ih962/5wOUth2y7qFGrqMghtpRnT/e7c5bab93b34882da0138cb7a33c3b04/ebony-scrooge-1080x1080.jpg?w=400&h=400&fit=fill",
+   "price": 15.0,
+   "priceText": "from £15",
+   "discount": 44,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-03T23:59:00Z",
+   "venue": "Sadler's Wells East, London",
+   "score": 78
+  },
+  {
    "id": "olt-high-school-musical-111473306",
    "source": "olt",
    "title": "High School Musical",
@@ -1582,31 +1581,6 @@
    "score": 78
   },
   {
-   "id": "olt-speculations-111477147",
-   "source": "olt",
-   "title": "Speculations",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 39%",
-    "From £13.65"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/speculations-111477147/",
-   "image": "https://officiallondontheatre.com/app/uploads/2026/09/SPECULATIONS-new-artwork_1200-x-600-768x384.jpg",
-   "price": 13.65,
-   "priceText": "from £13.65",
-   "discount": 39,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-17T23:59:00Z",
-   "venue": "London",
-   "score": 78
-  },
-  {
    "id": "todaytix-48492",
    "source": "todaytix",
    "title": "The LOve Book",
@@ -1651,7 +1625,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-22T23:59:00Z",
+   "expires": "2026-11-26T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1845,7 +1819,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-22T23:59:00Z",
+   "expires": "2026-11-29T23:59:00Z",
    "venue": "London",
    "score": 76
   },
@@ -2560,13 +2534,13 @@
    "kind": "offer",
    "badges": [
     "Special offer",
-    "From £28"
+    "From £24"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/pride-111469360/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/02/PRIDE_SOLT-ASSETS_AUG26_AW_1200x600-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 24.0,
+   "priceText": "from £24",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2673,6 +2647,30 @@
    "published": null,
    "expires": null,
    "venue": "London",
+   "score": 73
+  },
+  {
+   "id": "hukd-5040648",
+   "source": "hukd",
+   "title": "£5 Cinema Tickets - Dune Part One or Part Two - All Seats (Including iSense, Laser, VIP Beds & Recliners) 4th & 6th Dec",
+   "subtitle": "ODEON",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "71°"
+   ],
+   "merchant": "ODEON",
+   "url": "https://www.hotukdeals.com/deals/ps5-cinema-tickets-dune-part-one-two-all-seats-including-isense-laser-vip-beds-recliners-5040648",
+   "image": "https://images.hotukdeals.com/threads/raw/lsj7l/5040648_1/re/768x768/qt/60/5040648_1.jpg",
+   "price": 5,
+   "priceText": "£5",
+   "discount": null,
+   "code": "",
+   "heat": 71.5,
+   "rating": null,
+   "published": "2026-11-20T13:34:10Z",
+   "expires": "2026-12-06T23:59:00Z",
+   "venue": "",
    "score": 73
   },
   {
@@ -2819,31 +2817,6 @@
    "published": null,
    "expires": "2027-01-09T23:59:00Z",
    "venue": "Kiln Theatre, London",
-   "score": 72
-  },
-  {
-   "id": "olt-stranger-things-first-shadow-111441218",
-   "source": "olt",
-   "title": "Stranger Things: The First Shadow",
-   "subtitle": "Drama, Plays",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 29%",
-    "From £32.27"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
-   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 32.27,
-   "priceText": "from £32.27",
-   "discount": 29,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-27T23:59:00Z",
-   "venue": "London",
    "score": 72
   },
   {
@@ -3004,8 +2977,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/26625-the-snowman",
    "image": "https://images.ctfassets.net/6pezt69ih962/4Ju0gx4ryQVDEKruBSqgBk/7fdea6f2e580bbd0b512518ae96345fd/snowman-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
+   "price": 21.0,
+   "priceText": "from £21",
    "discount": 31,
    "code": "",
    "heat": null,
@@ -3242,13 +3215,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 22%",
-    "From £18"
+    "From £28"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/neighbour-totoro-tickets-111433417/",
    "image": "https://officiallondontheatre.com/app/uploads/2022/04/MNT-202609-Ends3Jan-SOLT-1200x600-1-768x384.jpg",
-   "price": 18.0,
-   "priceText": "from £18",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 22,
    "code": "",
    "heat": null,
@@ -3315,7 +3288,7 @@
    "category": "cinema",
    "kind": "voucher",
    "badges": [
-    "165°",
+    "179°",
     "Code BF2026"
    ],
    "merchant": "ODEON",
@@ -3325,7 +3298,7 @@
    "priceText": "£53.97",
    "discount": null,
    "code": "BF2026",
-   "heat": 164.9,
+   "heat": 179.2,
    "rating": null,
    "published": "2026-11-16T13:50:52Z",
    "expires": "2026-11-30T23:59:00Z",
@@ -3427,7 +3400,7 @@
    "published": "2026-11-06T15:49:52Z",
    "expires": "2026-12-31T23:59:00Z",
    "venue": "",
-   "score": 66
+   "score": 65
   },
   {
    "id": "todaytix-47999",
@@ -3478,6 +3451,31 @@
    "score": 65
   },
   {
+   "id": "olt-six-vaudeville-theatre-111428236",
+   "source": "olt",
+   "title": "Six",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 16%",
+    "From £37.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
+   "price": 37.5,
+   "priceText": "from £37.50",
+   "discount": 16,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-22T23:59:00Z",
+   "venue": "London",
+   "score": 65
+  },
+  {
    "id": "todaytix-48370",
    "source": "todaytix",
    "title": "Christmas by Candlelight",
@@ -3499,30 +3497,6 @@
    "published": null,
    "expires": "2026-12-23T23:59:00Z",
    "venue": "The Actors' Church, London",
-   "score": 64
-  },
-  {
-   "id": "todaytix-44904",
-   "source": "todaytix",
-   "title": "Ebony Scrooge",
-   "subtitle": "Sadler's Wells East",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 21%"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/44904-ebony-scrooge",
-   "image": "https://images.ctfassets.net/6pezt69ih962/5wOUth2y7qFGrqMghtpRnT/e7c5bab93b34882da0138cb7a33c3b04/ebony-scrooge-1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 18.0,
-   "priceText": "from £18",
-   "discount": 21,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2027-01-03T23:59:00Z",
-   "venue": "Sadler's Wells East, London",
    "score": 64
   },
   {
@@ -3571,31 +3545,6 @@
    "published": null,
    "expires": "2027-02-27T23:59:00Z",
    "venue": "Lyric Hammersmith, London",
-   "score": 63
-  },
-  {
-   "id": "olt-six-vaudeville-theatre-111428236",
-   "source": "olt",
-   "title": "Six",
-   "subtitle": "Musical",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save up to 13%",
-    "From £37.50"
-   ],
-   "merchant": "Official London Theatre",
-   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
-   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
-   "price": 37.5,
-   "priceText": "from £37.50",
-   "discount": 13,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-20T23:59:00Z",
-   "venue": "London",
    "score": 63
   },
   {
@@ -3679,7 +3628,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "95°",
+    "137°",
     "20% off"
    ],
    "merchant": "Tesco Gift Cards",
@@ -3689,12 +3638,12 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 95.3,
+   "heat": 137.4,
    "rating": null,
    "published": "2026-11-11T09:30:55Z",
    "expires": "2026-11-22T23:59:00Z",
    "venue": "",
-   "score": 59
+   "score": 60
   },
   {
    "id": "hukd-4973296",
