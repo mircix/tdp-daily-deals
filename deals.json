@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-19T20:47:59Z",
+ "generatedAt": "2026-11-20T02:24:05Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 31,
+   "count": 35,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 25,
+   "count": 22,
    "errors": []
   },
   {
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "1269°",
+    "1450°",
     "FREE"
    ],
    "merchant": "",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 1268.9,
+   "heat": 1450.2,
    "rating": null,
    "published": "2026-11-19T00:10:35Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -113,6 +113,31 @@
    "score": 90
   },
   {
+   "id": "olt-witness-for-the-prosecution-397188",
+   "source": "olt",
+   "title": "Witness For The Prosecution",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 65%",
+    "From £20"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/witness-for-the-prosecution-397188/",
+   "image": "https://officiallondontheatre.com/app/uploads/2017/06/8320_116_WFTP_OLT_1200x600px-768x384.jpg",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 65,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-09-19T23:59:00Z",
+   "venue": "London",
+   "score": 90
+  },
+  {
    "id": "olt-million-dollar-quartet-111475900",
    "source": "olt",
    "title": "Million Dollar Quartet",
@@ -134,6 +159,31 @@
    "rating": null,
    "published": null,
    "expires": "2026-11-22T23:59:00Z",
+   "venue": "London",
+   "score": 88
+  },
+  {
+   "id": "olt-sinatra-the-musical-111469026",
+   "source": "olt",
+   "title": "Sinatra The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 56%",
+    "From £35"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sinatra-the-musical-111469026/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/02/SIN26_Q3_010_Post-Opening-Tickets-Agent-buttons_SOLT_1200x600px_AW-768x384.jpg",
+   "price": 35.0,
+   "priceText": "from £35",
+   "discount": 56,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-04-10T23:59:00Z",
    "venue": "London",
    "score": 88
   },
@@ -483,31 +533,6 @@
    "score": 84
   },
   {
-   "id": "hukd-4985426",
-   "source": "hukd",
-   "title": "Free pair of Horse Racing tickets to one of 15 events Oct to Dec 2026 + kids go free (50,000 tickets available)",
-   "subtitle": "Racing TV",
-   "category": "comedy",
-   "kind": "free",
-   "badges": [
-    "2269°",
-    "FREE"
-   ],
-   "merchant": "Racing TV",
-   "url": "https://www.hotukdeals.com/deals/free-pair-of-horse-racing-tickets-to-one-of-15-events-oct-to-dec-2026-kids-go-free-50000-tickets-available-4985426",
-   "image": "https://images.hotukdeals.com/threads/raw/t3ywB/4985426_1/re/768x768/qt/60/4985426_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 2268.8,
-   "rating": null,
-   "published": "2026-09-20T23:22:56Z",
-   "expires": null,
-   "venue": "",
-   "score": 84
-  },
-  {
    "id": "todaytix-47885",
    "source": "todaytix",
    "title": "Johannes Radebe: Finally Home",
@@ -735,7 +760,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "611°",
+    "615°",
     "50% off"
    ],
    "merchant": "Compare The Market",
@@ -745,7 +770,7 @@
    "priceText": "",
    "discount": 50,
    "code": "",
-   "heat": 611.2,
+   "heat": 615.1,
    "rating": null,
    "published": "2026-11-10T15:59:41Z",
    "expires": "2027-07-19T22:59:00Z",
@@ -1533,6 +1558,31 @@
    "score": 78
   },
   {
+   "id": "olt-speculations-111477147",
+   "source": "olt",
+   "title": "Speculations",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 39%",
+    "From £13.65"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/speculations-111477147/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/09/SPECULATIONS-new-artwork_1200-x-600-768x384.jpg",
+   "price": 13.65,
+   "priceText": "from £13.65",
+   "discount": 39,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-17T23:59:00Z",
+   "venue": "London",
+   "score": 78
+  },
+  {
    "id": "todaytix-48492",
    "source": "todaytix",
    "title": "The LOve Book",
@@ -2307,30 +2357,6 @@
    "score": 74
   },
   {
-   "id": "hukd-5020003",
-   "source": "hukd",
-   "title": "Discounted Marwell Zoo Tickets",
-   "subtitle": "Marwell Wildlife",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "273°"
-   ],
-   "merchant": "Marwell Wildlife",
-   "url": "https://www.hotukdeals.com/deals/marwell-zoo-discount-ps10-tickets-5020003",
-   "image": "https://images.hotukdeals.com/threads/raw/lLESa/5020003_1/re/768x768/qt/60/5020003_1.jpg",
-   "price": 10,
-   "priceText": "£10",
-   "discount": null,
-   "code": "",
-   "heat": 273.0,
-   "rating": null,
-   "published": "2026-11-01T19:05:55Z",
-   "expires": "2026-11-19T23:59:00Z",
-   "venue": "",
-   "score": 74
-  },
-  {
    "id": "todaytix-47411",
    "source": "todaytix",
    "title": "Feeling Afraid As If Something Terrible Is Going To Happen",
@@ -2486,13 +2512,13 @@
    "kind": "offer",
    "badges": [
     "Special offer",
-    "From £24"
+    "From £28"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/pride-111469360/",
    "image": "https://officiallondontheatre.com/app/uploads/2026/02/PRIDE_SOLT-ASSETS_AUG26_AW_1200x600-768x384.jpg",
-   "price": 24.0,
-   "priceText": "from £24",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2770,6 +2796,31 @@
    "published": null,
    "expires": "2027-01-09T23:59:00Z",
    "venue": "Kiln Theatre, London",
+   "score": 72
+  },
+  {
+   "id": "olt-stranger-things-first-shadow-111441218",
+   "source": "olt",
+   "title": "Stranger Things: The First Shadow",
+   "subtitle": "Drama, Plays",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 29%",
+    "From £32.27"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
+   "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
+   "price": 32.27,
+   "priceText": "from £32.27",
+   "discount": 29,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-27T23:59:00Z",
+   "venue": "London",
    "score": 72
   },
   {
@@ -3532,7 +3583,7 @@
    "category": "music",
    "kind": "deal",
    "badges": [
-    "71°"
+    "73°"
    ],
    "merchant": "Trip.com",
    "url": "https://www.hotukdeals.com/deals/10-night-china-ice-adventure-7-nt-at-donglong-hotel-wbreakfast-optional-harbin-ice-and-snow-festival-tickets-2-adults-15-24-jan-2027-5034629",
@@ -3541,7 +3592,7 @@
    "priceText": "£1554.30",
    "discount": null,
    "code": "",
-   "heat": 71.2,
+   "heat": 73.0,
    "rating": null,
    "published": "2026-11-16T11:01:45Z",
    "expires": "2027-01-14T23:59:00Z",
@@ -3570,30 +3621,6 @@
    "published": null,
    "expires": null,
    "venue": "Troubadour Canary Wharf Theatre, London",
-   "score": 62
-  },
-  {
-   "id": "hukd-5036014",
-   "source": "hukd",
-   "title": "The Road Home - A Special Research Screening Thursday 19 November - Odeon Wimbledon",
-   "subtitle": "Show Film First",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "67°"
-   ],
-   "merchant": "Show Film First",
-   "url": "https://www.hotukdeals.com/deals/the-road-home-a-special-research-screening-thursday-19-november-odeon-wimbledon-5036014",
-   "image": "https://images.hotukdeals.com/threads/raw/3IvbQ/5036014_1/re/768x768/qt/60/5036014_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": 67.5,
-   "rating": null,
-   "published": "2026-11-17T11:06:04Z",
-   "expires": "2026-11-19T23:59:00Z",
-   "venue": "",
    "score": 62
   },
   {
@@ -3629,7 +3656,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "93°",
+    "95°",
     "20% off"
    ],
    "merchant": "Tesco Gift Cards",
@@ -3639,7 +3666,7 @@
    "priceText": "",
    "discount": 20,
    "code": "",
-   "heat": 92.6,
+   "heat": 95.3,
    "rating": null,
    "published": "2026-11-11T09:30:55Z",
    "expires": "2026-11-22T23:59:00Z",
@@ -3700,7 +3727,7 @@
    "source": "news",
    "title": "Eight ways to save money on Christmas theatre tickets - including 1 best day to go",
    "subtitle": "Daily Express",
-   "category": "cinema",
+   "category": "theatre",
    "kind": "news",
    "badges": [
     "Daily Express"
