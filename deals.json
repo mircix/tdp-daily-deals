@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-23T01:49:23Z",
+ "generatedAt": "2026-11-23T13:12:20Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 25,
+   "count": 27,
    "errors": []
   },
   {
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 20,
+   "count": 21,
    "errors": []
   },
   {
@@ -281,7 +281,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-28T23:59:00Z",
+   "expires": "2026-11-30T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -321,7 +321,7 @@
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/12634-",
-   "image": "https://images.ctfassets.net/6pezt69ih962/3fQsX4PWcsWAZMm9amRvB5/b5e5096c5f41cc028c3b181976e39206/1080x1080_Traviata.jpg?w=400&h=400&fit=fill",
+   "image": "https://images.ctfassets.net/6pezt69ih962/3fQsX4PWcsWAZMm9amRvB5/677c35f0ed6db0e49e903522af4ab7c9/1080x1080_Traviata.jpg?w=400&h=400&fit=fill",
    "price": 15.0,
    "priceText": "from £15",
    "discount": 57,
@@ -365,7 +365,7 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save up to 49%",
+    "Save up to 50%",
     "From £28"
    ],
    "merchant": "Official London Theatre",
@@ -373,7 +373,7 @@
    "image": "https://officiallondontheatre.com/app/uploads/2025/09/BJ-2026-09-bb-NewCreative-62401SGA-SOLT-1200x600-1-768x384.jpg",
    "price": 28.0,
    "priceText": "from £28",
-   "discount": 49,
+   "discount": 50,
    "code": "",
    "heat": null,
    "rating": null,
@@ -598,7 +598,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-27T23:59:00Z",
+   "expires": "2026-11-26T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -623,7 +623,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-24T23:59:00Z",
+   "expires": "2026-11-26T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -672,7 +672,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-28T23:59:00Z",
+   "expires": "2026-11-30T23:59:00Z",
    "venue": "London",
    "score": 82
   },
@@ -1719,7 +1719,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-28T23:59:00Z",
+   "expires": "2026-11-30T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -2254,6 +2254,30 @@
    "score": 73
   },
   {
+   "id": "todaytix-47409",
+   "source": "todaytix",
+   "title": "Garry Starr Classic Penguins",
+   "subtitle": "The Other Palace - Main Theatre",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 36%"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47409-garry-starr-classic-penguins",
+   "image": "https://images.ctfassets.net/6pezt69ih962/1xsbTpEnPGxJ1YTUyhIU0l/2907714bb8a809e2ca24326cbef04598/GSC26_FMP26_TTG_1080x1080.png?w=400&h=400&fit=fill",
+   "price": 20.0,
+   "priceText": "from £20",
+   "discount": 36,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "The Other Palace - Main Theatre, London",
+   "score": 73
+  },
+  {
    "id": "olt-mamma-mia-148257",
    "source": "olt",
    "title": "Mamma Mia!",
@@ -2377,6 +2401,31 @@
    "score": 73
   },
   {
+   "id": "olt-sophies-surprise-christmas-party-111477902",
+   "source": "olt",
+   "title": "Sophie’s Surprise Christmas Party",
+   "subtitle": "Christmas, Entertainment",
+   "category": "comedy",
+   "kind": "offer",
+   "badges": [
+    "Special offer",
+    "From £28"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/sophies-surprise-christmas-party-111477902/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/10/OLT_Sophie_s-Surprise_1200x600px@144dpi-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "London",
+   "score": 73
+  },
+  {
    "id": "todaytix-48394",
    "source": "todaytix",
    "title": "Spitfire Girls",
@@ -2470,7 +2519,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-12-02T23:59:00Z",
+   "expires": "2026-12-03T23:59:00Z",
    "venue": "London",
    "score": 72
   },
@@ -3107,6 +3156,31 @@
    "score": 67
   },
   {
+   "id": "olt-six-vaudeville-theatre-111428236",
+   "source": "olt",
+   "title": "Six",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 18%",
+    "From £37.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/six-vaudeville-theatre-111428236/",
+   "image": "https://officiallondontheatre.com/app/uploads/2021/07/SIX26045_SOLT_1200x600pxls-768x384.jpg",
+   "price": 37.5,
+   "priceText": "from £37.50",
+   "discount": 18,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-29T23:59:00Z",
+   "venue": "London",
+   "score": 66
+  },
+  {
    "id": "hukd-5024934",
    "source": "hukd",
    "title": "Gulliver's Theme Park 2027 Family Gift Ticket for Matlock Bath - 2, 3 or 4 people from £22 (MK / Rother Valley / Warrington from £27)",
@@ -3348,28 +3422,54 @@
    "score": 60
   },
   {
-   "id": "todaytix-47409",
-   "source": "todaytix",
-   "title": "Garry Starr Classic Penguins",
-   "subtitle": "The Other Palace - Main Theatre",
-   "category": "theatre",
-   "kind": "offer",
+   "id": "hukd-5044092",
+   "source": "hukd",
+   "title": "20% off Unlimited and Online Gifts with code",
+   "subtitle": "Cineworld",
+   "category": "cinema",
+   "kind": "voucher",
    "badges": [
-    "Save 13%"
+    "50°",
+    "20% off"
    ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47409-garry-starr-classic-penguins",
-   "image": "https://images.ctfassets.net/6pezt69ih962/1xsbTpEnPGxJ1YTUyhIU0l/2907714bb8a809e2ca24326cbef04598/GSC26_FMP26_TTG_1080x1080.png?w=400&h=400&fit=fill",
-   "price": 20.0,
-   "priceText": "from £20",
-   "discount": 13,
+   "merchant": "Cineworld",
+   "url": "https://www.hotukdeals.com/vouchers/cineworld-black-friday-20-off-unlimited-5044092",
+   "image": "https://images.hotukdeals.com/threads/raw/ptHlU/5044092_1/re/768x768/qt/60/5044092_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 20,
    "code": "",
-   "heat": null,
+   "heat": 49.9,
    "rating": null,
-   "published": null,
-   "expires": null,
-   "venue": "The Other Palace - Main Theatre, London",
-   "score": 60
+   "published": "2026-11-23T12:20:44Z",
+   "expires": "2026-11-30T23:59:00Z",
+   "venue": "",
+   "score": 59
+  },
+  {
+   "id": "hukd-5043431",
+   "source": "hukd",
+   "title": "Vue Cinema Giftcards 15% Off - eg £10 Gift Card",
+   "subtitle": "Amazon",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "131°",
+    "15% off"
+   ],
+   "merchant": "Amazon",
+   "url": "https://www.hotukdeals.com/deals/vue-cinema-giftcard-15-off-5043431",
+   "image": "https://images.hotukdeals.com/threads/raw/YUqjU/5043431_1/re/768x768/qt/60/5043431_1.jpg",
+   "price": 8.5,
+   "priceText": "£8.50",
+   "discount": 15,
+   "code": "",
+   "heat": 131.5,
+   "rating": null,
+   "published": "2026-11-23T00:26:57Z",
+   "expires": "2026-11-30T23:59:00Z",
+   "venue": "",
+   "score": 59
   },
   {
    "id": "hukd-4973296",
@@ -3395,31 +3495,6 @@
    "expires": null,
    "venue": "",
    "score": 56
-  },
-  {
-   "id": "hukd-5043431",
-   "source": "hukd",
-   "title": "Vue Cinema Giftcard 15% Off",
-   "subtitle": "Amazon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "43°",
-    "15% off"
-   ],
-   "merchant": "Amazon",
-   "url": "https://www.hotukdeals.com/deals/vue-cinema-giftcard-15-off-5043431",
-   "image": "https://images.hotukdeals.com/threads/raw/YUqjU/5043431_1/re/768x768/qt/60/5043431_1.jpg",
-   "price": 8.5,
-   "priceText": "£8.50",
-   "discount": 15,
-   "code": "",
-   "heat": 43.3,
-   "rating": null,
-   "published": "2026-11-23T00:26:57Z",
-   "expires": null,
-   "venue": "",
-   "score": 55
   },
   {
    "id": "news-private-medical-insurance-perks-what-s-on-offer-and-are-they-worth-it",
