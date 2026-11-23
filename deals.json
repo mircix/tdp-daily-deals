@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-22T19:49:50Z",
+ "generatedAt": "2026-11-23T01:49:23Z",
  "sources": [
   {
    "id": "olt",
@@ -26,7 +26,7 @@
    "url": "https://www.hotukdeals.com/tag/cinema",
    "about": "The UK's biggest deal community — every deal is voted on (°), checked by members and marked when it expires. Only active deals are used.",
    "ok": true,
-   "count": 23,
+   "count": 20,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "errors": []
   }
  ],
@@ -62,31 +62,6 @@
   }
  ],
  "deals": [
-  {
-   "id": "hukd-5028316",
-   "source": "hukd",
-   "title": "Free admission to Film & TV Props exhibition - Batman, Indiana Jones, Disney, Game of Thrones + more - London Oxford Street (Marble Arch)",
-   "subtitle": "",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "1472°",
-    "FREE"
-   ],
-   "merchant": "",
-   "url": "https://www.hotukdeals.com/deals/free-admission-to-film-tv-props-exhibition-batman-indiana-jones-disney-game-of-thrones-more-london-oxford-street-marble-arch-5028316",
-   "image": "https://images.hotukdeals.com/threads/raw/fudjw/5028316_1/re/768x768/qt/60/5028316_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 1471.7,
-   "rating": null,
-   "published": "2026-11-19T00:10:35Z",
-   "expires": "2026-11-22T23:59:00Z",
-   "venue": "",
-   "score": 92
-  },
   {
    "id": "hukd-5018256",
    "source": "hukd",
@@ -126,8 +101,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/46909-high-school-musical",
    "image": "https://images.ctfassets.net/6pezt69ih962/6MF0mYticXwP8kXpli9IgI/70d2b1b142af7d1ff57c17a76eb82344/High_School_Musical_1080x1080.jpg?w=400&h=400&fit=fill",
-   "price": 31.0,
-   "priceText": "from £31",
+   "price": 37.0,
+   "priceText": "from £37",
    "discount": 60,
    "code": "",
    "heat": null,
@@ -653,31 +628,6 @@
    "score": 83
   },
   {
-   "id": "hukd-5016507",
-   "source": "hukd",
-   "title": "\"Discover\" films (incl Godzilla Minus: Zero) now free for Picturehouse Cinema Members",
-   "subtitle": "Picturehouse Cinemas",
-   "category": "cinema",
-   "kind": "free",
-   "badges": [
-    "158°",
-    "FREE"
-   ],
-   "merchant": "Picturehouse Cinemas",
-   "url": "https://www.hotukdeals.com/deals/discover-films-incl-godzilla-minus-zero-now-free-for-picturehouse-cinema-members-5016507",
-   "image": "https://images.hotukdeals.com/threads/raw/281Oe/5016507_1/re/768x768/qt/60/5016507_1.jpg",
-   "price": null,
-   "priceText": "FREE",
-   "discount": null,
-   "code": "",
-   "heat": 158.0,
-   "rating": null,
-   "published": "2026-10-28T21:24:56Z",
-   "expires": null,
-   "venue": "",
-   "score": 82
-  },
-  {
    "id": "todaytix-48310",
    "source": "todaytix",
    "title": "August Wilson's Gem of the Ocean",
@@ -799,6 +749,31 @@
    "expires": "2027-04-24T23:59:00Z",
    "venue": "Young Vic (Main House), London",
    "score": 82
+  },
+  {
+   "id": "hukd-5016507",
+   "source": "hukd",
+   "title": "\"Discover\" films (incl Godzilla Minus: Zero) now free for Picturehouse Cinema Members",
+   "subtitle": "Picturehouse Cinemas",
+   "category": "cinema",
+   "kind": "free",
+   "badges": [
+    "158°",
+    "FREE"
+   ],
+   "merchant": "Picturehouse Cinemas",
+   "url": "https://www.hotukdeals.com/deals/discover-films-incl-godzilla-minus-zero-now-free-for-picturehouse-cinema-members-5016507",
+   "image": "https://images.hotukdeals.com/threads/raw/281Oe/5016507_1/re/768x768/qt/60/5016507_1.jpg",
+   "price": null,
+   "priceText": "FREE",
+   "discount": null,
+   "code": "",
+   "heat": 158.0,
+   "rating": null,
+   "published": "2026-10-28T21:24:56Z",
+   "expires": null,
+   "venue": "",
+   "score": 81
   },
   {
    "id": "todaytix-45732",
@@ -931,8 +906,7 @@
    "category": "theatre",
    "kind": "lottery",
    "badges": [
-    "The Friday Forty tickets",
-    "Special Offer"
+    "The Friday Forty tickets"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47105-harry-potter-and-the-cursed-child-one-part",
@@ -1338,30 +1312,6 @@
    "score": 79
   },
   {
-   "id": "hukd-5026696",
-   "source": "hukd",
-   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
-   "subtitle": "Amazon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "804°"
-   ],
-   "merchant": "Amazon",
-   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
-   "image": "https://images.hotukdeals.com/threads/raw/0h3y8/5026696_1/re/768x768/qt/60/5026696_1.jpg",
-   "price": 8,
-   "priceText": "£8",
-   "discount": null,
-   "code": "",
-   "heat": 804.3,
-   "rating": null,
-   "published": "2026-11-09T00:22:10Z",
-   "expires": "2026-11-22T23:59:00Z",
-   "venue": "",
-   "score": 78
-  },
-  {
    "id": "todaytix-48473",
    "source": "todaytix",
    "title": "ABBA All Stars",
@@ -1707,7 +1657,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "270°"
+    "274°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/ps5-cinema-tickets-dune-part-one-two-all-seats-including-isense-laser-vip-beds-recliners-5040648",
@@ -1716,7 +1666,7 @@
    "priceText": "£5",
    "discount": null,
    "code": "",
-   "heat": 269.8,
+   "heat": 273.6,
    "rating": null,
    "published": "2026-11-20T13:34:10Z",
    "expires": "2026-12-06T23:59:00Z",
@@ -3066,7 +3016,7 @@
    "category": "cinema",
    "kind": "voucher",
    "badges": [
-    "179°",
+    "183°",
     "Code BF2026"
    ],
    "merchant": "ODEON",
@@ -3076,7 +3026,7 @@
    "priceText": "£53.97",
    "discount": null,
    "code": "BF2026",
-   "heat": 179.2,
+   "heat": 183.1,
    "rating": null,
    "published": "2026-11-16T13:50:52Z",
    "expires": "2026-11-30T23:59:00Z",
@@ -3193,8 +3143,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47999-mr-loverman",
    "image": "https://images.ctfassets.net/6pezt69ih962/7A7Re4W2MWGWTiCBM3ycRL/529ab113489e716bdfd85d7799c7147f/NTCS_BB_MrLoverman_TodayTix_OnSale_Rollout_1080_x_1080_1080_x_1080.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 23.0,
+   "priceText": "from £23",
    "discount": 22,
    "code": "",
    "heat": null,
@@ -3332,7 +3282,7 @@
    "category": "music",
    "kind": "deal",
    "badges": [
-    "73°"
+    "77°"
    ],
    "merchant": "Trip.com",
    "url": "https://www.hotukdeals.com/deals/10-night-china-ice-adventure-7-nt-at-donglong-hotel-wbreakfast-optional-harbin-ice-and-snow-festival-tickets-2-adults-15-24-jan-2027-5034629",
@@ -3341,7 +3291,7 @@
    "priceText": "£1554.30",
    "discount": null,
    "code": "",
-   "heat": 73.0,
+   "heat": 77.2,
    "rating": null,
    "published": "2026-11-16T11:01:45Z",
    "expires": "2027-01-14T23:59:00Z",
@@ -3372,31 +3322,6 @@
    "expires": "2027-03-30T22:59:00Z",
    "venue": "",
    "score": 61
-  },
-  {
-   "id": "hukd-5029407",
-   "source": "hukd",
-   "title": "20% off Gift cards (Odeon and Virgin Experience)",
-   "subtitle": "Tesco Gift Cards",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "146°",
-    "20% off"
-   ],
-   "merchant": "Tesco Gift Cards",
-   "url": "https://www.hotukdeals.com/deals/20-off-gift-cards-odeon-and-virgin-experience-5029407",
-   "image": "https://images.hotukdeals.com/threads/raw/WTW9m/5029407_1/re/768x768/qt/60/5029407_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 20,
-   "code": "",
-   "heat": 145.5,
-   "rating": null,
-   "published": "2026-11-11T09:30:55Z",
-   "expires": "2026-11-22T23:59:00Z",
-   "venue": "",
-   "score": 60
   },
   {
    "id": "hukd-5041626",
@@ -3472,28 +3397,29 @@
    "score": 56
   },
   {
-   "id": "hukd-4987358",
+   "id": "hukd-5043431",
    "source": "hukd",
-   "title": "Mousetrap Theatre tickets offer from £26 - St Martin's theatre London",
-   "subtitle": "TodayTix",
-   "category": "theatre",
+   "title": "Vue Cinema Giftcard 15% Off",
+   "subtitle": "Amazon",
+   "category": "cinema",
    "kind": "deal",
    "badges": [
-    "48°"
+    "43°",
+    "15% off"
    ],
-   "merchant": "TodayTix",
-   "url": "https://www.hotukdeals.com/deals/mousetrap-theatre-tickets-offer-from-ps26-4987358",
-   "image": "https://images.hotukdeals.com/threads/raw/mffws/4987358_1/re/768x768/qt/60/4987358_1.jpg",
-   "price": 26,
-   "priceText": "£26",
-   "discount": null,
+   "merchant": "Amazon",
+   "url": "https://www.hotukdeals.com/deals/vue-cinema-giftcard-15-off-5043431",
+   "image": "https://images.hotukdeals.com/threads/raw/YUqjU/5043431_1/re/768x768/qt/60/5043431_1.jpg",
+   "price": 8.5,
+   "priceText": "£8.50",
+   "discount": 15,
    "code": "",
-   "heat": 47.7,
+   "heat": 43.3,
    "rating": null,
-   "published": "2026-09-23T14:29:02Z",
+   "published": "2026-11-23T00:26:57Z",
    "expires": null,
    "venue": "",
-   "score": 51
+   "score": 55
   },
   {
    "id": "news-private-medical-insurance-perks-what-s-on-offer-and-are-they-worth-it",
@@ -3507,6 +3433,30 @@
    ],
    "merchant": "Which?",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTEl6cEhjcDRsVjhJZ294VXVOWFgwSktpYlVSaTVtZkh1a1F4WVpCQlBmSnBjNlBRX0Q1aDVPaF9tcThOZDB3UERuQWVHZzhmSkZoVFZpbUpZZDRhQmZmb0dLSjktWFdxUWpvekxtMkYtLUlCaEV2alV5NGxCd01WTzBLR1B1bFpKQS1qM1Ziem1QUHBiY3pIWE9TM1RPTFR4cmFndUM4TC1tbm9zN3NLYXRqUENCVjFtMlE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-14T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
+  },
+  {
+   "id": "news-scottish-cinemas-giving-away-free-tickets-to-new-peaky-blinders-star-s-film",
+   "source": "news",
+   "title": "Scottish cinemas giving away free tickets to new Peaky Blinders star's film",
+   "subtitle": "Daily Record",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Daily Record"
+   ],
+   "merchant": "Daily Record",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX1JPNkloS0VvOXZydWdraF9LaEdUblUzYWk3bDJocGR0THEzQ3hvc21FV1c3ZkwtME83Zmlpb0ZQMUdSY3VWQThGbkhRNWxTd2ctYVVfTTh4a0xMdHN2ODVYUVlNT2Q1LVh2Q0sxRWVOUllJVXgwWWpObWtxMUhNZHZLLWZVelp0bUhlR3BtQWpxSDBsZ0HSAZsBQVVfeXFMUEdHT3RWSzdCUTdzaGhqNHQzXzFSY0FlX0lEYm85Sk9JMDlYTjZ3a0hUY21pdXZ1eGhNbFo4VEo5cnpuOFFnQ25PNXRmM3V3UnlTNUlzazdhNXgtMS1ZWkp5bnNZR2ZYNHQ1eE5RUW9mNElpZ0RxSlo4LXRqRHFTQ2lzRFN1NXdoZkxaOE5IcmNJYVdfTzN3Q1BKNWs?oc=5",
    "image": "",
    "price": null,
    "priceText": "",
