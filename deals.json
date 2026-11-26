@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-26T03:38:31Z",
+ "generatedAt": "2026-11-26T17:04:45Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 38,
+   "count": 40,
    "errors": []
   },
   {
@@ -35,7 +35,7 @@
    "url": "https://news.google.com/",
    "about": "Recent ticket-deal headlines from established UK publishers (BBC, Time Out, Evening Standard, MoneySavingExpert…).",
    "ok": true,
-   "count": 2,
+   "count": 4,
    "errors": []
   }
  ],
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "1797°",
+    "1928°",
     "FREE"
    ],
    "merchant": "Tesco",
@@ -80,12 +80,12 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 1797.0,
+   "heat": 1927.9,
    "rating": null,
    "published": "2026-11-24T17:33:53Z",
    "expires": null,
    "venue": "",
-   "score": 93
+   "score": 94
   },
   {
    "id": "olt-witness-for-the-prosecution-397188",
@@ -120,7 +120,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "373°",
+    "382°",
     "FREE"
    ],
    "merchant": "Tesco",
@@ -130,7 +130,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 373.2,
+   "heat": 381.9,
    "rating": null,
    "published": "2026-11-24T17:18:30Z",
    "expires": null,
@@ -382,7 +382,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-12-02T23:59:00Z",
+   "expires": "2026-12-03T23:59:00Z",
    "venue": "London",
    "score": 86
   },
@@ -504,7 +504,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-12-01T23:59:00Z",
+   "expires": "2026-12-03T23:59:00Z",
    "venue": "London",
    "score": 84
   },
@@ -650,7 +650,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-12-02T23:59:00Z",
+   "expires": "2026-12-03T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -724,7 +724,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-26T23:59:00Z",
+   "expires": "2026-12-03T23:59:00Z",
    "venue": "London",
    "score": 83
   },
@@ -786,13 +786,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 46%",
-    "From £28"
+    "From £18"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 18.0,
+   "priceText": "from £18",
    "discount": 46,
    "code": "",
    "heat": null,
@@ -950,31 +950,6 @@
    "score": 81
   },
   {
-   "id": "todaytix-47279",
-   "source": "todaytix",
-   "title": "Affluenza",
-   "subtitle": "Riverside Studios",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 48%",
-    "£30 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47279-affluenza",
-   "image": "https://images.ctfassets.net/6pezt69ih962/43XyAm7cwUhnqz8VosoaXw/143849815b8c4b6035115d50175b31d5/1080x1080_V1.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 48,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-28T23:59:00Z",
-   "venue": "Riverside Studios, London",
-   "score": 80
-  },
-  {
    "id": "olt-avenue-q-111466206",
    "source": "olt",
    "title": "Avenue Q",
@@ -995,7 +970,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-12-02T23:59:00Z",
+   "expires": "2026-12-03T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -1438,6 +1413,30 @@
    "score": 79
   },
   {
+   "id": "hukd-5026696",
+   "source": "hukd",
+   "title": "2 x Standard Odeon Cinema Tickets Mon to Thu inc online booking fee - using discounted ODEON gift card (Prime members)",
+   "subtitle": "Amazon",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "808°"
+   ],
+   "merchant": "Amazon",
+   "url": "https://www.hotukdeals.com/deals/2-x-standard-odeon-cinema-tickets-mon-to-thu-inc-online-booking-fee-using-discounted-odeon-gift-card-prime-members-5026696",
+   "image": "https://images.hotukdeals.com/threads/raw/0h3y8/5026696_1/re/768x768/qt/60/5026696_1.jpg",
+   "price": 8,
+   "priceText": "£8",
+   "discount": null,
+   "code": "",
+   "heat": 807.9,
+   "rating": null,
+   "published": "2026-11-09T00:22:10Z",
+   "expires": "2026-11-30T23:59:00Z",
+   "venue": "",
+   "score": 78
+  },
+  {
    "id": "todaytix-48473",
    "source": "todaytix",
    "title": "ABBA All Stars",
@@ -1493,7 +1492,8 @@
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 44%"
+    "Save 44%",
+    "Exclusive Offer"
    ],
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/44904-ebony-scrooge",
@@ -1652,7 +1652,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-29T23:59:00Z",
+   "expires": "2026-12-06T23:59:00Z",
    "venue": "London",
    "score": 78
   },
@@ -1693,8 +1693,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/23350-moulin-rouge-the-musical",
    "image": "https://images.ctfassets.net/6pezt69ih962/7lZLNDtS1rdbJGKxrQeqCa/c0e097d2301395793018dc768cf10cc0/MR-2026-09-5thAnn-NewsletterBanner-1080x1080-62731SGA.jpg?w=400&h=400&fit=fill",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 23.0,
+   "priceText": "from £23",
    "discount": null,
    "code": "",
    "heat": null,
@@ -1858,7 +1858,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "274°"
+    "276°"
    ],
    "merchant": "ODEON",
    "url": "https://www.hotukdeals.com/deals/ps5-cinema-tickets-dune-part-one-two-all-seats-including-isense-laser-vip-beds-recliners-5040648",
@@ -1867,12 +1867,37 @@
    "priceText": "£5",
    "discount": null,
    "code": "",
-   "heat": 273.6,
+   "heat": 276.1,
    "rating": null,
    "published": "2026-11-20T13:34:10Z",
    "expires": "2026-12-06T23:59:00Z",
    "venue": "",
    "score": 76
+  },
+  {
+   "id": "todaytix-47279",
+   "source": "todaytix",
+   "title": "Affluenza",
+   "subtitle": "Riverside Studios",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 39%",
+    "£30 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47279-affluenza",
+   "image": "https://images.ctfassets.net/6pezt69ih962/43XyAm7cwUhnqz8VosoaXw/143849815b8c4b6035115d50175b31d5/1080x1080_V1.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 39,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-28T23:59:00Z",
+   "venue": "Riverside Studios, London",
+   "score": 75
   },
   {
    "id": "olt-cabaret-111429752",
@@ -2232,7 +2257,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-28T23:59:00Z",
+   "expires": "2026-12-03T23:59:00Z",
    "venue": "London",
    "score": 75
   },
@@ -2442,8 +2467,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47409-garry-starr-classic-penguins",
    "image": "https://images.ctfassets.net/6pezt69ih962/1xsbTpEnPGxJ1YTUyhIU0l/2907714bb8a809e2ca24326cbef04598/GSC26_FMP26_TTG_1080x1080.png?w=400&h=400&fit=fill",
-   "price": 20.0,
-   "priceText": "from £20",
+   "price": 23.0,
+   "priceText": "from £23",
    "discount": 36,
    "code": "",
    "heat": null,
@@ -2544,6 +2569,31 @@
    "image": "https://officiallondontheatre.com/app/uploads/2025/10/Oh-Mary-Lolly-1200x600-1-768x384.jpg",
    "price": 27.39,
    "priceText": "from £27.39",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": null,
+   "venue": "London",
+   "score": 73
+  },
+  {
+   "id": "olt-one-day-the-musical-111474125",
+   "source": "olt",
+   "title": "One Day – The Musical",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Special offer",
+    "From £33"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/one-day-the-musical-111474125/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/06/One-Day-v2-1200-x-600-768x384.jpg",
+   "price": 33.0,
+   "priceText": "from £33",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2710,13 +2760,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 29%",
-    "From £27.39"
+    "From £23"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/moulin-rouge-the-musical-tickets-111421793/",
-   "image": "https://officiallondontheatre.com/app/uploads/2020/02/MRTM-202606-PartyC-BBs-SOLT-1200x600-1-768x384.jpg",
-   "price": 27.39,
-   "priceText": "from £27.39",
+   "image": "https://officiallondontheatre.com/app/uploads/2020/02/MR-JAN25-BBs-SOLT-1200x600-2-768x384.jpg",
+   "price": 23.0,
+   "priceText": "from £23",
    "discount": 29,
    "code": "",
    "heat": null,
@@ -2885,8 +2935,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/48385-in-pieces",
    "image": "https://images.ctfassets.net/6pezt69ih962/6KSk3AqgT57cqOeuoWV1cl/5832f7cf0b9a0097219b8d3f652a1184/IP_-_1080x1080_-_Key_Artwork.png?w=400&h=400&fit=fill",
-   "price": 35.0,
-   "priceText": "from £35",
+   "price": 40.0,
+   "priceText": "from £40",
    "discount": 33,
    "code": "",
    "heat": null,
@@ -3041,30 +3091,6 @@
    "score": 71
   },
   {
-   "id": "news-black-friday-theatre-deals-knock-up-to-60-off-major-west-end-shows-including-5-s",
-   "source": "news",
-   "title": "Black Friday theatre deals knock up to 60% off major West End shows – including 5-star favourites from this year",
-   "subtitle": "Radio Times",
-   "category": "cinema",
-   "kind": "news",
-   "badges": [
-    "Radio Times"
-   ],
-   "merchant": "Radio Times",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmkwWlMtbzhIVko1dDNqY2xlS2FIdUNrMVo5TlZUMDFYUmFSallJYWhFY0xZcUlBN3R5UGd5VnlKMmM4d1pBWDJMM256Mm1vTlA5VTZWWlg1d09JVEx3ODFyRnZvNmRKYTNFa3JPZXpsQXBKM0hsV09QS3h6WHk4YnVjelUzZXFpVk5EYTlETQ?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": 60,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-13T08:00:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 70
-  },
-  {
    "id": "todaytix-47549",
    "source": "todaytix",
    "title": "Musicals By Candlelight",
@@ -3188,6 +3214,30 @@
    "score": 70
   },
   {
+   "id": "news-black-friday-theatre-deals-knock-up-to-60-off-major-west-end-shows-including-5-s",
+   "source": "news",
+   "title": "Black Friday theatre deals knock up to 60% off major West End shows – including 5-star favourites from this year",
+   "subtitle": "Radio Times",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Radio Times"
+   ],
+   "merchant": "Radio Times",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUmkwWlMtbzhIVko1dDNqY2xlS2FIdUNrMVo5TlZUMDFYUmFSallJYWhFY0xZcUlBN3R5UGd5VnlKMmM4d1pBWDJMM256Mm1vTlA5VTZWWlg1d09JVEx3ODFyRnZvNmRKYTNFa3JPZXpsQXBKM0hsV09QS3h6WHk4YnVjelUzZXFpVk5EYTlETQ?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": 60,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-13T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 69
+  },
+  {
    "id": "hukd-5019107",
    "source": "hukd",
    "title": "Cinema tickets at Showcase Cinema de Lux Paisley or Coatbridge",
@@ -3306,6 +3356,31 @@
    "expires": "2027-01-03T23:59:00Z",
    "venue": "Queen Elizabeth Hall - Southbank Centre, London",
    "score": 69
+  },
+  {
+   "id": "olt-black-colour-voice-111447857",
+   "source": "olt",
+   "title": "Black Is The Color Of My Voice",
+   "subtitle": "Musical",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save up to 21%",
+    "From £29.50"
+   ],
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/black-colour-voice-111447857/",
+   "image": "https://officiallondontheatre.com/app/uploads/2025/02/BITCOMV_1200x600-1-768x390.jpg",
+   "price": 29.5,
+   "priceText": "from £29.50",
+   "discount": 21,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2027-01-18T23:59:00Z",
+   "venue": "London",
+   "score": 68
   },
   {
    "id": "olt-neighbour-totoro-tickets-111433417",
@@ -3456,30 +3531,6 @@
    "score": 66
   },
   {
-   "id": "hukd-5024934",
-   "source": "hukd",
-   "title": "Gulliver's Theme Park 2027 Family Gift Ticket for Matlock Bath - 2, 3 or 4 people from £22 (MK / Rother Valley / Warrington from £27)",
-   "subtitle": "Wowcher",
-   "category": "comedy",
-   "kind": "deal",
-   "badges": [
-    "396°"
-   ],
-   "merchant": "Wowcher",
-   "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
-   "image": "https://images.hotukdeals.com/threads/raw/5ku2n/5024934_1/re/768x768/qt/60/5024934_1.jpg",
-   "price": 22,
-   "priceText": "£22",
-   "discount": null,
-   "code": "",
-   "heat": 396.3,
-   "rating": null,
-   "published": "2026-11-06T15:49:52Z",
-   "expires": "2026-12-31T23:59:00Z",
-   "venue": "",
-   "score": 65
-  },
-  {
    "id": "todaytix-47999",
    "source": "todaytix",
    "title": "Mr Loverman",
@@ -3502,31 +3553,6 @@
    "expires": "2027-04-24T23:59:00Z",
    "venue": "Lyttelton Theatre, London",
    "score": 65
-  },
-  {
-   "id": "hukd-5044092",
-   "source": "hukd",
-   "title": "20% off Unlimited and Online Gifts with code",
-   "subtitle": "Cineworld",
-   "category": "cinema",
-   "kind": "voucher",
-   "badges": [
-    "255°",
-    "20% off"
-   ],
-   "merchant": "Cineworld",
-   "url": "https://www.hotukdeals.com/vouchers/cineworld-black-friday-20-off-unlimited-5044092",
-   "image": "https://images.hotukdeals.com/threads/raw/ptHlU/5044092_1/re/768x768/qt/60/5044092_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 20,
-   "code": "",
-   "heat": 254.6,
-   "rating": null,
-   "published": "2026-11-23T12:20:44Z",
-   "expires": "2026-11-30T23:59:00Z",
-   "venue": "",
-   "score": 64
   },
   {
    "id": "todaytix-48370",
@@ -3577,6 +3603,30 @@
    "score": 64
   },
   {
+   "id": "hukd-5024934",
+   "source": "hukd",
+   "title": "Gulliver's Theme Park 2027 Family Gift Ticket for Matlock Bath - 2, 3 or 4 people from £22 (MK / Rother Valley / Warrington from £27)",
+   "subtitle": "Wowcher",
+   "category": "comedy",
+   "kind": "deal",
+   "badges": [
+    "396°"
+   ],
+   "merchant": "Wowcher",
+   "url": "https://www.hotukdeals.com/deals/gullivers-theme-park-2027-family-gift-ticket-for-matlock-bath-2-3-or-4-people-from-ps22-mk-rother-valley-warrington-from-ps27-5024934",
+   "image": "https://images.hotukdeals.com/threads/raw/5ku2n/5024934_1/re/768x768/qt/60/5024934_1.jpg",
+   "price": 22,
+   "priceText": "£22",
+   "discount": null,
+   "code": "",
+   "heat": 396.3,
+   "rating": null,
+   "published": "2026-11-06T15:49:52Z",
+   "expires": "2026-12-31T23:59:00Z",
+   "venue": "",
+   "score": 64
+  },
+  {
    "id": "hukd-5034669",
    "source": "hukd",
    "title": "Odeon £100 Gift Card for £75 / £75 for £65 / £50 for £40",
@@ -3599,6 +3649,31 @@
    "expires": "2026-11-30T23:59:00Z",
    "venue": "",
    "score": 64
+  },
+  {
+   "id": "hukd-5044092",
+   "source": "hukd",
+   "title": "20% off Unlimited and Online Gifts with code",
+   "subtitle": "Cineworld",
+   "category": "cinema",
+   "kind": "voucher",
+   "badges": [
+    "255°",
+    "20% off"
+   ],
+   "merchant": "Cineworld",
+   "url": "https://www.hotukdeals.com/vouchers/cineworld-black-friday-20-off-unlimited-5044092",
+   "image": "https://images.hotukdeals.com/threads/raw/ptHlU/5044092_1/re/768x768/qt/60/5044092_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 20,
+   "code": "",
+   "heat": 254.6,
+   "rating": null,
+   "published": "2026-11-23T12:20:44Z",
+   "expires": "2026-11-30T23:59:00Z",
+   "venue": "",
+   "score": 63
   },
   {
    "id": "todaytix-45247",
@@ -3698,30 +3773,6 @@
    "score": 61
   },
   {
-   "id": "hukd-5041626",
-   "source": "hukd",
-   "title": "Black Friday Theatre Sale - Tickets from £15 - e.g. Legally Blonde March 2027 dates",
-   "subtitle": "TodayTix",
-   "category": "theatre",
-   "kind": "deal",
-   "badges": [
-    "41°"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.hotukdeals.com/deals/todaytix-black-friday-theatre-sale-tickets-from-ps15-5041626",
-   "image": "https://images.hotukdeals.com/threads/raw/vVHqr/5041626_1/re/768x768/qt/60/5041626_1.jpg",
-   "price": 15,
-   "priceText": "£15",
-   "discount": null,
-   "code": "",
-   "heat": 41.1,
-   "rating": null,
-   "published": "2026-11-21T10:03:10Z",
-   "expires": null,
-   "venue": "",
-   "score": 60
-  },
-  {
    "id": "olt-now-you-see-me-live-111471661",
    "source": "olt",
    "title": "Now You See Me Live",
@@ -3747,6 +3798,30 @@
    "score": 60
   },
   {
+   "id": "hukd-5041626",
+   "source": "hukd",
+   "title": "Black Friday Theatre Sale - Tickets from £15 - e.g. Legally Blonde March 2027 dates",
+   "subtitle": "TodayTix",
+   "category": "theatre",
+   "kind": "deal",
+   "badges": [
+    "41°"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.hotukdeals.com/deals/todaytix-black-friday-theatre-sale-tickets-from-ps15-5041626",
+   "image": "https://images.hotukdeals.com/threads/raw/vVHqr/5041626_1/re/768x768/qt/60/5041626_1.jpg",
+   "price": 15,
+   "priceText": "£15",
+   "discount": null,
+   "code": "",
+   "heat": 41.1,
+   "rating": null,
+   "published": "2026-11-21T10:03:10Z",
+   "expires": null,
+   "venue": "",
+   "score": 59
+  },
+  {
    "id": "hukd-5043431",
    "source": "hukd",
    "title": "Vue Cinema Giftcards 15% Off - eg £10 Gift Card",
@@ -3754,7 +3829,7 @@
    "category": "cinema",
    "kind": "deal",
    "badges": [
-    "182°",
+    "184°",
     "15% off"
    ],
    "merchant": "Amazon",
@@ -3764,37 +3839,12 @@
    "priceText": "£8.50",
    "discount": 15,
    "code": "",
-   "heat": 181.9,
+   "heat": 183.8,
    "rating": null,
    "published": "2026-11-23T00:26:57Z",
    "expires": "2026-11-30T23:59:00Z",
    "venue": "",
    "score": 59
-  },
-  {
-   "id": "hukd-5047319",
-   "source": "hukd",
-   "title": "Discounted Physical Gift Cards - 15% off Uber Eats & Last Minute, 20% off Odeon & Buyagift etc - eg. Uber £50 Physical Gift Card",
-   "subtitle": "Amazon",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "50°",
-    "15% off"
-   ],
-   "merchant": "Amazon",
-   "url": "https://www.hotukdeals.com/deals/discounted-physical-gift-cards-15-off-uber-eats-last-minute-20-off-odeon-buyagift-etc-5047319",
-   "image": "https://images.hotukdeals.com/threads/raw/jUsYy/5047319_1/re/768x768/qt/60/5047319_1.jpg",
-   "price": 42.5,
-   "priceText": "£42.50",
-   "discount": 15,
-   "code": "",
-   "heat": 49.7,
-   "rating": null,
-   "published": "2026-11-25T23:44:11Z",
-   "expires": "2026-11-30T23:59:00Z",
-   "venue": "",
-   "score": 56
   },
   {
    "id": "hukd-4973296",
@@ -3820,6 +3870,54 @@
    "expires": null,
    "venue": "",
    "score": 56
+  },
+  {
+   "id": "news-phoebe-bridgers-edinburgh-summer-sessions-presale-how-to-bag-tickets-for-star-s-",
+   "source": "news",
+   "title": "Phoebe Bridgers Edinburgh Summer Sessions Presale: How to bag tickets for star’s Royal Highland Showground gig",
+   "subtitle": "The Scotsman",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "The Scotsman"
+   ],
+   "merchant": "The Scotsman",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWQwQlNHQU5JbEIzUXdSb1FjWkRINkxzS2hIcjU4TFlrbEV0VjQ1ZXpKZVVhSlMwd2dDRnJGaWlzUi1LTGJBYjMwN1BiRVg0cEpwR1NxSjBLbzZhSDFMY0x6NjZKNnNWa19kN1lrTHJXUW9Yb3ByblJ4eHVRSkVDclZQQWRPYmRZZHU0THRUMjRubHREcVZIdkwta3ktR1huZFYtTzNvU3Nlb1poeUVyRXZIZHJQajkzdFFocWhiQ1dIcEdhckZuRUpGaw?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-26T11:08:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 49
+  },
+  {
+   "id": "news-eight-ways-to-save-money-on-christmas-theatre-tickets-including-1-best-day-to-go",
+   "source": "news",
+   "title": "Eight ways to save money on Christmas theatre tickets - including 1 best day to go",
+   "subtitle": "Daily Express",
+   "category": "cinema",
+   "kind": "news",
+   "badges": [
+    "Daily Express"
+   ],
+   "merchant": "Daily Express",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWVIZmcwMUFXTDZuUklMSFNERHEySWI0QWp3cEFDQ0JKbGNidFJ3MXNmc0NmTXlGWTFnV1pDaFI5NjhHVEFYdzEzZHdsWFFUdHdGN0xGcFhnZmUxc045Z1hWTk0wN2JaSF9ranBtZFdITDZpcXlvUFp6ZkJ6aHh6X1YydkdDeFY3Uks5YVhSVHduck9KTjRJZjNCaG5WN0hLUU5zVU5ubkE?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-15T08:00:00Z",
+   "expires": null,
+   "venue": "",
+   "score": 47
   },
   {
    "id": "news-private-medical-insurance-perks-what-s-on-offer-and-are-they-worth-it",
