@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generatedAt": "2026-11-28T08:03:10Z",
+ "generatedAt": "2026-11-28T17:38:43Z",
  "sources": [
   {
    "id": "olt",
@@ -8,7 +8,7 @@
    "url": "https://officiallondontheatre.com/offers/",
    "about": "The official site of the Society of London Theatre — West End discounts published by the theatres themselves.",
    "ok": true,
-   "count": 38,
+   "count": 39,
    "errors": []
   },
   {
@@ -17,7 +17,7 @@
    "url": "https://www.todaytix.com/london",
    "about": "A major official ticket seller — discounts, daily £ Rush seats, Lottery tickets and no-fee offers.",
    "ok": true,
-   "count": 95,
+   "count": 94,
    "errors": []
   },
   {
@@ -70,7 +70,7 @@
    "category": "cinema",
    "kind": "free",
    "badges": [
-    "1969°",
+    "1976°",
     "FREE"
    ],
    "merchant": "Tesco",
@@ -80,7 +80,7 @@
    "priceText": "FREE",
    "discount": null,
    "code": "",
-   "heat": 1968.7,
+   "heat": 1976.0,
    "rating": null,
    "published": "2026-11-24T17:33:53Z",
    "expires": null,
@@ -777,31 +777,6 @@
    "score": 82
   },
   {
-   "id": "hukd-5028472",
-   "source": "hukd",
-   "title": "Meerkat Movies – 2 for 1 Cinema Tickets Every Tuesday or Wednesday (No Purchase Required / via App)",
-   "subtitle": "Compare The Market",
-   "category": "cinema",
-   "kind": "deal",
-   "badges": [
-    "624°",
-    "50% off"
-   ],
-   "merchant": "Compare The Market",
-   "url": "https://www.hotukdeals.com/deals/meerkat-movies-2-for-1-cinema-tickets-every-tuesday-or-wednesday-no-purchase-required-via-app-5028472",
-   "image": "https://images.hotukdeals.com/threads/raw/aiYzo/5028472_1/re/768x768/qt/60/5028472_1.jpg",
-   "price": null,
-   "priceText": "",
-   "discount": 50,
-   "code": "",
-   "heat": 624.5,
-   "rating": null,
-   "published": "2026-11-10T15:59:41Z",
-   "expires": "2027-07-19T22:59:00Z",
-   "venue": "",
-   "score": 82
-  },
-  {
    "id": "todaytix-48221",
    "source": "todaytix",
    "title": "dissent",
@@ -925,6 +900,31 @@
    "score": 81
   },
   {
+   "id": "hukd-5028472",
+   "source": "hukd",
+   "title": "Meerkat Movies – 2 for 1 Cinema Tickets Every Tuesday or Wednesday (No Purchase Required / via App)",
+   "subtitle": "Compare The Market",
+   "category": "cinema",
+   "kind": "deal",
+   "badges": [
+    "624°",
+    "50% off"
+   ],
+   "merchant": "Compare The Market",
+   "url": "https://www.hotukdeals.com/deals/meerkat-movies-2-for-1-cinema-tickets-every-tuesday-or-wednesday-no-purchase-required-via-app-5028472",
+   "image": "https://images.hotukdeals.com/threads/raw/aiYzo/5028472_1/re/768x768/qt/60/5028472_1.jpg",
+   "price": null,
+   "priceText": "",
+   "discount": 50,
+   "code": "",
+   "heat": 624.5,
+   "rating": null,
+   "published": "2026-11-10T15:59:41Z",
+   "expires": "2027-07-19T22:59:00Z",
+   "venue": "",
+   "score": 81
+  },
+  {
    "id": "todaytix-47170",
    "source": "todaytix",
    "title": "Scrooge: Cirque Extravaganza",
@@ -994,7 +994,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-12-04T23:59:00Z",
+   "expires": "2026-12-05T23:59:00Z",
    "venue": "London",
    "score": 80
   },
@@ -1893,7 +1893,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-29T23:59:00Z",
+   "expires": "2026-12-06T23:59:00Z",
    "venue": "London",
    "score": 76
   },
@@ -2497,7 +2497,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-12-03T23:59:00Z",
+   "expires": "2026-12-05T23:59:00Z",
    "venue": "London",
    "score": 74
   },
@@ -2526,27 +2526,28 @@
    "score": 73
   },
   {
-   "id": "todaytix-47409",
-   "source": "todaytix",
-   "title": "Garry Starr Classic Penguins",
-   "subtitle": "The Other Palace - Main Theatre",
+   "id": "olt-jesus-christ-superstar-111470377",
+   "source": "olt",
+   "title": "Jesus Christ Superstar",
+   "subtitle": "Musical",
    "category": "theatre",
    "kind": "offer",
    "badges": [
-    "Save 36%"
+    "Special offer",
+    "From £28"
    ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47409-garry-starr-classic-penguins",
-   "image": "https://images.ctfassets.net/6pezt69ih962/1xsbTpEnPGxJ1YTUyhIU0l/2907714bb8a809e2ca24326cbef04598/GSC26_FMP26_TTG_1080x1080.png?w=400&h=400&fit=fill",
-   "price": 23.0,
-   "priceText": "from £23",
-   "discount": 36,
+   "merchant": "Official London Theatre",
+   "url": "https://officiallondontheatre.com/show/jesus-christ-superstar-111470377/",
+   "image": "https://officiallondontheatre.com/app/uploads/2026/03/8490_82_JCS_OLT_1200x600-768x384.jpg",
+   "price": 28.0,
+   "priceText": "from £28",
+   "discount": null,
    "code": "",
    "heat": null,
    "rating": null,
    "published": null,
    "expires": null,
-   "venue": "The Other Palace - Main Theatre, London",
+   "venue": "London",
    "score": 73
   },
   {
@@ -2707,13 +2708,13 @@
    "kind": "offer",
    "badges": [
     "Special offer",
-    "From £28"
+    "From £18"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/the-mousetrap-92715/",
    "image": "https://officiallondontheatre.com/app/uploads/2008/04/MT-SEPT26-SOLT-1200x600px-copy-768x384.jpg",
-   "price": 28.0,
-   "priceText": "from £28",
+   "price": 18.0,
+   "priceText": "from £18",
    "discount": null,
    "code": "",
    "heat": null,
@@ -2747,31 +2748,6 @@
    "expires": null,
    "venue": "London",
    "score": 73
-  },
-  {
-   "id": "todaytix-47279",
-   "source": "todaytix",
-   "title": "Affluenza",
-   "subtitle": "Riverside Studios",
-   "category": "theatre",
-   "kind": "offer",
-   "badges": [
-    "Save 34%",
-    "£30 Rush tickets"
-   ],
-   "merchant": "TodayTix",
-   "url": "https://www.todaytix.com/london/shows/47279-affluenza",
-   "image": "https://images.ctfassets.net/6pezt69ih962/43XyAm7cwUhnqz8VosoaXw/143849815b8c4b6035115d50175b31d5/1080x1080_V1.jpg?w=400&h=400&fit=fill",
-   "price": 25.0,
-   "priceText": "from £25",
-   "discount": 34,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": null,
-   "expires": "2026-11-28T23:59:00Z",
-   "venue": "Riverside Studios, London",
-   "score": 72
   },
   {
    "id": "todaytix-47136",
@@ -2904,13 +2880,13 @@
    "kind": "offer",
    "badges": [
     "Save up to 29%",
-    "From £32.27"
+    "From £37.15"
    ],
    "merchant": "Official London Theatre",
    "url": "https://officiallondontheatre.com/show/stranger-things-first-shadow-111441218/",
    "image": "https://officiallondontheatre.com/app/uploads/2023/06/PRJONE25_Q4_021_Ticket-agent-buttons-SOLT-1200x600_AW-768x384.jpg",
-   "price": 32.27,
-   "priceText": "from £32.27",
+   "price": 37.15,
+   "priceText": "from £37.15",
    "discount": 29,
    "code": "",
    "heat": null,
@@ -2934,8 +2910,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/29263-stranger-things-the-first-shadow",
    "image": "https://images.ctfassets.net/6pezt69ih962/5v27KBqrCj9XpNtrn7Y2k2/5dfec6890a9fd17f760dbf57f7e0cf85/PRJONE25_Q4_021_TTG_Minimum_1080x1080_AW__2_.jpg?w=400&h=400&fit=fill",
-   "price": 33.0,
-   "priceText": "from £33",
+   "price": 38.0,
+   "priceText": "from £38",
    "discount": 35,
    "code": "",
    "heat": null,
@@ -3497,7 +3473,7 @@
    "heat": null,
    "rating": null,
    "published": null,
-   "expires": "2026-11-29T23:59:00Z",
+   "expires": "2026-12-03T23:59:00Z",
    "venue": "London",
    "score": 66
   },
@@ -3527,6 +3503,31 @@
    "score": 66
   },
   {
+   "id": "todaytix-47279",
+   "source": "todaytix",
+   "title": "Affluenza",
+   "subtitle": "Riverside Studios",
+   "category": "theatre",
+   "kind": "offer",
+   "badges": [
+    "Save 23%",
+    "£30 Rush tickets"
+   ],
+   "merchant": "TodayTix",
+   "url": "https://www.todaytix.com/london/shows/47279-affluenza",
+   "image": "https://images.ctfassets.net/6pezt69ih962/43XyAm7cwUhnqz8VosoaXw/143849815b8c4b6035115d50175b31d5/1080x1080_V1.jpg?w=400&h=400&fit=fill",
+   "price": 25.0,
+   "priceText": "from £25",
+   "discount": 23,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": null,
+   "expires": "2026-11-28T23:59:00Z",
+   "venue": "Riverside Studios, London",
+   "score": 65
+  },
+  {
    "id": "todaytix-47999",
    "source": "todaytix",
    "title": "Mr Loverman",
@@ -3539,8 +3540,8 @@
    "merchant": "TodayTix",
    "url": "https://www.todaytix.com/london/shows/47999-mr-loverman",
    "image": "https://images.ctfassets.net/6pezt69ih962/7A7Re4W2MWGWTiCBM3ycRL/529ab113489e716bdfd85d7799c7147f/NTCS_BB_MrLoverman_TodayTix_OnSale_Rollout_1080_x_1080_1080_x_1080.jpg?w=400&h=400&fit=fill",
-   "price": 23.0,
-   "priceText": "from £23",
+   "price": 28.0,
+   "priceText": "from £28",
    "discount": 22,
    "code": "",
    "heat": null,
@@ -3868,30 +3869,6 @@
    "score": 56
   },
   {
-   "id": "news-phoebe-bridgers-edinburgh-summer-sessions-presale-how-to-bag-tickets-for-star-s-",
-   "source": "news",
-   "title": "Phoebe Bridgers Edinburgh Summer Sessions Presale: How to bag tickets for star’s Royal Highland Showground gig",
-   "subtitle": "The Scotsman",
-   "category": "music",
-   "kind": "news",
-   "badges": [
-    "The Scotsman"
-   ],
-   "merchant": "The Scotsman",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWQwQlNHQU5JbEIzUXdSb1FjWkRINkxzS2hIcjU4TFlrbEV0VjQ1ZXpKZVVhSlMwd2dDRnJGaWlzUi1LTGJBYjMwN1BiRVg0cEpwR1NxSjBLbzZhSDFMY0x6NjZKNnNWa19kN1lrTHJXUW9Yb3ByblJ4eHVRSkVDclZQQWRPYmRZZHU0THRUMjRubHREcVZIdkwta3ktR1huZFYtTzNvU3Nlb1poeUVyRXZIZHJQajkzdFFocWhiQ1dIcEdhckZuRUpGaw?oc=5",
-   "image": "",
-   "price": null,
-   "priceText": "",
-   "discount": null,
-   "code": "",
-   "heat": null,
-   "rating": null,
-   "published": "2026-11-26T11:08:00Z",
-   "expires": null,
-   "venue": "",
-   "score": 49
-  },
-  {
    "id": "news-how-to-get-kanye-west-tickets-in-abu-dhabi-eight-tips-before-friday-s-presale",
    "source": "news",
    "title": "How to get Kanye West tickets in Abu Dhabi: Eight tips before Friday's presale",
@@ -3911,6 +3888,30 @@
    "heat": null,
    "rating": null,
    "published": "2026-11-26T03:15:05Z",
+   "expires": null,
+   "venue": "",
+   "score": 48
+  },
+  {
+   "id": "news-phoebe-bridgers-edinburgh-summer-sessions-presale-how-to-bag-tickets-for-star-s-",
+   "source": "news",
+   "title": "Phoebe Bridgers Edinburgh Summer Sessions Presale: How to bag tickets for star’s Royal Highland Showground gig",
+   "subtitle": "The Scotsman",
+   "category": "music",
+   "kind": "news",
+   "badges": [
+    "The Scotsman"
+   ],
+   "merchant": "The Scotsman",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaWQwQlNHQU5JbEIzUXdSb1FjWkRINkxzS2hIcjU4TFlrbEV0VjQ1ZXpKZVVhSlMwd2dDRnJGaWlzUi1LTGJBYjMwN1BiRVg0cEpwR1NxSjBLbzZhSDFMY0x6NjZKNnNWa19kN1lrTHJXUW9Yb3ByblJ4eHVRSkVDclZQQWRPYmRZZHU0THRUMjRubHREcVZIdkwta3ktR1huZFYtTzNvU3Nlb1poeUVyRXZIZHJQajkzdFFocWhiQ1dIcEdhckZuRUpGaw?oc=5",
+   "image": "",
+   "price": null,
+   "priceText": "",
+   "discount": null,
+   "code": "",
+   "heat": null,
+   "rating": null,
+   "published": "2026-11-26T11:08:00Z",
    "expires": null,
    "venue": "",
    "score": 48
